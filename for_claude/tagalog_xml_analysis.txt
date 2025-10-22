@@ -1,0 +1,47 @@
+================================================================================
+タガログ語XMLファイルの分析
+================================================================================
+
+ルート要素: {urn:schemas-microsoft-com:office:spreadsheet}Workbook
+ルート属性: {}
+
+【ルート直下の子要素】
+0: タグ={urn:schemas-microsoft-com:office:office}DocumentProperties, 属性={}, テキスト=None...
+1: タグ={urn:schemas-microsoft-com:office:excel}ExcelWorkbook, 属性={}, テキスト=None...
+2: タグ={urn:schemas-microsoft-com:office:spreadsheet}Styles, 属性={}, テキスト=None...
+3: タグ={urn:schemas-microsoft-com:office:spreadsheet}Worksheet, 属性={'{urn:schemas-microsoft-com:office:spreadsheet}Name': 'Table 1'}, テキスト=None...
+
+【最初の要素の詳細構造】
+<{urn:schemas-microsoft-com:office:office}DocumentProperties> {} = 
+  <{urn:schemas-microsoft-com:office:office}Creator> {} = 000467 大平 彩也香
+
+【データ構造の推測】
+================================================================================
+【統計情報】
+総要素数: 12044
+
+ユニークなタグ数: 20
+
+タグの出現回数:
+  {urn:schemas-microsoft-com:office:spreadsheet}Cell: 4142回
+  {urn:schemas-microsoft-com:office:spreadsheet}Data: 2947回
+  {http://www.w3.org/TR/REC-html40}Font: 2942回
+  {urn:schemas-microsoft-com:office:spreadsheet}Row: 689回
+  {http://www.w3.org/TR/REC-html40}B: 648回
+  {urn:schemas-microsoft-com:office:spreadsheet}Border: 292回
+  {urn:schemas-microsoft-com:office:spreadsheet}Style: 86回
+  {urn:schemas-microsoft-com:office:spreadsheet}Alignment: 86回
+  {urn:schemas-microsoft-com:office:spreadsheet}Borders: 83回
+  {urn:schemas-microsoft-com:office:spreadsheet}Font: 53回
+  {urn:schemas-microsoft-com:office:spreadsheet}Column: 33回
+  {urn:schemas-microsoft-com:office:spreadsheet}Interior: 28回
+  {urn:schemas-microsoft-com:office:spreadsheet}NumberFormat: 8回
+  {urn:schemas-microsoft-com:office:spreadsheet}Workbook: 1回
+  {urn:schemas-microsoft-com:office:office}DocumentProperties: 1回
+  {urn:schemas-microsoft-com:office:office}Creator: 1回
+  {urn:schemas-microsoft-com:office:excel}ExcelWorkbook: 1回
+  {urn:schemas-microsoft-com:office:spreadsheet}Styles: 1回
+  {urn:schemas-microsoft-com:office:spreadsheet}Worksheet: 1回
+  {urn:schemas-microsoft-com:office:spreadsheet}Table: 1回
+
+================================================================================

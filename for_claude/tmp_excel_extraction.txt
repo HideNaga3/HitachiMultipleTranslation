@@ -1,0 +1,116 @@
+================================================================================
+tmpフォルダ内の全Excelファイルからのデータ抽出
+================================================================================
+
+処理対象: 4ファイル
+
+================================================================================
+処理中: 【全課統合版】インドネシア語_げんばのことば_建設関連職種.xlsx
+================================================================================
+言語: インドネシア語
+元の行数: 692
+元の列数: 30
+
+ヘッダー行: 行2
+ヘッダー: ['No.', 'Kosakata', 'Cara membaca (Hiragana)', nan, nan, 'Terjemahan', nan, nan, nan, nan]
+
+抽出後の行数: 512
+
+翻訳列の候補: ['Terjemahan']
+  'Terjemahan': 414行 (80.9%)
+
+サンプルデータ（最初の3行）:
+No. Kosakata Cara membaca (Hiragana) NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN             Terjemahan NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN
+  1     技能実習                ぎのうじっしゅう                                                                                                                                                                                                 Pelatihan Kerja Teknis                                                                                                                                                                                                
+  2    技能実習生              ぎのうじっしゅうせい                                                                                                                                                                                                  Pemagang Kerja Teknis                                                                                                                                                                                                
+  3       工場                   こうじょう                                                                                                                                                                                                                 Pabrik                                                                                                                                                                                                
+
+保存完了: 【全課統合版】インドネシア語_げんばのことば_建設関連職種_from_tmp_excel.csv
+  行数: 512
+  列数: 30
+
+================================================================================
+処理中: 【全課統合版】カンボジア語_げんばのことば_建設関連職種.xlsx
+================================================================================
+言語: カンボジア語
+元の行数: 602
+元の列数: 43
+
+ヘッダー行: 行2
+ヘッダー: ['No.', nan, 'វាក្យសព្ទ', nan, np.float64(nan), nan, np.float64(nan), np.float64(nan), nan, ' មបៀបអាន']
+
+抽出後の行数: 512
+
+警告: 翻訳列が見つかりません
+
+サンプルデータ（最初の3行）:
+No. NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN វាក្យសព្ទ NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN
+  1                                                                                                                                                          技能実習                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+  2                                                                                                                                                         技能実習生                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+  3                                                                                                                                                            工場                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+保存完了: 【全課統合版】カンボジア語_げんばのことば_建設関連職種_from_tmp_excel.csv
+  行数: 512
+  列数: 43
+
+================================================================================
+処理中: 【全課統合版】タイ語_げんばのことば_建設関連職種.xlsx
+================================================================================
+言語: タイ語
+元の行数: 599
+元の列数: 35
+
+ヘッダー行: 行2
+ヘッダー: ['No.', nan, 'ศัพท์', nan, np.float64(nan), nan, 'อ่านว่า', nan, nan, 'ค าแปล']
+
+抽出後の行数: 512
+
+翻訳列の候補: ['ค าแปล']
+  'ค าแปล': 429行 (83.8%)
+
+サンプルデータ（最初の3行）:
+No. NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN ศัพท์ NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN    อ่านว่า NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN
+  1                                                                                                                      技能実習                                                                                                                                                                                                                                                                                                                                                               ぎのうじっしゅう                                                                                                                    
+  2                                                                                                                     技能実習生                                                                                                                                                                                                                                                                                                                                                             ぎのうじっしゅうせい                                                                                                                    
+  3                                                                                                                        工場                                                                                                                                                                                                                                                                                                                                                                  こうじょう                                                                                                                    
+
+保存完了: 【全課統合版】タイ語_げんばのことば_建設関連職種_from_tmp_excel.csv
+  行数: 512
+  列数: 35
+
+================================================================================
+処理中: 【全課統合版】タガログ語_げんばのことば_建設関連職種.xlsx
+================================================================================
+言語: タガログ語
+元の行数: 690
+元の列数: 30
+
+ヘッダー行: 行2
+ヘッダー: ['No.', 'Talasalitaan', 'Paano Magbasa', nan, 'Pagsasalin', nan, nan, nan, 'Annotasyon', nan]
+
+抽出後の行数: 512
+
+翻訳列の候補: ['Pagsasalin']
+  'Pagsasalin': 454行 (88.7%)
+
+サンプルデータ（最初の3行）:
+No. Talasalitaan Paano Magbasa NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN                Pagsasalin NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN
+  1         技能実習      ぎのうじっしゅう                                                                                                 Technical Intern Training                                                                                                                                                                                                                                                                                                
+  2        技能実習生    ぎのうじっしゅうせい                                                                                                  Technical Intern Trainee                                                                                                                                                                                                                                                                                                
+  3           工場         こうじょう                                                                                                                   Pabrika                                                                                                                                                                                                                                                                                                
+
+保存完了: 【全課統合版】タガログ語_げんばのことば_建設関連職種_from_tmp_excel.csv
+  行数: 512
+  列数: 30
+
+
+================================================================================
+【抽出結果サマリー】
+================================================================================
+インドネシア語: 512行、30列 → 【全課統合版】インドネシア語_げんばのことば_建設関連職種_from_tmp_excel.csv
+カンボジア語: 512行、43列 → 【全課統合版】カンボジア語_げんばのことば_建設関連職種_from_tmp_excel.csv
+タイ語: 512行、35列 → 【全課統合版】タイ語_げんばのことば_建設関連職種_from_tmp_excel.csv
+タガログ語: 512行、30列 → 【全課統合版】タガログ語_げんばのことば_建設関連職種_from_tmp_excel.csv
+
+総計: 4言語を抽出
+================================================================================

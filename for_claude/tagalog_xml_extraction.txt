@@ -1,0 +1,47 @@
+================================================================================
+タガログ語XMLファイルからのデータ抽出
+================================================================================
+
+Worksheetが見つかりました
+
+総Row数: 689
+
+Row 0: ['だ い       か       き     そ\n第1課基礎30']
+Row 1: ['Aralin1  Pangunahing30']
+Row 2: ['No.', 'Talasalitaan', 'Paano Magbasa', 'Pagsasalin', 'Annotasyon', 'Halimbawa']
+Row 3: ['1', '技能実習', 'ぎのうじっしゅう', 'Technical Intern Training', '', '', '']
+Row 4: ['2', '技能実習生', 'ぎのうじっしゅうせい', 'Technical Intern Trainee', '', '', '']
+
+抽出した総行数: 689
+
+ヘッダー行を発見: Row 2
+ヘッダー: ['No.', 'Talasalitaan', 'Paano Magbasa', 'Pagsasalin', 'Annotasyon', 'Halimbawa']
+
+データ行数（ヘッダー除外後）: 680
+
+最大列数: 8
+
+DataFrame作成完了
+行数: 680
+列数: 8
+
+列名:
+  0: 'No.'
+  1: 'Talasalitaan'
+  2: 'Paano Magbasa'
+  3: 'Pagsasalin'
+  4: 'Annotasyon'
+  5: 'Halimbawa'
+  6: ''
+  7: ''
+
+データサンプル（最初の5行）:
+No. Talasalitaan Paano Magbasa                Pagsasalin Annotasyon Halimbawa  
+  1         技能実習      ぎのうじっしゅう Technical Intern Training                       
+  2        技能実習生    ぎのうじっしゅうせい  Technical Intern Trainee                       
+  3           工場         こうじょう                   Pabrika                       
+  4           製造          せいぞう               Produksiyon                       
+  5           機械           きかい                    Makina                       
+
+保存完了: output/【全課統合版】タガログ語_げんばのことば_建設関連職種_from_xml.csv
+================================================================================

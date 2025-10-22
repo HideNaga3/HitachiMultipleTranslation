@@ -1,0 +1,517 @@
+﻿言語,Page,番号,単語,翻訳
+英語,1,1,技能実習,Technical intern training
+英語,1,2,技能実習生,Technical intern trainee
+英語,1,3,工場,Factory; plant
+英語,1,4,製造,Manufacturing
+英語,1,5,機械,Machine; machinery
+英語,1,6,安全,Safety
+英語,1,7,危険（な）,Danger (dangerous)
+英語,1,8,危ない,Dangerous
+英語,1,9,清掃,Seisou (Shine)
+英語,1,10,非常口,Emergency exit
+英語,1,11,注意,Attention
+英語,1,12,火事,Fire
+英語,1,13,事故,Accident
+英語,1,14,服装,Clothes
+英語,1,15,安全装置,Safety equipment
+英語,2,1,安全カバー,Safety cover; protection cover
+英語,2,2,けが,Injury
+英語,2,3,けがをする,To get injured
+英語,2,4,電源,Power supply
+英語,2,5,電源を切る,To turn off power
+英語,2,6,非常停止ボタン,Emergency stop button
+英語,2,7,非常停止ボタンを押す,To push an emergency stop button
+英語,2,8,ルール,Rule
+英語,2,9,ルールを守る,To comply with rules
+英語,2,10,止める,To stop
+英語,2,11,機械を止める,To stop a machine
+英語,2,12,やって,Do (something).
+英語,2,13,止めて,Stop (something).
+英語,2,14,取って,Take; pick up; pass (something).
+英語,2,15,だめ（な）,No. ; No good (bad; wrong)
+英語,3,1,監理団体,Supervising organization
+英語,3,2,技術移転,Technology transfer
+英語,3,3,技能実習期間,Technical intern training period
+英語,3,4,職種,Job type
+英語,3,5,在留資格,Status of residence
+英語,3,6,パスポート,Passport
+英語,3,7,在留カード,Residence card
+英語,3,8,入管,Immigration
+英語,3,9,在留期間,Period of stay
+英語,3,10,雇用契約,Employment contract
+英語,3,11,給与明細,Pay slip
+英語,3,12,給料,Salary
+英語,3,13,残業手当,Overtime allowance
+英語,3,14,労働時間,Working hours
+英語,4,1,控除（する）,Deduction (to deduct)
+英語,4,2,ボーナス,Bonus
+英語,4,3,有休,Paid holiday
+英語,4,4,代休,Compensatory day off
+英語,4,5,労働基準法,Labor Standards Act
+英語,4,6,労働条件,Working conditions
+英語,4,7,税金,Tax
+英語,4,8,所得税,Income tax
+英語,4,9,住民税,Resident tax
+英語,4,10,厚生年金,Welfare pension
+英語,4,11,雇用保険,Employment insurance
+英語,4,12,健康保険,Health insurance
+英語,5,13,社会保険,Social insurance
+英語,5,14,労災,Industrial accident
+英語,5,15,労災保険,Industrial accident compensation insurance
+英語,6,1,遅刻（する）,Late arrival (be late)
+英語,6,2,早退（する）,Leaving early (to leave early)
+英語,6,3,休憩（する）,Break (to take a break)
+英語,6,4,残業（する）,Overtime work (to work overtime)
+英語,6,5,定時,Regular hours
+英語,6,6,規則,Regulation; rule
+英語,6,7,休日,Non-working day
+英語,6,8,始業時間,Starting time of work
+英語,6,9,終業時間,Ending time of work
+英語,6,10,指導員,Instructor
+英語,6,11,生活指導員,Life advisor
+英語,6,12,担当者,Person in charge
+英語,6,13,スイッチ入れるな,Do not switch on.
+英語,6,14,スイッチ切るな,Do not switch off.
+英語,6,15,使用禁止,Do not use.
+英語,7,1,5S,5S
+英語,7,2,整理,Seiri (Sorting)
+英語,7,3,整頓,Seiton (Set in order)
+英語,7,4,清掃,Seisou (Shine)
+英語,7,5,清潔,Seiketsu (standardize)
+英語,7,6,しつけ,Shitsuke (Sustain)
+英語,7,7,掃除（する）,Cleaning (to clean)
+英語,8,8,片づける,To tidy up
+英語,8,9,捨てる,To throw away
+英語,8,10,汚い,Dirty
+英語,8,11,汚れる,To get dirty
+英語,8,12,分別（する）,To sort waste
+英語,8,13,燃えないごみ,Nonburnable waste
+英語,8,14,燃えるごみ,Burnable waste
+英語,8,15,挟まれる,To get sandwiched in between
+英語,8,16,巻き込まれる,To get caught in
+英語,8,17,やけど（する）,Burn (to get burned)
+英語,8,18,落ちる,To fall
+英語,8,19,すべる,To slip
+英語,9,20,転ぶ,To fall; stumble
+英語,9,21,濡れる,To get wet
+英語,9,22,衛生,Sanitation
+英語,9,23,避難（する）,Evacuation (to evacuate)
+英語,9,24,救急車,Ambulance
+英語,9,25,災害,Disaster
+英語,9,26,地震,Earthquake
+英語,9,27,もぐる,To hide; dive
+英語,10,1,火気厳禁,No fire
+英語,10,2,開放厳禁,Keep closed.
+英語,10,3,標識,Sign
+英語,10,4,気をつける,To pay attention
+英語,10,5,持ち込む,To bring in
+英語,10,6,防ぐ,To prevent
+英語,10,7,火,Fire
+英語,10,8,煙,Smoke
+英語,10,9,消火,Fire extinguishing
+英語,10,10,消火器,Fire extinguisher
+英語,10,11,非常ベル,Emergency alarm
+英語,10,12,火災報知機,Fire alarm
+英語,10,13,逃げる,To escape
+英語,10,14,現場,Site; shop floor
+英語,10,15,作業,Work
+英語,10,16,ミーティング,Meeting
+英語,10,17,研修（する）,Training (to train/be trained)
+英語,11,18,実習（する）,Practical training (to give/receive practical training)
+英語,11,19,あいさつ,Greeting
+英語,11,20,確認（する）,Check (to check)
+英語,11,21,報告（する）,Report (to report)
+英語,11,22,連絡（する）,Communication (to communicate)
+英語,11,23,相談（する）,Consultation (to consult)
+英語,11,24,渡す,To hand over
+英語,11,25,申請書,Application
+英語,11,26,寝坊（する）,Oversleeping (to oversleep)
+英語,12,1,技能,Skills
+英語,12,2,技能検定試験,Skill proficiency test
+英語,12,3,受検（する）,Exam (Take an Exam)
+英語,12,4,資格,Qualifications
+英語,12,5,手当,Allowance
+英語,12,6,社員,Employee
+英語,12,7,部長,Department manager
+英語,12,8,課長,Section manager
+英語,12,9,更衣室,Dressing room
+英語,12,10,台車,Cart
+英語,12,11,床,Floor
+英語,12,12,出口,Exit
+英語,12,13,電気,Electricity
+英語,12,14,警報音,Alarm sound
+英語,12,15,コンセント,Electric outlet
+英語,12,16,作業場,Workshop
+英語,12,17,作業台,Workbench
+英語,12,18,工事現場,Construction site
+英語,12,19,職長,Foreman
+英語,12,20,作業責任者,Work supervisor
+英語,13,1,禁止,Prohibition
+英語,13,2,表示板,Display board
+英語,13,3,禁止事項,Prohibited items
+英語,13,4,避難訓練,Evacuation drill
+英語,13,5,感電（する）,Electric shock (Get an electric shock)
+英語,13,6,防止（する）,Prevention (Prevent)
+英語,13,7,予防（する）,Precaution (Take precautions)
+英語,13,8,転倒（する）,Falling (Fall)
+英語,13,9,挟まる,Get caught
+英語,13,10,足元,Footsteps
+英語,13,11,不安定（な）,Instability (Unstable)
+英語,13,12,後片付け,Cleanup
+英語,13,13,救急箱,First aid kit
+英語,13,14,絆創膏,Adhesive plaster
+英語,13,15,体調,Physical condition
+英語,13,16,血,Blood
+英語,13,17,熱中症,Heatstroke
+英語,13,18,吐き気,Nausea
+英語,13,19,嘔吐（する）,Vomiting (Vomit)
+英語,13,20,足がつる,Have a leg cramp
+英語,13,21,気分が悪い,Feel sick
+英語,13,22,寝不足,Lack of sleep
+英語,13,23,安全ネット,Safety net
+英語,13,24,安全点検,Safety inspection
+英語,14,1,KY活動（危険予知活動）,KY Activities (Hazard prediction activities)
+英語,14,2,危険,Hazard
+英語,14,3,ぶつかる,Bump into
+英語,14,4,当たる,Hit
+英語,14,5,下敷きになる,Become trapped under
+英語,14,6,打つ,Strike
+英語,14,7,バランスを崩す,Lost one's balance
+英語,14,8,倒れる,Collapse
+英語,14,9,転落（する）,Falling off ( Fall off)
+英語,14,10,指差呼称,Pointing and calling
+英語,14,11,ヒヤリハット,"""Hiyari-Hatto"" (Near-miss incident)"
+英語,14,12,原因,Cause
+英語,14,13,対策,Countermeasure
+英語,14,14,落下（する）,Falling (Fall)
+英語,14,15,墜落（する）,Falling down (Fall down)
+英語,14,16,確認（する）,Check (Check)
+英語,15,1,作業着,Work clothes
+英語,15,,,
+英語,15,2,作業服,Work uniform
+英語,15,3,作業靴,Work shoes
+英語,15,4,手袋,Gloves
+英語,15,,,
+英語,15,5,帽子,Cap
+英語,15,6,保護帽（ヘルメット）,Safety helmet (Helmet)
+英語,15,7,保護具,Protective equipment
+英語,15,,,
+英語,15,8,あごひも,Chin strap
+英語,15,9,ボタン,Button
+英語,15,10,ポケット,Pocket
+英語,15,,,
+英語,15,11,保護メガネ,Safety glasses
+英語,15,12,マスク,Mask
+英語,15,13,耳栓,Earplugs
+英語,15,14,安全靴,Safety shoes
+英語,15,15,墜落制止用器具（安全 帯）,Fall protection equipment (Safety belt)
+英語,16,16,業務,Work
+英語,16,17,時間厳守,Punctuality
+英語,16,18,予定,Schedule
+英語,16,19,日付,Date
+英語,16,20,準備（する）,Preparation (Prepare)
+英語,16,21,会議,Meeting
+英語,16,22,朝礼,Morning meeting
+英語,16,23,報告書,Report
+英語,16,24,マニュアル,Manual
+英語,16,25,作業手順書,Operating procedures
+英語,16,26,調子,Condition
+英語,17,1,立入禁止,DO NOT ENTER
+英語,17,2,禁煙,NO SMOKING
+英語,17,3,火気厳禁,NO OPEN FLAMES
+英語,17,4,駐車禁止,NO PARKING
+英語,17,5,足もと注意,WATCH YOUR STEP
+英語,17,6,開口部注意,DANGER OPEN HOLE
+英語,17,7,感電注意,DANGER ELECTRIC SHOCK RISK
+英語,17,8,堕落注意,DANGER FALL HAZARD(cid:9)
+英語,17,9,頭上注意,WATCH YOUR HEAD
+英語,17,10,警報設備,ALARM SYSTEM
+英語,18,11,消火器,FIRE EXTINGUISHER
+英語,18,12,AED設置場所,AED INSIDE
+英語,18,13,保護帽着用,WEAR SAFETY HELMET
+英語,18,14,安全帯使用,WEAR SAFETY HARNESS
+英語,18,15,昇降階段,STAIRWAY
+英語,18,16,休憩所,BREAK AREA
+英語,18,17,最大積載荷重,MAXIMUM LOAD CAPACITY
+英語,18,18,喫煙所,SMOKING AREA
+英語,18,19,整理整頓,KEEP IN ORDER
+英語,18,20,安全通路,SAFETY PASSAGE
+英語,19,1,三連クランプ,Triple clamp
+英語,19,2,ベルトコンベア （ベルコン）,Conveyor belt
+英語,19,3,かけや,Wooden mallet
+英語,19,4,ランマ,Rammer
+英語,19,5,自在クランプ,Swivel clamp
+英語,19,6,キャッチクランプ,Catch clamp
+英語,19,7,吊り上げ用クランプ,Lifting clamp
+英語,19,8,直交クランプ,Fixed clamp
+英語,19,9,フック,Hook
+英語,19,10,ストレートシャックル,Straight shackle
+英語,20,11,滑車,Pulley
+英語,20,12,クレーン,Crane
+英語,20,13,移動式クレーン,Mobile crane
+英語,20,14,介しゃくロープ,Guide rope
+英語,20,15,昇降階段,Stairway
+英語,20,16,筋かい止めピン,Cross bracing pin
+英語,20,17,脚柱ジョイント,Leg column joint
+英語,20,18,連結ピン,Coupling pin
+英語,20,19,ジョイント金具,Joint fitting
+英語,20,20,レバーブロック,Lever block
+英語,20,21,電動のこ（丸のこ）,Electric saw (Circular saw)
+英語,21,22,モンキースパナ,Adjustable wrench
+英語,21,23,親綱支柱,Main rope post
+英語,21,24,ブラケット,Bracket
+英語,21,25,梯子,Ladder
+英語,22,1,親綱,Main rope
+英語,22,2,建枠（ビティ）,Standard scaffold frame (Beatty frame)
+英語,22,3,メッシュシート,Mesh sheet(cid:9)
+英語,22,4,防音パネル,Soundproof panel
+英語,22,5,朝顔材,Protective shelf
+英語,22,6,架空線,Overhead power line
+英語,22,7,幅木（仮設足場）,Baseboard (Temporary scaffolding)
+英語,22,8,単管,Single pipe(cid:9)
+英語,22,9,脚立,Stepladder
+英語,22,10,作業半径,Operating radius
+英語,23,11,仮ボルト,Temporary bolt
+英語,23,12,手直し,Rework(cid:9)
+英語,23,13,面一,Flushness
+英語,23,14,点検事項,Inspection list(cid:9)
+英語,23,15,積載荷重,Loading capacity
+英語,23,16,すき間,Clearance
+英語,23,17,通りを見る,Check correctness
+英語,23,18,組立,Assembly
+英語,23,19,地組,Basic assembly on the ground
+英語,23,20,天端,Top surface
+英語,24,21,玉掛け,Slinging
+英語,24,22,合図,Signal
+英語,24,23,定格荷重,Rated load
+英語,24,24,たち,Verticality
+英語,24,25,職長,Foreman
+英語,25,1,安全カバー,Safety cover(cid:9)
+英語,25,2,安全帯,Safety belt
+英語,25,3,インサート,Threaded insert
+英語,25,4,スペーサ,Spacer(cid:9)
+英語,25,5,鉄筋,Rebar(cid:9)
+英語,25,6,電工ドラム（ドラム）,Retractable extension cord reel (Drum)
+英語,25,7,電動丸のこ（電のこ）,Electric circular saw (Electric saw)(cid:9)
+英語,25,8,パッキン,Packing(cid:9)
+英語,25,9,小バール,Small crowbar
+英語,25,10,大バール,Large crowbar
+英語,26,11,化粧合板,Decorative plywood(cid:9)
+英語,26,12,普通合板,Regular plywood
+英語,26,13,スタイロフォーム,Styrofoam
+英語,26,14,面木,Chamfer
+英語,26,15,バイブレーター,Vibrator(cid:9)
+英語,26,16,剥離剤,Remover
+英語,26,17,けこみ板,Riser
+英語,26,18,目地棒,Joint bar
+英語,26,19,コンクリート,Concrete
+英語,26,20,コンベックス,Metal tape measure
+英語,27,21,作業用手袋,Work gloves
+英語,27,22,差金,L-square ruler
+英語,27,23,水平器,Leveler(cid:9)
+英語,27,24,墨さし,Bamboo marking pen
+英語,27,25,墨つぼ,Inkpot
+英語,28,1,丸セパレーター （丸セパ）,Round separator (Marusepa)
+英語,28,2,天端釘,Leveling pin
+英語,28,3,ケレン,Surface preparation
+英語,28,4,型枠支保工,Form timbering
+英語,28,5,基礎型枠 （メタルフォーム）,Foundation formwork (Metal form)(cid:9)
+英語,28,6,釘仕舞い,Clearing away
+英語,28,7,スラブ天端,Slab upper surface
+英語,28,8,高さ（タッパ）,Height (Tappa)
+英語,28,9,建込み,Installation
+英語,28,10,通り,Correcting / improving
+英語,29,11,蹴上げ,Riser
+英語,29,12,蹴込み,Nosing
+英語,29,13,工具の手入れ,Tool maintenance
+英語,29,14,下げ振り,Plumb bob
+英語,29,15,地墨,Marking
+英語,29,16,捨てコンクリート,Leveling concrete
+英語,29,17,はね出し,Overhanging
+英語,29,18,はらみ,Swell
+英語,29,19,前面,Front
+英語,30,20,養生,Curing
+英語,30,21,レベル,Level
+英語,30,22,割付,Allocation
+英語,30,23,埋め込み金物,Metal insert
+英語,30,24,解体する（バラス）,Demolish (Barasu)
+英語,30,25,かぶり寸法,Concrete cover thickness
+英語,31,1,異形棒鋼,Deformed steel bar
+英語,31,2,結束線,Binding wire
+英語,31,3,結束工具,Tying tool
+英語,31,4,鉄筋切断機,Rebar cutter
+英語,31,5,鉄筋曲げ加工機,Rebar bending machine(cid:9)
+英語,31,6,フック,Hook
+英語,31,7,保護帽（ヘルメット）,Safety helmet (Helmet)
+英語,31,8,アンカー,Anchor
+英語,31,9,加工場,Workshop
+英語,31,10,スペーサ―,Spacer
+英語,32,11,ドーナツ,Donut spacer
+英語,32,12,加工配筋図,Bar bending and arrangement schedule
+英語,32,13,配筋詳細図,Detailed bar arrangement schedule
+英語,32,14,開口補強筋,Opening reinforcement bar
+英語,32,15,幅止め筋,Spreader bar
+英語,32,16,差筋,Expansion joint
+英語,32,17,柱主筋,Longitudinal bar
+英語,32,18,柱配筋,Reinforced column
+英語,32,19,スラブ筋,Reinforced slab
+英語,32,20,ベース筋,Footing bottom rebar
+英語,33,21,帯筋（フープ）,Hoop
+英語,33,22,下端筋,Lower rebar
+英語,33,23,上端筋,Upper rebar
+英語,33,24,主筋,Main rebar
+英語,33,25,あばら筋,Stirrup
+英語,34,1,はかま筋,Footing top bar
+英語,34,2,縦筋,Vertical reinforcement(cid:9)
+英語,34,3,下筋,Bottom reinforcement
+英語,34,4,横筋,Horizontal reinforcement
+英語,34,5,腹筋,Web bar
+英語,34,6,配力筋,Distribution bar
+英語,34,7,上筋,Top reinforcement
+英語,34,8,スパイラル筋,Spiral reinforcement
+英語,34,9,鉄筋径,Rebar diameter
+英語,34,10,かぶり厚さ,Cover concrete thickness
+英語,35,11,角度,Angle
+英語,35,12,シングル,Single reinforcement
+英語,35,13,ダブル,Double reinforcement
+英語,35,14,千鳥結束,Staggered binding
+英語,35,15,切断寸法,Cutting dimensions
+英語,35,16,加工寸法,Machining dimensions
+英語,35,17,重ね継手,Lap splicing
+英語,35,18,圧接継手,Stud joint
+英語,35,19,開口部,Opening
+英語,35,20,溶接金網,Welded wire mesh
+英語,36,21,搬出,Carrying out(cid:9)
+英語,36,22,搬入,Carrying into
+英語,36,23,基礎,Foundation
+英語,36,24,機械式継手,Mechanical coupler
+英語,36,25,配筋検査,Bar arrangement inspection
+英語,37,1,トラクタ,Tractor
+英語,37,2,ブルドーザ,Bulldozer
+英語,37,3,トラクタショベル,Tractor shovel
+英語,37,4,ホイルローダ,Wheel loader
+英語,37,5,ダンプトラック,Dump truck
+英語,37,6,油圧ショベル,Hydraulic excavator
+英語,37,7,バックホウ,Backhoe
+英語,37,8,ローディングショベル,Loading Excavator
+英語,37,9,ローラ,Roller
+英語,37,10,バケット,Bucket
+英語,38,11,ブーム,Boom
+英語,38,12,アーム,Arm
+英語,38,13,ブレード（排土板）,Blade (Soil removal plate)
+英語,38,14,タイヤ,Tire
+英語,38,15,クローラ,Crawler
+英語,38,16,キー（鍵）,Key
+英語,38,17,作業装置 （アタッチメント）,Work equipment (Attachment)
+英語,38,18,エンジン,Engine
+英語,38,19,ディーゼルエンジン,Diesel engine
+英語,38,20,エンジンオイル,Engine oil
+英語,39,21,オルタネータ （充電発電機）,Alternator (Rechargeable generator)
+英語,39,22,バッテリ,Battery
+英語,39,23,燃料,Fuel
+英語,39,24,軽油,Light oil
+英語,39,25,ブレーキ,Brake
+英語,40,1,油圧シリンダ,Hydraulic cylinder
+英語,40,2,油圧モータ,Hydraulic motor
+英語,40,3,油圧ポンプ,Hydraulic pump
+英語,40,4,水漏れ,Water leakage
+英語,40,5,油漏れ,Oil leak
+英語,40,6,冷却水,Cooling water
+英語,40,7,ブレーキ液,Brake fluid(cid:9)
+英語,40,8,燃料タンク,Fuel tank
+英語,40,9,ファンベルト,Fan belt
+英語,40,10,空気圧,Air pressure
+英語,40,11,クラッチ,Clutch
+英語,40,12,急発進,Sudden start
+英語,40,13,急ブレーキ,Sudden braking
+英語,41,14,アイドリング,Idling
+英語,41,15,走行,Running
+英語,41,16,旋回,Turning
+英語,41,17,安全ロック,Safety lock
+英語,41,18,安全支柱,Safety post
+英語,41,19,補給（する）,Refueling (Refuel)
+英語,41,20,駐車（する）,Parking (Park)
+英語,41,21,歩行者,Pedestrian
+英語,41,22,車両,Vehicle
+英語,41,23,死角,Vehicle blind spot
+英語,41,24,斜面,Slope
+英語,41,25,転圧（する）,Roller compaction (compact with a roller)
+英語,42,1,接触（する）,Contact (Contact)
+英語,42,2,作動（する）,Activation (Activate)
+英語,42,3,整備（する）,Maintenance (Maintain)
+英語,42,4,点検（する）,Inspection (Inspect)
+英語,42,5,動かす,Operate
+英語,42,6,運転（する）,Operation (Operate)
+英語,42,7,測る,Measure
+英語,42,8,操作（する）,Operation (Operate)
+英語,42,9,停止（する）,Suspension (Suspend)
+英語,42,10,切る,Turn off / Cut(cid:9)
+英語,42,11,回す,Turn
+英語,42,12,押す,Press
+英語,42,13,集める,Gather
+英語,42,14,触る,Touch
+英語,42,15,縛る,Tie
+英語,42,16,揃える,Make uniform
+英語,42,17,結ぶ,Tie
+英語,42,18,しゃがむ,Squat
+英語,42,19,調整（する）,Adjustment (Adjust)
+英語,42,20,閉じる,Close
+英語,43,1,取り出す,Take out
+英語,43,2,戻す,Put back
+英語,43,3,仕上げる,Finish
+英語,43,4,折れる,Break
+英語,43,5,欠ける,Chip
+英語,43,6,近づく,Get close
+英語,43,7,電源を入れる,Turn on the power
+英語,43,8,電源を落とす,Turn off the power
+英語,43,9,スイッチを切る,Switch off
+英語,43,10,固定（する）,Fixing (Fix)
+英語,43,11,ゆるめる,Loosen
+英語,43,12,伸ばす,Stretch
+英語,43,13,外す,Remove
+英語,43,14,曲げる,Bend
+英語,43,15,出す,Put out
+英語,43,16,乾かす,Dry
+英語,43,17,数える,Count
+英語,43,18,運ぶ,Carry
+英語,43,19,積む,Load
+英語,43,20,下ろす,Unload
+英語,43,21,離れる,Go away
+英語,44,1,位置,Position
+英語,44,2,寸法,Dimensions
+英語,44,3,測定（する）,Measurement (Measure)
+英語,44,4,計測（する）,Measurement (Measure)
+英語,44,5,計測器,Measuring instrument
+英語,44,6,温度,Temperature(cid:9)
+英語,44,7,高さ,Height
+英語,44,8,長さ,Length
+英語,44,9,重さ,Weight(cid:9)
+英語,44,10,厚さ,Thickness
+英語,44,11,硬さ,Hardness
+英語,44,12,深さ,Depth
+英語,44,13,表面,Surface
+英語,44,14,すきま,Clearance
+英語,44,15,中心,Center
+英語,45,16,値,Value
+英語,45,17,安定（する）,Stable (Stabilize)
+英語,45,18,大きさ,Size
+英語,45,19,数,Number(cid:9)
+英語,45,20,誤差,Error
+英語,45,21,中,Inside
+英語,45,22,反対,Opposite
+英語,45,23,周り,Circumference
+英語,45,24,尺,Shaku (unit of length)
+英語,45,25,青,Blue
+英語,45,26,赤,Red
+英語,45,27,白,White
+英語,45,28,黄色,Yellow
+英語,46,1,片づける,Put away
+英語,46,2,捨てる,Dispose
+英語,46,3,掃く,Sweep
+英語,46,4,持ち上げる,Lift up
+英語,46,5,束ねる,Bundle
+英語,46,6,足をくじく,Sprain a leg
+英語,47,1,一輪車,Unicycle
+英語,47,2,支柱,Post
+英語,47,3,ショベル,Shovel
+英語,47,4,かけや,Wooden mallet

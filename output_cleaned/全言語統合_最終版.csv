@@ -1,0 +1,4171 @@
+﻿言語,Excel行,番号,単語,翻訳
+英語,3,1,技能実習,Technical intern training
+英語,4,2,技能実習生,Technical intern trainee
+英語,5,3,工場,Factory; plant
+英語,6,4,製造,Manufacturing
+英語,7,5,機械,Machine; machinery
+英語,8,6,安全,Safety
+英語,9,7,危険（な）,Danger (dangerous)
+英語,10,8,危ない,Dangerous
+英語,11,9,清掃,Seisou (Shine)
+英語,12,10,非常口,Emergency exit
+英語,13,11,注意,Attention
+英語,14,12,火事,Fire
+英語,15,13,事故,Accident
+英語,16,14,服装,Clothes
+英語,17,15,安全装置,Safety equipment
+英語,21,1,安全カバー,Safety cover; protection cover
+英語,22,2,けが,Injury
+英語,23,3,けがをする,To get injured
+英語,24,4,電源,Power supply
+英語,25,5,電源を切る,To turn off power
+英語,26,6,非常停止ボタン,Emergency stop button
+英語,27,7,非常停止ボタンを押す,To push an emergency stop button
+英語,28,8,ルール,Rule
+英語,29,9,ルールを守る,To comply with rules
+英語,30,10,止める,To stop
+英語,31,11,機械を止める,To stop a machine
+英語,32,12,やって,Do (something).
+英語,33,13,止めて,Stop (something).
+英語,34,14,取って,Take; pick up; pass (something).
+英語,35,15,だめ（な）,No. ; No good (bad; wrong)
+英語,39,1,監理団体,Supervising organization
+英語,40,2,技術移転,Technology transfer
+英語,41,3,技能実習期間,Technical intern training period
+英語,42,4,職種,Job type
+英語,43,5,在留資格,Status of residence
+英語,44,6,パスポート,Passport
+英語,45,7,在留カード,Residence card
+英語,46,8,入管,Immigration
+英語,47,9,在留期間,Period of stay
+英語,48,10,雇用契約,Employment contract
+英語,49,11,給与明細,Pay slip
+英語,50,12,給料,Salary
+英語,51,13,残業手当,Overtime allowance
+英語,52,14,労働時間,Working hours
+英語,54,1,控除（する）,Deduction (to deduct)
+英語,55,2,ボーナス,Bonus
+英語,56,3,有休,Paid holiday
+英語,57,4,代休,Compensatory day off
+英語,58,5,労働基準法,Labor Standards Act
+英語,59,6,労働条件,Working conditions
+英語,60,7,税金,Tax
+英語,61,8,所得税,Income tax
+英語,62,9,住民税,Resident tax
+英語,63,10,厚生年金,Welfare pension
+英語,64,11,雇用保険,Employment insurance
+英語,65,12,健康保険,Health insurance
+英語,67,13,社会保険,Social insurance
+英語,68,14,労災,Industrial accident
+英語,69,15,労災保険,Industrial accident compensation insurance
+英語,71,1,遅刻（する）,Late arrival (be late)
+英語,72,2,早退（する）,Leaving early (to leave early)
+英語,73,3,休憩（する）,Break (to take a break)
+英語,74,4,残業（する）,Overtime work (to work overtime)
+英語,75,5,定時,Regular hours
+英語,76,6,規則,Regulation; rule
+英語,77,7,休日,Non-working day
+英語,78,8,始業時間,Starting time of work
+英語,79,9,終業時間,Ending time of work
+英語,80,10,指導員,Instructor
+英語,81,11,生活指導員,Life advisor
+英語,82,12,担当者,Person in charge
+英語,83,13,スイッチ入れるな,Do not switch on.
+英語,84,14,スイッチ切るな,Do not switch off.
+英語,85,15,使用禁止,Do not use.
+英語,87,1,5S,5S
+英語,88,2,整理,Seiri (Sorting)
+英語,89,3,整頓,Seiton (Set in order)
+英語,90,4,清掃,Seisou (Shine)
+英語,91,5,清潔,Seiketsu (standardize)
+英語,92,6,しつけ,Shitsuke (Sustain)
+英語,93,7,掃除（する）,Cleaning (to clean)
+英語,95,8,片づける,To tidy up
+英語,96,9,捨てる,To throw away
+英語,97,10,汚い,Dirty
+英語,98,11,汚れる,To get dirty
+英語,99,12,分別（する）,To sort waste
+英語,100,13,燃えないごみ,Nonburnable waste
+英語,101,14,燃えるごみ,Burnable waste
+英語,102,15,挟まれる,To get sandwiched in between
+英語,103,16,巻き込まれる,To get caught in
+英語,104,17,やけど（する）,Burn (to get burned)
+英語,105,18,落ちる,To fall
+英語,106,19,すべる,To slip
+英語,108,20,転ぶ,To fall; stumble
+英語,109,21,濡れる,To get wet
+英語,110,22,衛生,Sanitation
+英語,111,23,避難（する）,Evacuation (to evacuate)
+英語,112,24,救急車,Ambulance
+英語,113,25,災害,Disaster
+英語,114,26,地震,Earthquake
+英語,115,27,もぐる,To hide; dive
+英語,117,1,火気厳禁,No fire
+英語,118,2,開放厳禁,Keep closed.
+英語,119,3,標識,Sign
+英語,120,4,気をつける,To pay attention
+英語,121,5,持ち込む,To bring in
+英語,122,6,防ぐ,To prevent
+英語,123,7,火,Fire
+英語,124,8,煙,Smoke
+英語,125,9,消火,Fire extinguishing
+英語,126,10,消火器,Fire extinguisher
+英語,127,11,非常ベル,Emergency alarm
+英語,128,12,火災報知機,Fire alarm
+英語,129,13,逃げる,To escape
+英語,130,14,現場,Site; shop floor
+英語,131,15,作業,Work
+英語,132,16,ミーティング,Meeting
+英語,133,17,研修（する）,Training (to train/be trained)
+英語,135,18,実習（する）,Practical training (to give/receive practical training)
+英語,136,19,あいさつ,Greeting
+英語,137,20,確認（する）,Check (to check)
+英語,138,21,報告（する）,Report (to report)
+英語,139,22,連絡（する）,Communication (to communicate)
+英語,140,23,相談（する）,Consultation (to consult)
+英語,141,24,渡す,To hand over
+英語,142,25,申請書,Application
+英語,143,26,寝坊（する）,Oversleeping (to oversleep)
+英語,147,1,技能,
+英語,148,2,技能検定試験,
+英語,149,3,受検（する）,
+英語,150,4,資格,
+英語,151,5,手当,
+英語,152,6,社員,
+英語,153,7,部長,
+英語,154,8,課長,
+英語,155,9,更衣室,
+英語,156,10,台車,
+英語,157,11,床,
+英語,158,12,出口,
+英語,159,13,電気,
+英語,160,14,警報音,
+英語,161,15,コンセント,
+英語,162,16,作業場,
+英語,163,17,作業台,
+英語,164,18,工事現場,
+英語,165,19,職長,
+英語,166,20,作業責任者,
+英語,170,1,禁止,
+英語,171,2,表示板,
+英語,172,3,禁止事項,
+英語,173,4,避難訓練,
+英語,174,5,感電（する）,
+英語,175,6,防止（する）,
+英語,176,7,予防（する）,
+英語,177,8,転倒（する）,
+英語,178,9,挟まる,
+英語,179,10,足元,
+英語,180,11,不安定（な）,
+英語,181,12,後片付け,
+英語,182,13,救急箱,
+英語,183,14,絆創膏,
+英語,184,15,体調,
+英語,185,16,血,
+英語,186,17,熱中症,
+英語,187,18,吐き気,
+英語,188,19,嘔吐（する）,
+英語,189,20,足がつる,
+英語,190,21,気分が悪い,
+英語,191,22,寝不足,
+英語,192,23,安全ネット,
+英語,193,24,安全点検,
+英語,197,1,KY活動（危険予知活動）,KY Activities (Hazard prediction activities)
+英語,198,2,危険,Hazard
+英語,199,3,ぶつかる,Bump into
+英語,200,4,当たる,Hit
+英語,201,5,下敷きになる,Become trapped under
+英語,202,6,打つ,Strike
+英語,203,7,バランスを崩す,Lost one's balance
+英語,204,8,倒れる,Collapse
+英語,205,9,転落（する）,Falling off ( Fall off)
+英語,206,10,指差呼称,Pointing and calling
+英語,207,11,ヒヤリハット,"""Hiyari-Hatto"" (Near-miss incident)"
+英語,208,12,原因,Cause
+英語,209,13,対策,Countermeasure
+英語,210,14,落下（する）,Falling (Fall)
+英語,211,15,墜落（する）,Falling down (Fall down)
+英語,212,16,確認（する）,Check (Check)
+英語,216,1,作業着,Work clothes
+英語,218,2,作業服,Work uniform
+英語,219,3,作業靴,Work shoes
+英語,220,4,手袋,Gloves
+英語,223,5,帽子,Cap
+英語,224,6,保護帽（ヘルメット）,Safety helmet (Helmet)
+英語,226,7,保護具,Protective equipment
+英語,228,8,あごひも,Chin strap
+英語,229,9,ボタン,Button
+英語,231,10,ポケット,Pocket
+英語,233,11,保護メガネ,Safety glasses
+英語,235,12,マスク,Mask
+英語,236,13,耳栓,Earplugs
+英語,237,14,安全靴,Safety shoes
+英語,238,15,墜落制止用器具（安全帯）,Fall protection equipment (Safety belt)
+英語,242,16,業務,Work
+英語,243,17,時間厳守,Punctuality
+英語,244,18,予定,Schedule
+英語,245,19,日付,Date
+英語,246,20,準備（する）,Preparation (Prepare)
+英語,247,21,会議,Meeting
+英語,248,22,朝礼,Morning meeting
+英語,249,23,報告書,Report
+英語,250,24,マニュアル,Manual
+英語,251,25,作業手順書,Operating procedures
+英語,252,26,調子,Condition
+英語,254,1,立入禁止,DO NOT ENTER
+英語,255,2,禁煙,NO SMOKING
+英語,256,3,火気厳禁,NO OPEN FLAMES
+英語,257,4,駐車禁止,NO PARKING
+英語,258,5,足もと注意,WATCH YOUR STEP
+英語,259,6,開口部注意,DANGER OPEN HOLE
+英語,260,7,感電注意,"DANGER
+ELECTRIC SHOCK RISK"
+英語,261,8,堕落注意,DANGER FALL HAZARD
+英語,262,9,頭上注意,WATCH YOUR HEAD
+英語,263,10,警報設備,ALARM SYSTEM
+英語,265,11,消火器,FIRE EXTINGUISHER
+英語,266,12,AED設置場所,AED INSIDE
+英語,267,13,保護帽着用,WEAR SAFETY HELMET
+英語,268,14,安全帯使用,WEAR SAFETY HARNESS
+英語,269,15,昇降階段,STAIRWAY
+英語,270,16,休憩所,BREAK AREA
+英語,271,17,最大積載荷重,MAXIMUM LOAD CAPACITY
+英語,272,18,喫煙所,SMOKING AREA
+英語,273,19,整理整頓,KEEP IN ORDER
+英語,274,20,安全通路,SAFETY PASSAGE
+英語,276,1,,
+英語,277,2,,
+英語,278,3,,
+英語,279,4,,
+英語,280,5,,
+英語,281,6,,
+英語,282,7,,
+英語,283,8,,
+英語,284,9,,
+英語,285,10,,
+英語,287,11,,
+英語,288,12,,
+英語,289,13,,
+英語,290,14,,
+英語,291,15,,
+英語,292,16,,
+英語,293,17,,
+英語,294,18,,
+英語,295,19,,
+英語,296,20,,
+英語,297,21,,
+英語,299,22,,
+英語,300,23,,
+英語,301,24,,
+英語,302,25,,
+英語,304,1,親綱,Main rope
+英語,305,2,建枠（ビティ）,Standard scaffold frame (Beatty frame)
+英語,306,3,メッシュシート,Mesh sheet
+英語,307,4,防音パネル,Soundproof panel
+英語,308,5,朝顔材,Protective shelf
+英語,309,6,架空線,Overhead power line
+英語,310,7,幅木（仮設足場）,Baseboard (Temporary scaffolding)
+英語,311,8,単管,Single pipe
+英語,312,9,脚立,Stepladder
+英語,313,10,作業半径,Operating radius
+英語,315,11,仮ボルト,Temporary bolt
+英語,316,12,手直し,Rework
+英語,317,13,面一,Flushness
+英語,318,14,点検事項,Inspection list
+英語,319,15,積載荷重,Loading capacity
+英語,320,16,すき間,Clearance
+英語,321,17,通りを見る,Check correctness
+英語,322,18,組立,Assembly
+英語,323,19,地組,Basic assembly on the ground
+英語,324,20,天端,Top surface
+英語,326,21,玉掛け,Slinging
+英語,327,22,合図,Signal
+英語,328,23,定格荷重,Rated load
+英語,329,24,たち,Verticality
+英語,330,25,職長,Foreman
+英語,332,1,安全カバー,Safety cover
+英語,333,2,安全帯,Safety belt
+英語,334,3,インサート,Threaded insert
+英語,335,4,スペーサ,Spacer
+英語,336,5,鉄筋,Rebar
+英語,337,6,電工ドラム（ドラム）,Retractable extension cord reel (Drum)
+英語,338,7,電動丸のこ（電のこ）,Electric circular saw (Electric saw)
+英語,339,8,パッキン,Packing
+英語,340,9,小バール,Small crowbar
+英語,341,10,大バール,Large crowbar
+英語,343,11,化粧合板,Decorative plywood
+英語,344,12,普通合板,Regular plywood
+英語,345,13,スタイロフォーム,Styrofoam
+英語,346,14,面木,Chamfer
+英語,347,15,バイブレーター,Vibrator
+英語,348,16,剥離剤,Remover
+英語,349,17,けこみ板,Riser
+英語,350,18,目地棒,Joint bar
+英語,351,19,コンクリート,Concrete
+英語,352,20,コンベックス,Metal tape measure
+英語,354,21,作業用手袋,Work gloves
+英語,355,22,差金,L-square ruler
+英語,356,23,水平器,Leveler
+英語,357,24,墨さし,Bamboo marking pen
+英語,358,25,墨つぼ,Inkpot
+英語,360,1,"丸セパレーター
+（丸セパ）",Round separator (Marusepa)
+英語,361,2,天端釘,Leveling pin
+英語,362,3,ケレン,Surface preparation
+英語,363,4,型枠支保工,Form timbering
+英語,364,5,"基礎型枠
+（メタルフォーム）",Foundation formwork (Metal form)
+英語,365,6,釘仕舞い,Clearing away
+英語,366,7,スラブ天端,Slab upper surface
+英語,367,8,高さ（タッパ）,Height (Tappa)
+英語,368,9,建込み,Installation
+英語,369,10,通り,Correcting / improving
+英語,371,11,蹴上げ,Riser
+英語,372,12,蹴込み,Nosing
+英語,373,13,工具の手入れ,Tool maintenance
+英語,374,14,下げ振り,Plumb bob
+英語,375,15,地墨,Marking
+英語,376,16,捨てコンクリート,Leveling concrete
+英語,377,17,はね出し,Overhanging
+英語,378,18,はらみ,Swell
+英語,379,19,前面,Front
+英語,381,20,養生,Curing
+英語,382,21,レベル,Level
+英語,383,22,割付,Allocation
+英語,384,23,埋め込み金物,Metal insert
+英語,385,24,解体する（バラス）,Demolish (Barasu)
+英語,386,25,かぶり寸法,Concrete cover thickness
+英語,388,1,異形棒鋼,Deformed steel bar
+英語,389,2,結束線,Binding wire
+英語,390,3,結束工具,Tying tool
+英語,391,4,鉄筋切断機,Rebar cutter
+英語,392,5,鉄筋曲げ加工機,Rebar bending machine
+英語,393,6,フック,Hook
+英語,394,7,保護帽（ヘルメット）,Safety helmet (Helmet)
+英語,395,8,アンカー,Anchor
+英語,396,9,加工場,Workshop
+英語,397,10,スペーサ―,Spacer
+英語,399,11,ドーナツ,Donut spacer
+英語,400,12,加工配筋図,Bar bending and arrangement schedule
+英語,401,13,配筋詳細図,Detailed bar arrangement schedule
+英語,402,14,開口補強筋,Opening reinforcement bar
+英語,403,15,幅止め筋,Spreader bar
+英語,404,16,差筋,Expansion joint
+英語,405,17,柱主筋,Longitudinal bar
+英語,406,18,柱配筋,Reinforced column
+英語,407,19,スラブ筋,Reinforced slab
+英語,408,20,ベース筋,Footing bottom rebar
+英語,410,21,帯筋（フープ）,Hoop
+英語,411,22,下端筋,Lower rebar
+英語,412,23,上端筋,Upper rebar
+英語,413,24,主筋,Main rebar
+英語,414,25,あばら筋,Stirrup
+英語,416,1,はかま筋,Footing top bar
+英語,417,2,縦筋,Vertical reinforcement
+英語,418,3,下筋,Bottom reinforcement
+英語,419,4,横筋,Horizontal reinforcement
+英語,420,5,腹筋,Web bar
+英語,421,6,配力筋,Distribution bar
+英語,422,7,上筋,Top reinforcement
+英語,423,8,スパイラル筋,Spiral reinforcement
+英語,424,9,鉄筋径,Rebar diameter
+英語,425,10,かぶり厚さ,Cover concrete thickness
+英語,427,11,角度,Angle
+英語,428,12,シングル,Single reinforcement
+英語,429,13,ダブル,Double reinforcement
+英語,430,14,千鳥結束,Staggered binding
+英語,431,15,切断寸法,Cutting dimensions
+英語,432,16,加工寸法,Machining dimensions
+英語,433,17,重ね継手,Lap splicing
+英語,434,18,圧接継手,Stud joint
+英語,435,19,開口部,Opening
+英語,436,20,溶接金網,Welded wire mesh
+英語,438,21,搬出,Carrying out
+英語,439,22,搬入,Carrying into
+英語,440,23,基礎,Foundation
+英語,441,24,機械式継手,Mechanical coupler
+英語,442,25,配筋検査,Bar arrangement inspection
+英語,444,1,トラクタ,Tractor
+英語,445,2,ブルドーザ,Bulldozer
+英語,446,3,トラクタショベル,Tractor shovel
+英語,447,4,ホイルローダ,Wheel loader
+英語,448,5,ダンプトラック,Dump truck
+英語,449,6,油圧ショベル,Hydraulic excavator
+英語,450,7,バックホウ,Backhoe
+英語,451,8,ローディングショベル,Loading Excavator
+英語,452,9,ローラ,Roller
+英語,453,10,バケット,Bucket
+英語,455,11,ブーム,Boom
+英語,456,12,アーム,Arm
+英語,457,13,ブレード（排土板）,Blade (Soil removal plate)
+英語,458,14,タイヤ,Tire
+英語,459,15,クローラ,Crawler
+英語,460,16,キー（鍵）,Key
+英語,461,17,"作業装置
+（アタッチメント）",Work equipment (Attachment)
+英語,462,18,エンジン,Engine
+英語,463,19,ディーゼルエンジン,Diesel engine
+英語,464,20,エンジンオイル,Engine oil
+英語,466,21,"オルタネータ
+（充電発電機）","Alternator
+(Rechargeable generator)"
+英語,467,22,バッテリ,Battery
+英語,468,23,燃料,Fuel
+英語,469,24,軽油,Light oil
+英語,470,25,ブレーキ,Brake
+英語,472,1,油圧シリンダ,Hydraulic cylinder
+英語,473,2,油圧モータ,Hydraulic motor
+英語,474,3,油圧ポンプ,Hydraulic pump
+英語,475,4,水漏れ,Water leakage
+英語,476,5,油漏れ,Oil leak
+英語,477,6,冷却水,Cooling water
+英語,478,7,ブレーキ液,Brake fluid
+英語,479,8,燃料タンク,Fuel tank
+英語,480,9,ファンベルト,Fan belt
+英語,481,10,空気圧,Air pressure
+英語,482,11,クラッチ,Clutch
+英語,483,12,急発進,Sudden start
+英語,484,13,急ブレーキ,Sudden braking
+英語,486,14,アイドリング,Idling
+英語,487,15,走行,Running
+英語,488,16,旋回,Turning
+英語,489,17,安全ロック,Safety lock
+英語,490,18,安全支柱,Safety post
+英語,491,19,補給（する）,Refueling (Refuel)
+英語,492,20,駐車（する）,Parking (Park)
+英語,493,21,歩行者,Pedestrian
+英語,494,22,車両,Vehicle
+英語,495,23,死角,Vehicle blind spot
+英語,496,24,斜面,Slope
+英語,497,25,転圧（する）,Roller compaction (compact with a roller)
+英語,499,1,接触（する）,Contact (Contact)
+英語,500,2,作動（する）,Activation (Activate)
+英語,501,3,整備（する）,Maintenance (Maintain)
+英語,502,4,点検（する）,Inspection (Inspect)
+英語,503,5,動かす,Operate
+英語,504,6,運転（する）,Operation (Operate)
+英語,505,7,測る,Measure
+英語,506,8,操作（する）,Operation (Operate)
+英語,507,9,停止（する）,Suspension (Suspend)
+英語,508,10,切る,Turn off / Cut
+英語,509,11,回す,Turn
+英語,510,12,押す,Press
+英語,511,13,集める,Gather
+英語,512,14,触る,Touch
+英語,513,15,縛る,Tie
+英語,514,16,揃える,Make uniform
+英語,515,17,結ぶ,Tie
+英語,516,18,しゃがむ,Squat
+英語,517,19,調整（する）,Adjustment (Adjust)
+英語,518,20,閉じる,Close
+英語,520,1,取り出す,Take out
+英語,521,2,戻す,Put back
+英語,522,3,仕上げる,Finish
+英語,523,4,折れる,Break
+英語,524,5,欠ける,Chip
+英語,525,6,近づく,Get close
+英語,526,7,電源を入れる,Turn on the power
+英語,527,8,電源を落とす,Turn off the power
+英語,528,9,スイッチを切る,Switch off
+英語,529,10,固定（する）,Fixing (Fix)
+英語,530,11,ゆるめる,Loosen
+英語,531,12,伸ばす,Stretch
+英語,532,13,外す,Remove
+英語,533,14,曲げる,Bend
+英語,534,15,出す,Put out
+英語,535,16,乾かす,Dry
+英語,536,17,数える,Count
+英語,537,18,運ぶ,Carry
+英語,538,19,積む,Load
+英語,539,20,下ろす,Unload
+英語,540,21,離れる,Go away
+英語,542,1,位置,
+英語,543,2,寸法,
+英語,544,3,測定（する）,
+英語,545,4,計測（する）,
+英語,546,5,計測器,
+英語,547,6,温度,
+英語,548,7,高さ,
+英語,549,8,長さ,
+英語,550,9,重さ,
+英語,551,10,厚さ,
+英語,552,11,硬さ,
+英語,553,12,深さ,
+英語,554,13,表面,
+英語,555,14,すきま,
+英語,556,15,中心,
+英語,558,16,値,
+英語,559,17,安定（する）,
+英語,560,18,大きさ,
+英語,561,19,数,
+英語,562,20,誤差,
+英語,563,21,中,
+英語,564,22,反対,
+英語,565,23,周り,
+英語,566,24,尺,
+英語,567,25,青,
+英語,568,26,赤,
+英語,569,27,白,
+英語,570,28,黄色,
+英語,573,1,片づける,
+英語,574,2,捨てる,
+英語,575,3,掃く,
+英語,576,4,持ち上げる,
+英語,577,5,束ねる,
+英語,578,6,足をくじく,
+英語,581,1,一輪車,
+英語,582,2,支柱,
+英語,583,3,ショベル,
+英語,584,4,かけや,
+タガログ語,3,1,技能実習,Technical Intern Training
+タガログ語,4,2,技能実習生,Technical Intern Trainee
+タガログ語,5,3,工場,Pabrika
+タガログ語,6,4,製造,Produksiyon
+タガログ語,7,5,機械,Makina
+タガログ語,8,6,安全,Kaligtasan
+タガログ語,9,7,危険（な）,Delikado (Mapanganib)
+タガログ語,10,8,危ない,Delikado
+タガログ語,11,9,清掃,Simutin / Paglilinis
+タガログ語,12,10,非常口,Emerhensyang labasan/Emergency exit
+タガログ語,13,11,注意,Babala/Paunawa
+タガログ語,14,12,火事,Sunog
+タガログ語,15,13,事故,Akisidente
+タガログ語,16,14,服装,Kasuotan
+タガログ語,17,15,安全装置,Safety equipment/Kagamitan pangkaligtasan
+タガログ語,21,1,安全カバー,Safety cover/Takip pang- kaligtasan
+タガログ語,22,2,けが,Pinsala
+タガログ語,23,3,けがをする,Mapinsala
+タガログ語,24,4,電源,Supply ng kuryente
+タガログ語,25,5,電源を切る,Putulin ang supply ng kuryente
+タガログ語,26,6,非常停止ボタン,Emergency stop button
+タガログ語,27,7,非常停止ボタンを押す,Pindutin ang emergency stop button
+タガログ語,28,8,ルール,Patakaran
+タガログ語,29,9,ルールを守る,Sumunod sa mga patakaran
+タガログ語,30,10,止める,I-off
+タガログ語,31,11,機械を止める,I-off ang makina
+タガログ語,32,12,やって,Gawin mo
+タガログ語,33,13,止めて,I-off mo
+タガログ語,34,14,取って,Kunin mo
+タガログ語,35,15,だめ（な）,Bawal (Ipinagbabawal )
+タガログ語,39,1,監理団体,Namamahalang organisasyon
+タガログ語,40,2,技術移転,Paglilipat ng kakayahan
+タガログ語,41,3,技能実習期間,Panahon ng pagsasanay
+タガログ語,42,4,職種,Uri ng trabaho
+タガログ語,43,5,在留資格,Status ng paninirahan
+タガログ語,44,6,パスポート,Pasaporte
+タガログ語,45,7,在留カード,Residence card
+タガログ語,46,8,入管,Immigration Bureau
+タガログ語,47,9,在留期間,Panahon ng paninirahan
+タガログ語,48,10,雇用契約,Kontrata sa trabaho
+タガログ語,49,11,給与明細,Detalyadong paglalahad ng suweldo/Payment slip
+タガログ語,50,12,給料,Suweldo
+タガログ語,51,13,残業手当,Overtime work pay
+タガログ語,52,14,労働時間,Oras ng trabaho
+タガログ語,56,1,控除（する）,Bawas / Exemption (Babawasan)
+タガログ語,57,2,ボーナス,Bonus
+タガログ語,58,3,有休,Bakasyon na may bayad
+タガログ語,59,4,代休,Compensatory leave
+タガログ語,60,5,労働基準法,The Labour Standards Act
+タガログ語,61,6,労働条件,Kondisyon sa trabaho
+タガログ語,62,7,税金,Buwis
+タガログ語,63,8,所得税,Buwis sa kita
+タガログ語,64,9,住民税,Buwis sa paninirahan
+タガログ語,65,10,厚生年金,Employees’ pension insurance
+タガログ語,66,11,雇用保険,Employment insurance
+タガログ語,70,12,健康保険,Health insurance
+タガログ語,71,13,社会保険,Labour insurance
+タガログ語,72,14,労災,Worker’s accident
+タガログ語,73,15,労災保険,Worker’s accident compensation insurance
+タガログ語,77,1,遅刻（する）,Huli (Mahuhuli)
+タガログ語,78,2,早退（する）,Umalis ng maaga (Aalis ng maaga)
+タガログ語,79,3,休憩（する）,Pahinga (Magpapahinga)
+タガログ語,80,4,残業（する）,Overtime (Magtrabaho na lampas sa takdang oras / Magtrabaho ng overtime)
+タガログ語,81,5,定時,Regular na oras / Takdang oras
+タガログ語,82,6,規則,Patakaran
+タガログ語,83,7,休日,Day-off
+タガログ語,84,8,始業時間,Oras ng simula
+タガログ語,85,9,終業時間,Oras ng katapusan
+タガログ語,86,10,指導員,Tagapagturo
+タガログ語,87,11,生活指導員,Tagapagturo ng pamumuhay
+タガログ語,88,12,担当者,Person in charge / Taong namamahala
+タガログ語,89,13,スイッチ入れるな,Huwag i-on ang switch
+タガログ語,90,14,スイッチ切るな,Huwag i-off ang switch
+タガログ語,91,15,使用禁止,Bawal gamitin
+タガログ語,95,1,5S,5S
+タガログ語,96,2,整理,Suriin
+タガログ語,97,3,整頓,Sinupin
+タガログ語,98,4,清掃,Simutin
+タガログ語,99,5,清潔,Siguruhin ang kalinisan
+タガログ語,100,6,しつけ,Sariling Kusa
+タガログ語,101,7,掃除（する）,Linis (Maglilinis)
+タガログ語,105,8,片づける,Iaayos
+タガログ語,106,9,捨てる,Itatapon
+タガログ語,107,10,汚い,Marumi / Madumi
+タガログ語,108,11,汚れる,Marumihan
+タガログ語,109,12,分別（する）,Klasipikasyon (Magbubukod)
+タガログ語,110,13,燃えないごみ,Basurang hindi sinusunog
+タガログ語,111,14,燃えるごみ,Basurang sinusunog
+タガログ語,112,15,挟まれる,Maiipit
+タガログ語,113,16,巻き込まれる,Makawit
+タガログ語,114,17,やけど（する）,Paso (Mapaso)
+タガログ語,115,18,落ちる,Mahulog
+タガログ語,116,19,すべる,Madulas
+タガログ語,120,20,転ぶ,Madapa
+タガログ語,121,21,濡れる,Mabasa
+タガログ語,122,22,衛生,Kaligtasan / Pangangalaga sa kalusugan
+タガログ語,123,23,避難（する）,Paglisan (Lumikas)
+タガログ語,124,24,救急車,Ambulansya
+タガログ語,125,25,災害,Sakuna
+タガログ語,126,26,地震,Lindol
+タガログ語,127,27,もぐる,Sisisid / Punta sa ilalim
+タガログ語,131,1,火気厳禁,Mahigpit na ipinagbabawal ang
+タガログ語,132,2,開放厳禁,Mahigpit na ipinagbabawal ang
+タガログ語,133,3,標識,Babala / Tagapagpahiwatig
+タガログ語,134,4,気をつける,Mag-iingat
+タガログ語,135,5,持ち込む,Dadalhin sa loob
+タガログ語,136,6,防ぐ,Iwasan
+タガログ語,137,7,火,Apoy
+タガログ語,138,8,煙,Usok
+タガログ語,139,9,消火,Patayin ang apoy
+タガログ語,140,10,消火器,Fire extinguisher
+タガログ語,141,11,非常ベル,Emergency bell
+タガログ語,142,12,火災報知機,Fire alarm
+タガログ語,143,13,逃げる,Tumakbo palayo
+タガログ語,144,14,現場,Lugar ng trabaho
+タガログ語,145,15,作業,Trabaho
+タガログ語,146,16,ミーティング,Miting
+タガログ語,147,17,研修（する）,Pagsasanay (Magsasanay)
+タガログ語,148,18,実習（する）,Training (Pagtratrain)
+タガログ語,152,19,あいさつ,Pagbati
+タガログ語,153,20,確認（する）,Check / Kumpirmasyon (I-checheck / Susuriin)
+タガログ語,154,21,報告（する）,Report / Ulat(Mag-report / Ipagbigay-alam)
+タガログ語,155,22,連絡（する）,Kontak (Makipag-ugnayan)
+タガログ語,156,23,相談（する）,Konsulta (Magkonsulta)
+タガログ語,157,24,渡す,Iaabot
+タガログ語,158,25,申請書,Pormat ng aplikasyon
+タガログ語,159,26,寝坊（する）,Nagising ng tanghali (Magigising ng tanghali)
+タガログ語,163,1,技能,
+タガログ語,164,2,技能検定試験,
+タガログ語,165,3,受検（する）,
+タガログ語,166,4,資格,
+タガログ語,167,5,手当,
+タガログ語,168,6,社員,
+タガログ語,169,7,部長,
+タガログ語,170,8,課長,
+タガログ語,171,9,更衣室,
+タガログ語,172,10,台車,
+タガログ語,173,11,床,
+タガログ語,174,12,出口,
+タガログ語,175,13,電気,
+タガログ語,176,14,警報音,
+タガログ語,177,15,コンセント,
+タガログ語,178,16,作業場,
+タガログ語,179,17,作業台,
+タガログ語,180,18,工事現場,
+タガログ語,181,19,職長,
+タガログ語,182,20,作業責任者,
+タガログ語,186,1,禁止,bawal
+タガログ語,187,2,表示板,karatula
+タガログ語,188,3,禁止事項,bagay na bawal gawin
+タガログ語,189,4,避難訓練,evacuation drill
+タガログ語,190,5,感電（する）,pagkakuryente / makuryente
+タガログ語,191,6,防止（する）,pagpigil / pigilan
+タガログ語,192,7,予防（する）,pag-iwas / iwasan
+タガログ語,193,8,転倒（する）,pagbagsak / bumagsak
+タガログ語,194,9,挟まる,maipit
+タガログ語,195,10,足元,paanan
+タガログ語,196,11,不安定（な）,hindi matatag
+タガログ語,197,12,後片付け,pagliligpit pagkatapos
+タガログ語,198,13,救急箱,first-aid kit
+タガログ語,199,14,絆創膏,panakip sa sugat
+タガログ語,200,15,体調,pisikal na kondisyon
+タガログ語,201,16,血,dugo
+タガログ語,202,17,熱中症,heatstroke
+タガログ語,203,18,吐き気,alibadbad
+タガログ語,204,19,嘔吐（する）,pagsusuka / magsusuka
+タガログ語,205,20,足がつる,namumulikat ang paa
+タガログ語,206,21,気分が悪い,hindi maganda ang pakiramdam
+タガログ語,207,22,寝不足,kulang sa tulog
+タガログ語,208,23,安全ネット,safety net
+タガログ語,209,24,安全点検,inspeksyon para sa kaligtasan
+タガログ語,213,1,KY活動（危険予知活動）,Aktibidad ng KY (Aktibidad para Kilalanin ang Panganib)
+タガログ語,214,2,危険,panganib
+タガログ語,215,3,ぶつかる,mabangga
+タガログ語,216,4,当たる,tumama
+タガログ語,217,5,下敷きになる,madaganan
+タガログ語,218,6,打つ,tamaan
+タガログ語,219,7,バランスを崩す,mawala ang balanse
+タガログ語,220,8,倒れる,bumagsak
+タガログ語,221,9,転落（する）,pagkahulog / mahulog
+タガログ語,222,10,指差呼称,pagturo at pagtawag
+タガログ語,223,11,ヒヤリハット,muntikang aksidente (Hiyari-hatto)
+タガログ語,224,12,原因,sanhi
+タガログ語,225,13,対策,hakbang upang labanan
+タガログ語,226,14,落下（する）,pagkahulog / mahulog
+タガログ語,227,15,墜落（する）,pagbagsak / bumagsak
+タガログ語,228,16,確認（する）,pagtiyak / tiyakin
+タガログ語,236,1,作業着,uniporme sa trabaho
+タガログ語,237,2,作業服,damit na pantrabaho
+タガログ語,238,3,作業靴,sapatos na pantrabaho
+タガログ語,239,4,手袋,guwantes
+タガログ語,241,5,帽子,cap
+タガログ語,242,6,保護帽（ヘルメット）,proteksiyong pang-ulo (helmet)
+タガログ語,245,7,保護具,kagamitang pamproteksyon
+タガログ語,246,8,あごひも,chin strap
+タガログ語,247,9,ボタン,butones
+タガログ語,248,10,ポケット,bulsa
+タガログ語,250,11,保護メガネ,proteksyong salamin sa mata
+タガログ語,252,12,マスク,mask
+タガログ語,253,13,耳栓,earplug
+タガログ語,254,14,安全靴,sapatos na pangkaligtasan
+タガログ語,255,15,墜落制止用器具（安全帯）,sinturong pangkaligtasan
+タガログ語,262,16,業務,trabaho
+タガログ語,263,17,時間厳守,laging nasa oras
+タガログ語,264,18,予定,iskedyul
+タガログ語,265,19,日付,petsa
+タガログ語,266,20,準備（する）,paghahanda / maghanda
+タガログ語,267,21,会議,pagpupulong
+タガログ語,268,22,朝礼,pagbati sa umaga
+タガログ語,269,23,報告書,ulat
+タガログ語,270,24,マニュアル,manuwal
+タガログ語,271,25,作業手順書,proseso ng paggawa
+タガログ語,272,26,調子,kalagayan
+タガログ語,276,1,立入禁止,Bawal Pumasok
+タガログ語,277,2,禁煙,Bawal Manigarilyo
+タガログ語,278,3,火気厳禁,Mapanganib: Bawal ang Apoy
+タガログ語,279,4,駐車禁止,Bawal Pumarada
+タガログ語,280,5,足もと注意,Ingatan ang Hakbang!
+タガログ語,281,6,開口部注意,Mapanganib: May Butas sa Sahig
+タガログ語,282,7,感電注意,Mapanganib: May Kuryente
+タガログ語,283,8,堕落注意,Mapanganib: May Maaaring Bumagsak
+タガログ語,284,9,頭上注意,Ingatan ang Ulo!
+タガログ語,285,10,警報設備,Sistemang Pang-alarma
+タガログ語,289,11,消火器,Pang-apula ng Apoy
+タガログ語,290,12,AED設置場所,May Nakahandang AED
+タガログ語,291,13,保護帽着用,Magsuot ng Helmet
+タガログ語,292,14,安全帯使用,Magsuot ng Sinturong Pangkaligtasan
+タガログ語,293,15,昇降階段,Hagdanan na Pang- Scaffolding
+タガログ語,294,16,休憩所,Pahingahan
+タガログ語,295,17,最大積載荷重,Maximum na kapasidad sa pag-load
+タガログ語,296,18,喫煙所,Lugar para sa Paninigarilyo
+タガログ語,297,19,整理整頓,Panatilihing Maayos
+タガログ語,298,20,安全通路,Ligtas na Daanan / Safety Passage
+タガログ語,302,1,三連クランプ,triple clamp
+タガログ語,303,2,"ベルトコンベア
+（ベルコン）",belt conveyor
+タガログ語,304,3,かけや,maso
+タガログ語,305,4,ランマ,pambayo
+タガログ語,306,5,自在クランプ,movable clamp
+タガログ語,307,6,キャッチクランプ,catch clamp
+タガログ語,308,7,吊り上げ用クランプ,clamp para sa pagbuhat
+タガログ語,309,8,直交クランプ,right angle clamp
+タガログ語,310,9,フック,kawit / hook
+タガログ語,314,10,ストレートシャックル,straight shackle
+タガログ語,315,11,滑車,kalo / pulley
+タガログ語,316,12,クレーン,crane
+タガログ語,317,13,移動式クレーン,mobile crane
+タガログ語,318,14,介しゃくロープ,guy rope
+タガログ語,319,15,昇降階段,Hagdanan na Pang- Scaffolding
+タガログ語,320,16,筋かい止めピン,strut end pin
+タガログ語,321,17,脚柱ジョイント,stud joint
+タガログ語,322,18,連結ピン,connecting pin
+タガログ語,323,19,ジョイント金具,joint metal fitting
+タガログ語,327,20,レバーブロック,lever block
+タガログ語,328,21,電動のこ（丸のこ）,electric circular saw (circular saw)
+タガログ語,329,22,モンキースパナ,monkey spanner
+タガログ語,330,23,親綱支柱,poste ng pangunahing lubid
+タガログ語,331,24,ブラケット,bracket
+タガログ語,332,25,梯子,hagdan
+タガログ語,336,1,親綱,safety line
+タガログ語,337,2,建枠（ビティ）,standard scaffold (Beatty)
+タガログ語,338,3,メッシュシート,mesh sheet
+タガログ語,339,4,防音パネル,soundproof panel
+タガログ語,340,5,朝顔材,protective shelf material
+タガログ語,341,6,架空線,overhead wire
+タガログ語,342,7,幅木（仮設足場）,baseboard (pansamantalang scaffolding)
+タガログ語,343,8,単管,single pipe
+タガログ語,344,9,脚立,natitiklop na hagdan
+タガログ語,348,10,作業半径,operating radius
+タガログ語,349,11,仮ボルト,pansamantalang kandado
+タガログ語,350,12,手直し,pasasaayos
+タガログ語,351,13,面一,flush
+タガログ語,352,14,点検事項,mga bagay na dapat inspeksyunin
+タガログ語,353,15,積載荷重,loading capacity
+タガログ語,354,16,すき間,siwang
+タガログ語,355,17,通りを見る,tingnan ang pagkatuwid
+タガログ語,356,18,組立,pagbubuo
+タガログ語,357,19,地組,pagbubuo sa lugar ng konstruksyon
+タガログ語,361,20,天端,levee crown
+タガログ語,362,21,玉掛け,slinging
+タガログ語,363,22,合図,hudyat
+タガログ語,364,23,定格荷重,rated capacity
+タガログ語,365,24,たち,vertical
+タガログ語,366,25,職長,foreman
+タガログ語,370,1,安全カバー,safety cover
+タガログ語,371,2,安全帯,safety belt
+タガログ語,372,3,インサート,insert
+タガログ語,373,4,スペーサ,spacer
+タガログ語,374,5,鉄筋,reinforcing bar
+タガログ語,375,6,電工ドラム（ドラム）,retractable extension cord (drum)
+タガログ語,376,7,電動丸のこ（電のこ）,electric circular saw (circular saw)
+タガログ語,377,8,パッキン,gasket
+タガログ語,378,9,小バール,maliit na crowbar
+タガログ語,379,10,大バール,malaking crowbar
+タガログ語,383,11,化粧合板,decorative plywood
+タガログ語,384,12,普通合板,normal plywood
+タガログ語,385,13,スタイロフォーム,styrofoam
+タガログ語,386,14,面木,chamfer strip
+タガログ語,387,15,バイブレーター,vibrator
+タガログ語,388,16,剥離剤,pangtanggal ng pintura
+タガログ語,389,17,けこみ板,riser plate
+タガログ語,390,18,目地棒,joint strip
+タガログ語,391,19,コンクリート,kongkreto
+タガログ語,392,20,コンベックス,medida
+タガログ語,396,21,作業用手袋,guwantes na pantrabaho
+タガログ語,397,22,差金,carpenter’s square
+タガログ語,398,23,水平器,level gauge
+タガログ語,399,24,墨さし,brush na pangmarka na yari sa kawayan
+タガログ語,400,25,墨つぼ,kagamitang pangmarka ng mahaba at tuwid na guhit
+タガログ語,404,1,"丸セパレーター
+（丸セパ）",bilog na panghiwalay / round separator
+タガログ語,405,2,天端釘,levee crown nail
+タガログ語,406,3,ケレン,surface treatment
+タガログ語,407,4,型枠支保工,form timbering
+タガログ語,408,5,"基礎型枠
+（メタルフォーム）",foundation form (metal form)
+タガログ語,409,6,釘仕舞い,pag-alis sa pako mula sa form / nail remover
+タガログ語,410,7,スラブ天端,dulong itaas na bahagi ng losa (slab)
+タガログ語,411,8,高さ（タッパ）,taas
+タガログ語,412,9,建込み,"pagposisyon nang patayo
+/ vertical position"
+タガログ語,413,10,通り,pagkatuwid
+タガログ語,417,11,蹴上げ,riser
+タガログ語,418,12,蹴込み,footboard
+タガログ語,419,13,工具の手入れ,paglilinis at pangangalaga sa mga kagamitan / tool care & maintenance
+タガログ語,420,14,下げ振り,plumb
+タガログ語,421,15,地墨,marka para sa partisyon
+タガログ語,422,16,捨てコンクリート,leveling concrete
+タガログ語,423,17,はね出し,nakakausli
+タガログ語,424,18,はらみ,umbok
+タガログ語,425,19,前面,front face
+タガログ語,429,20,養生,curing
+タガログ語,430,21,レベル,level
+タガログ語,431,22,割付,layout
+タガログ語,432,23,埋め込み金物,nakabaong metal
+タガログ語,433,24,解体する（バラス）,pagkalas (disassemble) / ikalas
+タガログ語,434,25,かぶり寸法,covering dimension
+タガログ語,438,1,異形棒鋼,deformed steel bar
+タガログ語,439,2,結束線,tie wire / alambreng pang dikitin o pagsamahin
+タガログ語,440,3,結束工具,deformed steel bar
+タガログ語,441,4,鉄筋切断機,iron bar cutting machine
+タガログ語,442,5,鉄筋曲げ加工機,binding tool
+タガログ語,443,6,フック,hook
+タガログ語,444,7,保護帽（ヘルメット）,reinforcing bar bending machine
+タガログ語,445,8,アンカー,kawit / anchor
+タガログ語,446,9,加工場,proteksiyong pang-ulo (helmet)
+タガログ語,447,10,スペーサ―,angkla
+タガログ語,451,11,ドーナツ,processing plant
+タガログ語,452,12,加工配筋図,spacer
+タガログ語,453,13,配筋詳細図,rebar spacer (donut)
+タガログ語,454,14,開口補強筋,opening reinforcement
+タガログ語,455,15,幅止め筋,spreader bar
+タガログ語,456,16,差筋,joint bar
+タガログ語,457,17,柱主筋,column bar
+タガログ語,458,18,柱配筋,column bar arrangement
+タガログ語,459,19,スラブ筋,slab reinforcement
+タガログ語,460,20,ベース筋,base reinforcement
+タガログ語,464,21,帯筋（フープ）,hoop
+タガログ語,465,22,下端筋,bottom reinforcement
+タガログ語,466,23,上端筋,top reinforcement
+タガログ語,467,24,主筋,main reinforcement
+タガログ語,468,25,あばら筋,stirrup reinforcement
+タガログ語,472,1,はかま筋,hakama reinforcement
+タガログ語,473,2,縦筋,vertical reinforcement
+タガログ語,474,3,下筋,lower reinforcement
+タガログ語,475,4,横筋,side reinforcement
+タガログ語,476,5,腹筋,midsection reinforcement
+タガログ語,477,6,配力筋,distributing bar
+タガログ語,478,7,上筋,upper reinforcement
+タガログ語,479,8,スパイラル筋,spiral reinforcement
+タガログ語,480,9,鉄筋径,reinforcing bar diameter
+タガログ語,481,10,かぶり厚さ,covering depth
+タガログ語,485,11,角度,anggulo
+タガログ語,486,12,シングル,single
+タガログ語,487,13,ダブル,doble
+タガログ語,488,14,千鳥結束,zigzag na tali
+タガログ語,489,15,切断寸法,sukat ng putol
+タガログ語,490,16,加工寸法,sukat ng paggawa
+タガログ語,491,17,重ね継手,lap joint
+タガログ語,492,18,圧接継手,stud joint
+タガログ語,493,19,開口部,butas
+タガログ語,494,20,溶接金網,nakawelding na alambreng lambat
+タガログ語,498,21,搬出,paglabas
+タガログ語,499,22,搬入,pagdala sa loob
+タガログ語,500,23,基礎,pundasyon
+タガログ語,501,24,機械式継手,mechanical joint
+タガログ語,502,25,配筋検査,inspeksyon ng bar arrangement
+タガログ語,506,1,トラクタ,tractor
+タガログ語,507,2,ブルドーザ,bulldozer
+タガログ語,508,3,トラクタショベル,tractor shovel
+タガログ語,509,4,ホイルローダ,wheel loader
+タガログ語,510,5,ダンプトラック,dump truck
+タガログ語,511,6,油圧ショベル,power shovel
+タガログ語,512,7,バックホウ,backhoe
+タガログ語,513,8,ローディングショベル,loading shovel
+タガログ語,514,9,ローラ,roller
+タガログ語,515,10,バケット,bucket
+タガログ語,519,11,ブーム,boom
+タガログ語,520,12,アーム,arm
+タガログ語,521,13,ブレード（排土板）,blade
+タガログ語,522,14,タイヤ,gulong
+タガログ語,523,15,クローラ,crawler
+タガログ語,524,16,キー（鍵）,key (susi)
+タガログ語,525,17,"作業装置
+（アタッチメント）",aparato sa paggawa (attachment)
+タガログ語,526,18,エンジン,engine
+タガログ語,527,19,ディーゼルエンジン,diesel engine
+タガログ語,528,20,エンジンオイル,engine oil
+タガログ語,532,21,"オルタネータ
+（充電発電機）",alternator (charging generator)
+タガログ語,533,22,バッテリ,battery
+タガログ語,534,23,燃料,fuel
+タガログ語,535,24,軽油,gas oil
+タガログ語,536,25,ブレーキ,preno
+タガログ語,540,1,油圧シリンダ,hydraulic cylinder
+タガログ語,541,2,油圧モータ,hydraulic motor
+タガログ語,542,3,油圧ポンプ,hydraulic pump
+タガログ語,543,4,水漏れ,tagas ng tubig
+タガログ語,544,5,油漏れ,tagas ng langis
+タガログ語,545,6,冷却水,coolant
+タガログ語,546,7,ブレーキ液,brake fluid
+タガログ語,547,8,燃料タンク,fuel tank
+タガログ語,548,9,ファンベルト,fan belt
+タガログ語,549,10,空気圧,presyon ng hangin ng gulong
+タガログ語,550,11,クラッチ,clutch
+タガログ語,551,12,急発進,biglaang pag-arangkada
+タガログ語,552,13,急ブレーキ,biglaang pagpreno
+タガログ語,556,14,アイドリング,idling
+タガログ語,557,15,走行,pagtakbo
+タガログ語,558,16,旋回,rebolusyon
+タガログ語,559,17,安全ロック,safety lock
+タガログ語,560,18,安全支柱,safety post
+タガログ語,561,19,補給（する）,pagpapa-gasolina / magpa-gasolina
+タガログ語,562,20,駐車（する）,pagparada / iparada
+タガログ語,563,21,歩行者,pedestrian
+タガログ語,564,22,車両,sasakyan
+タガログ語,565,23,死角,blind spot
+タガログ語,566,24,斜面,dalisdis / slope
+タガログ語,567,25,転圧（する）,surface compaction / isagawa ang surface compaction
+タガログ語,571,1,接触（する）,sagi / masagi
+タガログ語,572,2,作動（する）,pag-andar /umandar
+タガログ語,573,3,整備（する）,pag-maintain (maintenance)  / i-maintain
+タガログ語,574,4,点検（する）,inspeksyon / inspeksyunin
+タガログ語,575,5,動かす,ipaandar
+タガログ語,576,6,運転（する）,pagmamaneho / magmaneho
+タガログ語,577,7,測る,sukatin
+タガログ語,578,8,操作（する）,operasyon / mag-operate
+タガログ語,579,9,停止（する）,pag-tigil / itigil
+タガログ語,580,10,切る,"patayin, putulin"
+タガログ語,581,11,回す,paikutin
+タガログ語,582,12,押す,pindutin
+タガログ語,583,13,集める,kolektahin
+タガログ語,584,14,触る,hawakan
+タガログ語,585,15,縛る,bigkisin
+タガログ語,586,16,揃える,tipunin
+タガログ語,587,17,結ぶ,itali
+タガログ語,588,18,しゃがむ,yumukyok / squat
+タガログ語,589,19,調整（する）,pag-adjust / i-adjust
+タガログ語,590,20,閉じる,pagsara / isara
+タガログ語,594,1,取り出す,ilabas / take out
+タガログ語,595,2,戻す,ibalik
+タガログ語,596,3,仕上げる,tapusin
+タガログ語,597,4,折れる,mabali
+タガログ語,598,5,欠ける,magkulang
+タガログ語,599,6,近づく,lumapit
+タガログ語,600,7,電源を入れる,i-on
+タガログ語,601,8,電源を落とす,i-off
+タガログ語,602,9,スイッチを切る,i-off ang switch
+タガログ語,603,10,固定（する）,pirmi / ipirmi
+タガログ語,604,11,ゆるめる,luwagin
+タガログ語,605,12,伸ばす,pahabain / extend
+タガログ語,606,13,外す,tanggalin
+タガログ語,607,14,曲げる,baluktutin
+タガログ語,608,15,出す,ilabas
+タガログ語,609,16,乾かす,patuyuin
+タガログ語,610,17,数える,bilangin
+タガログ語,611,18,運ぶ,dalhin
+タガログ語,612,19,積む,itambak
+タガログ語,613,20,下ろす,ibaba
+タガログ語,614,21,離れる,lumayo
+タガログ語,618,1,位置,
+タガログ語,619,2,寸法,
+タガログ語,620,3,測定（する）,
+タガログ語,621,4,計測（する）,
+タガログ語,622,5,計測器,
+タガログ語,623,6,温度,
+タガログ語,624,7,高さ,
+タガログ語,625,8,長さ,
+タガログ語,626,9,重さ,
+タガログ語,627,10,厚さ,
+タガログ語,628,11,硬さ,
+タガログ語,629,12,深さ,
+タガログ語,630,13,表面,
+タガログ語,631,14,すきま,
+タガログ語,632,15,中心,
+タガログ語,636,16,値,
+タガログ語,637,17,安定（する）,
+タガログ語,638,18,大きさ,
+タガログ語,639,19,数,
+タガログ語,640,20,誤差,
+タガログ語,641,21,中,
+タガログ語,642,22,反対,
+タガログ語,643,23,周り,
+タガログ語,644,24,尺,
+タガログ語,645,25,青,
+タガログ語,646,26,赤,
+タガログ語,647,27,白,
+タガログ語,648,28,黄色,
+タガログ語,654,1,片づける,
+タガログ語,655,2,捨てる,
+タガログ語,656,3,掃く,
+タガログ語,657,4,持ち上げる,
+タガログ語,658,5,束ねる,
+タガログ語,659,6,足をくじく,
+タガログ語,665,1,一輪車,
+タガログ語,666,2,支柱,
+タガログ語,667,3,ショベル,
+タガログ語,668,4,かけや,
+カンボジア語,3,1,技能実習,ការហ្ឹវ កហ្ឺវ នជំនាញ
+カンボジア語,4,2,技能実習生,កម្មសិកាការីហ្ឹវ កហ្ឺវ ន ជំនាញ
+カンボジア語,5,3,工場,រោងចក្ក
+カンボジア語,6,4,製造,ការផលិត
+カンボジア語,7,5,機械,ម៉ា ស៊ី ន
+カンボジア語,8,6,安全,ស វតិថភាព
+カンボジア語,9,7,危険（な）,(ដែល)រក្រោះថ្នា ក់
+カンボジア語,10,8,危ない,រក្រោះថ្នា ក់
+カンボジア語,11,9,清掃,សមា  ត
+カンボジア語,12,10,非常口,ផូល  វោសនា
+カンボジア語,13,11,注意,ការក្រងុក្រយ័តា
+カンボジア語,14,12,火事,អគ្ិា ភ័យ
+カンボジア語,15,13,事故,ឧរតិរហ្ត 
+カンボジア語,16,14,服装,សរម្លៀករំពាក់
+カンボジア語,17,15,安全装置,ឧរករណ៍ស វតិថភាព
+カンボジア語,21,1,安全カバー,គម្របសុវត្ិថភាព
+カンボジア語,22,2,けが,របួស
+カンボジア語,23,3,けがをする,មានរបួស
+カンボジア語,24,4,電源,ចរនត អគិគ សនី
+カンボジア語,25,5,電源を切る,បិទចរនត អគិគ សនី
+カンボジア語,26,6,非常停止ボタン,ប៊ូ ត្ុងបញ្ឈប់ពពល អាសនន
+カンボジア語,27,7,非常停止ボタンを押す,ចុចប៊ូ ត្ុងបញ្ឈប់ពពល អាសនន
+カンボジア語,28,8,ルール,ចាប់
+カンボジア語,29,9,ルールを守る,ពោរពចាប់
+カンボジア語,30,10,止める,បញ្ឈប់
+カンボジア語,31,11,機械を止める,បញ្ឈប់មា៉ា សុីន
+カンボジア語,32,12,やって,ស៊ូរព្វើ
+カンボジア語,33,13,止めて,ស៊ូរបញ្ឈប់
+カンボジア語,34,14,取って,ស៊ូរយក
+カンボジア語,35,15,だめ（な）,(ដែល)រិនបាន
+カンボジア語,39,1,監理団体,អង្គភាពគ្រប់គ្រង្
+カンボジア語,40,2,技術移転,ការណទេរបណចេកវិទ្យា
+カンボジア語,41,3,技能実習期間,រយៈណពលហ្ឹវ កហ្ឺវ នជំនញ
+カンボジア語,42,4,職種,គ្បណេទ្យមុខរបរ
+カンボジア語,43,5,在留資格,អាជ្ញា ប័េណ ស្នា ក់ណៅ
+カンボジア語,44,6,パスポート,លិខិតឆ្លង្ដែន
+カンボジア語,45,7,在留カード,ប័េណ ស្នា ក់ណៅ
+カンボジア語,46,8,入管,អណនា  គ្បណវសន៍
+カンボジア語,47,9,在留期間,រយៈណពលស្នា ក់ណៅ
+カンボジア語,48,10,雇用契約,កិចេសនាការងារ
+カンボジア語,49,11,給与明細,បងាា ន់នែណបើកគ្ាក់ ណបៀវតស
+カンボジア語,50,12,給料,គ្ាក់ណបៀវតស
+カンボジア語,51,13,残業手当,គ្ាក់ឈ្ន លួ   ដែមណ ៉ោ ង្
+カンボジア語,52,14,労働時間,ណ ៉ោ ង្ណ្វើការ
+カンボジア語,54,1,控除（する）,(ធ្វើការ)ការកាត់ថ្លៃ
+カンボジア語,55,2,ボーナス,ប្រាក់រំណាច់
+カンボジア語,56,3,有休,ការសប្រមាកមានប្រាក់ ធរៀវតស
+カンボジア語,57,4,代休,ថ្លៃឈរ់សប្រមាកធលើកថ្លៃ
+カンボジア語,58,5,労働基準法,ចារ់រទដាា នការងារ
+カンボジア語,59,6,労働条件,ល័កខ ែ័ណឌ ការងារ
+カンボジア語,60,7,税金,ពនធ
+カンボジア語,61,8,所得税,ពនធ ធលើប្រាក់ចំណូល
+カンボジア語,62,9,住民税,ពនធ និវាសនជន
+カンボジア語,63,10,厚生年金,ប្រាក់ធសា្ននិវតាន៍ ររស់និធោជិក
+カンボジア語,64,11,雇用保険,ធានារា៉ា រ់រងការងារ
+カンボジア語,65,12,健康保険,ធានារា៉ា រ់រងស ែភាព
+カンボジア語,67,13,社会保険,ធានារា៉ា រ់រងសងគម
+カンボジア語,68,14,労災,ធប្រគ្មុះថ្នន ក់ការងារ
+カンボジア語,69,15,労災保険,ធានារា៉ា រ់រងធលើធប្រគ្មុះ ថ្នន ក់ការងារ
+カンボジア語,71,1,遅刻（する）,(ធ្វើការ) មកយឺត
+カンボジア語,72,2,早退（する）,(ធ្វើការ) ធេញមុនធេល
+カンボジア語,73,3,休憩（する）,(ធ្វើការ) សម្រាក
+カンボジア語,74,4,残業（する）,(ធ្វើការ) ការងារថែមធា៉ោ ង
+カンボジア語,75,5,定時,ធេលធ ៀងទាត់
+カンボジア語,76,6,規則,ប បញ្ជា
+カンボジア語,77,7,休日,ថ្ែៃឈប់សម្រាក
+カンボジア語,78,8,始業時間,ធា៉ោ ងចាប់ធ្តើមការងារ
+カンボジア語,79,9,終業時間,ធា៉ោ ងបញ្ច ប់ការងារ
+カンボジア語,80,10,指導員,អ្ន កបងាា ត់បធម្រងៀន
+カンボジア語,81,11,生活指導員,អ្ន កបងាា ត់បធម្រងៀនេីការ រស់ធៅ
+カンボジア語,82,12,担当者,អ្ន ក  ួលខុសម្រតូេ
+カンボジア語,83,13,スイッチ入れるな,កុំធបើកេរនត អ្គ្ិគ សនី
+カンボジア語,84,14,スイッチ切るな,កុំបិ េរនត អ្គ្ិគ នសី
+カンボジア語,85,15,使用禁止,ហាមធម្របើម្រាស់
+カンボジア語,87,1,5S,ស ៥
+カンボジア語,88,2,整理,មាៃរបបៀប
+カンボジア語,89,3,整頓,បរៀបរយ
+カンボジア語,90,4,清掃,សមាា  ត
+カンボジア語,91,5,清潔,ស្ថា ត
+カンボジア語,92,6,しつけ,វិៃ័យ
+カンボジア語,93,7,掃除（する）,(ប្ីវការ)សមាា  ត
+カンボジア語,95,8,片づける,បរៀបចាំ
+カンボジア語,96,9,捨てる,បចល
+カンボジア語,97,10,汚い,ក្ខ្វ ក្់
+カンボジア語,98,11,汚れる,ប្លាក្់
+カンボジア語,99,12,分別（する）,(ប្ីវការ)ដបងដចក្
+カンボジア語,100,13,燃えないごみ,ស មា្មមិៃប ះ
+カンボジア語,101,14,燃えるごみ,ស មា្មប ះ
+カンボジア語,102,15,挟まれる,គ្នប
+カンボジア語,103,16,巻き込まれる,ត្ូវាៃពាក្់ព័ៃធ
+カンボジア語,104,17,やけど（する）,(មាៃ)រលាក្
+カンボジア語,105,18,落ちる,្្ះរ
+カンボジア語,106,19,すべる,រអិល
+カンボジア語,108,20,転ぶ,ែួល
+カンボジア語,109,21,濡れる,បសើម
+カンボジア語,110,22,衛生,អនាម័យ
+カンボジア語,111,23,避難（する）,(ប្ីវការ)្បមែៀស
+カンボジア語,112,24,救急車,ឡាៃសប ងា្គ ះបនាា  ៃ់
+カンボジア語,113,25,災害,ប គ្ន្ះមហៃត ោយ
+カンボジア語,114,26,地震,ការរញ្ជ យួ   ែី
+カンボジア語,115,27,もぐる,មុ្
+カンボジア語,117,1,火気厳禁,ហាមដាច់ខាតប រ្ើប្លើង
+カンボジア語,118,2,開放厳禁,ហាមដាច់ខាតបរើកចំហ
+カンボジア語,119,3,標識,សញ្ញា
+カンボジア語,120,4,気をつける,ខ្ំញនឹង រ្ងុ រ្យ័តន
+カンボジア語,121,5,持ち込む,យកចូល
+カンボジア語,122,6,防ぐ,រង្កា រ
+カンボジア語,123,7,火,ប្លើង
+カンボジア語,124,8,煙,ផ្សែង
+カンボジア語,125,9,消火,ព្នល ត់អគ្ិគ ្័យ
+カンボジア語,126,10,消火器,ឧរករណ៍ព្នល ត់អគ្ិគ ្័យ
+カンボジア語,127,11,非常ベル,កណឹត ងអាសនន
+カンボジア語,128,12,火災報知機,កណឹត ង រ្កាសអគ្ិគ ្័យ
+カンボジア語,129,13,逃げる,រត់បគ្ច
+カンボジア語,130,14,現場,កផ្នល ងការង្ករ
+カンボジア語,131,15,作業,ការង្ករ
+カンボジア語,132,16,ミーティング,ការ រ្ជុំ
+カンボジア語,133,17,研修（する）,(ប្វើការ)កមមសិកា
+カンボジア語,135,18,実習（する）,(ប្វើការ)សិកា
+カンボジア語,136,19,あいさつ,ររវកិចច
+カンボジア語,137,20,確認（する）,(ប្វើការ)រញ្ញា  ក់
+カンボジア語,138,21,報告（する）,(ប្វើការ)ការោយការណ៍
+カンボジア語,139,22,連絡（する）,(ប្វើការ)ទាក់ទង
+カンボジア語,140,23,相談（する）,(ប្វើការ)ព្ិភាកា
+カンボジア語,141,24,渡す,ឆ្លងកាត់
+カンボジア語,142,25,申請書,ពាកែបសន ើសុំ
+カンボジア語,143,26,寝坊（する）,(ប្វើការ)បគ្ង ជ្ុល
+カンボジア語,147,1,技能,
+カンボジア語,148,2,技能検定試験,
+カンボジア語,149,3,受検（する）,
+カンボジア語,150,4,資格,
+カンボジア語,151,5,手当,
+カンボジア語,152,6,社員,
+カンボジア語,153,7,部長,
+カンボジア語,154,8,課長,
+カンボジア語,155,9,更衣室,
+カンボジア語,156,10,台車,
+カンボジア語,157,11,床,
+カンボジア語,158,12,出口,
+カンボジア語,159,13,電気,
+カンボジア語,160,14,警報音,
+カンボジア語,161,15,コンセント,
+カンボジア語,162,16,作業場,
+カンボジア語,163,17,作業台,
+カンボジア語,164,18,工事現場,
+カンボジア語,165,19,職長,
+カンボジア語,166,20,作業責任者,
+カンボジア語,170,1,禁止,
+カンボジア語,171,2,表示板,
+カンボジア語,172,3,禁止事項,
+カンボジア語,173,4,避難訓練,
+カンボジア語,174,5,感電（する）,
+カンボジア語,175,6,防止（する）,
+カンボジア語,176,7,予防（する）,
+カンボジア語,177,8,転倒（する）,
+カンボジア語,178,9,挟まる,
+カンボジア語,179,10,足元,
+カンボジア語,180,11,不安定（な）,
+カンボジア語,181,12,後片付け,
+カンボジア語,182,13,救急箱,
+カンボジア語,183,14,絆創膏,
+カンボジア語,184,15,体調,
+カンボジア語,185,16,血,
+カンボジア語,186,17,熱中症,
+カンボジア語,187,18,吐き気,
+カンボジア語,188,19,嘔吐（する）,
+カンボジア語,189,20,足がつる,
+カンボジア語,190,21,気分が悪い,
+カンボジア語,191,22,寝不足,
+カンボジア語,192,23,安全ネット,
+カンボジア語,193,24,安全点検,
+カンボジア語,197,1,KY活動（危険予知活動）,
+カンボジア語,198,2,危険,
+カンボジア語,199,3,ぶつかる,
+カンボジア語,200,4,当たる,
+カンボジア語,201,5,下敷きになる,
+カンボジア語,202,6,打つ,
+カンボジア語,203,7,バランスを崩す,
+カンボジア語,204,8,倒れる,
+カンボジア語,205,9,転落（する）,
+カンボジア語,206,10,指差呼称,
+カンボジア語,207,11,ヒヤリハット,
+カンボジア語,208,12,原因,
+カンボジア語,209,13,対策,
+カンボジア語,210,14,落下（する）,
+カンボジア語,211,15,墜落（する）,
+カンボジア語,212,16,確認（する）,
+カンボジア語,216,1,作業着,សម្លៀកបំពាក់ម្វើការ
+カンボジア語,218,2,作業服,សម្លៀកបំពាក់ការងារ
+カンボジア語,219,3,作業靴,ស្សែកម ើងការងារ
+カンボジア語,220,4,手袋,មរោ្ដៃ
+カンボジア語,223,5,帽子,្ួក
+カンボジア語,224,6,保護帽（ヘルメット）,្ួកការពារ(្ួកបងាា រ មររោះថ្នា ក់)
+カンボジア語,227,7,保護具,ឧបករណ៏បងាា រមររោះថ្នា ក់
+カンボジア語,228,8,あごひも,ស្សែរកវ៉ា ត់ចងាា រ
+カンボジア語,229,9,ボタン,មេវ
+カンボジア語,231,10,ポケット,មោម ៉ៅ
+カンボジア語,235,11,保護メガネ,ស្វនតាការពារ
+カンボジア語,236,12,マスク,ម៉ៅ ស់
+カンボジア語,237,13,耳栓,ឆ្ន ុករតមចៀក
+カンボジア語,238,14,安全靴,ស្សែកម ើងសុវតិថភាព
+カンボジア語,239,15,墜落制止用器具（安全帯）,ឧបករណ៏សំរាប់បញ្ឈប់ ការធ្លល ក់ចុោះ(ស្សែរកវ៉ា ត់ សុវតិថភាព)
+カンボジア語,244,16,業務,កិចចការ
+カンボジア語,245,17,時間厳守,របកាន់មពលមវលាខាា  ប់សជ នួ
+カンボジア語,246,18,予定,គមរមង
+カンボジア語,247,19,日付,កាលបរិមចេទ
+カンボジア語,248,20,準備（する）,(ការ)មរតៀ្
+カンボジア語,249,21,会議,ការរប ុំ
+カンボジア語,250,22,朝礼,ការរប ុំមពលរពឹក
+カンボジア語,251,23,報告書,មសចកីត រាយការណ៏
+カンボジア語,252,24,マニュアル,មសៀវមៅស្ណនំ
+カンボジア語,253,25,作業手順書,ឯកោរនីតិវិ្ីការងារ
+カンボジア語,254,26,調子,ចលនកន ុងសល នួ
+カンボジア語,256,1,立入禁止,ហាមចូល
+カンボジア語,257,2,禁煙,ហាមជក់បារី
+カンボジア語,258,3,火気厳禁,ហាមបង្កា ត់ភ្លើង
+カンボジア語,259,4,駐車禁止,ហាមចត
+カンボジア語,260,5,足もと注意,ប្បយ័តនប ៉ះភជើង
+カンボジア語,261,6,開口部注意,ប្បយ័តនផ្ននកភបើកចំហ
+カンボジア語,262,7,感電注意,ប្បយ័តនឆក់
+カンボジア語,263,8,堕落注意,ប្បយ័តនធ្លល ក់
+カンボジア語,264,9,頭上注意,ប្បយ័តនភលើកាល
+カンボジア語,265,10,警報設備,កផ្លល ងចុចប្បកាសអាសលន
+カンボジア語,267,11,消火器,បំពង់ពលល ត់អគ្ិគ ្័យ
+カンボジア語,268,12,AED設置場所,ទីតំងបំពាក់AED
+カンボジア語,269,13,保護帽着用,ពាក់មួកការពារ(មួក បង្កា រភប្រ៉ះថ្នន ក់)
+カンボジア語,270,14,安全帯使用,ភប្បើផ្សែប្កវ៉ា ត់សុវតិថ ភាព
+カンボジア語,271,15,昇降階段,ជភ្ត ើរភ ើងចុ៉ះ
+カンボジア語,272,16,休憩所,កផ្លល ងសប្ាក
+カンボジア語,273,17,最大積載荷重,សមតថភាពនុទ កអតិបរា
+カンボジア語,274,18,喫煙所,កផ្លល ងជក់បារី
+カンボジア語,275,19,整理整頓,ភរៀបចំ សណ្តត  ប់ធ្លន ប់
+カンボジア語,276,20,安全通路,នូល  វសុវតិថ ភាព
+カンボジア語,278,1,,
+カンボジア語,279,2,,
+カンボジア語,280,3,,
+カンボジア語,281,4,,
+カンボジア語,282,5,,
+カンボジア語,283,6,,
+カンボジア語,284,7,,
+カンボジア語,285,8,,
+カンボジア語,286,9,,
+カンボジア語,287,10,,
+カンボジア語,289,11,,
+カンボジア語,290,12,,
+カンボジア語,291,13,,
+カンボジア語,292,14,,
+カンボジア語,293,15,,
+カンボジア語,294,16,,
+カンボジア語,295,17,,
+カンボジア語,296,18,,
+カンボジア語,297,19,,
+カンボジア語,298,20,,
+カンボジア語,299,21,,
+カンボジア語,301,22,,
+カンボジア語,302,23,,
+カンボジア語,303,24,,
+カンボジア語,304,25,,
+カンボジア語,306,1,親綱,ខ្សែពួរមេ
+カンボジア語,307,2,建枠（ビティ）,គំរបឈ្នន ន់(ប៊ី ្ី)
+カンボジア語,308,3,メッシュシート,ក្កណាត់សំណាញ់
+カンボジア語,309,4,防音パネル,ផ្ា ំង ប់សមេលង
+カンボジア語,310,5,朝顔材,ផ្ា ំងមក្ៅសក្ម្ខប់ការពារ
+カンボジア語,311,6,架空線,ខ្សែមលើ
+カンボジア語,312,7,幅木（仮設足場）,កាត របំងមជើង(កខ្នល ង ដ្ឋក់មជើងបមណាត  ះោសនន )
+カンボジア語,313,8,単管,បំពង់ឯក
+カンボジア語,314,9,脚立,ជមណត ើរមកាង
+カンボジア語,316,10,作業半径,កាំក្បតិបតិត ការងារ
+カンボジア語,317,11,仮ボルト,បូ  ុងបមណាត  ះោសនន
+カンボジア語,318,12,手直し,ខ្កម ើងវិញ
+カンボジア語,319,13,面一,មោយនផាទំងពីរមសម ើរន
+カンボジア語,320,14,点検事項,ក្បការក្តួតពិនិតយ
+カンボジア語,321,15,積載荷重, េងន់ចំណុះដ្ឋក់
+カンボジア語,322,16,すき間,ចមន្ទល  ះ
+カンボジア語,323,17,通りを見る,ពិនិតយផូល  វថ្នល់
+カンボジア語,324,18,組立,តមេលើង
+カンボジア語,325,19,地組,ការផ្ំគេូលដ្ឋា ន
+カンボジア語,327,20,天端,ខ្ផនកខ្ទងមលើននសំណង់
+カンボジア語,328,21,玉掛け,ចំណងTamagake
+カンボジア語,329,22,合図,សញ្ញា
+カンボジア語,330,23,定格荷重, េងន់តេខ្ទន ត
+カンボジア語,331,24,たち,បញ្ឈរ
+カンボジア語,332,25,職長,មេការ
+カンボジア語,334,1,安全カバー,គម្របសុវត្ិថ ភាព
+カンボジア語,335,2,安全帯,ផ្ខ្ែម្កវា៉ា ត្់សុវត្ិថ ភាព
+カンボジア語,336,3,インサート,បញ្ូច ល
+カンボジア語,337,4,スペーサ,ឧបករណ៏រកាចស្ែ  ោះ
+カンボジア語,338,5,鉄筋,សរសសផ្ ក
+カンボジア語,339,6,電工ドラム（ドラム）,ផ្ខ្ែស្ែើងរំផ្វង( ូ រ៉ា រ រុ  )
+カンボジア語,340,7,電動丸のこ（電のこ）,រណាម៉ា សុ៊ីន(ស ង ណូ កូ )
+カンボジア語,341,8,パッキン,ថ្នា ំបិទ ិត្
+カンボジア語,342,9,小バール,ផ្ ករស់ត្ូច
+カンボジア語,343,10,大バール,ផ្ ករស់ធំ
+カンボジア語,345,11,化粧合板,កាា បនទ ោះត្ុបផ្ត្ង
+カンボジア語,346,12,普通合板,កាា បនា ោះធរមតា
+カンボジア語,347,13,スタイロフォーム,បនទ ោះសនា
+カンボジア語,348,14,面木,ស ើបសងាើត្សលទរុខ្សៅម្ ុង
+カンボジア語,349,15,バイブレーター,ម៉ា ស៊ីុនរំញ៉ារ័
+カンボジア語,350,16,剥離剤,ថ្នា ំសំណក
+カンボジア語,351,17,けこみ板,កាា បញ្ឈរ
+カンボジア語,352,18,目地棒, ំបូងោក់កាច់ម្ ុង
+カンボジア語,353,19,コンクリート,សបត្ុង
+カンボジア語,354,20,コンベックス,ឧបករណ៏វាស់ផ្វង
+カンボジア語,356,21,作業用手袋,សម្នរស ការង្ករ
+カンボジア語,357,22,差金,ផ្ កបញ្ូច ល
+カンボジア語,358,23,水平器,ផ្រ៉ាម្ត្សទ ង់
+カンボジア語,359,24,墨さし,បិចសធវើព៊ីឬស៊ីែ
+カンボジア語,360,25,墨つぼ,ប្ទ  ត្់ផ្ខ្ែ
+カンボジア語,362,1,"丸セパレーター
+（丸セパ）","ឧបករណ៏បំបបករូបរាងមូល
+(ម៉ា រ៉ុ សេប៉ា )"
+カンボジア語,363,2,天端釘,"បែកសោលបនែកខាងសលើនៃ
+េំណង់"
+カンボジア語,364,3,ケレン,ការេំសលៀង
+カンボジア語,365,4,型枠支保工,េ៉ុ មេរមប់ចាក់សបត៉ុង
+カンボジア語,366,5,"基礎型枠
+（メタルフォーム）",េ៉ុ មរ្រោះ(សមតាលហ្វ ម)
+カンボジア語,367,6,釘仕舞い,េំរួលបែកសោល
+カンボジア語,368,7,スラブ天端,រកឡាបនែកខាងសលើនៃេំណង់
+カンボジア語,369,8,高さ（タッパ）,កំពេ់
+カンボジア語,370,9,建込み,សលើកយួរសហ្ើយោក់
+カンボジア語,372,10,通り,នូល  វលំ
+カンボジア語,373,11,蹴上げ,កំពេ់ជំហាៃកាំជសណា ើរ
+カンボジア語,374,12,蹴込み,បនែកខាងកន គងសៅកាំជសណា ើរ
+カンボジア語,375,13,工具の手入れ,សរៀបេំោតឧបករណ៏
+カンボジア語,376,14,下げ振り,ឧបករណ៏វាេ់បញ្ឈររតង់
+カンボジア語,377,15,地墨,សាែ មេញ្ជា  កំណត់រីតាំង
+カンボジア語,378,16,捨てコンクリート,ចាក់សបត៉ុងសេា ើង(សបត៉ុង សចាល)
+カンボジア語,379,17,はね出し,ការសចញកាា ពីបសគោ ល
+カンボジア語,380,18,はらみ,ភ្ជពសប៉ា ងច៉ុោះ
+カンボジア語,382,19,前面,ននៃខាងម៉ុខ
+カンボジア語,383,20,養生,រ៉ុុំព័រធ
+カンボジア語,384,21,レベル,កំពេ់
+カンボジア語,385,22,割付,បបងបចក
+カンボジア語,386,23,埋め込み金物,ឧបករណ៏បែកបងោប់
+カンボジア語,387,24,解体する（バラス）,ការបំបបក
+カンボジア語,388,25,かぶり寸法,ករមេ់រ្ប
+カンボジア語,390,1,異形棒鋼,ឧបករណ៏ពង្រឹរបបតុរ រូបរារពិបេេ
+カンボジア語,391,2,結束線,ដសែរឹតចំណរ
+カンボジア語,392,3,結束工具,ឧបករណ៏រឹតចរ
+カンボジア語,393,4,鉄筋切断機,ម  េ៊ីុនកាត់េរសេដែក
+カンボジア語,394,5,鉄筋曲げ加工機,ម  េ៊ីុនពត់េរសេដែក
+カンボジア語,395,6,フック,េំពក់
+カンボジア語,396,7,保護帽（ヘルメット）,ម្ួកការពារ
+カンボジア語,397,8,アンカー,ដែកយុថាា
+カンボジア語,398,9,加工場,កដនល រដកសនែ
+カンボジア語,399,10,スペーサ―,ឧបករណ៏រកាចប្ល  ះ
+カンボジア語,401,11,ドーナツ,ឧបករណ៏រកាចប្ល  ះរារ ជាររវរ់(ែូណាត់)
+カンボジア語,402,12,加工配筋図,បល រ់ោក់េសេដែកដកសនែ
+カンボジア語,403,13,配筋詳細図,បល រ់លំអិតោក់េរសេដែក
+カンボジア語,404,14,開口補強筋,េរសេដែកពង្រឹរដនែក បបើកចំ រ
+カンボジア語,405,15,幅止め筋,េរសេដែកពង្រឹរ
+カンボジア語,406,16,差筋,េរសេដែកចប្ល  ះេំណរ់
+カンボジア語,407,17,柱主筋,េរសេដែកេេរបម្
+カンボジア語,408,18,柱配筋,ោក់េរសេដែកកន គរេេរ
+カンボジア語,409,19,スラブ筋,េរសេង្កឡា
+カンボジア語,410,20,ベース筋,េរសេង្គឹះ
+カンボジア語,412,21,帯筋（フープ）,េរសេដែកេប់េល់ការ ដបកបបតុរេេរ( ឺវ ប ពុ)
+カンボジア語,413,22,下端筋,េរសេខារបង្កាម្ខារចុរ
+カンボジア語,414,23,上端筋,េរសេខារចុរខារបលើ
+カンボジア語,415,24,主筋,េរសេបម្
+カンボジア語,416,25,あばら筋,េរសេដែកលកា ណ:នឹអ រជំនឺ
+カンボジア語,418,1,はかま筋,សរសសដែកលកខ ណ:កន្រ្ត ក
+カンボジア語,419,2,縦筋,សរសសដែកបញ្ឈរ
+カンボジア語,420,3,下筋,សរសសដែកខាងឡន្កាម
+カンボジア語,421,4,横筋,សរសសដែកឡផតក
+カンボジア語,422,5,腹筋,សរសសដែកដាក់ទទឹង
+カンボジア語,423,6,配力筋,សរសសដែកដាក់ឈរន្តង់
+カンボジア語,424,7,上筋,សរសសដែកខាងឡលើ
+カンボジア語,425,8,スパイラル筋,សរសសដែកលកខ ណ:រងវង់
+カンボジア語,426,9,鉄筋径,វិជាមាន្តសរសសដែក
+カンボジア語,427,10,かぶり厚さ,កមាល  ស់ន្គប
+カンボジア語,429,11,角度,មុុំ
+カンボジア語,430,12,シングル,ឯក
+カンボジア語,431,13,ダブル,ឡទវ
+カンボジア語,432,14,千鳥結束,ចុំណងចឡ្ល  ោះគ្នា
+カンボジア語,433,15,切断寸法,ទុំហុំដផាកកាត់
+カンボジア語,434,16,加工寸法,ទុំហុំដកសនា
+カンボジア語,435,17,重ね継手,តុំណជា្់គ្នា
+カンボジア語,436,18,圧接継手,តុំណគ្នប
+カンボジア語,437,19,開口部,ដផាកឡបើកចុំហរ
+カンボジア語,438,20,溶接金網,សុំណាញ់ដែកផា
+カンボジア語,440,21,搬出,ការែឹកឡចញ
+カンボジア語,441,22,搬入,ការែឹកចូល
+カンボジア語,442,23,基礎,ន្គឹោះ
+カンボジア語,443,24,機械式継手,តុំណឡដាយមា៉ា សីុ្
+カンボジア語,444,25,配筋検査,ការន្តួតពិ្ិតយការដាក់ សរសសដែក
+カンボジア語,446,1,トラクタ,ត្រាក់ទរ័
+カンボジア語,447,2,ブルドーザ,គត្រេឿងចត្រករុញែី
+カンボジア語,448,3,トラクタショベル,ត្រាក់ទ័រឈូសែី
+カンボジア語,449,4,ホイルローダ,រ ឡូូ   កិនែី
+カンボジア語,450,5,ダンプトラック,ត្រាក់ទ័រែឹកែី
+カンボジア語,451,6,油圧ショベル,គត្រេឿងចត្រកកាយែីអីុត្រែូ លិក
+カンボジア語,452,7,バックホウ,ត្រាក់ទរ័កាយែី(គអសស្កា )
+カンボジア語,453,8,ローディングショベル,គត្រេឿងចត្រកចូកែី
+カンボジア語,454,9,ローラ,រ ឡូូ   កិន
+カンボジア語,456,10,バケット,ដប៉ាលចូក
+カンボジア語,457,11,ブーム,ែងសនទ ចូ
+カンボジア語,458,12,アーム,ដែគលើក
+カンボジア語,459,13,ブレード（排土板）,ដប៉ាលរុញ(ដប៉ាលរុញែី)
+カンボジア語,460,14,タイヤ,សំបកកង់
+カンボジア語,461,15,クローラ,ត្រចវាក់
+カンボジア語,462,16,キー（鍵）,គស្ក
+カンボジア語,463,17,"作業装置
+（アタッチメント）","ឧបករណ៏ការងារ
+(attachment)"
+カンボジア語,464,18,エンジン,ម៉ា សុីន
+カンボジア語,466,19,ディーゼルエンジン,ម៉ា សុីនគត្របើម៉ា សូ រ
+カンボジア語,467,20,エンジンオイル,គត្របងម៉ា សុីន
+カンボジア語,468,21,"オルタネータ
+（充電発電機）",ម៉ា សុីនស្កកថ្ម
+カンボジア語,469,22,バッテリ,អាេុយ
+カンボジア語,470,23,燃料,គត្របងឥណឌ ន:
+カンボジア語,471,24,軽油,គត្របងត្រស្កល(ម៉ា សូ រ)
+カンボジア語,472,25,ブレーキ,ត្រ្ំវ ង
+カンボジア語,474,1,油圧シリンダ,ស៊ី ឡាំងអ៊ី ដ្រូលិក
+カンボジア語,475,2,油圧モータ,ម៉ូ ទ័រអ៊ី ដ្រូលិក
+カンボジア語,476,3,油圧ポンプ,សន ប់ប៉ូមអ៊ី ដ្រូលិក
+カンボジア語,477,4,水漏れ,លលចធ្លា យទឹក
+カンボジア語,478,5,油漏れ,លលចធ្លា យលដ្បង
+カンボジア語,479,6,冷却水,"ទឹកដាក់ឱ្យដ្រជាក់
+(ម  ស៊ី ន)"
+カンボジア語,480,7,ブレーキ液,លដ្បងដ្្រ ាំង
+カンボジア語,481,8,燃料タンク,ធ ងឥនធ នៈ
+カンボジア語,482,9,ファンベルト,ខ្សែពានកង្ហា រ
+カンボジア語,483,10,空気圧,សមា  ធសយល់
+カンボジア語,484,11,クラッチ,អាំដ្ាយ 
+カンボジア語,485,12,急発進,ចាប់ល្តើមលលឿន
+カンボジア語,486,13,急ブレーキ,ចាប់ដ្្រ ាំងបន្ទា  ន់
+カンボジア語,488,14,アイドリング,បល្ឆ េះលចាល
+カンボジア語,489,15,走行,លបើកបរ
+カンボジア語,490,16,旋回,បរ់
+カンボジア語,491,17,安全ロック,លោស វរិថភាេ
+カンボジア語,492,18,安全支柱,សសរស វរិថភាេ
+カンボジア語,493,19,補給（する）,(ោរ)បខ្នថ ម
+カンボジア語,494,20,駐車（する）,(ោរ)ចររថយនត
+カンボジア語,495,21,歩行者,អន កលថមើរល ើង
+カンボジア語,496,22,車両,រថយនត
+カンボジア語,497,23,死角,ដ្ ុងលមើលមិនល ើញ
+カンボジア語,498,24,斜面, ដ្មល
+カンボジア語,499,25,転圧（する）,(ោរ)រលមៀល
+カンボジア語,501,1,接触（する）,(ការ)ប ៉ះទង្ិគច
+カンボジア語,502,2,作動（する）,(ការ)ដំដ ើរការ
+カンボジア語,503,3,整備（する）,(ការ)ដរៀបចំថែសំរួល
+カンボジア語,504,4,点検（する）,(ការ)ត្រួរពិនិរយ
+カンボジア語,505,5,動かす,បត រូកថនែ ង្
+カンボジア語,506,6,運転（する）,(ការ)ដបើកបរ
+カンボジア語,507,7,測る,វាស់
+カンボジア語,508,8,操作（する）,(ការ)ត្បរិបរិតការ
+カンボジア語,509,9,停止（する）,(ការ)ឈប់
+カンボジア語,510,10,切る,ការ់ ឬ ពនែ រ់
+カンボジア語,511,11,回す,បង្ិវល
+カンボジア語,512,12,押す,រ ញ
+カンボジア語,513,13,集める,ត្បមូល
+カンボジア語,514,14,触る,ស្ទា ប
+カンボジア語,515,15,縛る,ចង្ជាប់
+カンボジア語,516,16,揃える,រត្មឹម
+カンボジア語,517,17,結ぶ,ចង្
+カンボジア語,518,18,しゃがむ,អង្គ ុយ(ដចាង្ដោង្)
+カンボジア語,519,19,調整（する）,(ការ)ថកសំរួល
+カンボジア語,520,20,閉じる,បិទ
+カンボジア語,522,1,取り出す,យកចេញ
+カンボジア語,523,2,戻す,ដាក់ចៅវិញ
+カンボジア語,524,3,仕上げる,ច្វើចោយច ើយ
+カンボジア語,525,4,折れる,បាក់
+カンボジア語,526,5,欠ける,ដែប
+カンボジア語,527,6,近づく,ចៅជិត
+カンボジア語,528,7,電源を入れる,ចបើកថាមពលច្ែើង
+カンボジア語,529,8,電源を落とす,បិទថាមពលច្ែើង
+カンボジア語,530,9,スイッチを切る,បិទកុងតាក់
+カンボジア語,531,10,固定（する）,(ការ)េងភ្ជា  ប់
+カンボジア語,532,11,ゆるめる,បនធ រូ
+カンボジア語,533,12,伸ばす,ពនល តូ
+カンボジア語,534,13,外す,ចដាោះ
+カンボジア語,535,14,曲げる,ពត់
+カンボジア語,536,15,出す,បចចេ ញ
+カンボジア語,537,16,乾かす,សមង តួ
+カンボジア語,538,17,数える,រាប់
+カンボジア語,539,18,運ぶ,ចលើក
+カンボジア語,540,19,積む,លុទ ក
+カンボジア語,541,20,下ろす,ដាក់េុោះ
+カンボジア語,542,21,離れる,ឃ្លែ  តចេញ
+カンボジア語,544,1,位置,
+カンボジア語,545,2,寸法,
+カンボジア語,546,3,測定（する）,
+カンボジア語,547,4,計測（する）,
+カンボジア語,548,5,計測器,
+カンボジア語,549,6,温度,
+カンボジア語,550,7,高さ,
+カンボジア語,551,8,長さ,
+カンボジア語,552,9,重さ,
+カンボジア語,553,10,厚さ,
+カンボジア語,554,11,硬さ,
+カンボジア語,555,12,深さ,
+カンボジア語,556,13,表面,
+カンボジア語,557,14,すきま,
+カンボジア語,558,15,中心,
+カンボジア語,560,16,値,
+カンボジア語,561,17,安定（する）,
+カンボジア語,562,18,大きさ,
+カンボジア語,563,19,数,
+カンボジア語,564,20,誤差,
+カンボジア語,565,21,中,
+カンボジア語,566,22,反対,
+カンボジア語,567,23,周り,
+カンボジア語,568,24,尺,
+カンボジア語,569,25,青,
+カンボジア語,570,26,赤,
+カンボジア語,571,27,白,
+カンボジア語,572,28,黄色,
+カンボジア語,575,1,片づける,
+カンボジア語,576,2,捨てる,
+カンボジア語,577,3,掃く,
+カンボジア語,578,4,持ち上げる,
+カンボジア語,579,5,束ねる,
+カンボジア語,580,6,足をくじく,
+カンボジア語,583,1,一輪車,
+カンボジア語,584,2,支柱,
+カンボジア語,585,3,ショベル,
+カンボジア語,586,4,かけや,
+中国語,3,1,技能実習,技能实习
+中国語,4,2,技能実習生,技能实习生
+中国語,5,3,工場,工厂
+中国語,6,4,製造,制造
+中国語,7,5,機械,机械
+中国語,8,6,安全,安全
+中国語,9,7,危険（な）,危险（的）
+中国語,10,8,危ない,危险
+中国語,11,9,清掃,清扫
+中国語,12,10,非常口,安全出口
+中国語,13,11,注意,注意
+中国語,14,12,火事,火灾
+中国語,15,13,事故,事故
+中国語,16,14,服装,服装
+中国語,17,15,安全装置,安全装置
+中国語,21,1,安全カバー,安全罩
+中国語,22,2,けが,创伤
+中国語,23,3,けがをする,受伤
+中国語,24,4,電源,电源
+中国語,25,5,電源を切る,关闭电源
+中国語,26,6,非常停止ボタン,紧急停止按钮
+中国語,27,7,非常停止ボタンを押す,按下紧急停止按钮
+中国語,28,8,ルール,规则
+中国語,29,9,ルールを守る,遵守规则
+中国語,30,10,止める,停止
+中国語,31,11,機械を止める,关掉机器
+中国語,32,12,やって,做
+中国語,33,13,止めて,停止
+中国語,34,14,取って,拿
+中国語,35,15,だめ（な）,不可以（的）
+中国語,39,1,監理団体,监理团体
+中国語,40,2,技術移転,技术转移
+中国語,41,3,技能実習期間,技能实习期间
+中国語,42,4,職種,工种
+中国語,43,5,在留資格,在留资格
+中国語,44,6,パスポート,护照
+中国語,45,7,在留カード,在留卡
+中国語,46,8,入管,入管
+中国語,47,9,在留期間,在留期间
+中国語,48,10,雇用契約,劳动合同
+中国語,49,11,給与明細,工资明细
+中国語,50,12,給料,工资
+中国語,51,13,残業手当,加班费
+中国語,52,14,労働時間,劳动时间
+中国語,54,1,控除（する）,扣除
+中国語,55,2,ボーナス,奖金
+中国語,56,3,有休,带薪休假
+中国語,57,4,代休,补休
+中国語,58,5,労働基準法,劳动基准法
+中国語,59,6,労働条件,劳动条件
+中国語,60,7,税金,税金
+中国語,61,8,所得税,所得税
+中国語,62,9,住民税,住民税
+中国語,63,10,厚生年金,厚生年金
+中国語,64,11,雇用保険,失业保险
+中国語,65,12,健康保険,健康保险
+中国語,67,13,社会保険,社会保险
+中国語,68,14,労災,工伤
+中国語,69,15,労災保険,工伤保险
+中国語,71,1,遅刻（する）,迟到
+中国語,72,2,早退（する）,早退
+中国語,73,3,休憩（する）,休息
+中国語,74,4,残業（する）,加班
+中国語,75,5,定時,准时
+中国語,76,6,規則,规则
+中国語,77,7,休日,休息日
+中国語,78,8,始業時間,上班时间
+中国語,79,9,終業時間,下班时间
+中国語,80,10,指導員,指导员
+中国語,81,11,生活指導員,生活指导员
+中国語,82,12,担当者,负责人
+中国語,83,13,スイッチ入れるな,不许打开开关
+中国語,84,14,スイッチ切るな,不许关闭开关
+中国語,85,15,使用禁止,禁止使用
+中国語,87,1,5S,5S
+中国語,88,2,整理,整理
+中国語,89,3,整頓,整顿
+中国語,90,4,清掃,清扫
+中国語,91,5,清潔,清洁
+中国語,92,6,しつけ,素养
+中国語,93,7,掃除（する）,扫除
+中国語,95,8,片づける,收拾
+中国語,96,9,捨てる,扔掉
+中国語,97,10,汚い,脏
+中国語,98,11,汚れる,弄脏
+中国語,99,12,分別（する）,分类
+中国語,100,13,燃えないごみ,不可燃垃圾
+中国語,101,14,燃えるごみ,可燃垃圾
+中国語,102,15,挟まれる,被夹住
+中国語,103,16,巻き込まれる,被卷进
+中国語,104,17,やけど（する）,灼伤
+中国語,105,18,落ちる,摔下来
+中国語,106,19,すべる,滑
+中国語,108,20,転ぶ,跌倒
+中国語,109,21,濡れる,弄湿
+中国語,110,22,衛生,卫生
+中国語,111,23,避難（する）,逃生、避难疏散
+中国語,112,24,救急車,救护车
+中国語,113,25,災害,灾害
+中国語,114,26,地震,地震
+中国語,115,27,もぐる,钻到
+中国語,117,1,火気厳禁,严禁烟火
+中国語,118,2,開放厳禁,严禁开放
+中国語,119,3,標識,标识
+中国語,120,4,気をつける,注意、当心
+中国語,121,5,持ち込む,带进
+中国語,122,6,防ぐ,防止
+中国語,123,7,火,火
+中国語,124,8,煙,烟
+中国語,125,9,消火,灭火
+中国語,126,10,消火器,灭火器
+中国語,127,11,非常ベル,消防警铃
+中国語,128,12,火災報知機,火灾报警器
+中国語,129,13,逃げる,逃离
+中国語,130,14,現場,现场
+中国語,131,15,作業,作业
+中国語,132,16,ミーティング,会议
+中国語,133,17,研修（する）,培训
+中国語,134,18,実習（する）,实习
+中国語,135,19,あいさつ,打招呼
+中国語,136,20,確認（する）,确认
+中国語,138,21,報告（する）,报告
+中国語,139,22,連絡（する）,联络
+中国語,140,23,相談（する）,商量
+中国語,141,24,渡す,交给
+中国語,142,25,申請書,申请书
+中国語,143,26,寝坊（する）,睡懒觉
+中国語,147,1,技能,
+中国語,148,2,技能検定試験,
+中国語,149,3,受検（する）,
+中国語,150,4,資格,
+中国語,151,5,手当,
+中国語,152,6,社員,
+中国語,153,7,部長,
+中国語,154,8,課長,
+中国語,155,9,更衣室,
+中国語,156,10,台車,
+中国語,157,11,床,
+中国語,158,12,出口,
+中国語,159,13,電気,
+中国語,160,14,警報音,
+中国語,161,15,コンセント,
+中国語,162,16,作業場,
+中国語,163,17,作業台,
+中国語,164,18,工事現場,
+中国語,165,19,職長,
+中国語,166,20,作業責任者,
+中国語,170,1,禁止,
+中国語,171,2,表示板,
+中国語,172,3,禁止事項,
+中国語,173,4,避難訓練,
+中国語,174,5,感電（する）,
+中国語,175,6,防止（する）,
+中国語,176,7,予防（する）,
+中国語,177,8,転倒（する）,
+中国語,178,9,挟まる,
+中国語,179,10,足元,
+中国語,180,11,不安定（な）,
+中国語,181,12,後片付け,
+中国語,182,13,救急箱,
+中国語,183,14,絆創膏,
+中国語,184,15,体調,
+中国語,185,16,血,
+中国語,186,17,熱中症,
+中国語,187,18,吐き気,
+中国語,188,19,嘔吐（する）,
+中国語,189,20,足がつる,
+中国語,190,21,気分が悪い,
+中国語,191,22,寝不足,
+中国語,192,23,安全ネット,
+中国語,193,24,安全点検,
+中国語,197,1,KY活動（危険予知活動）,KY活动（危险预测活动）
+中国語,198,2,危険,危险
+中国語,199,3,ぶつかる,碰撞
+中国語,200,4,当たる,碰、砸
+中国語,201,5,下敷きになる,被压在下面
+中国語,202,6,打つ,打
+中国語,203,7,バランスを崩す,失去平衡
+中国語,204,8,倒れる,倒下、晕倒
+中国語,205,9,転落（する）,跌倒、摔
+中国語,206,10,指差呼称,手指呼号
+中国語,207,11,ヒヤリハット,险兆
+中国語,208,12,原因,原因
+中国語,209,13,対策,对策
+中国語,210,14,落下（する）,掉落
+中国語,211,15,墜落（する）,坠落
+中国語,212,16,確認（する）,确认
+中国語,216,1,作業着,工装
+中国語,218,2,作業服,工作服
+中国語,219,3,作業靴,工作鞋
+中国語,220,4,手袋,手套
+中国語,223,5,帽子,帽子
+中国語,224,6,保護帽（ヘルメット）,安全帽
+中国語,226,7,保護具,防护用具
+中国語,228,8,あごひも,帽带
+中国語,229,9,ボタン,纽扣
+中国語,231,10,ポケット,口袋
+中国語,233,11,保護メガネ,防护眼镜
+中国語,235,12,マスク,口罩
+中国語,236,13,耳栓,耳栓
+中国語,237,14,安全靴,安全鞋
+中国語,238,15,墜落制止用器具（安全帯）,坠落防护装备（安全带）
+中国語,242,16,業務,业务、工作
+中国語,243,17,時間厳守,严守时间
+中国語,244,18,予定,计划
+中国語,245,19,日付,日期
+中国語,246,20,準備（する）,准备
+中国語,247,21,会議,会议
+中国語,248,22,朝礼,晨会、早礼
+中国語,249,23,報告書,报告书
+中国語,250,24,マニュアル,手册
+中国語,251,25,作業手順書,作业步骤手册
+中国語,252,26,調子,情况、样子
+中国語,254,1,立入禁止,禁止入内
+中国語,255,2,禁煙,禁止吸烟
+中国語,256,3,火気厳禁,严禁烟火
+中国語,257,4,駐車禁止,禁止停车
+中国語,258,5,足もと注意,注意脚下
+中国語,259,6,開口部注意,当心开口处
+中国語,260,7,感電注意,当心触电
+中国語,261,8,堕落注意,当心坠落
+中国語,262,9,頭上注意,当心头顶
+中国語,263,10,警報設備,警报设备
+中国語,265,11,消火器,灭火器
+中国語,266,12,AED設置場所,AED（自动体外除颤器）设置点
+中国語,267,13,保護帽着用,必须带安全帽
+中国語,268,14,安全帯使用,必须系安全带
+中国語,269,15,昇降階段,上下楼梯
+中国語,270,16,休憩所,休息区
+中国語,271,17,最大積載荷重,最大载荷
+中国語,272,18,喫煙所,吸烟处
+中国語,273,19,整理整頓,整理整顿
+中国語,274,20,安全通路,安全通道
+中国語,276,1,,
+中国語,277,2,,
+中国語,278,3,,
+中国語,279,4,,
+中国語,280,5,,
+中国語,281,6,,
+中国語,282,7,,
+中国語,283,8,,
+中国語,284,9,,
+中国語,285,10,,
+中国語,287,11,,
+中国語,288,12,,
+中国語,289,13,,
+中国語,290,14,,
+中国語,291,15,,
+中国語,292,16,,
+中国語,293,17,,
+中国語,294,18,,
+中国語,295,19,,
+中国語,296,20,,
+中国語,297,21,,
+中国語,299,22,,
+中国語,300,23,,
+中国語,301,24,,
+中国語,302,25,,
+中国語,304,1,親綱,主绳
+中国語,305,2,建枠（ビティ）,框架
+中国語,306,3,メッシュシート,纱布、苫布
+中国語,307,4,防音パネル,隔音板
+中国語,308,5,朝顔材,炉腹材料、防护棚
+中国語,309,6,架空線,架空电线
+中国語,310,7,幅木（仮設足場）,挡板（脚手架）
+中国語,311,8,単管,单管
+中国語,312,9,脚立,双面梯
+中国語,313,10,作業半径,工作半径
+中国語,315,11,仮ボルト,临时螺栓
+中国語,316,12,手直し,修改
+中国語,317,13,面一,拉平
+中国語,318,14,点検事項,检查项目
+中国語,319,15,積載荷重,装载负荷
+中国語,320,16,すき間,间隙、缝隙
+中国語,321,17,通りを見る,看中心点排齐、对齐通端
+中国語,322,18,組立,组装、搭建
+中国語,323,19,地組,预先装配
+中国語,324,20,天端,顶端
+中国語,326,21,玉掛け,挂吊钩
+中国語,327,22,合図,打信号
+中国語,328,23,定格荷重,额定负载
+中国語,329,24,たち,垂直度
+中国語,330,25,職長,工长
+中国語,332,1,安全カバー,安全罩
+中国語,333,2,安全帯,安全带
+中国語,334,3,インサート,插入、插件
+中国語,335,4,スペーサ,隔板
+中国語,336,5,鉄筋,钢筋
+中国語,337,6,電工ドラム（ドラム）,电钻
+中国語,338,7,電動丸のこ（電のこ）,电动圆锯机、电动圆盘锯
+中国語,339,8,パッキン,垫圈
+中国語,340,9,小バール,小铁挺
+中国語,341,10,大バール,大铁挺
+中国語,343,11,化粧合板,装饰合板
+中国語,344,12,普通合板,普通合板
+中国語,345,13,スタイロフォーム,泡沫塑料隔热板
+中国語,346,14,面木,三角木条
+中国語,347,15,バイブレーター,振动器
+中国語,348,16,剥離剤,剥离剂
+中国語,349,17,けこみ板,踏步踢面板
+中国語,350,18,目地棒,接缝棒
+中国語,351,19,コンクリート,混凝土
+中国語,352,20,コンベックス,钢卷尺
+中国語,354,21,作業用手袋,工作手套
+中国語,355,22,差金,角尺
+中国語,356,23,水平器,水平仪
+中国語,357,24,墨さし,墨壶
+中国語,358,25,墨つぼ,墨斗
+中国語,360,1,"丸セパレーター
+（丸セパ）",分离器、圆隔板
+中国語,361,2,天端釘,顶端钉子
+中国語,362,3,ケレン,表面处理、去掉多余的混凝土
+中国語,363,4,型枠支保工,模板支架
+中国語,364,5,"基礎型枠
+（メタルフォーム）",基础模板
+中国語,365,6,釘仕舞い,收拾钉子
+中国語,366,7,スラブ天端,板顶端、板顶
+中国語,367,8,高さ（タッパ）,高度
+中国語,368,9,建込み,搭建
+中国語,369,10,通り,通端
+中国語,371,11,蹴上げ,踏级高度
+中国語,372,12,蹴込み,踏级垂直挡板
+中国語,373,13,工具の手入れ,维护工具
+中国語,374,14,下げ振り,垂标坠
+中国語,375,15,地墨,墨
+中国語,376,16,捨てコンクリート,混凝土制模板
+中国語,377,17,はね出し,踏板等成悬臂部位
+中国語,378,18,はらみ,包藏、凸起、弯曲
+中国語,379,19,前面,前面、正面
+中国語,380,20,養生,保养、固化
+中国語,382,21,レベル,水平
+中国語,383,22,割付,分配、分割
+中国語,384,23,埋め込み金物,预埋五金
+中国語,385,24,解体する（バラス）,解体
+中国語,386,25,かぶり寸法,涂面白变尺寸、保护层尺寸
+中国語,388,1,異形棒鋼,异形条钢
+中国語,389,2,結束線,多股胶合线、绑扎丝、捆结线
+中国語,390,3,結束工具,捆扎工具
+中国語,391,4,鉄筋切断機,钢筋切割机
+中国語,392,5,鉄筋曲げ加工機,钢筋弯曲加工机
+中国語,393,6,フック,钩
+中国語,394,7,保護帽（ヘルメット）,安全帽
+中国語,395,8,アンカー,锚固
+中国語,396,9,加工場,加工场地
+中国語,397,10,スペーサ―,横梁肋支架、调距模板
+中国語,399,11,ドーナツ,间隔圈
+中国語,400,12,加工配筋図,加工配筋图
+中国語,401,13,配筋詳細図,配筋详细图
+中国語,402,14,開口補強筋,开口加固筋
+中国語,403,15,幅止め筋,宽固定筋
+中国語,404,16,差筋,插筋
+中国語,405,17,柱主筋,柱主筋
+中国語,406,18,柱配筋,柱配筋
+中国語,407,19,スラブ筋,板筋
+中国語,408,20,ベース筋,基础筋
+中国語,410,21,帯筋（フープ）,柱箍筋
+中国語,411,22,下端筋,下端筋
+中国語,412,23,上端筋,上端筋
+中国語,413,24,主筋,主筋
+中国語,414,25,あばら筋,梁箍筋
+中国語,416,1,はかま筋,裤裙筋
+中国語,417,2,縦筋,竖筋
+中国語,418,3,下筋,下筋
+中国語,419,4,横筋,横筋
+中国語,420,5,腹筋,腹筋
+中国語,421,6,配力筋,受力筋
+中国語,422,7,上筋,上筋
+中国語,423,8,スパイラル筋,螺纹钢筋
+中国語,424,9,鉄筋径,钢筋直径
+中国語,425,10,かぶり厚さ,保护层厚度
+中国語,427,11,角度,角度
+中国語,428,12,シングル,单
+中国語,429,13,ダブル,双
+中国語,430,14,千鳥結束,交错连结
+中国語,431,15,切断寸法,切割尺寸
+中国語,432,16,加工寸法,加工尺寸
+中国語,433,17,重ね継手,搭接焊接头
+中国語,434,18,圧接継手,加压焊接接头
+中国語,435,19,開口部,开口部
+中国語,436,20,溶接金網,焊接钢丝网
+中国語,438,21,搬出,搬出
+中国語,439,22,搬入,搬入
+中国語,440,23,基礎,基础
+中国語,441,24,機械式継手,机械式接头
+中国語,442,25,配筋検査,配筋检查
+中国語,444,1,トラクタ,拖拉机、牵引车
+中国語,445,2,ブルドーザ,推土机
+中国語,446,3,トラクタショベル,挖掘机
+中国語,447,4,ホイルローダ,轮式装载机
+中国語,448,5,ダンプトラック,自动装卸卡车
+中国語,449,6,油圧ショベル,液压挖掘机
+中国語,450,7,バックホウ,反向铲
+中国語,451,8,ローディングショベル,装载机铲斗
+中国語,452,9,ローラ,压路机
+中国語,453,10,バケット,铲斗
+中国語,455,11,ブーム,吊杆
+中国語,456,12,アーム,起重臂
+中国語,457,13,ブレード（排土板）,推土机刮板
+中国語,458,14,タイヤ,轮胎
+中国語,459,15,クローラ,履带
+中国語,460,16,キー（鍵）,钥匙
+中国語,461,17,"作業装置
+（アタッチメント）",作业装置（附属装置）
+中国語,462,18,エンジン,发动机
+中国語,463,19,ディーゼルエンジン,柴油发动机
+中国語,464,20,エンジンオイル,机油
+中国語,466,21,"オルタネータ
+（充電発電機）",交流发电机
+中国語,467,22,バッテリ,蓄电池
+中国語,468,23,燃料,燃料
+中国語,469,24,軽油,汽油、轻油
+中国語,470,25,ブレーキ,刹车
+中国語,472,1,油圧シリンダ,液压缸
+中国語,473,2,油圧モータ,液压马达
+中国語,474,3,油圧ポンプ,液压泵
+中国語,475,4,水漏れ,漏水
+中国語,476,5,油漏れ,漏油
+中国語,477,6,冷却水,冷却水
+中国語,478,7,ブレーキ液,制动液、刹车油
+中国語,479,8,燃料タンク,燃料罐
+中国語,480,9,ファンベルト,风扇皮带
+中国語,481,10,空気圧,气压
+中国語,482,11,クラッチ,离合器
+中国語,483,12,急発進,猛启动
+中国語,484,13,急ブレーキ,急刹车
+中国語,486,14,アイドリング,怠速运转
+中国語,487,15,走行,行驶
+中国語,488,16,旋回,旋转、回转
+中国語,489,17,安全ロック,安全锁止
+中国語,490,18,安全支柱,安全支柱
+中国語,491,19,補給（する）,补充、补给
+中国語,492,20,駐車（する）,停车
+中国語,493,21,歩行者,行人
+中国語,494,22,車両,车辆
+中国語,495,23,死角,死角
+中国語,496,24,斜面,坡
+中国語,497,25,転圧（する）,碾压
+中国語,499,1,接触（する）,碰撞
+中国語,500,2,作動（する）,启动、运作
+中国語,501,3,整備（する）,维护
+中国語,502,4,点検（する）,检查
+中国語,503,5,動かす,运作、操作
+中国語,504,6,運転（する）,驾驶、操作
+中国語,505,7,測る,测量
+中国語,506,8,操作（する）,操作
+中国語,507,9,停止（する）,停止
+中国語,508,10,切る,关闭、切割
+中国語,509,11,回す,转
+中国語,510,12,押す,按
+中国語,511,13,集める,收集
+中国語,512,14,触る,触碰
+中国語,513,15,縛る,束缚、捆绑
+中国語,514,16,揃える,对齐、使……整齐
+中国語,515,17,結ぶ,捆绑、连接、系
+中国語,516,18,しゃがむ,蹲
+中国語,517,19,調整（する）,调整
+中国語,518,20,閉じる,关、关闭
+中国語,520,1,取り出す,取出
+中国語,521,2,戻す,放回
+中国語,522,3,仕上げる,做完
+中国語,523,4,折れる,折断
+中国語,524,5,欠ける,欠缺、有缺口
+中国語,525,6,近づく,靠近
+中国語,526,7,電源を入れる,打开电源
+中国語,527,8,電源を落とす,关闭电源
+中国語,528,9,スイッチを切る,关闭开关
+中国語,529,10,固定（する）,固定
+中国語,530,11,ゆるめる,拧松
+中国語,531,12,伸ばす,延展
+中国語,532,13,外す,取下
+中国語,533,14,曲げる,弯曲
+中国語,534,15,出す,取出、拿出
+中国語,535,16,乾かす,干燥
+中国語,536,17,数える,数
+中国語,537,18,運ぶ,搬、搬运
+中国語,538,19,積む,装货
+中国語,539,20,下ろす,卸货
+中国語,540,21,離れる,离开
+中国語,542,1,位置,
+中国語,543,2,寸法,
+中国語,544,3,測定（する）,
+中国語,545,4,計測（する）,
+中国語,546,5,計測器,
+中国語,547,6,温度,
+中国語,548,7,高さ,
+中国語,549,8,長さ,
+中国語,550,9,重さ,
+中国語,551,10,厚さ,
+中国語,552,11,硬さ,
+中国語,553,12,深さ,
+中国語,554,13,表面,
+中国語,555,14,すきま,
+中国語,556,15,中心,
+中国語,558,16,値,
+中国語,559,17,安定（する）,
+中国語,560,18,大きさ,
+中国語,561,19,数,
+中国語,562,20,誤差,
+中国語,563,21,中,
+中国語,564,22,反対,
+中国語,565,23,周り,
+中国語,566,24,尺,
+中国語,567,25,青,
+中国語,568,26,赤,
+中国語,569,27,白,
+中国語,570,28,黄色,
+中国語,573,1,片づける,
+中国語,574,2,捨てる,
+中国語,575,3,掃く,
+中国語,576,4,持ち上げる,
+中国語,577,5,束ねる,
+中国語,578,6,足をくじく,
+中国語,581,1,一輪車,
+中国語,582,2,支柱,
+中国語,583,3,ショベル,
+中国語,584,4,かけや,
+インドネシア語,3,1,技能実習,Pelatihan Kerja Teknis
+インドネシア語,4,2,技能実習生,Pemagang Kerja Teknis
+インドネシア語,5,3,工場,Pabrik
+インドネシア語,6,4,製造,Manufaktur
+インドネシア語,7,5,機械,Mesin
+インドネシア語,8,6,安全,Keselamatan
+インドネシア語,9,7,危険（な）,Berbahaya (Bahaya)
+インドネシア語,10,8,危ない,Bahaya
+インドネシア語,11,9,清掃,Pembersihan
+インドネシア語,12,10,非常口,Pintu keluar darurat
+インドネシア語,13,11,注意,Peringatan
+インドネシア語,14,12,火事,Kebakaran
+インドネシア語,15,13,事故,Kecelakaan
+インドネシア語,16,14,服装,Pakaian
+インドネシア語,17,15,安全装置,Peralatan keselamatan
+インドネシア語,21,1,安全カバー,Tutup pengaman
+インドネシア語,22,2,けが,Luka
+インドネシア語,23,3,けがをする,Terluka
+インドネシア語,24,4,電源,Sumber listrik
+インドネシア語,25,5,電源を切る,Mematikan listrik
+インドネシア語,26,6,非常停止ボタン,Tombol stop darurat
+インドネシア語,27,7,非常停止ボタンを押す,Menekan tombol stop darurat
+インドネシア語,28,8,ルール,Peraturan
+インドネシア語,29,9,ルールを守る,Mematuhi peraturan
+インドネシア語,30,10,止める,Menghentikan
+インドネシア語,31,11,機械を止める,Menghentikan mesin
+インドネシア語,32,12,やって,Lakukan
+インドネシア語,33,13,止めて,Hentikan
+インドネシア語,34,14,取って,Ambil
+インドネシア語,35,15,だめ（な）,Tidak boleh (Jangan)
+インドネシア語,39,1,監理団体,Lembaga pengawas
+インドネシア語,40,2,技術移転,Transfer teknologi
+インドネシア語,41,3,技能実習期間,Periode pelatihan kerja
+インドネシア語,42,4,職種,Pekerjaan
+インドネシア語,43,5,在留資格,Status tinggal
+インドネシア語,44,6,パスポート,Paspor
+インドネシア語,45,7,在留カード,Kartu izin tinggal
+インドネシア語,46,8,入管,Imigrasi
+インドネシア語,47,9,在留期間,Periode tinggal
+インドネシア語,48,10,雇用契約,Kontrak kerja
+インドネシア語,49,11,給与明細,Slip gaji
+インドネシア語,50,12,給料,Gaji
+インドネシア語,51,13,残業手当,Tunjangan lembur
+インドネシア語,52,14,労働時間,Jam kerja
+インドネシア語,56,1,控除（する）,Pengurangan (Mengurangi)
+インドネシア語,57,2,ボーナス,Bonus
+インドネシア語,58,3,有休,Cuti tahunan
+インドネシア語,59,4,代休,Libur pengganti
+インドネシア語,60,5,労働基準法,Peraturan standar ketenagakerjaan
+インドネシア語,61,6,労働条件,Kondisi kerja
+インドネシア語,62,7,税金,Pajak
+インドネシア語,63,8,所得税,Pajak penghasilan
+インドネシア語,64,9,住民税,Pajak penduduk
+インドネシア語,65,10,厚生年金,Uang pensiun
+インドネシア語,66,11,雇用保険,Asuransi ketenagakerjaan
+インドネシア語,67,12,健康保険,Asuransi kesehatan
+インドネシア語,71,13,社会保険,Asuransi sosial
+インドネシア語,72,14,労災,Kecelakaan kerja
+インドネシア語,73,15,労災保険,Asuransi kecelakaan kerja
+インドネシア語,77,1,遅刻（する）,"Keterlambatan
+(Terlambat)"
+インドネシア語,78,2,早退（する）,Kepulangan cepat (Pulang cepat)
+インドネシア語,79,3,休憩（する）,Istirahat (Beristirahat)
+インドネシア語,80,4,残業（する）,Pekerjaan lembur (Lembur)
+インドネシア語,81,5,定時,Tepat waktu
+インドネシア語,82,6,規則,Aturan
+インドネシア語,83,7,休日,Hari libur
+インドネシア語,84,8,始業時間,Jam mulai kerja
+インドネシア語,85,9,終業時間,Jam usai kerja
+インドネシア語,86,10,指導員,Instruktur
+インドネシア語,87,11,生活指導員,Pembimbing kehidupan sehari-hari
+インドネシア語,88,12,担当者,Penanggungjawab
+インドネシア語,89,13,スイッチ入れるな,Jangan dinyalakan
+インドネシア語,90,14,スイッチ切るな,Jangan dimatikan
+インドネシア語,91,15,使用禁止,Dilarang menggunakan
+インドネシア語,95,1,5S,"5S (Di Indonesia 5R
+:Ringkas, Rapi, Resik, Rawat, Rajin)"
+インドネシア語,96,2,整理,Ringkas
+インドネシア語,97,3,整頓,Rapi
+インドネシア語,98,4,清掃,Resik
+インドネシア語,102,5,清潔,Rawat
+インドネシア語,103,6,しつけ,Rajin
+インドネシア語,104,7,掃除（する）,Pembersihan (Membersihkan)
+インドネシア語,105,8,片づける,Membereskan
+インドネシア語,106,9,捨てる,Membuang
+インドネシア語,107,10,汚い,Kotor
+インドネシア語,108,11,汚れる,Kotor
+インドネシア語,109,12,分別（する）,Pemisahan (Memisahkan)
+インドネシア語,110,13,燃えないごみ,"Sampah tak mudah
+terbakar"
+インドネシア語,111,14,燃えるごみ,Sampah mudah terbakar
+インドネシア語,112,15,挟まれる,Terjepit
+インドネシア語,113,16,巻き込まれる,Terlilit
+インドネシア語,114,17,やけど（する）,Luka bakar (Terbakar)
+インドネシア語,118,18,落ちる,Jatuh
+インドネシア語,119,19,すべる,Terpeleset/Licin
+インドネシア語,120,20,転ぶ,Terjatuh
+インドネシア語,121,21,濡れる,Basah
+インドネシア語,122,22,衛生,Kebersihan
+インドネシア語,123,23,避難（する）,Evakuasi (Mengevakuasi)
+インドネシア語,124,24,救急車,Ambulans
+インドネシア語,125,25,災害,Bencana
+インドネシア語,126,26,地震,Gempa bumi
+インドネシア語,127,27,もぐる,Menyelinap
+インドネシア語,131,1,火気厳禁,Dilarang menggunakan api
+インドネシア語,132,2,開放厳禁,Dilarang membuka
+インドネシア語,133,3,標識,Tanda
+インドネシア語,134,4,気をつける,Berhati-hati
+インドネシア語,135,5,持ち込む,Membawa masuk
+インドネシア語,136,6,防ぐ,Mencegah
+インドネシア語,137,7,火,Api
+インドネシア語,138,8,煙,Asap
+インドネシア語,139,9,消火,Pemadam kebakaran
+インドネシア語,140,10,消火器,Alat pemadam kebakaran
+インドネシア語,141,11,非常ベル,Bel darurat
+インドネシア語,142,12,火災報知機,Alarm kebakaran
+インドネシア語,143,13,逃げる,Melarikan diri
+インドネシア語,144,14,現場,Tempat kerja/Pabrik
+インドネシア語,145,15,作業,Pekerjaan
+インドネシア語,146,16,ミーティング,Rapat/Meeting
+インドネシア語,147,17,研修（する）,Pelatihan/Training (Berlatih)
+インドネシア語,148,18,実習（する）,Pelatihan (Berlatih)
+インドネシア語,152,19,あいさつ,Salam
+インドネシア語,153,20,確認（する）,Konfirmasi (Mengkonfirmasikan)
+インドネシア語,154,21,報告（する）,Laporan (Melaporkan)
+インドネシア語,155,22,連絡（する）,Kontak (Menghubungi)
+インドネシア語,156,23,相談（する）,"Konsultasi
+(Berkonsultasi)"
+インドネシア語,157,24,渡す,Menyerahkan
+インドネシア語,158,25,申請書,Surat permohonan
+インドネシア語,159,26,寝坊（する）,Kesiangan (Bangun kesiangan)
+インドネシア語,163,1,技能,
+インドネシア語,164,2,技能検定試験,
+インドネシア語,165,3,受検（する）,
+インドネシア語,166,4,資格,
+インドネシア語,167,5,手当,
+インドネシア語,168,6,社員,
+インドネシア語,169,7,部長,
+インドネシア語,170,8,課長,
+インドネシア語,171,9,更衣室,
+インドネシア語,172,10,台車,
+インドネシア語,173,11,床,
+インドネシア語,174,12,出口,
+インドネシア語,175,13,電気,
+インドネシア語,176,14,警報音,
+インドネシア語,177,15,コンセント,
+インドネシア語,178,16,作業場,
+インドネシア語,179,17,作業台,
+インドネシア語,180,18,工事現場,
+インドネシア語,181,19,職長,
+インドネシア語,182,20,作業責任者,
+インドネシア語,186,1,禁止,
+インドネシア語,187,2,表示板,
+インドネシア語,188,3,禁止事項,
+インドネシア語,189,4,避難訓練,
+インドネシア語,190,5,感電（する）,
+インドネシア語,191,6,防止（する）,
+インドネシア語,192,7,予防（する）,
+インドネシア語,193,8,転倒（する）,
+インドネシア語,194,9,挟まる,
+インドネシア語,195,10,足元,
+インドネシア語,196,11,不安定（な）,
+インドネシア語,197,12,後片付け,
+インドネシア語,198,13,救急箱,
+インドネシア語,199,14,絆創膏,
+インドネシア語,200,15,体調,
+インドネシア語,201,16,血,
+インドネシア語,202,17,熱中症,
+インドネシア語,203,18,吐き気,
+インドネシア語,204,19,嘔吐（する）,
+インドネシア語,205,20,足がつる,
+インドネシア語,206,21,気分が悪い,
+インドネシア語,207,22,寝不足,
+インドネシア語,208,23,安全ネット,
+インドネシア語,209,24,安全点検,
+インドネシア語,213,1,KY活動（危険予知活動）,
+インドネシア語,214,2,危険,
+インドネシア語,215,3,ぶつかる,
+インドネシア語,216,4,当たる,
+インドネシア語,217,5,下敷きになる,
+インドネシア語,218,6,打つ,
+インドネシア語,219,7,バランスを崩す,
+インドネシア語,220,8,倒れる,
+インドネシア語,221,9,転落（する）,
+インドネシア語,222,10,指差呼称,
+インドネシア語,223,11,ヒヤリハット,
+インドネシア語,224,12,原因,
+インドネシア語,225,13,対策,
+インドネシア語,226,14,落下（する）,
+インドネシア語,227,15,墜落（する）,
+インドネシア語,228,16,確認（する）,
+インドネシア語,237,1,作業着,Pakaian kerja
+インドネシア語,238,2,作業服,Baju kerja
+インドネシア語,239,3,作業靴,Sepatu kerja
+インドネシア語,242,4,手袋,Sarung tangan
+インドネシア語,243,5,帽子,Topi
+インドネシア語,244,6,保護帽（ヘルメット）,Topi pelindung(Helem)
+インドネシア語,246,7,保護具,Alat pelindung
+インドネシア語,248,8,あごひも,Tali dagu
+インドネシア語,249,9,ボタン,Kancing/tombol
+インドネシア語,250,10,ポケット,Kantong
+インドネシア語,252,11,保護メガネ,Kacamata pelindung
+インドネシア語,254,12,マスク,Masker
+インドネシア語,255,13,耳栓,Penyumbat telinga
+インドネシア語,256,14,安全靴,Sepatu pengaman
+インドネシア語,257,15,墜落制止用器具（安全帯）,Sistem perlindungan bahaya jatuh (Sabuk pengaman)
+インドネシア語,264,16,業務,Kerja
+インドネシア語,265,17,時間厳守,Disiplin waktu
+インドネシア語,266,18,予定,Jadwal
+インドネシア語,267,19,日付,"Tanggal, bulan dan tahun"
+インドネシア語,268,20,準備（する）,Persiapan
+インドネシア語,269,21,会議,"Rapat, pertemuan"
+インドネシア語,270,22,朝礼,Apel pagi
+インドネシア語,271,23,報告書,Surat laporan
+インドネシア語,272,24,マニュアル,Buku pedoman
+インドネシア語,273,25,作業手順書,Lembaran prosedur kerja.
+インドネシア語,274,26,調子,Kondisi
+インドネシア語,278,1,立入禁止,Dilarang masuk
+インドネシア語,279,2,禁煙,Dilarang merokok
+インドネシア語,280,3,火気厳禁,Dilarang menggunakan api
+インドネシア語,281,4,駐車禁止,Dilarang parkir
+インドネシア語,282,5,足もと注意,Awas langkah kaki
+インドネシア語,283,6,開口部注意,Awas ada lubang
+インドネシア語,284,7,感電注意,Awas bahaya sengatan listrik
+インドネシア語,285,8,堕落注意,Awas jatuh terpeleset
+インドネシア語,286,9,頭上注意,Awas bagian atas kepala
+インドネシア語,287,10,警報設備,"Peralatan Tanda Bahaya
+（Alarm）"
+インドネシア語,291,11,消火器,Alat Pemadam Kebakaran
+インドネシア語,292,12,AED設置場所,Tempat Instalasi peralatan AED
+インドネシア語,293,13,保護帽着用,Gunakan topi pelindung
+インドネシア語,294,14,安全帯使用,Gunakan Sabuk Pengaman
+インドネシア語,295,15,昇降階段,Tangga naik turun
+インドネシア語,296,16,休憩所,Tempat istirahat
+インドネシア語,297,17,最大積載荷重,Kapasitas berat beban maksimum
+インドネシア語,298,18,喫煙所,Dilarang merokok
+インドネシア語,299,19,整理整頓,Rapikan dengan teratur
+インドネシア語,300,20,安全通路,Jalur aman
+インドネシア語,304,1,三連クランプ,Klam tripel.
+インドネシア語,305,2,"ベルトコンベア
+（ベルコン）",Konveyor sabuk (Ban berjalan)
+インドネシア語,306,3,かけや,Palu kayu berat
+インドネシア語,307,4,ランマ,Stamper kuda
+インドネシア語,308,5,自在クランプ,Klam universal
+インドネシア語,309,6,キャッチクランプ,Jepitan pancingan
+インドネシア語,310,7,吊り上げ用クランプ,Lifting klam
+インドネシア語,311,8,直交クランプ,Jepitan
+インドネシア語,315,9,フック,Kait
+インドネシア語,316,10,ストレートシャックル,Mata-rantai lurus
+インドネシア語,317,11,滑車,Katrol/Puli
+インドネシア語,318,12,クレーン,Kren
+インドネシア語,319,13,移動式クレーン,Kren jalan
+インドネシア語,320,14,介しゃくロープ,Tali teraju
+インドネシア語,321,15,昇降階段,Tangga naik turun
+インドネシア語,322,16,筋かい止めピン,Tap ikatan diagonal
+インドネシア語,323,17,脚柱ジョイント,Sambungan tiang kaki
+インドネシア語,324,18,連結ピン,Pena hubung
+インドネシア語,328,19,ジョイント金具,Alat logam penyambung
+インドネシア語,329,20,レバーブロック,Blok tuas
+インドネシア語,330,21,電動のこ（丸のこ）,Gergaji listrik
+インドネシア語,331,22,モンキースパナ,Kunci Inggris
+インドネシア語,332,23,親綱支柱,Tiang pendukung tali induk
+インドネシア語,333,24,ブラケット,Braket/penopang
+インドネシア語,334,25,梯子,Tangga
+インドネシア語,338,1,親綱,Tali induk
+インドネシア語,339,2,建枠（ビティ）,Rangka sekeliling bangunan
+インドネシア語,340,3,メッシュシート,Jaring pelindung
+インドネシア語,341,4,防音パネル,Panel kedap suara
+インドネシア語,342,5,朝顔材,Jaring pengaman
+インドネシア語,343,6,架空線,Kabel udara
+インドネシア語,344,7,幅木（仮設足場）,Papan kaki
+インドネシア語,345,8,単管,Pipa tabung
+インドネシア語,346,9,脚立,Tangga lipat
+インドネシア語,350,10,作業半径,Radius kerja
+インドネシア語,351,11,仮ボルト,Baut sementara
+インドネシア語,352,12,手直し,Perbaikan
+インドネシア語,353,13,面一,Samarata (Flush)
+インドネシア語,354,14,点検事項,Hal-hal yang harus dicek
+インドネシア語,355,15,積載荷重,Beban muat
+インドネシア語,356,16,すき間,Celah
+インドネシア語,357,17,通りを見る,Melihat cara
+インドネシア語,358,18,組立,Perakitan
+インドネシア語,359,19,地組,perakitan di permukaan tanah.
+インドネシア語,363,20,天端,Permukaan atas.
+インドネシア語,364,21,玉掛け,Penggantungan
+インドネシア語,365,22,合図,Aba-aba
+インドネシア語,366,23,定格荷重,Berat beban.
+インドネシア語,367,24,たち,Ketegaklurusan
+インドネシア語,368,25,職長,Kepala regu kerja
+インドネシア語,372,1,安全カバー,Tutup pengaman
+インドネシア語,373,2,安全帯,Sabuk pengaman
+インドネシア語,374,3,インサート,Penyisipan
+インドネシア語,375,4,スペーサ,Batang jarak
+インドネシア語,376,5,鉄筋,Tulang baja
+インドネシア語,377,6,電工ドラム（ドラム）,Teromol listrik
+インドネシア語,378,7,電動丸のこ（電のこ）,Gergaji listrik
+インドネシア語,379,8,パッキン,Packing
+インドネシア語,380,9,小バール,Linggis kecil
+インドネシア語,384,10,大バール,Linggis besar
+インドネシア語,385,11,化粧合板,Kayu lapis dekoratif
+インドネシア語,386,12,普通合板,Kayu lapis
+インドネシア語,387,13,スタイロフォーム,Styrofoam
+インドネシア語,388,14,面木,Paku atas
+インドネシア語,389,15,バイブレーター,Vibrator
+インドネシア語,390,16,剥離剤,Bahan pelepasan
+インドネシア語,391,17,けこみ板,Undakan
+インドネシア語,392,18,目地棒,Sambungan pasang batu
+インドネシア語,396,19,コンクリート,Beton
+インドネシア語,397,20,コンベックス,Meteran (Convex)
+インドネシア語,398,21,作業用手袋,Sarung tangan kerja
+インドネシア語,399,22,差金,Mistar logam
+インドネシア語,400,23,水平器,Alat sipat datar
+インドネシア語,401,24,墨さし,Alat pengukur tempat tinta
+インドネシア語,402,25,墨つぼ,Tempat tinta
+インドネシア語,406,1,"丸セパレーター
+（丸セパ）",Separator bulat
+インドネシア語,407,2,天端釘,Bilah yang dipasang pada sudut acuan
+インドネシア語,408,3,ケレン,Pengerjaan muka
+インドネシア語,409,4,型枠支保工,Penahan acuan
+インドネシア語,410,5,"基礎型枠
+（メタルフォーム）",Acuan fondasi
+インドネシア語,411,6,釘仕舞い,Marking/Penandaan
+インドネシア語,412,7,スラブ天端,Puncak plat (Lantai)
+インドネシア語,413,8,高さ（タッパ）,Tinggi (Tinggi dalam istilah pembangunan)
+インドネシア語,414,9,建込み,Membangun kerangka
+インドネシア語,415,10,通り,Cara
+インドネシア語,419,11,蹴上げ,Tinggi busur
+インドネシア語,420,12,蹴込み,Undakan
+インドネシア語,421,13,工具の手入れ,Perawatan alat perkakas
+インドネシア語,422,14,下げ振り,Pemberat
+インドネシア語,423,15,地墨,Tinta
+インドネシア語,424,16,捨てコンクリート,Bagian lantai beton
+インドネシア語,425,17,はね出し,Trap
+インドネシア語,426,18,はらみ,Tonjolan
+インドネシア語,427,19,前面,Muka depan
+インドネシア語,431,20,養生,Pemantangan beton
+インドネシア語,432,21,レベル,Permukaan
+インドネシア語,433,22,割付,Penempatan
+インドネシア語,434,23,埋め込み金物,Logam benaman
+インドネシア語,435,24,解体する（バラス）,Membongkar (Mencabut)
+インドネシア語,436,25,かぶり寸法,Ukuran ketebalan pelapisan
+インドネシア語,440,1,異形棒鋼,Besi beton berulir
+インドネシア語,441,2,結束線,Kawat pengikat
+インドネシア語,442,3,結束工具,Perkakas pengikat
+インドネシア語,443,4,鉄筋切断機,Mesin pemotong tulangan baja
+インドネシア語,444,5,鉄筋曲げ加工機,Mesin pembengkok tulangan baja
+インドネシア語,445,6,フック,Kait
+インドネシア語,446,7,保護帽（ヘルメット）,Topi pelindung (helm)
+インドネシア語,447,8,アンカー,Angkur
+インドネシア語,448,9,加工場,Tempat pemrosesan
+インドネシア語,449,10,スペーサ―,Spacer
+インドネシア語,453,11,ドーナツ,Donut
+インドネシア語,454,12,加工配筋図,Gambaran susunan tulangan
+インドネシア語,455,13,配筋詳細図,Gambar detil susunan tulangan
+インドネシア語,456,14,開口補強筋,Opening reinforcement (penguatan kerangka beton bagian berlubang)
+インドネシア語,457,15,幅止め筋,Tulangan penahan lebar
+インドネシア語,458,16,差筋,Batang sambungan
+インドネシア語,459,17,柱主筋,Tulangan utama kolom
+インドネシア語,460,18,柱配筋,Susunan tulangan kolom
+インドネシア語,461,19,スラブ筋,Penulangan pelat
+インドネシア語,462,20,ベース筋,Tulangan bagian dasar
+インドネシア語,466,21,帯筋（フープ）,Simpul tali
+インドネシア語,467,22,下端筋,Tulangan ujung bawah
+インドネシア語,468,23,上端筋,Penulangan bagian atas
+インドネシア語,469,24,主筋,Tulangan utama
+インドネシア語,470,25,あばら筋,Sengkang
+インドネシア語,474,1,はかま筋,Tulangan penguat pondasi
+インドネシア語,475,2,縦筋,Tulangan vertikal
+インドネシア語,476,3,下筋,Tulangan bawah
+インドネシア語,477,4,横筋,Tulangan horizontal
+インドネシア語,478,5,腹筋,Tulangan penguat sengkang
+インドネシア語,479,6,配力筋,Tulangan pembagi
+インドネシア語,480,7,上筋,Tulangan atas
+インドネシア語,481,8,スパイラル筋,Tulangan spiral
+インドネシア語,482,9,鉄筋径,Diameter tulangan baja
+インドネシア語,483,10,かぶり厚さ,Ketebalan pelapisan
+インドネシア語,487,11,角度,Sudut
+インドネシア語,488,12,シングル,Tunggal
+インドネシア語,489,13,ダブル,Ganda
+インドネシア語,490,14,千鳥結束,Pengikatan selang- seling
+インドネシア語,491,15,切断寸法,Ukuran potongan
+インドネシア語,492,16,加工寸法,Ukuran pembuatan
+インドネシア語,493,17,重ね継手,Sambungan tumpang
+インドネシア語,494,18,圧接継手,Sambungan las tekan
+インドネシア語,495,19,開口部,Lubang
+インドネシア語,496,20,溶接金網,Jaring kawat las
+インドネシア語,500,21,搬出,Mengeluarkan
+インドネシア語,501,22,搬入,Mengangkat ke dalam
+インドネシア語,502,23,基礎,Pondasi
+インドネシア語,503,24,機械式継手,Penyambungan
+インドネシア語,504,25,配筋検査,Pemeriksaan susunan tulangan
+インドネシア語,508,1,トラクタ,Traktor
+インドネシア語,509,2,ブルドーザ,Bulldozer
+インドネシア語,510,3,トラクタショベル,Traktor shovel
+インドネシア語,511,4,ホイルローダ,Wheel Loader
+インドネシア語,512,5,ダンプトラック,Truk jungkit
+インドネシア語,513,6,油圧ショベル,Eskavator hidrolik
+インドネシア語,514,7,バックホウ,Serok belakang
+インドネシア語,515,8,ローディングショベル,Loading eksakavator
+インドネシア語,519,9,ローラ,mesin giling
+インドネシア語,520,10,バケット,bucket/serok
+インドネシア語,521,11,ブーム,boom/penopang
+インドネシア語,522,12,アーム,lengan
+インドネシア語,523,13,ブレード（排土板）,blade/sudu
+インドネシア語,524,14,タイヤ,mesin
+インドネシア語,525,15,クローラ,mesin diesel
+インドネシア語,526,16,キー（鍵）,minyak enjin
+インドネシア語,527,17,"作業装置
+（アタッチメント）",alternator(generator pengisi daya)
+インドネシア語,531,18,エンジン,baterai
+インドネシア語,532,19,ディーゼルエンジン,bahan bakar
+インドネシア語,533,20,エンジンオイル,minyak diesel
+インドネシア語,534,21,"オルタネータ
+（充電発電機）",rem
+インドネシア語,535,22,バッテリ,pompa oli hidrolik
+インドネシア語,536,23,燃料,silinder hidrolik
+インドネシア語,537,24,軽油,motor hidrolik
+インドネシア語,538,25,ブレーキ,peralatan kerja
+インドネシア語,542,1,油圧シリンダ,Silinder hidrolik
+インドネシア語,543,2,油圧モータ,Motor hidrolik
+インドネシア語,544,3,油圧ポンプ,Pompa oli hidrolik
+インドネシア語,545,4,水漏れ,Kebocoran air
+インドネシア語,546,5,油漏れ,Kebocoran minyak
+インドネシア語,547,6,冷却水,Air pendingin
+インドネシア語,548,7,ブレーキ液,Minyak rem
+インドネシア語,549,8,燃料タンク,Tangki bahan bakar
+インドネシア語,550,9,ファンベルト,Tali kipas
+インドネシア語,551,10,空気圧,Tekanan udara
+インドネシア語,552,11,クラッチ,Alat pembuka kopling
+インドネシア語,553,12,急発進,Gas mendadak
+インドネシア語,554,13,急ブレーキ,Rem mendadak
+インドネシア語,558,14,アイドリング,Keadaan saat mesin bekerja tetapi kendaraan (mobil) tidak bergerak.
+インドネシア語,559,15,走行,Berjalan/Melaju
+インドネシア語,560,16,旋回,Putaran
+インドネシア語,561,17,安全ロック,Alat pelindung bahaya
+インドネシア語,562,18,安全支柱,Safety pillar (Tiang pengaman)
+インドネシア語,563,19,補給（する）,Suplai (Mensuplai)
+インドネシア語,564,20,駐車（する）,Parkir (Memarkirkan)
+インドネシア語,565,21,歩行者,Pejalan kaki
+インドネシア語,566,22,車両,Kendaraan
+インドネシア語,567,23,死角,Titik buta (Posisi tidak terlihat)
+インドネシア語,568,24,斜面,Lereng
+インドネシア語,569,25,転圧（する）,Giling (Menggiling)
+インドネシア語,573,1,接触（する）,Tabrak (Menabrak)
+インドネシア語,574,2,作動（する）,Hidup (Menghidupkan)
+インドネシア語,575,3,整備（する）,Perbaikan (Memperbaiki)
+インドネシア語,576,4,点検（する）,Periksa (Memeriksa)
+インドネシア語,577,5,動かす,Menggerakkan
+インドネシア語,578,6,運転（する）,Kemudi (Mengemudi)
+インドネシア語,579,7,測る,Mengukur
+インドネシア語,580,8,操作（する）,Operasi (Mengoperasikan)
+インドネシア語,581,9,停止（する）,Henti (Menghentikan)
+インドネシア語,582,10,切る,Memotong
+インドネシア語,583,11,回す,Memutar
+インドネシア語,584,12,押す,Mendorong
+インドネシア語,585,13,集める,Mengumpulkan
+インドネシア語,586,14,触る,Menyentuh
+インドネシア語,587,15,縛る,Mengikat
+インドネシア語,588,16,揃える,Menyamaratakan
+インドネシア語,589,17,結ぶ,Mengikat
+インドネシア語,590,18,しゃがむ,Berjongkok
+インドネシア語,591,19,調整（する）,"Penyesuaian
+(Menyesuaikan)"
+インドネシア語,592,20,閉じる,Menutup
+インドネシア語,596,1,取り出す,Mengeluarkan
+インドネシア語,597,2,戻す,Mengembalikan
+インドネシア語,598,3,仕上げる,Menyelesaikan
+インドネシア語,599,4,折れる,Patah
+インドネシア語,600,5,欠ける,Sumbing (Patah)
+インドネシア語,601,6,近づく,Mendekat
+インドネシア語,602,7,電源を入れる,Menghidupkan listrik
+インドネシア語,603,8,電源を落とす,Mematikan listrik
+インドネシア語,604,9,スイッチを切る,Mematikan saklar
+インドネシア語,605,10,固定（する）,Fiksasi (Menguatkan)
+インドネシア語,606,11,ゆるめる,Mengendurkan
+インドネシア語,607,12,伸ばす,Memanjangkan
+インドネシア語,608,13,外す,Melepas
+インドネシア語,609,14,曲げる,Membengkokkan
+インドネシア語,610,15,出す,Mengeluarkan
+インドネシア語,611,16,乾かす,Mengeringkan
+インドネシア語,612,17,数える,Menghitung
+インドネシア語,613,18,運ぶ,Membawa
+インドネシア語,614,19,積む,Menumpuk
+インドネシア語,615,20,下ろす,Menurunkan
+インドネシア語,616,21,離れる,Menjauhi
+インドネシア語,620,1,位置,
+インドネシア語,621,2,寸法,
+インドネシア語,622,3,測定（する）,
+インドネシア語,623,4,計測（する）,
+インドネシア語,624,5,計測器,
+インドネシア語,625,6,温度,
+インドネシア語,626,7,高さ,
+インドネシア語,627,8,長さ,
+インドネシア語,628,9,重さ,
+インドネシア語,629,10,厚さ,
+インドネシア語,630,11,硬さ,
+インドネシア語,631,12,深さ,
+インドネシア語,632,13,表面,
+インドネシア語,633,14,すきま,
+インドネシア語,634,15,中心,
+インドネシア語,638,16,値,
+インドネシア語,639,17,安定（する）,
+インドネシア語,640,18,大きさ,
+インドネシア語,641,19,数,
+インドネシア語,642,20,誤差,
+インドネシア語,643,21,中,
+インドネシア語,644,22,反対,
+インドネシア語,645,23,周り,
+インドネシア語,646,24,尺,
+インドネシア語,647,25,青,
+インドネシア語,648,26,赤,
+インドネシア語,649,27,白,
+インドネシア語,650,28,黄色,
+インドネシア語,656,1,片づける,
+インドネシア語,657,2,捨てる,
+インドネシア語,658,3,掃く,
+インドネシア語,659,4,持ち上げる,
+インドネシア語,660,5,束ねる,
+インドネシア語,661,6,足をくじく,
+インドネシア語,667,1,一輪車,
+インドネシア語,668,2,支柱,
+インドネシア語,669,3,ショベル,
+インドネシア語,670,4,かけや,
+ミャンマー語,3,1,,အလုပ်သင်တန််း
+ミャンマー語,4,2,,အလုပ်သင်
+ミャンマー語,5,3,,စက်ရု 
+ミャンマー語,6,4,,ထုတ်လုပ်မှု
+ミャンマー語,7,5,,စက်
+ミャンマー語,8,6,,လု ခ  ြုံမှု
+ミャンマー語,9,7,,အန္တရာယ်(ရှိ သသာ)
+ミャンマー語,10,8,,အန္တရာယ်ရှိ သည်
+ミャンマー語,11,9,,သန်ဲ့ရ င််းသရ်းလုပ်ခ င််း (Sei-sou)
+ミャンマー語,12,10,,အသရ်းသပေါ်ထွက်သပါက်
+ミャンマー語,13,11,,သတှိ
+ミャンマー語,14,12,,မ ်းသလာင်မှု
+ミャンマー語,15,13,,မသတာ်တဆမှု
+ミャンマー語,16,14,,အဝတ်အစာ်း
+ミャンマー語,17,15,,အန္တရာယ်ကင််းရ င််းသရ်းကှိရှိ ယာ
+ミャンマー語,21,1,,လု ခ  ြုံသရ်းကာဗာအဖု ်း
+ミャンマー語,22,2,,ဒဏ်ရာ
+ミャンマー語,23,3,,ဒဏ်ရာရသည်
+ミャンマー語,24,4,,လျှပ်စစ်ပါဝါ
+ミャンマー語,25,5,,လျှပ်စစ်ပါဝါပှိတ်သည်
+ミャンマー語,26,6,,အသရ်းသပေါ်စက်ရပ်တန်ဲ့ လုတ်
+ミャンマー語,27,7,,အသရ်းသပေါ်စက်ရပ်တန်ဲ့ လုတ်ကှို န္ှိ ပ်သည်
+ミャンマー語,28,8,,စည််းကမ််း
+ミャンマー語,29,9,,စည််းကမ််းလှိုက်နာသည်
+ミャンマー語,30,10,,ရပ်သည်
+ミャンマー語,31,11,,စက်ကှို ရပ်သည်
+ミャンマー語,32,12,,လုပ်ပါ
+ミャンマー語,33,13,,ရပ်ပါ
+ミャンマー語,34,14,,ယူပါ
+ミャンマー語,35,15,,မလုပ်သင်ဲ့(သသာ)
+ミャンマー語,39,1,,စ မ ကွပ်က သရ်းအဖွ ွဲ့
+ミャンマー語,40,2,,နည််းပညာလ  သခပာင််းခ င််း
+ミャンマー語,41,3,,အလုပ်သင်တန််းကာလ
+ミャンマー語,42,4,,အလုပ်အကှိုင်အမှိ ြုံ်းအစာ်း
+ミャンマー語,43,5,,ဗ ဇာအမှိ ြုံ်းအစာ်း
+ミャンマー語,44,6,,န္ှိုင်င ကူ်းလက်မ တ်
+ミャンマー語,45,7,,န္ှိုင်င ခ ာ်းသာ်းမ တ်ပု တင်က တ်
+ミャンマー語,46,8,,လဝက
+ミャンマー語,47,9,,ဗ ဇာသက်တမ််း
+ミャンマー語,51,10,,"အလုပ် န်ဲ့ထာ်းသရ်းသသေ
+းာတူစာ  ြုံပ်"
+ミャンマー語,52,11,,လစာရ င််းတမ််းစာရွက်
+ミャンマー語,53,12,,လစာသငွ
+ミャンマー語,54,13,,အ ှိ န်ပှိုသကက်း
+ミャンマー語,55,14,,အလုပ် ှိ န်
+ミャンマー語,59,1,,န္ှုတ်ယူ(သည်)
+ミャンマー語,60,2,,အပှိုဆုသကက်း
+ミャンマー語,61,3,,လုပ်သက် ွင်ဲ့
+ミャンマー語,62,4,,အစာ်းထှို်းနာ်းရက်
+ミャンマー語,63,5,,အလုပ်သမာ်းစ န္ှုန််းဥပသဒ
+ミャンマー語,64,6,,အလုပ်သမာ်း  စာ်း ွင်ဲ့
+ミャンマー語,65,7,,အ ွန်
+ミャンマー語,66,8,,ဝင်သငွ ွန်
+ミャンマー語,70,9,,စည်ပင် ွန်
+ミャンマー語,71,10,,အလုပ်ပင်စင်အာမ  
+ミャンマー語,72,11,,အလုပ်အာမ  
+ミャンマー語,73,12,,က န််းမာသရ်းအာမ  
+ミャンマー語,74,13,,လူမှုဖူလု သရ်းအာမ  
+ミャンマー語,78,14,,"လုပ်ငန််း ွင်
+ထှိ ုှိက်ဒဏ်ရာရမှု"
+ミャンマー語,79,15,,အလုပ်သမာ်းနစ်နာသကက်း အာမ  
+ミャンマー語,83,1,,အလုပ်သနာက်က (သည်)
+ミャンマー語,84,2,,အလုပ်သစာခပန်(သည်)
+ミャンマー語,85,3,,အနာ်းယူ(သည်)
+ミャンマー語,86,4,,အ ှိ န်ပှိုအလုပ်(ဆင််းသည်)
+ミャンマー語,87,5,,ပု မ န်အ ှိ န်
+ミャンマー語,88,6,,စည််းမ ဉ််းစည််းကမ််း
+ミャンマー語,89,7,,အလုပ်နာ်းရက်
+ミャンマー語,90,8,,အလုပ်စ ှိ န်
+ミャンマー語,91,9,,အလုပ်ပပ ်း ှိ န်
+ミャンマー語,92,10,,သင်တန််းမ ်း
+ミャンマー語,93,11,,သနထှိုင်မှုပု စ သလဲ့က င်ဲ့သပ်းသူ
+ミャンマー語,94,12,,တာဝန်  
+ミャンマー語,95,13,, လုတ်မဖွင်ဲ့နဲ့ 
+ミャンマー語,96,14,, လုတ်မပှိတ်နဲ့ 
+ミャンマー語,97,15,,အသု ်းမခပြုံရ
+ミャンマー語,101,1,,5S
+ミャンマー語,102,2,,စနစ်တက ထာ်းရှိ ခ င််း (Seiri)
+ミャンマー語,103,3,,စ သတ်မ တ်ထာ်းရှိ ခ င််း (Sei-ton)
+ミャンマー語,107,4,,သန်ဲ့ရ င််းသရ်းလုပ်ခ င််း (Sei-sou)
+ミャンマー語,108,5,,သန်ဲ့ရ င််းသပ်ရပ်မှု (Sei-ketsu)
+ミャンマー語,109,6,,အစဉ်အလာဓသလဲ့ထု ်းစ (Shi-tsuke)
+ミャンマー語,110,7,,သန်ဲ့ရ င််းသရ်း(လုပ်သည်)
+ミャンマー語,114,8,,သှိမ််းဆည််းသည်
+ミャンマー語,115,9,,စွန်ဲ့ပစ်သည်
+ミャンマー語,116,10,,ညစ်ပတ်သသာ
+ミャンマー語,117,11,,ညစ်သပသည်
+ミャンマー語,118,12,,အမှိ ြုံ်းအစာ်း ွ ခ ာ်း(သည်)
+ミャンマー語,119,13,,မ ်းရှုှိွဲ့လှိုဲ့မရတဲ့ အမှိှုက်
+ミャンマー語,120,14,,မ ်းရှုှိွဲ့လုှိဲ့ရတဲ့ အမှိှုက်
+ミャンマー語,121,15,,ညပ်သည်
+ミャンマー語,122,16,,ညပ်ပါသည်
+ミャンマー語,123,17,,အပူသလာင်(သည်)
+ミャンマー語,124,18,,က ဆင််းသည်
+ミャンマー語,125,19,,သ  ာ်လ သည်
+ミャンマー語,129,20,,လ က သည်
+ミャンマー語,130,21,,သရစှိုသည်
+ミャンマー語,131,22,,သန်ဲ့ရ င််းသပ်ရပ်မှု
+ミャンマー語,132,23,,သေ်းသရ ာင်(သည်)
+ミャンマー語,133,24,,လူနာတင်ယာဉ်
+ミャンマー語,134,25,,သေ်းအန္တရာယ်
+ミャンマー語,135,26,,ငလ င်
+ミャンマー語,136,27,,သအာက်သှိုဲ့ဝင်သည်
+ミャンマー語,140,1,,မ ်းသတှိခပြုံ
+ミャンマー語,141,2,,ဖွင်ဲ့မထာ်းရ
+ミャンマー語,142,3,,အမ တ်အသာ်း
+ミャンマー語,143,4,,ဂရုစှိုက်သည်
+ミャンマー語,144,5,,ယူလာသည်
+ミャンマー語,145,6,,ကာကွယ်သည်။
+ミャンマー語,146,7,,မ ်း
+ミャンマー語,147,8,,မ ်း ုှိ်း
+ミャンマー語,148,9,,မ ်းပင မ််းသတ်ခ င််း
+ミャンマー語,149,10,,မ ်းသတ်ေူ်း
+ミャンマー語,150,11,,အသရ်းသပေါ်သတှိသပ်းစက်
+ミャンマー語,151,12,,မ ်းအ  က်သပ်းစက်
+ミャンマー語,152,13,,ထွက်သခပ်းသည်
+ミャンマー語,153,14,,လုပ်ငန််း ွင်
+ミャンマー語,154,15,,အလုပ်
+ミャンマー語,158,16,,အစည််းအသဝ်း
+ミャンマー語,159,17,,သင်တန််း(ခပြုံလုပ်သည်)
+ミャンマー語,160,18,,လက်သတွွဲ့သင်တန််း(ခပြုံလုပ် သည်)
+ミャンマー語,161,19,,န္ှုတ်ဆက်ခ င််း
+ミャンマー語,162,20,,သသ  ာစစ်(သည်)
+ミャンマー語,163,21,,အသကကာင််းကကာ်း(သည်)
+ミャンマー語,164,22,,အသကကာင််းကကာ်း(သည်)
+ミャンマー語,165,23,,သဆွ်းသန္ွ်း(သည်)
+ミャンマー語,166,24,,သပ်းသည်
+ミャンマー語,167,25,,သလျှာက်လ ာ
+ミャンマー語,168,26,,အှိပ်ရာထသနာက်က (သည်)
+ミャンマー語,172,1,,
+ミャンマー語,173,2,,
+ミャンマー語,174,3,,
+ミャンマー語,175,4,,
+ミャンマー語,176,5,,
+ミャンマー語,177,6,,
+ミャンマー語,178,7,,
+ミャンマー語,179,8,,
+ミャンマー語,180,9,,
+ミャンマー語,181,10,,
+ミャンマー語,182,11,,
+ミャンマー語,183,12,,
+ミャンマー語,184,13,,
+ミャンマー語,185,14,,
+ミャンマー語,186,15,,
+ミャンマー語,187,16,,
+ミャンマー語,188,17,,
+ミャンマー語,189,18,,
+ミャンマー語,190,19,,
+ミャンマー語,191,20,,
+ミャンマー語,196,1,,
+ミャンマー語,197,2,,
+ミャンマー語,198,3,,
+ミャンマー語,199,4,,
+ミャンマー語,200,5,,
+ミャンマー語,201,6,,
+ミャンマー語,202,7,,
+ミャンマー語,203,8,,
+ミャンマー語,204,9,,
+ミャンマー語,205,10,,
+ミャンマー語,206,11,,
+ミャンマー語,207,12,,
+ミャンマー語,208,13,,
+ミャンマー語,209,14,,
+ミャンマー語,210,15,,
+ミャンマー語,211,16,,
+ミャンマー語,212,17,,
+ミャンマー語,213,18,,
+ミャンマー語,214,19,,
+ミャンマー語,218,20,,
+ミャンマー語,219,21,,
+ミャンマー語,220,22,,
+ミャンマー語,221,23,,
+ミャンマー語,222,24,,
+ミャンマー語,226,1,,"KY လှုပ်ရ ာ်းမှု
+(အန္တရာယ်ကကှိြုံတင် န်ဲ့မ န််းသှိရှိ သရ်းလှုပ်ရ ာ်းမှု )"
+ミャンマー語,227,2,,အန္တရာယ်
+ミャンマー語,228,3,,တှိုက်မှိသည်
+ミャンマー語,229,4,,ထှိမှိသည်
+ミャンマー語,230,5,,သအာက်တွင်ပှိမှိသည်
+ミャンマー語,231,6,,ထုသည်၊ရုှိက်သည်
+ミャンマー語,232,7,,ဟန်  က်ပ က်သည်
+ミャンマー語,233,8,,လ က သည်
+ミャンマー語,234,9,,လှိမ်ဲ့က သည်
+ミャンマー語,235,10,,လက်ညှိြှြုံ်းထုှိ်း၍နာမည်သ ေါ် စစ်သဆ်းမှု
+ミャンマー語,236,11,,သ သ သလ်းန လဲ့   ွတ်သွာ်းသသာလုပ်ငန််း ွင်မသတာ်တ ဆခဖစ်မှု
+ミャンマー語,240,12,,အသကကာင််းရင််း
+ミャンマー語,241,13,,သဆာင်ရွက်မှု၊စ မ   က်
+ミャンマー語,242,14,,ခပြုံတ်က သည်
+ミャンマー語,243,15,,အခမင်ဲ့မ က သည်
+ミャンマー語,244,16,,အတည်ခပြုံစစ်သဆ်းသည်
+ミャンマー語,253,1,,အလုပ်သမာ်းဝတ်စု 
+ミャンマー語,254,2,,အလုပ်သမာ်းဝတ်စု 
+ミャンマー語,255,3,,လုပ်ငန််း ွင်ဖှိနပ်
+ミャンマー語,257,4,,လက်အှိတ်
+ミャンマー語,259,5,,ဥ ်းထုပ်
+ミャンマー語,260,6,,"ကာကွယ်သရ်းဥ ်းထုပ်
+(Helmet)"
+ミャンマー語,263,7,,လု ခ  ြုံသရ်းပစစည််း
+ミャンマー語,264,8,,သမ်းသှိုင််းကကှိြုံ်း
+ミャンマー語,265,9,,ကကယ်သ ်း (Button)
+ミャンマー語,267,10,,အှိတ်ကပ်
+ミャンマー語,269,11,,ကာကွယ်သရ်းမ က်မ န်
+ミャンマー語,271,12,,မ က်န္ ာဖု ်း (Mask)
+ミャンマー語,272,13,,နာ်းသပါက်အဆှိုဲ့
+ミャンマー語,273,14,,သခ သထာက်ကုှိ ကာကွယ်သည်ဲ့ဖှိနပ်
+ミャンマー語,274,15,,"ခပြုံတ်က မှုမ ကာကွယ်သရ်း
+ပစစည််း (လု ခ  ြုံသရ်း ါ်းပတ်ကကှိြုံ်း)"
+ミャンマー語,281,16,,လုပ်ငန််း
+ミャンマー語,282,17,,အ ှိ န်ကှို တှိတှိက က လှိုက်နာခ င််း
+ミャンマー語,283,18,,ကကှိြုံတင်စ စဥ်  က်
+ミャンマー語,284,19,,ရက်စွ 
+ミャンマー語,285,20,,အသင်ဲ့ခပင်(သည်)
+ミャンマー語,286,21,,အစည််းအသဝ်း
+ミャンマー語,287,22,,န နက် င််းလူစုအမ ာစကာ်း သခပာခ င််း
+ミャンマー語,288,23,,အစ ရင်  စာ
+ミャンマー語,289,24,,လက်စွ စာသစာင် (Manual)
+ミャンマー語,290,25,,"လုပ်ငန််းလုပ်သဆာင်ပု 
+အဆင်ဲ့ဆင်ဲ့စာအုပ်"
+ミャンマー語,291,26,,(က န််းမာသရ်း)အသခ အသန
+ミャンマー語,295,1,,မဝင်ရ
+ミャンマー語,296,2,,သဆ်းလှိပ်မသသာက်ရ
+ミャンマー語,297,3,,မ ်းသတှိခပြုံ
+ミャンマー語,298,4,,ကာ်းမရပ်ရ
+ミャンマー語,299,5,,သခ သထာက်အန ်းတဝှိုက် သတှိခပြုံ
+ミャンマー語,300,6,,အသပါက်ရှိ သည်သတှိခပြုံ
+ミャンマー語,301,7,,ဓာတ်လှိုက်တတ်သည် သတှိခပြုံ
+ミャンマー語,302,8,,ခပြုံတ်က တတ်သည် သတှိခပြုံ
+ミャンマー語,303,9,,သ ါင််းအသပေါ်သတှိထာ်းပါ
+ミャンマー語,304,10,,သတှိသပ်းသ ါင််းသလာင််း သနရာ
+ミャンマー語,308,11,,မ ်းသတ်ေူ်း
+ミャンマー語,309,12,,န္ လု ်းန္ှိှု်းစက်ထာ်းသည်ဲ့သနရာ
+ミャンマー語,310,13,,ကာကွယ်သရ်းဥ ်းထုပ် သဆာင််းပါ
+ミャンマー語,311,14,,လု ခ  ြုံသရ်း ါ်းပတ်ကကှိြုံ်းသု ်းပါ
+ミャンマー語,312,15,,ခငမ််းအတွင််းရှိ သလ ကာ်း
+ミャンマー語,313,16,,နာ်းသနရန်သနရာ
+ミャンマー語,314,17,,အမ ာ်းဆု ်းတင်န္ှိုင်သည်ဲ့ ကုန်အသလ်း ှိ န်
+ミャンマー語,315,18,,သဆ်းလှိပ်သသာက်ရန်သနရာ
+ミャンマー語,316,19,,သန်ဲ့ရ င််းသပ်ရပ်သနသအာင် အစ အစဥ်တက လုပ်ပါ
+ミャンマー語,317,20,,အန္တရာယ်ကင််းသည်ဲ့ သလျှာက်လမ််းသကကာင််း
+ミャンマー語,321,1,,၃  ုဆက်ညြှပ်
+ミャンマー語,322,2,,သရွွဲ့လ ာ်းစက် ါ်းပတ် (Belt conveyor)
+ミャンマー語,323,3,,သစ်သာ်းတူအကက ်းစာ်း
+ミャンマー語,324,4,,သခမဖှိစက် (Rammer)
+ミャンマー語,325,5,,လ ည်ဲ့၍ရသသာ ညြှပ် (Adjustable/Movable clamp)
+ミャンマー語,326,6,,ဖမ််းညြှပ်ကှိရှိယာ (Catch clamp)
+ミャンマー語,327,7,,မ   ရာတွင်သု ်းသသာ ညြှပ်
+ミャンマー語,331,8,,ရုှိက်သထာင်ဲ့မ န်က သသာ ညြှပ် (Orthogonal clamp)
+ミャンマー語,332,9,, ှိ တ်သကာက်
+ミャンマー語,333,10,,အသခဖာင်ဲ့ တ်ကွင််း (Straight shackle)
+ミャンマー語,334,11,,စက်သ ်း
+ミャンマー語,335,12,,ဝန်   စက် (ကရှိန််း)
+ミャンマー語,336,13,,သရွွဲ့လ ာ်းန္ှိုင်သည်ဲ့ကရှိန််း
+ミャンマー語,337,14,,ကရှိန််းခဖင်ဲ့ပစစည််းခပန်   ှိ န် တွင်ဆွ ယူရန်ကကှိြုံ်း
+ミャンマー語,338,15,,ခငမ််းအတွင််းရှိ သလ ကာ်း
+ミャンマー語,339,16,,တသစာင််းအာ်းခဖည်ဲ့ထည်ဲ့ သွင််းထာ်းသသာသစ်သာ်း တန််းအာ်း ကုတ်ထာ်းသည်ဲ့ တွယ်ဆက် ပင်ငုတ်
+ミャンマー語,343,17,,"သအာက်သခ အမ တ်အဆ က်
+(Leg column joint)"
+ミャンマー語,344,18,,တွယ်ဆက်ပင်ငုတ် (Connecting pin)
+ミャンマー語,345,19,,တွယ်ဆက်သတတ ြုံခပာ်း (Joint metal fittings)
+ミャンマー語,346,20,,"လ ဗာ
+ေသလာက်(စက်သ ်း) (Lever block)"
+ミャンマー語,347,21,,လျှပ်စစ်လ  (မာရုန္ှိုကဲ့ုှိ)
+ミャンマー語,348,22,, ွရ င် (Monkey spanner)
+ミャンマー語,349,23,,လု ခ  ြုံသရ်း ါ်းပတ်ကကှိြုံ်းကုှိ ှိ တ်ဆွ သည်ဲ့ကကှိြုံ်းကှို သထာက်  သည်ဲ့တှိုင်
+ミャンマー語,350,24,,အထှိန််း အသထာက်
+ミャンマー語,351,25,,လုပ်ငန််း ွင်သု ်းသလ ကာ်း
+ミャンマー語,355,1,,"လု ခ  ြုံသရ်း ါ်းပတ်ကကှိြုံ်းကုှိ
+ ှိ တ်ဆွ ယူသည်ဲ့ကကှိြုံ်း"
+ミャンマー語,356,2,,အသင်ဲ့သု ်းခငမ််းသောင်
+ミャンマー語,357,3,,ဆန် ါကွက်(ပှိုက်ကွက်) အ င််းခပာ်း
+ミャンマー語,358,4,,အသ ကာသောင်ခပာ်း
+ミャンマー語,359,5,,ခပြုံတ်က လာသည်ဲ့ပစစည််းကှို ဖမ််း  သပ်းသည်ဲ့အ  
+ミャンマー語,360,6,,ဓာတ်အာ်းလှိုင််းကကှိြုံ်း
+ミャンマー語,361,7,,ကကမ််းခပင်အစွန််းမ သထာင်ထာ်းသသာအခပာ်း (ယာယ ခငမ််း)
+ミャンマー語,362,8,,ပှိုက်လု ်း
+ミャンマー語,366,9,,သ ါက်သလ ကာ်း
+ミャンマー語,367,10,,လုပ်ငန််းလှုပ်ရ ာ်းသနသည်ဲ့ အ  င််းဝက်
+ミャンマー語,368,11,,သရ ွဲ့သခပ်းယာယ တပ်ဆင်သ ည်ဲ့မူလ 
+ミャンマー語,369,12,,ခပန်လည် ှိ န်ညှိြှခ င််း/ခပင်ဆ င်ခ င််း
+ミャンマー語,370,13,,မ က်န္ ာခပင်န္ စ် ုအကကာ်းအ လပ်မရှိ ထှိကပ်သနခ င််း
+ミャンマー語,371,14,,စစ်သဆ်းရမည်ဲ့အ  က်မ ာ်း
+ミャンマー語,372,15,,တင်သဆာင်န္ှိုင်သည်ဲ့ကုန်အ သလ်း ှိ န်
+ミャンマー語,373,16,,ကကာ်းလပ်သနသည်ဲ့သနရာ
+ミャンマー語,374,17,,သခဖာင်ဲ့မသခဖာင်ဲ့ကကည်ဲ့သည်
+ミャンマー語,378,18,,သပါင််းစပ်တည်သဆာက်ခ င််း/ ဆင်ခ င််း
+ミャンマー語,379,19,,ရှုပ်သထွ်းသသာအစှိတ်အပှိုင််း မ ာ်းကုှိသခမသပေါ်တွင်ယာယ တပ်ဆင်ခ င််း
+ミャンマー語,380,20,,ကွန်ကရစ်မ က်န္ ာခပင်တွင် စှိုက်ထာ်းသသာ သ သ  ာင််း
+ミャンマー語,381,21,,"ပစစည််းမ ာ်း သယ်မ ှိ န်တွင် ခပြုံတ်မက သစရန်ကကှိြုံ်းခဖင်ဲ့
+  ည်ခ င််း"
+ミャンマー語,382,22,,အ  က်ခပခ င််း
+ミャンマー語,383,23,,ပု သသသတ်မ တ်အသလ်း ှိ န်
+ミャンマー語,384,24,,(သခမမ က်န္ ာခပင်န္ င်ဲ့) သထာင်ဲ့မ န်က ခ င််း
+ミャンマー語,385,25,,လုပ်ငန််း ွင်လမ််းည န် ကက ်းကကပ်သူ
+ミャンマー語,389,1,,လု ခ  ြုံသရ်းကာဗာအဖု ်း
+ミャンマー語,390,2,,လု ခ  ြုံသရ်း ါ်းပတ်ကကှိြုံ်း
+ミャンマー語,391,3,,ကွန်ကရစ်ထ တွင်ခမြုံပ်ထည်ဲ့ ထာ်းသသာ သ ထည် အစှိတ်အပှိုင််း
+ミャンマー語,392,4,,ကကာ်း  ခပာ်း
+ミャンマー語,393,5,,သ တုှိင်၊သ သ  ာင််း
+ミャンマー語,394,6,,ပလတ်သပါက်မ ာ်းပါသသာ ဓာတ်ကကှိြုံ်းရစ်လု ်း (ဒရမ်)
+ミャンマー語,395,7,,လျှပ်စစ်လ အဝှိုင််း
+ミャンマー語,396,8,,အလု ပှိတ်ရန်သု ်းသသာ သရာ်ောကွင််း
+ミャンマー語,397,9,,သ ော်းသ  ာင််းအသသ်း
+ミャンマー語,401,10,,သ ော်းသ  ာင််းအကက ်း
+ミャンマー語,402,11,,အလ ဆင် အထပ်သာ်းခပာ်း
+ミャンマー語,403,12,,ရုှိ်းရုှိ်းအထပ်သာ်းခပာ်း
+ミャンマー語,404,13,,သဖာဲ့ခပာ်း (Styrofoam)
+ミャンマー語,405,14,,ပု စ  ွက်သောင်၏ သထာင်ဲ့တွင်ထည်ဲ့သသာ သု ်းသခမြှာင်ပု အစှိတ်အပှိုင််း
+ミャンマー語,406,15,,လျှပ်စစ်တုန် ါ စက်ကှိရှိယာ
+ミャンマー語,407,16,, ွာသဆ်း
+ミャンマー語,408,17,,သလ ကာ်း စသည်တုှိဲ့၏ သဒါင်လုှိက်အခပာ်း
+ミャンマー語,409,18,,ကွန်ကရစ်တွင် သခမာင််းသဖာ်ရန် ထည်ဲ့သသာ အသ  ာင််း
+ミャンマー語,410,19,,ကွန်ကရစ်
+ミャンマー語,414,20,,အလ ာ်းတုှိင််းသည်ဲ့ သ သပတ အလှိပ်
+ミャンマー語,415,21,,လုပ်ငန််း ွင်သု ်းလက်အှိပ်
+ミャンマー語,416,22,,သ သပတ သထာင်ဲ့မ န် အသကာက်
+ミャンマー語,417,23,,သရခပင်ည တုှိင််းသည်ဲ့ ကှိရှိယာ
+ミャンマー語,418,24,,"သစ်သာ်းတွင်
+အမ တ်အသာ်း သရ်းခ စ်ရန် သု ်းသသာ ဝါ်း ျွန်ခပာ်း"
+ミャンマー語,419,25,,မင်အနက် ထည်ဲ့သသာ သစ်သာ်းအုှိ်း
+ミャンマー語,423,1,,"ပု စ  ွက်သောင်တပ်ဆင်ရာ တွင် သတ်မ တ်ထာ်းသသာ အက ယ်ကုှိ မ န်ကန်စွာ ထှိန််းရန် သု ်းသသာ
+သတတ ြုံသ  ာင််း"
+ミャンマー語,424,2,,ကွန်ကရစ်မ က်န္ ာခပင်တွင် စှိုက်ထာ်းသသာ သ သ  ာင််း
+ミャンマー語,425,3,,သန်ဲ့ရ င််းသရ်း
+ミャンマー語,426,4,,ကွန်ကရစ်သလာင််း ှိ န်တွင် ပု စ  ွက်သောင်ကုှိ သထာက်ကန်သည်ဲ့ လုပ်ငန််း
+ミャンマー語,427,5,,သအာက်  ကွန်ကရစ်တွင် သဒါင်လုှိက်စှိုက်ထာ်းသသာ သ တှိုင်ပတ်လည်၌ ဆင်သသာသောင်
+ミャンマー語,428,6,,"ရုှိက်ထာ်းသသာ သ သ  ာင််းမ ာ်းကှို
+ခပန်န္ှုတ်သှိမ််းဆည််းခ င််း"
+ミャンマー語,429,7,,ကကမ််းခပင်ခပာ်း
+ミャンマー語,430,8,,အခမင်ဲ့
+ミャンマー語,431,9,,သဒါင်လုှိက် တပ်ဆင်ခ င််း
+ミャンマー語,435,10,,ခပန်ခပင်ခ င််း
+ミャンマー語,436,11,,သလ ကာ်းတစ်ဆင်ဲ့၏ အခမင်ဲ့
+ミャンマー語,437,12,,သလ ကာ်း၏ သခ နင််းအက ယ်
+ミャンマー語,438,13,,ကှိရှိယာမ ာ်းကှို ခပြုံခပင်ထှိန််းသှိမ််းခ င််း
+ミャンマー語,439,14,, ှိ န်သ ်း
+ミャンマー語,440,15,,ကကမ််းခပင် စသည်တှိုဲ့တွင် ခ စ်မ တ်ထာ်းသသာ မင်
+ミャンマー語,441,16,,သခမသာ်းသပေါ်တွင်သရ ်းဥ ်းစွာ သလာင််းသသာ ကွန်ကရစ်အလ ာ
+ミャンマー語,442,17,,ကျွ ထွက်သနခ င််း
+ミャンマー語,443,18,,သဖာင််းကကခ င််း
+ミャンマー語,447,19,,သရ ွဲ့မ က်န္ ာခပင်
+ミャンマー語,448,20,,ပပ ်းသွာ်းသသာအပှိုင််းမ ာ်းကှို ထှိ ှိုက်မှုမရှိ သစရန် ထှိန််းသှိမ််းခ င််း
+ミャンマー語,449,21,,အနှိမ်ဲ့အခမင်ဲ့၊ သရခပင်ည 
+ミャンマー語,450,22,, ွ သဝသတ်မ တ်ခ င််း
+ミャンマー語,451,23,,ခမြှြုံပ်ထာ်းသသာ သ ထည်ပစစည််း
+ミャンマー語,452,24,,ပဖှိြုံဖ က်သည်
+ミャンマー語,453,25,,သ သ  ာင််းကှိုအုပ်သည်ဲ့ ကွန်ကရစ်၏ အထူ
+ミャンマー語,457,1,,ပု သဏ္ဍာန်မတူည သည်ဲ့ သ သ  ာင််းမ ာ်း
+ミャンマー語,458,2,,တွ   ည်သည်ဲ့ကကှိြုံ်း
+ミャンマー語,459,3,,  ည်သန္ ာင်သည်ဲ့ကှိရှိယာ
+ミャンマー語,460,4,,သ သ  ာင််းခဖတ်စက်
+ミャンマー語,461,5,,သ သ  ာင််းသကွ်းစက်
+ミャンマー語,462,6,,သ သ  ာင််းအဖ ာ်းရှိ သကွ်းထာ်းသည်ဲ့အပှိုင််း
+ミャンマー語,463,7,,ကာကွယ်သရ်းဥ ်းထုပ် (Helmet)
+ミャンマー語,464,8,,ကွန်ကရစ်မ အစွန််းထွက်သ သ  ာင််း
+ミャンマー語,465,9,,အလုပ်ရု 
+ミャンマー語,469,10,,ကွန်ကရစ်သလာင််း ှိ န် သ သ  ာင််းမလှုပ်ရန်န္ င်ဲ့ သ သ  ာင််း၏ ကွန်ကရစ် အတွင််းရှိ  အနက်ကှို ထှိန််းရန် သု ်းသည်ဲ့ပစစည််း
+ミャンマー語,470,11,,"သ သ  ာင််း၏ ကွန်ကရစ် အတွင််းရှိ  အနက်ကုှိ ထှိန််းရန် သ သ  ာင််းတွင်
+တပ်သည်ဲ့ ပလပ်စတစ်ခပာ်း"
+ミャンマー語,471,12,,သ ကူကွန်ကရစ် တည်သဆာက်ရန်ပု 
+ミャンマー語,472,13,,သ ကူကွန်ကရစ် တည်သဆာက်ခ င််း အသသ်းစှိတ်ပု 
+ミャンマー語,473,14,,အသပါက် အာ်းကူသ သ  ာင််း
+ミャンマー語,474,15,,"သ သောင်၏အက ယ် ပငှိမ်သစရန် ကန်ဲ့လန်ဲ့
+  ထာ်းသည်ဲ့ သ သ  ာင််း"
+ミャンマー語,475,16,,(ကွန်ကရစ်တွင်) အစွန််းထွက်သ သ  ာင််းကှို စှိုက်သွင််းခ င််း
+ミャンマー語,476,17,,သကာ်လ တုှိင် အဓှိကသ တှိုင်
+ミャンマー語,477,18,,သကာ်လ တှိုင်အာ်း သထာက်ကန်သပ်းသည်ဲ့ သ သ  ာင််း
+ミャンマー語,481,19,,ကကမ််း င််းအတွင််းရှိ သ သ  ာင််း
+ミャンマー語,482,20,,သအာက်  သ သ  ာင််း
+ミャンマー語,483,21,,သကာ်လ တုှိင်သ သ  ာင််းအာ်း ပတ်ထာ်းသည်ဲ့သ သ ွ
+ミャンマー語,484,22,,ရက်မရှိ သ သ ွ၏ သအာက်ေက်ရှိ  သ သ  ာင််း
+ミャンマー語,485,23,,ရက်မရှိ သ သ ွ၏ အသပေါ်ေက်ရှိ  သ သ  ာင််း
+ミャンマー語,486,24,,အဓှိကသ သ  ာင််း
+ミャンマー語,487,25,,ရက်မ စသည်ဲ့ အလ ာ်းလှိုက် သနရာမ ာ်းတွင် သု ်းသည်ဲ့   သ သ  ာင််းငယ်
+ミャンマー語,491,1,,သ ဆင်ရာတွင် အသပေါ်ေက်ခ မ််းရှိ သ သ  ာင််း
+ミャンマー語,492,2,,သဒါင်လှိုက်သ သ  ာင််း
+ミャンマー語,493,3,,ရက်မ၏ သအာက်ပှိုင််းရှိ သ သ  ာင််း
+ミャンマー語,494,4,,အလ ာ်းလုှိက်သ သ  ာင််း
+ミャンマー語,495,5,,အဓှိကသ တှိုင်န္ င်ဲ့အပပှိြုံင် ထည်ဲ့သွင််းထာ်းသည်ဲ့  သ သ  ာင််း
+ミャンマー語,496,6,,အဓှိကသ တှိုင်န္ င်ဲ့  သထာင်ဲ့မ န်အသနအထာ်း တွယ်ဆက်သည်ဲ့ သ သ  ာင််း
+ミャンマー語,497,7,,ရက်မ၏ အသပေါ် ပှိုင််းရှိ သ သ  ာင််း
+ミャンマー語,498,8,,စပရင်ကဲ့ သုှိဲ့ ရစ်သ ွသည်ဲ့ ပု စ ရှိ  သ သ  ာင််း
+ミャンマー語,499,9,,သ သောင်၏အ  င််း
+ミャンマー語,500,10,,"သ သ  ာင််းကှို
+ဖု ်းအုပ်ထာ်းသသာ ကွန်ကရစ်၏ အထူ"
+ミャンマー語,504,11,,သထာင်ဲ့
+ミャンマー語,505,12,,(သ တုှိင်) တစ်တန််း
+ミャンマー語,506,13,,(သ တှိုင်) န္ စ်တန််း
+ミャンマー語,507,14,,"ကကက်သခ  တ်
+  ည်သန္ ာင်ခ င််း"
+ミャンマー語,508,15,,ခဖတ်သတာက်မည်ဲ့ အရ ည်
+ミャンマー語,509,16,,ခပြုံခပင်လုပ်သဆာင်မည်ဲ့ အတှိုင််းအတာ
+ミャンマー語,510,17,,သ သ  ာင််း ၂ သ  ာင််း၏  အဖ ာ်းကုှိ ထပ်၍ ဆက်ခ င််း
+ミャンマー語,511,18,,ဖှိအာ်းခဖင်ဲ့ တွယ်ဆက်ခ င််း
+ミャンマー語,512,19,,သ သောင်ဆင်ရာတွင် အလယ်၌   န်ထာ်း  ဲ့ သည်ဲ့ အသပါက်
+ミャンマー語,513,20,,ဂသဟဆက်ထာ်းသသာ သ သ  ာင််း ဆန် ါကွက်
+ミャンマー語,517,21,,(ပစစည််း) ထုတ်ခ င််း
+ミャンマー語,518,22,,(ပစစည််း) သွင််းခ င််း
+ミャンマー語,519,23,,သအာက်သခ  သဖာင်သဒ်းရ င််း
+ミャンマー語,520,24,,သ သ  ာင််း ၂ သ  ာင််းကှို စက်ကုှိသု ်း၍ ဆက်ခ င််း
+ミャンマー語,521,25,,သ သောင်ဆင်ပပ ်းသနာက် စစ်သဆ်းမှု
+ミャンマー語,525,1,,ထွန်စက် (Tractor)
+ミャンマー語,526,2,,သခမထုှိ်းစက် (ေူဒှိုဇာ)
+ミャンマー語,527,3,,ထရက်တာသရ ာ်ဗယ် (Tractor shovel)
+ミャンマー語,528,4,,ကာ်းေ ်းခဖင်ဲ့သွာ်းသသာ ထရက်တာသရ ာ်ဗယ်ကာ်း
+ミャンマー語,529,5,,သခမသက ာက်သယ်ကာ်း (Dump truck)
+ミャンマー語,530,6,,ဟုှိက်ဒသရာလစ်သရ ာ်ဗယ် (Hydraulic shovel)
+ミャンマー語,531,7,,ေက်ဟုှိ်း
+ミャンマー語,532,8,,သခမသက ာက်တင်ဖှိုဲ့ရာတွင်သု ်းသသာ ဟှိုက်ဒသရာလစ် သရ ာ်ဗယ် (Loading shovel)
+ミャンマー語,536,9,,တလှိမ်ဲ့တု ်း (ရုှိလာ)
+ミャンマー語,537,10,,သခမသက ာက်သယ် ွက် (Bucket)
+ミャンマー語,538,11,,"ကရှိန််း၊သရ ာ်ဗယ်ကာ်း စသည်တှိုဲ့၏ လက်တ  အရင််းပှိုင််း
+(Boom)"
+ミャンマー語,539,12,,"ကရှိန််း၊သရ ာ်ဗယ်ကာ်း စသည်တှိုဲ့၏ လက်တ  အဖ ာ်းပှိုင််း
+(Arm)"
+ミャンマー語,540,13,,သခမတွန််းသရ ွဲ့သည်ဲ့ ေလှိတ်ခပာ်း
+ミャンマー語,541,14,,ေ ်း၊ တာယာ
+ミャンマー語,542,15,,ယာဥ်၏ေ ်းမ ာ်းကှိုပတ်၍ လှိမ်ဲ့သသာ (သရာ်ော)  ှိ န််း ါ်းပတ်ခပာ်း
+ミャンマー語,543,16,,သသာဲ့
+ミャンマー語,544,17,,လုပ်ငန််းသု ်း တပ်ဆင်စရာ ကှိရှိယာ (Attachment)
+ミャンマー語,545,18,,အင်ဂ င်စက်
+ミャンマー語,546,19,,ဒ ဇယ်အင်ဂ င်စက်
+ミャンマー語,550,20,,အင်ဂ င်ဝှိုင်၊အင်ဂ င်ဆ 
+ミャンマー語,551,21,,ခပန်လ န်လျှပ်ထုတ်စက် (သအာ်လ်တာသနတာ)
+ミャンマー語,552,22,,ေက်ထရ အုှိ်း၊ဓာတ်  
+ミャンマー語,553,23,,သလာင်စာဆ 
+ミャンマー語,554,24,,ဒ ဇယ်ဆ 
+ミャンマー語,555,25,,ေရှိတ်
+ミャンマー語,559,1,,ဟှိုက်ဒသရာလစ် ဆလင်ဒါ
+ミャンマー語,560,2,,ဟှိုက်ဒသရာလစ် သမာ်တာ
+ミャンマー語,561,3,,ဟှိုက်ဒသရာလစ် ပန်ဲ့
+ミャンマー語,562,4,,သရယှိုစှိမ်ဲ့ခ င််း
+ミャンマー語,563,5,,ဆ ယုှိစှိမ်ဲ့ခ င််း
+ミャンマー語,564,6,,အသအ်း  သပ်းသည်ဲ့သရ
+ミャンマー語,565,7,,ေရှိတ်အရည်/ေရှိတ်ဆ 
+ミャンマー語,566,8,,"သလာင်စာဆ ပု ်း၊
+သလာင်စာဆ ကန်"
+ミャンマー語,567,9,,ပန်ကာကကှိြုံ်း
+ミャンマー語,568,10,,"(ေ ်း၊ တာယာထ ရှိ )
+သလဖှိအာ်း"
+ミャンマー語,569,11,,(ကာ်း) ကလပ်
+ミャンマー語,570,12,,"ရုတ်တရက်အခမန်
+စထွက်ခ င််း"
+ミャンマー語,571,13,,"ရုတ်တရက်အခမန်
+ေရှိတ်အုပ်ခ င််း"
+ミャンマー語,575,14,,(အင်ဂ င်) န္ှိှု်း၍ အလွတ် လည်သစခ င််း
+ミャンマー語,576,15,,(ကာ်း) သခပ်းခ င််း/သွာ်းခ င််း
+ミャンマー語,577,16,,ဆု လည်လ ည်ဲ့ခ င််း
+ミャンマー語,578,17,,အန္တရာယ်ကင််းသစရန်၊ စက်အစှိတ်အပှိုင််းမ ာ်း မသရွွဲ့ ရ ာ်းန္ှိုင်သအာင် ထှိမ််း  ြုံပ်သည်ဲ့ ကှိရှိယာ
+ミャンマー語,579,18,,ခပြုံတ်က မည်ဲ့အန္တရာယ်ကာ ကွယ်သရ်း သထာက်တှိုင်
+ミャンマー語,580,19,,ခဖည်ဲ့ခ င််း
+ミャンマー語,581,20,,(ပါကင်မ ာ) ကာ်းရပ်ခ င််း၊ ကာ်းထှို်းခ င််း
+ミャンマー語,582,21,,လမ််းသွာ်းလမ််းလာ
+ミャンマー語,583,22,,ေ ်းတပ်ယာဥ်
+ミャンマー語,584,23,,(ယာဥ်သမာင််း) မ က်ကွယ်
+ミャンマー語,585,24,,ကုန််းသစာင််း၊ ဆင်သခ သလျှာ
+ミャンマー語,586,25,,သအာက်သခ သခမသာ်းမ ာ်းကှို တလှိမ်ဲ့တု ်း စသည်တှိုဲ့ခဖင်ဲ့ ဖှိ၍ သှိပ်သည််းသစခ င််း
+ミャンマー語,590,1,,ထှိ(သည်)
+ミャンマー語,591,2,,လှုပ်ရ ာ်းလည်ပတ်(သည်)
+ミャンマー語,592,3,,အဆင်ဲ့ခမြှင်ဲ့တင်(သည်)
+ミャンマー語,593,4,,စစ်သဆ်း(သည်)
+ミャンマー語,594,5,,သရ ွဲ့သည်၊လှုပ်ရ ာ်းသစသည်
+ミャンマー語,595,6,,သမာင််းန္ င်(သည်)
+ミャンマー語,596,7,,တှိုင််းသည်
+ミャンマー語,597,8,,သမာင််း(သည်)
+ミャンマー語,598,9,,ရပ်(သည်)
+ミャンマー語,599,10,,ခဖတ်သည်၊ရပ်သစသည်
+ミャンマー語,600,11,,လ ည်ဲ့ပတ်သည်၊ခဖန်ဲ့သဝသည်
+ミャンマー語,604,12,,တွန််းသည်၊( လုတ်)န္ှိ ပ်သည်
+ミャンマー語,605,13,,စုစည််းသည်
+ミャンマー語,606,14,,(လက်န္ င်ဲ့)ထှိသည်၊ကှိုင်သ ည်
+ミャンマー語,607,15,,  ည်သန္ ာင်သည်
+ミャンマー語,608,16,,ညှိြှသည်
+ミャンマー語,609,17,,ထု ်းသည်၊  ည်သည်
+ミャンマー語,610,18,,သဆာင်ဲ့သကကာင်ဲ့ထှိုင်သည်
+ミャンマー語,611,19,,ကှိုက်ညှိြှ(သည်)
+ミャンマー語,612,20,,ပှိတ်သည်
+ミャンマー語,616,1,,ထုတ်ယူသည်
+ミャンマー語,617,2,,ခပန်ထာ်းသည်
+ミャンマー語,618,3,,သနာက်ဆု ်းပှိတ်အသ  ာသပ်သည်
+ミャンマー語,619,4,,ကှိ ြုံ်းသည်
+ミャンマー語,620,5,,ပဲ့ သည်
+ミャンマー語,621,6,,အနာ်းကပ်လာသည်
+ミャンマー語,622,7,,လျှပ်စစ် လုတ်ကှိုဖွင်ဲ့သည်
+ミャンマー語,623,8,,လျှပ်စစ် လုတ်ကှိုပှိတ်သည်
+ミャンマー語,624,9,, လုတ်ပှိတ်သည်
+ミャンマー語,625,10,,( ှိုင်မာသအာင်)တပ်ဆင်(သည်)
+ミャンマー語,626,11,,"(သ  ာင်လည်သအာင်)
+သလျှာဲ့သည်"
+ミャンマー語,627,12,,ဆွ ဆန်ဲ့သည်
+ミャンマー語,628,13,,ဖယ်ရ ာ်းသည်
+ミャンマー語,629,14,,သကွ်းသည်
+ミャンマー語,630,15,,(အခပင်)ထုတ်သည်
+ミャンマー語,631,16,,အသခ ာက်  သည်
+ミャンマー語,635,17,,သရတွက်သည်
+ミャンマー語,636,18,,သယ်သဆာင်သည်
+ミャンマー語,637,19,,ပု သည်
+ミャンマー語,638,20,,သအာက်  သည်
+ミャンマー語,639,21,,စွန်ဲ့ ွာသည်၊သရ ာင်တှိမ််းသည်
+ミャンマー語,643,1,,
+ミャンマー語,644,2,,
+ミャンマー語,645,3,,
+ミャンマー語,646,4,,
+ミャンマー語,647,5,,
+ミャンマー語,648,6,,
+ミャンマー語,649,7,,
+ミャンマー語,650,8,,
+ミャンマー語,651,9,,
+ミャンマー語,652,10,,
+ミャンマー語,653,11,,
+ミャンマー語,654,12,,
+ミャンマー語,655,13,,
+ミャンマー語,656,14,,
+ミャンマー語,657,15,,
+ミャンマー語,661,16,,
+ミャンマー語,662,17,,
+ミャンマー語,663,18,,
+ミャンマー語,664,19,,
+ミャンマー語,665,20,,
+ミャンマー語,666,21,,
+ミャンマー語,667,22,,
+ミャンマー語,668,23,,
+ミャンマー語,669,24,,
+ミャンマー語,670,25,,
+ミャンマー語,671,26,,
+ミャンマー語,672,27,,
+ミャンマー語,673,28,,
+ミャンマー語,679,1,,
+ミャンマー語,680,2,,
+ミャンマー語,681,3,,
+ミャンマー語,682,4,,
+ミャンマー語,683,5,,
+ミャンマー語,684,6,,
+ミャンマー語,690,1,,
+ミャンマー語,691,2,,
+ミャンマー語,692,3,,
+ミャンマー語,693,4,,
+タイ語,3,1,技能実習,การฝึกงานด้านเทคนิค
+タイ語,4,2,技能実習生,ผู้ฝึกงานด้านเทคนิค
+タイ語,5,3,工場,โรงงาน
+タイ語,6,4,製造,ผลิต
+タイ語,7,5,機械,เครื่องจักร
+タイ語,8,6,安全,ปลอดภัย
+タイ語,9,7,危険（な）,อันตราย (ที่อันตราย)
+タイ語,10,8,危ない,อันตราย
+タイ語,11,9,清掃,สะอาด
+タイ語,12,10,非常口,ทางออกฉุกเฉิน
+タイ語,13,11,注意,ระวัง
+タイ語,14,12,火事,ไฟไหม้
+タイ語,15,13,事故,อุบัติเหตุ
+タイ語,16,14,服装,เครื่องแต่งกาย
+タイ語,17,15,安全装置,อุปกรณ์ความปลอดภัย
+タイ語,21,1,安全カバー,ฝาครอบป้องกัน
+タイ語,22,2,けが,บาดเจ็บ
+タイ語,23,3,けがをする,ได้รับบาดเจ็บ
+タイ語,24,4,電源,แหล่งจ่ายไฟฟ้า
+タイ語,25,5,電源を切る,ตัดไฟ
+タイ語,26,6,非常停止ボタン,ปุ่มหยุดฉุกเฉิน
+タイ語,27,7,非常停止ボタンを押す,กดปุ่มหยุดฉุกเฉิน
+タイ語,28,8,ルール,กฎระเบียบ
+タイ語,29,9,ルールを守る,เคารพกฎระเบียบ
+タイ語,30,10,止める,หยุด
+タイ語,31,11,機械を止める,หยุดเครื่องจักร
+タイ語,32,12,やって,ท าสิ
+タイ語,33,13,止めて,หยุดสิ
+タイ語,34,14,取って,หยิบสิ
+タイ語,35,15,だめ（な）,ไม่ได้ (ที่ไม่ได้)
+タイ語,39,1,監理団体,องค์กรที่ก ำกับดูแล
+タイ語,40,2,技術移転,กำรถ่ำยทอดเทคนิค
+タイ語,41,3,技能実習期間,ระยะเวลำกำรฝึกงำนด้ำน เทคนิค
+タイ語,42,4,職種,ประเภทอำชีพ
+タイ語,43,5,在留資格,สถำนภำพกำรพ ำนัก
+タイ語,44,6,パスポート,หนังสือเดินทำง
+タイ語,45,7,在留カード,บัตรสถำนภำพกำรพ ำนัก
+タイ語,46,8,入管,ตม.
+タイ語,47,9,在留期間,ระยะเวลำกำรพ ำนัก
+タイ語,48,10,雇用契約,สัญญำจ้ำงงำน
+タイ語,49,11,給与明細,สลิปเงินเดือน
+タイ語,50,12,給料,เงินเดือน
+タイ語,51,13,残業手当,ค่ำล่วงเวลำ
+タイ語,52,14,労働時間,เวลำท ำงำน
+タイ語,54,1,控除（する）,การลดหย่อน (ลดหย่อน)
+タイ語,55,2,ボーナス,โบนัส
+タイ語,56,3,有休,ได้รับค่าจ้าง
+タイ語,57,4,代休,หยุดชดเชย
+タイ語,58,5,労働基準法,กฎหมายมาตรฐาน แรงงาน
+タイ語,59,6,労働条件,เงื่อนไขแรงงาน
+タイ語,60,7,税金,ภาษี
+タイ語,61,8,所得税,ภาษีเงินได้
+タイ語,62,9,住民税,ภาษีบ ารุงท้องที่
+タイ語,63,10,厚生年金,กองทุนส ารองเลี้ยงชีพ
+タイ語,64,11,雇用保険,ประกันการจ้างงาน
+タイ語,65,12,健康保険,ประกันสุขภาพ
+タイ語,67,13,社会保険,ประกันสังคม
+タイ語,68,14,労災,อุบัติเหตุและความ เสียหายที่เกิดขึ้น ระหว่างการท างาน
+タイ語,69,15,労災保険,ประกันอุบัติเหตุและ ความเสียหายที่เกิดขึ้น ระหว่างการท างาน
+タイ語,71,1,遅刻（する）,การมาสาย (มาสาย)
+タイ語,72,2,早退（する）,การกลับก่อนเวลา (กลับ ก่อนเวลา)
+タイ語,73,3,休憩（する）,การพัก (พัก)
+タイ語,74,4,残業（する）,"การท างานล่วงเวลา
+(ท างานล่วงเวลา)"
+タイ語,75,5,定時,ตามเวลาที่ก าหนด
+タイ語,76,6,規則,กฎข้อบังคับ
+タイ語,77,7,休日,วันหยุด
+タイ語,78,8,始業時間,เวลาเริ่มงาน
+タイ語,79,9,終業時間,เวลาเลิกงาน
+タイ語,80,10,指導員,ผู้ชี้แนะ
+タイ語,81,11,生活指導員,ผู้ชี้แนะในการด ารงชีพ
+タイ語,82,12,担当者,ผู้รับผิดชอบ
+タイ語,83,13,スイッチ入れるな,อย่าเปิดสวิตช์
+タイ語,84,14,スイッチ切るな,อย่าปิดสวิตช์
+タイ語,85,15,使用禁止,ห้ามใช้
+タイ語,87,1,5S,5 ส
+タイ語,88,2,整理,สะสาง
+タイ語,89,3,整頓,สะดวก
+タイ語,90,4,清掃,สะอาด
+タイ語,91,5,清潔,สุขลักษณะ
+タイ語,92,6,しつけ,สร้างนิสัย
+タイ語,93,7,掃除（する）,การท าความสะอาด (ท า ความสะอาด)
+タイ語,95,8,片づける,จัดเก็บให้เข้าที่เข้าทาง
+タイ語,96,9,捨てる,ทิ้ง
+タイ語,97,10,汚い,สกปรก
+タイ語,98,11,汚れる,เปรอะ
+タイ語,99,12,分別（する）,"การแบ่งแยกประเภท
+(แบ่งแยกประเภท)"
+タイ語,100,13,燃えないごみ,ขยะเผาไม่ได้
+タイ語,101,14,燃えるごみ,ขยะเผาได้
+タイ語,102,15,挟まれる,ถูกหนีบ
+タイ語,103,16,巻き込まれる,โดนเกี่ยว
+タイ語,104,17,やけど（する）,แผลไฟลวก (โดนไฟลวก)
+タイ語,105,18,落ちる,ตก
+タイ語,106,19,すべる,ลื่น
+タイ語,108,20,転ぶ,หกล้ม
+タイ語,109,21,濡れる,เปยก
+タイ語,110,22,衛生,อนามัย
+タイ語,111,23,避難（する）,การอพยพหนีภัย (อพยพ หนีภัย)
+タイ語,112,24,救急車,รถพยาบาล
+タイ語,113,25,災害,ภัยพิบัติ
+タイ語,114,26,地震,แผ่นดินไหว
+タイ語,115,27,もぐる,มุด
+タイ語,117,1,火気厳禁,ห้ามใช้ไฟ
+タイ語,118,2,開放厳禁,ห้ามเปิดทิ้งไว้
+タイ語,119,3,標識,เครื่องหมาย
+タイ語,120,4,気をつける,ระมัดระวัง
+タイ語,121,5,持ち込む,น าเข้าไป
+タイ語,122,6,防ぐ,ป้องกัน
+タイ語,123,7,火,ไฟ
+タイ語,124,8,煙,ควัน
+タイ語,125,9,消火,ดับเพลิง
+タイ語,126,10,消火器,ถังดับเพลิง
+タイ語,127,11,非常ベル,กระดิ่งเตือนภัย
+タイ語,128,12,火災報知機,เครื่องเตือนอัคคีภัย
+タイ語,129,13,逃げる,หลบหนี
+タイ語,130,14,現場,หน้างาน
+タイ語,131,15,作業,งาน
+タイ語,132,16,ミーティング,มีตติ้ง
+タイ語,133,17,研修（する）,การฝึกงาน (ฝึกงาน)
+タイ語,134,18,実習（する）,การฝึกภาคปฏิบัติ (ฝึก ภาคปฏิบัติ)
+タイ語,135,19,あいさつ,ทักทาย
+タイ語,136,20,確認（する）,การตรวจสอบ (ตรวจสอบ)
+タイ語,138,21,報告（する）,การรายงาน (รายงาน)
+タイ語,139,22,連絡（する）,การติดต่อ (ติดต่อ)
+タイ語,140,23,相談（する）,การปรึกษา (ปรึกษา)
+タイ語,141,24,渡す,ยื่นให้
+タイ語,142,25,申請書,ใบค าร้อง
+タイ語,143,26,寝坊（する）,การตื่นสาย (ตื่นสาย)
+タイ語,147,1,技能,
+タイ語,148,2,技能検定試験,
+タイ語,149,3,受検（する）,
+タイ語,150,4,資格,
+タイ語,151,5,手当,
+タイ語,152,6,社員,
+タイ語,153,7,部長,
+タイ語,154,8,課長,
+タイ語,155,9,更衣室,
+タイ語,156,10,台車,
+タイ語,157,11,床,
+タイ語,158,12,出口,
+タイ語,159,13,電気,
+タイ語,160,14,警報音,
+タイ語,161,15,コンセント,
+タイ語,162,16,作業場,
+タイ語,163,17,作業台,
+タイ語,164,18,工事現場,
+タイ語,165,19,職長,
+タイ語,166,20,作業責任者,
+タイ語,169,1,禁止,ห้าม
+タイ語,170,2,表示板,ป้ายประกาศ
+タイ語,171,3,禁止事項,ข้อห้าม
+タイ語,172,4,避難訓練,การฝึกหลบภัยหรือหนีภัย
+タイ語,173,5,感電（する）,"ไฟฟ้าดูด (ถูกไฟฟ้าดูด), ไฟฟ้าช็อต (ถูกไฟฟ้าช็อต)"
+タイ語,174,6,防止（する）,การป้องกันไม่ให้เกิด (ป้องกันไม่ให้เกิด)
+タイ語,175,7,予防（する）,การป้องกันล่วงหน้า (ป้องกันล่วงหน้า)
+タイ語,176,8,転倒（する）,"ล้ม (ล้ม), การหกล้ม (หก ล้ม)"
+タイ語,177,9,挟まる,"คั่น, หนีบ, ติดอยู่"
+タイ語,178,10,足元,ที่เท้า
+タイ語,179,11,不安定（な）,ไม่มั่นคง
+タイ語,180,12,後片付け,ท าความสะอาดและเก็บ เข้าที่
+タイ語,181,13,救急箱,กล่องปฐมพยาบาล
+タイ語,182,14,絆創膏,"พลาสเตอร์ยา, เทป ส าหรับปิดแผล"
+タイ語,183,15,体調,สภาพร่างกาย
+タイ語,185,16,血,เลือด
+タイ語,186,17,熱中症,โรคลมแดด
+タイ語,187,18,吐き気,คลื่นไส้
+タイ語,188,19,嘔吐（する）,อาเจียน (อาเจียน)
+タイ語,189,20,足がつる,มีอาการตะคริวที่ขา
+タイ語,190,21,気分が悪い,รู้สึกไม่สบาย
+タイ語,191,22,寝不足,นอนไม่พอ
+タイ語,192,23,安全ネット,เครือข่ายความปลอดภัย
+タイ語,193,24,安全点検,การตรวจเช็คความ ปลอดภัย
+タイ語,195,1,KY活動（危険予知活動）,กิจกรรมKY (กิจกรรมฝึก การคาดการณ์อันตราย ล่วงหน้า)
+タイ語,196,2,危険,อันตราย
+タイ語,197,3,ぶつかる,ชน
+タイ語,198,4,当たる,"โดน, กระทบ"
+タイ語,199,5,下敷きになる,โดนทับ
+タイ語,200,6,打つ,"ตี, ตอก, เคาะ"
+タイ語,201,7,バランスを崩す,เสียการทรงตัว
+タイ語,202,8,倒れる,"ล้ม, ล้มป่วย"
+タイ語,203,9,転落（する）,การพลัดตกลงมา (พลัด ตกลงมา)
+タイ語,204,10,指差呼称,การท ามือชี้และปากย้ า เพื่อความปลอดภัย
+タイ語,205,11,ヒヤリハット,เหตุการณ์เกือบเกิด อุบัติเหตุ
+タイ語,206,12,原因,สาเหตุ
+タイ語,207,13,対策,การรับมือกับปัญหา
+タイ語,208,14,落下（する）,"การหล่น (หล่น), การตก ลงมา (การตกลงมา)"
+タイ語,209,15,墜落（する）,"การตกลงมาจากที่สูง (ตก ลงมาจากที่สูง), การตกดิ่ง
+(ตกดิ่ง)"
+タイ語,210,16,確認（する）,"การตรวจยืนยัน (ตรวจ ยืนยัน), การตรวจสอบ (ตรวจสอบ)"
+タイ語,216,1,作業着,ชุดท ำงำน
+タイ語,217,2,作業服,ชุดใส่ปฏิบัติงำน
+タイ語,218,3,作業靴,รองเท้าปฏิบัติงาน
+タイ語,221,4,手袋,ถุงมือ
+タイ語,222,5,帽子,หมวก
+タイ語,223,6,保護帽（ヘルメット）,หมวกนิรภัย (หมวกเซฟตี้)
+タイ語,224,7,保護具,อุปกรณ์ป้องกัน
+タイ語,226,8,あごひも,สายรัดคาง
+タイ語,228,9,ボタン,กระดุม
+タイ語,229,10,ポケット,กระเป๋า
+タイ語,231,11,保護メガネ,แว่นตำป้องกัน
+タイ語,232,12,マスク,"หน้ากาก, หน้ากากอนามัย"
+タイ語,233,13,耳栓,ที่อุดหู
+タイ語,234,14,安全靴,รองเท้ำนิรภัย
+タイ語,235,15,墜落制止用器具（安全帯）,อุปกรณ์ป้องกันกำรตกจำกที่ สูง(สำยรัดตัวกันตก)
+タイ語,240,16,業務,"งาน, ภาระหน้าที่"
+タイ語,241,17,時間厳守,การตรงต่อเวลา
+タイ語,242,18,予定,ก าหนดการ
+タイ語,243,19,日付,วันที่
+タイ語,244,20,準備（する）,(การ)เตรียม
+タイ語,245,21,会議,การประชุม
+タイ語,246,22,朝礼,การประชุมเช้าก่อนเริ่มงาน
+タイ語,247,23,報告書,หนังสือรายงาน
+タイ語,248,24,マニュアル,คู่มือ
+タイ語,249,25,作業手順書,คู่มือขั้นตอนการปฏิบัติงาน
+タイ語,250,26,調子,สภาพการท างานของ ร่างกายหรือเครื่องจักร
+タイ語,252,1,立入禁止,ห้ามเข้า
+タイ語,253,2,禁煙,ห้ามสูบบุหรี่
+タイ語,254,3,火気厳禁,ห้ามจุดไฟ
+タイ語,255,4,駐車禁止,ห้ามจอดรถ
+タイ語,256,5,足もと注意,ระวังสะดุด
+タイ語,257,6,開口部注意,ระวังช่องเปิด
+タイ語,258,7,感電注意,ระวังอันตรายจากไฟฟ้า ช็อต
+タイ語,259,8,堕落注意,ระวังตกจากที่สูง
+タイ語,260,9,頭上注意,ระวังศีรษะ
+タイ語,261,10,警報設備,อุปกรณ์สัญญาณเตือนภัย ปุ่มขอความช่วยเหลือ
+タイ語,263,11,消火器,ถังดับเพลิง
+タイ語,264,12,AED設置場所,จุดติดตั้งเคริ่องกระตุก หัวใจอัตโนมัติ
+タイ語,265,13,保護帽着用,สวมหมวกนิรภัย
+タイ語,266,14,安全帯使用,สวมสายรัดตัวนิรภัยกันตก
+タイ語,267,15,昇降階段,บันไดขึ้นลง
+タイ語,268,16,休憩所,ห้องนั่งพัก
+タイ語,269,17,最大積載荷重,รับน้ าหนักได้สูงสุด
+タイ語,270,18,喫煙所,ที่พักสูบบุหรี่
+タイ語,271,19,整理整頓,"สะสาง สะดวก, ซ้อนให้ถูกต้องสะดวกใช้ ปลอดภัย"
+タイ語,272,20,安全通路,ทางเดินปลอดภัย
+タイ語,274,1,,
+タイ語,275,2,,
+タイ語,276,3,,
+タイ語,277,4,,
+タイ語,278,5,,
+タイ語,279,6,,
+タイ語,280,7,,
+タイ語,281,8,,
+タイ語,282,9,,
+タイ語,284,10,,
+タイ語,285,11,,
+タイ語,286,12,,
+タイ語,287,13,,
+タイ語,288,14,,
+タイ語,289,15,,
+タイ語,290,16,,
+タイ語,291,17,,
+タイ語,292,18,,
+タイ語,293,19,,
+タイ語,294,20,,
+タイ語,297,21,,
+タイ語,298,22,,
+タイ語,299,23,,
+タイ語,300,24,,
+タイ語,301,25,,
+タイ語,303,1,親綱,เชือกป้องกันการตก (เชือกส าหรับเกี่ยวตะขอ สายรัดตัวกันตก)
+タイ語,304,2,建枠（ビティ）,ขาตั้งนั่งร้าน
+タイ語,305,3,メッシュシート,ตาข่ายกันฝุ่น
+タイ語,306,4,防音パネル,แผงกันเสียง
+タイ語,307,5,朝顔材,ตาข่ายนิรภัย
+タイ語,308,6,架空線,สายไฟบนเสาไฟฟ้า
+タイ語,309,7,幅木（仮設足場）,ขอบกันตกนั่งร้าน (นั่งร้าน ชั่วคราว)
+タイ語,310,8,単管,ท่อเหล็ก
+タイ語,311,9,脚立,"บันไดพาด, บันไดพับ"
+タイ語,312,10,作業半径,รัศมีการท างาน
+タイ語,314,11,仮ボルト,น็อตไว้ชั่วคราว
+タイ語,315,12,手直し,แก้ไข
+タイ語,316,13,面一,ท าให้วัสดุสองชนิดเรียบ เสมอกัน
+タイ語,317,14,点検事項,รายการตรวจเช็ค
+タイ語,318,15,積載荷重,น้ าหนักบรรทุก
+タイ語,319,16,すき間,ช่องว่าง
+タイ語,320,17,通りを見る,"ตรวจยืนยัน, ตรวจยืนยันว่า เปนแนวตรง"
+タイ語,321,18,組立,ประกอบ
+タイ語,322,19,地組,ประกอบที่พื้น
+タイ語,323,20,天端,ระดับบนสุด
+タイ語,325,21,玉掛け,การเกี่ยวเชือกเข้ากับและ ถอดเชือกออกจากตะขอ ปั้นจั่น
+タイ語,326,22,合図,การให้สัญญาน
+タイ語,327,23,定格荷重,พิกัดน้ าหนัก
+タイ語,328,24,たち,แนวตั้งของเสา
+タイ語,329,25,職長,หัวหน้างาน
+タイ語,331,1,安全カバー,ฝาครอบป้องกัน
+タイ語,332,2,安全帯,"สายรัดตัวนิรภัย, ชุดเซฟตี้ กันตก"
+タイ語,333,3,インサート,"พุกฝังคอนกรีต, ปลั๊กฝัง คอนกรีต"
+タイ語,334,4,スペーサ,ลูกปูน
+タイ語,335,5,鉄筋,"เหล็กเสริม, เหล็กเสริมแรง"
+タイ語,336,6,電工ドラム（ドラム）,ล้อเก็บสายไฟ (โรล สายไฟ)
+タイ語,337,7,電動丸のこ（電のこ）,"เลื่อยวงเดือนไฟฟ้า
+(เลื่อยไฟฟ้า)"
+タイ語,338,8,パッキン,วัสดุกันซึมรอยต่อ
+タイ語,339,9,小バール,ชะแลงขนาดเล็ก
+タイ語,340,10,大バール,ชะแลงขนาดใหญ่
+タイ語,342,11,化粧合板,ไม้อัดเคลือบ
+タイ語,343,12,普通合板,ไม้อัดธรรมดา
+タイ語,344,13,スタイロフォーム,โฟม
+タイ語,345,14,面木,"สามเหลี่ยมลบมุม, บัวไม้ สามเหลี่ยม"
+タイ語,346,15,バイブレーター,เครื่องสั่นคอนกรีต
+タイ語,347,16,剥離剤,น้ ายาถอดแบบ
+タイ語,348,17,けこみ板,ไม้บันไดลูกตั้ง
+タイ語,349,18,目地棒,วัสดุกั้นให้เกิดแนวร่อง รอยต่อ
+タイ語,350,19,コンクリート,คอนกรีต
+タイ語,351,20,コンベックス,ตลับเมตร
+タイ語,353,21,作業用手袋,ถุงมือส าหรับใช้ปฏิบัติงาน
+タイ語,354,22,差金,ฉากเหล็ก
+タイ語,355,23,水平器,"ระดับน้ า, เครื่องวัดระดับ"
+タイ語,356,24,墨さし,ปากกาส าหรับใช้ตีเส้น
+タイ語,357,25,墨つぼ,บักเต้าตีเส้น
+タイ語,359,1,"丸セパレーター
+（丸セパ）",อุปกรณ์ยึดแบบระบบ ฟอร์มไท (ฟอร์มไท)
+タイ語,360,2,天端釘,หมุดช่วยในการปรับระดับ สันคอนกรีตฐานราก
+タイ語,361,3,ケレン,ท าความสะอาด
+タイ語,362,4,型枠支保工,ค้ ายัน
+タイ語,363,5,"基礎型枠
+（メタルフォーム）","แบบหล่อคอนกรีตฐานราก
+(แบบเหล็ก)"
+タイ語,364,6,釘仕舞い,ถอนตะปูออกและจัดเก็บ หลังจบงาน
+タイ語,365,7,スラブ天端,ระดับบนสุดของพื้น
+タイ語,366,8,高さ（タッパ）,ความสูง (ส่วนสูง)
+タイ語,367,9,建込み,ประกอบวัสดุก่อสร้างใน แนวตั้งที่ต าแหน่งตามที่ ก าหนดในแบบ
+タイ語,368,10,通り,เป็นแนวเส้นตรง
+タイ語,370,11,蹴上げ,ความสูงของขั้นบันได
+タイ語,371,12,蹴込み,ส่วนที่ขั้นบันไดเหลื่อมกัน
+タイ語,372,13,工具の手入れ,ดูแลรักษาเครื่องมือ
+タイ語,373,14,下げ振り,สายดิ่ง
+タイ語,374,15,地墨,"ท าเครื่องหมายเพื่อ
+ก าหนดต าแหน่งก่อสร้าง บนพื้นฐานราก"
+タイ語,375,16,捨てコンクリート,"การเทลีน, การเทคอนกรีต เพื่อปรับผิวหน้าดิน"
+タイ語,376,17,はね出し,ส่วนที่ยื่นออกมา
+タイ語,377,18,はらみ,เบ่งบวม
+タイ語,378,19,前面,ด้านหน้า
+タイ語,379,20,養生,บ่ม
+タイ語,381,21,レベル,"ระดับ, เครื่องวัดระนาบ"
+タイ語,382,22,割付,การแบ่งพื้นที่บนแบบ แปลนเพื่อก าหนดจุด ติดตั้งอย่างถูกต้อง
+タイ語,383,23,埋め込み金物,อุปกรณ์โลหะแบบฝังอยู่ ในคอนกรีต เพื่อเป็น รากฐานของตัวยึดส าหรับ ติดตั้งอุปกรณ์ต่างๆ
+タイ語,384,24,解体する（バラス）,รื้อถอน (ถอดเป็นชิ้นๆ)
+タイ語,385,25,かぶり寸法,"ระยะคอนกรีตหุ้มผิวเหล็ก, ระยะหุ้มของคอนกรีต"
+タイ語,387,1,異形棒鋼,เหล็กข้ออ้อย
+タイ語,388,2,結束線,ลวดผูกเหล็ก
+タイ語,389,3,結束工具,เครื่องมือที่ใช้การผูกเหล็ก
+タイ語,390,4,鉄筋切断機,เครื่องตัดเหล็กเสริม
+タイ語,391,5,鉄筋曲げ加工機,เครื่องดัดเหล็กเสริม
+タイ語,392,6,フック,"ดัดโค้ง, ดัดงอเป็นขอ"
+タイ語,393,7,保護帽（ヘルメット）,หมวกนิรภัย (หมวกเซฟตี้)
+タイ語,394,8,アンカー,สมอ
+タイ語,395,9,加工場,โรงแปรรูป
+タイ語,396,10,スペーサ―,ลูกปูน
+タイ語,398,11,ドーナツ,ลูกปูนกลม
+タイ語,399,12,加工配筋図,แบบการวางและดัดเหล็ก เสริม
+タイ語,400,13,配筋詳細図,แบบละเอียดของการวาง เหล็กเสริม
+タイ語,401,14,開口補強筋,การเสริมเหล็กช่องเปิด
+タイ語,402,15,幅止め筋,เหล็กเสริมที่ใส่เพิ่มเมื่อมี การผูกเหล็กเสริมสองชั้น เพื่อยึดให้ระยะห่างระหว่าง เหล็กคงที่
+タイ語,403,16,差筋,เหล็กเดือย
+タイ語,404,17,柱主筋,"เหล็กเสริมหลักในเสา, เหล็กยืน"
+タイ語,405,18,柱配筋,การวางเหล็กเสริมในเสา
+タイ語,406,19,スラブ筋,เหล็กเสริมในพื้น
+タイ語,407,20,ベース筋,เหล็กเสริมในฐานราก
+タイ語,409,21,帯筋（フープ）,เหล็กปลอกเสา (เหล็ก ปลอกรัดรอบ)
+タイ語,410,22,下端筋,เหล็กเสริมล่าง
+タイ語,411,23,上端筋,เหล็กเสริมบน
+タイ語,412,24,主筋,เหล็กเสริมหลัก
+タイ語,413,25,あばら筋,เหล็กปลอกคาน
+タイ語,415,1,はかま筋,เหล็กเสริมครอบเหล็ก เสริมในฐานราก
+タイ語,416,2,縦筋,เหล็กเสริมแนวตั้ง
+タイ語,417,3,下筋,เหล็กเสริมล่าง
+タイ語,418,4,横筋,เหล็กเสริมแนวนอน
+タイ語,419,5,腹筋,เหล็กเสริมที่เรียงขนานกับ เหล็กเสริมหลัก
+タイ語,420,6,配力筋,เหล็กเสริมที่ตั้งฉากกับ เหล็กเสริมหลักที่รับแรง
+タイ語,421,7,上筋,เหล็กเสริมบน
+タイ語,422,8,スパイラル筋,เหล็กปลอกเกลียว
+タイ語,423,9,鉄筋径,เส้นผ่านศูนย์กลางของ เหล็กเสริม
+タイ語,424,10,かぶり厚さ,"ความหนาของระยะ คอนกรีตหุ้มผิวเหล็ก, ความหนาของระยะหุ้ม ของคอนกรีต"
+タイ語,426,11,角度,มุม
+タイ語,427,12,シングル,เหล็กเสริมชั้นเดียว
+タイ語,428,13,ダブル,เหล็กเสริมสองชั้น
+タイ語,429,14,千鳥結束,เหล็กเสริมสองชั้นผูกสลับ
+タイ語,430,15,切断寸法,ขนาดความยาวของการตัด
+タイ語,431,16,加工寸法,ขนาดการแปรรูป
+タイ語,432,17,重ね継手,การต่อทาบเหล็ก
+タイ語,433,18,圧接継手,การต่อเหล็กด้วยการเชื่อม แก๊สและแรงดัน
+タイ語,434,19,開口部,ช่องเปิด
+タイ語,435,20,溶接金網,ตะแกรงเหล็กเชื่อม
+タイ語,437,21,搬出,ล าเลียงออก
+タイ語,438,22,搬入,ล าเลียงเข้า
+タイ語,439,23,基礎,ฐานราก
+タイ語,440,24,機械式継手,ข้อต่อเหล็กเชิงกล
+タイ語,441,25,配筋検査,การตรวจสอบการจัดวาง เหล็กเสริม
+タイ語,443,1,トラクタ,รถแทรกเตอร์
+タイ語,444,2,ブルドーザ,รถดันดิน
+タイ語,445,3,トラクタショベル,รถตัก
+タイ語,446,4,ホイルローダ,รถตักล้อยำง
+タイ語,447,5,ダンプトラック,รถบรรทุกเทท้ำย
+タイ語,448,6,油圧ショベル,รถขุดระบบไฮดรอลิก
+タイ語,449,7,バックホウ,รถแบคโฮ
+タイ語,450,8,ローディングショベル,รถขุดขนำดใหญ่
+タイ語,451,9,ローラ,รถบดดิน
+タイ語,452,10,バケット,บุ้งกี๋
+タイ語,454,11,ブーム,บูม
+タイ語,455,12,アーム,อำร์ม
+タイ語,456,13,ブレード（排土板）,ใบมีด(ใบดันดิน)
+タイ語,457,14,タイヤ,ยำงรถ
+タイ語,458,15,クローラ,ตีนตะขำบ
+タイ語,459,16,キー（鍵）,คีย์ (กุญแจ)
+タイ語,460,17,"作業装置
+（アタッチメント）",ส่วนที่ท ำงำน(อุปกรณ์)
+タイ語,461,18,エンジン,เครื่องยนต์
+タイ語,462,19,ディーゼルエンジン,เครื่องยนต์ดีเซล
+タイ語,463,20,エンジンオイル,น้ ำมันเครื่อง
+タイ語,465,21,"オルタネータ
+（充電発電機）","อัลเทอร์เนเตอร์, ไดชำร์จ (เครื่องปั่นไฟและสำมำรถ ชำร์จไฟเข้ำแบตเตอรี่)"
+タイ語,466,22,バッテリ,แบตเตอรี่
+タイ語,467,23,燃料,เชื้อเพลิง
+タイ語,468,24,軽油,น้ ำมันดีเซล
+タイ語,469,25,ブレーキ,เบรค
+タイ語,471,1,油圧シリンダ,กระบอกสูบไฮดรอลิก
+タイ語,472,2,油圧モータ,มอเตอร์ไฮดรอลิก
+タイ語,473,3,油圧ポンプ,ปั๊มไฮดรอลิก
+タイ語,474,4,水漏れ,น้ ำรั่ว
+タイ語,475,5,油漏れ,น้ ำมันรั่ว
+タイ語,476,6,冷却水,น้ ำหล่อเย็น
+タイ語,477,7,ブレーキ液,น้ ำมันเบรค
+タイ語,478,8,燃料タンク,ถังน้ ำมัน
+タイ語,479,9,ファンベルト,สำยพำนพัดลมหม้อน้ ำ
+タイ語,480,10,空気圧,แรงดันลมยำง
+タイ語,481,11,クラッチ,คลัตช์
+タイ語,482,12,急発進,เหยียบคันเร่งออกตัวทันที
+タイ語,483,13,急ブレーキ,กดเบรคให้ควำมเร็วลดลง ทันที
+タイ語,485,14,アイドリング,สภำวะของเครื่องยนต์ที่ หมุนด้วยอัตรำรอบต่ ำสุด เปล่ำๆ
+タイ語,486,15,走行,รถแล่น
+タイ語,487,16,旋回,หมุน
+タイ語,488,17,安全ロック,เซฟตี้ล็อค
+タイ語,489,18,安全支柱,เสำค้ ำเพื่อควำมปลอดภัย
+タイ語,490,19,補給（する）,(กำร)เติม
+タイ語,491,20,駐車（する）,(กำร)จอดรถ
+タイ語,492,21,歩行者,คนเดินเท้ำ
+タイ語,493,22,車両,ยำนพำหนะมีล้อที่วิ่งบนบก
+タイ語,494,23,死角,จุดบอด
+タイ語,495,24,斜面,"ทำงลำด, พื้นที่ลำดเอียง"
+タイ語,496,25,転圧（する）,(กำร)บดอัด
+タイ語,498,1,接触（する）,การชน (ชน)
+タイ語,499,2,作動（する）,การท างาน (ท างาน)
+タイ語,500,3,整備（する）,การซ่อมบ ารุง (ซ่อมบ ารุง)
+タイ語,501,4,点検（する）,การตรวจเช็ค (ตรวจเช็ค)
+タイ語,502,5,動かす,เดินเครื่อง
+タイ語,503,6,運転（する）,การขับ (ขับ)
+タイ語,504,7,測る,วัด
+タイ語,505,8,操作（する）,"การควบคุมการท างาน
+(ควบคุมการท างาน)"
+タイ語,506,9,停止（する）,"การหยุด (หยุด) , การจอด
+(จอด)"
+タイ語,507,10,切る,ตัด
+タイ語,508,11,回す,หมุน
+タイ語,509,12,押す,"ผลัก, ดัน"
+タイ語,510,13,集める,รวบรวม
+タイ語,511,14,触る,"แตะต้อง, สัมผัส"
+タイ語,512,15,縛る,"มัด, รัด"
+タイ語,513,16,揃える,"ท ำให้เท่ำกัน, จัดให้เสมอ"
+タイ語,514,17,結ぶ,"ผูก, มัด"
+タイ語,515,18,しゃがむ,นั่งยองๆ
+タイ語,516,19,調整（する）,การปรับ (ปรับ)
+タイ語,517,20,閉じる,ปิด
+タイ語,519,1,取り出す,เอาออก
+タイ語,520,2,戻す,กลับคืน
+タイ語,521,3,仕上げる,ท าให้เสร็จ
+タイ語,522,4,折れる,หัก
+タイ語,523,5,欠ける,บิ่น
+タイ語,524,6,近づく,เข้าใกล้
+タイ語,525,7,電源を入れる,เปิดเครื่อง
+タイ語,526,8,電源を落とす,ตัดไฟ
+タイ語,527,9,スイッチを切る,ปิดสวิตช์
+タイ語,528,10,固定（する）,การยึดให้คงที่ (ยึดให้คงที่)
+タイ語,529,11,ゆるめる,คลาย
+タイ語,530,12,伸ばす,ยืด
+タイ語,531,13,外す,ถอดออก
+タイ語,532,14,曲げる,งอ
+タイ語,533,15,出す,"ยื่น, ส่ง"
+タイ語,534,16,乾かす,ท าให้แห้ง
+タイ語,535,17,数える,นับ
+タイ語,536,18,運ぶ,ขน
+タイ語,537,19,積む,วางซ้อน
+タイ語,538,20,下ろす,เอาลง
+タイ語,539,21,離れる,ออกห่าง
+タイ語,541,1,位置,
+タイ語,542,2,寸法,
+タイ語,543,3,測定（する）,
+タイ語,544,4,計測（する）,
+タイ語,545,5,計測器,
+タイ語,546,6,温度,
+タイ語,547,7,高さ,
+タイ語,548,8,長さ,
+タイ語,549,9,重さ,
+タイ語,550,10,厚さ,
+タイ語,551,11,硬さ,
+タイ語,552,12,深さ,
+タイ語,553,13,表面,
+タイ語,554,14,すきま,
+タイ語,555,15,中心,
+タイ語,557,16,値,
+タイ語,558,17,安定（する）,
+タイ語,559,18,大きさ,
+タイ語,560,19,数,
+タイ語,561,20,誤差,
+タイ語,562,21,中,
+タイ語,563,22,反対,
+タイ語,564,23,周り,
+タイ語,565,24,尺,
+タイ語,566,25,青,
+タイ語,567,26,赤,
+タイ語,568,27,白,
+タイ語,569,28,黄色,
+タイ語,572,1,片づける,
+タイ語,573,2,捨てる,
+タイ語,574,3,掃く,
+タイ語,575,4,持ち上げる,
+タイ語,576,5,束ねる,
+タイ語,577,6,足をくじく,
+タイ語,580,1,一輪車,
+タイ語,581,2,支柱,
+タイ語,582,3,ショベル,
+タイ語,583,4,かけや,
+ベトナム語,3,1,技能実習,Thực tập kỹ năng
+ベトナム語,4,2,技能実習生,Thực tập sinh kỹ năng
+ベトナム語,5,3,工場,Nhà máy
+ベトナム語,6,4,製造,Chế tạo
+ベトナム語,7,5,機械,Máy móc
+ベトナム語,8,6,安全,An toàn
+ベトナム語,9,7,危険（な）,Nguy hiểm (tính từ)
+ベトナム語,10,8,危ない,Nguy hiểm
+ベトナム語,11,9,清掃,Làm vệ sinh
+ベトナム語,12,10,非常口,Cửa thoát hiểm
+ベトナム語,13,11,注意,Chú ý
+ベトナム語,14,12,火事,Hỏa hoạn
+ベトナム語,15,13,事故,Sự cố
+ベトナム語,16,14,服装,Trang phục
+ベトナム語,17,15,安全装置,Thiết bị an toàn
+ベトナム語,21,1,安全カバー,Nắp đậy an toàn
+ベトナム語,22,2,けが,Vết thương
+ベトナム語,23,3,けがをする,Bị thương
+ベトナム語,24,4,電源,Nguồn điện
+ベトナム語,25,5,電源を切る,Tắt nguồn điện
+ベトナム語,26,6,非常停止ボタン,Nút dừng khẩn cấp
+ベトナム語,27,7,非常停止ボタンを押す,Nhấn nút dừng khẩn cấp
+ベトナム語,28,8,ルール,Quy tắc
+ベトナム語,29,9,ルールを守る,Tuân thủ quy tắc
+ベトナム語,30,10,止める,Cho dừng
+ベトナム語,31,11,機械を止める,Cho dừng máy
+ベトナム語,32,12,やって,Hãy làm
+ベトナム語,33,13,止めて,Hãy dừng lại
+ベトナム語,34,14,取って,Hãy lấy
+ベトナム語,35,15,だめ（な）,"(tính từ) Không được, kh ông tốt"
+ベトナム語,39,1,監理団体,Đoàn thể giám sát (nghiệp đoàn)
+ベトナム語,40,2,技術移転,Chuyển giao kỹ thuật
+ベトナム語,41,3,技能実習期間,Thời gian thực tập kỹ năng
+ベトナム語,42,4,職種,Ngành nghề
+ベトナム語,43,5,在留資格,Tư cách lưu trú
+ベトナム語,44,6,パスポート,Hộ chiếu
+ベトナム語,45,7,在留カード,Thẻ lưu trú
+ベトナム語,46,8,入管,Cục quản lý nhập cảnh
+ベトナム語,47,9,在留期間,Thời hạn lưu trú
+ベトナム語,48,10,雇用契約,Hợp đồng tuyển dụng
+ベトナム語,49,11,給与明細,Bảng chi tiết lương
+ベトナム語,50,12,給料,Lương
+ベトナム語,51,13,残業手当,Trợ cấp làm tăng ca
+ベトナム語,52,14,労働時間,Thời gian làm việc
+ベトナム語,54,1,控除（する）,(động từ) Khấu trừ
+ベトナム語,55,2,ボーナス,Tiền thưởng
+ベトナム語,56,3,有休,Nghỉ phép có lương
+ベトナム語,57,4,代休,Nghỉ bù
+ベトナム語,58,5,労働基準法,Luật lao động cơ bản
+ベトナム語,59,6,労働条件,Điều kiện lao động
+ベトナム語,60,7,税金,Tiền thuế
+ベトナム語,61,8,所得税,Thuế thu nhập
+ベトナム語,62,9,住民税,Thuế cư dân
+ベトナム語,63,10,厚生年金,Lương hưu
+ベトナム語,64,11,雇用保険,Bảo hiểm thất nghiệp
+ベトナム語,66,12,健康保険,Bảo hiểm y tế
+ベトナム語,67,13,社会保険,Bảo hiểm xã hội
+ベトナム語,68,14,労災,Tai nạn lao động
+ベトナム語,69,15,労災保険,Bảo hiểm tai nạn lao đ ộng
+ベトナム語,71,1,遅刻（する）,(động từ) Đi muộn
+ベトナム語,72,2,早退（する）,(động từ) Về sớm
+ベトナム語,73,3,休憩（する）,(động từ) Nghỉ giải lao
+ベトナム語,74,4,残業（する）,(động từ) Làm thêm giờ
+ベトナム語,75,5,定時,Giờ quy định
+ベトナム語,76,6,規則,Quy tắc
+ベトナム語,77,7,休日,Ngày nghỉ
+ベトナム語,78,8,始業時間,Giờ bắt đầu làm việc
+ベトナム語,79,9,終業時間,Giờ kết thúc làm việc
+ベトナム語,80,10,指導員,Người hướng dẫn
+ベトナム語,81,11,生活指導員,Người hướng dẫn đời sống
+ベトナム語,82,12,担当者,Người phụ trách
+ベトナム語,83,13,スイッチ入れるな,Không được bật công tắc
+ベトナム語,84,14,スイッチ切るな,Không được tắt công tắc
+ベトナム語,85,15,使用禁止,Cấm sử dụng
+ベトナム語,87,1,5S,5S
+ベトナム語,88,2,整理,Seiri (sàng lọc)
+ベトナム語,89,3,整頓,Seiton (sắp xếp)
+ベトナム語,90,4,清掃,Seisou (sạch sẽ)
+ベトナム語,91,5,清潔,Seiketsu (săn sóc)
+ベトナム語,92,6,しつけ,Shitsuke (sẵn sàng)
+ベトナム語,94,7,掃除（する）,(động từ) Làm vệ sinh
+ベトナム語,95,8,片づける,Dọn dẹp
+ベトナム語,96,9,捨てる,Vứt bỏ
+ベトナム語,97,10,汚い,Bẩn
+ベトナム語,98,11,汚れる,Bị bẩn
+ベトナム語,99,12,分別（する）,(động từ) Phân loại
+ベトナム語,100,13,燃えないごみ,Rác không cháy được
+ベトナム語,101,14,燃えるごみ,Rác cháy được
+ベトナム語,102,15,挟まれる,Bị kẹp vào
+ベトナム語,103,16,巻き込まれる,Bị cuốn vào
+ベトナム語,104,17,やけど（する）,(động từ) Bị bỏng
+ベトナム語,105,18,落ちる,Bị rơi
+ベトナム語,106,19,すべる,Trơn
+ベトナム語,108,20,転ぶ,Bị ngã
+ベトナム語,109,21,濡れる,Bị ướt
+ベトナム語,110,22,衛生,Vệ sinh
+ベトナム語,111,23,避難（する）,"(động từ) Sơ tán, lánh nạn"
+ベトナム語,112,24,救急車,Xe cứu thương
+ベトナム語,113,25,災害,Thảm họa
+ベトナム語,114,26,地震,Động đất
+ベトナム語,115,27,もぐる,Chui xuống
+ベトナム語,117,1,火気厳禁,Cấm lửa
+ベトナム語,118,2,開放厳禁,Cấm mở
+ベトナム語,119,3,標識,Bảng hiệu
+ベトナム語,120,4,気をつける,"Chú ý, cẩn thận"
+ベトナム語,121,5,持ち込む,Mang vào
+ベトナム語,122,6,防ぐ,Phòng ngừa
+ベトナム語,123,7,火,Lửa
+ベトナム語,124,8,煙,Khói
+ベトナム語,125,9,消火,Chữa cháy
+ベトナム語,126,10,消火器,Bình chữa cháy
+ベトナム語,127,11,非常ベル,Chuông khẩn cấp
+ベトナム語,128,12,火災報知機,Thiết bị báo cháy
+ベトナム語,129,13,逃げる,Trốn chạy
+ベトナム語,130,14,現場,Hiện trường
+ベトナム語,131,15,作業,Thao tác
+ベトナム語,132,16,ミーティング,Cuộc họp
+ベトナム語,133,17,研修（する）,(động từ) Đào tạo
+ベトナム語,135,18,実習（する）,(động từ) Thực tập
+ベトナム語,136,19,あいさつ,Chào hỏi
+ベトナム語,137,20,確認（する）,"(động từ) Kiểm tra, xác nhận"
+ベトナム語,138,21,報告（する）,(động từ) Báo cáo
+ベトナム語,139,22,連絡（する）,(động từ) Liên lạc
+ベトナム語,140,23,相談（する）,(động từ) Thảo luận
+ベトナム語,141,24,渡す,Đưa
+ベトナム語,142,25,申請書,Đơn xin
+ベトナム語,143,26,寝坊（する）,(động từ) Ngủ quên
+ベトナム語,147,1,技能,
+ベトナム語,148,2,技能検定試験,
+ベトナム語,149,3,受検（する）,
+ベトナム語,151,4,資格,
+ベトナム語,152,5,手当,
+ベトナム語,153,6,社員,
+ベトナム語,154,7,部長,
+ベトナム語,155,8,課長,
+ベトナム語,156,9,更衣室,
+ベトナム語,157,10,台車,
+ベトナム語,158,11,床,
+ベトナム語,159,12,出口,
+ベトナム語,160,13,電気,
+ベトナム語,161,14,警報音,
+ベトナム語,162,15,コンセント,
+ベトナム語,163,16,作業場,
+ベトナム語,164,17,作業台,
+ベトナム語,165,18,工事現場,
+ベトナム語,166,19,職長,
+ベトナム語,167,20,作業責任者,
+ベトナム語,169,1,禁止,Cấm
+ベトナム語,170,2,表示板,Biển báo
+ベトナム語,171,3,禁止事項,Những điều bị cấm
+ベトナム語,172,4,避難訓練,"Huấn luyện lánh nạn
+/sơ tán"
+ベトナム語,173,5,感電,(danh từ) Sự bị điện giật
+ベトナム語,175,6,防止,(danh từ) Sự ngăn chặn
+ベトナム語,177,7,予防,(danh từ) Sự phòng ngừa
+ベトナム語,179,8,転倒,"(danh từ) Sự ngã, đổ"
+ベトナム語,181,9,挟まる,"Kẹp, kẹp vào"
+ベトナム語,182,10,足元,Dưới chân
+ベトナム語,183,11,不安定,"(danh từ) Sự không ổn đ ịnh, không vững"
+ベトナム語,185,12,後片付け,Dọn dẹp
+ベトナム語,187,13,救急箱,Hộp sơ cứu
+ベトナム語,188,14,絆創膏,Băng dán vết thương
+ベトナム語,189,15,体調,Thể trạng
+ベトナム語,190,16,血,Máu
+ベトナム語,191,17,熱中症,"Sốc nhiệt, say nắng"
+ベトナム語,192,18,吐き気,"Buồn nôn, buồn ói"
+ベトナム語,193,19,嘔吐,"(danh từ) Sự nôn, ói"
+ベトナム語,195,20,足がつる,Chân bị chuột rút
+ベトナム語,196,21,気分が悪い,"Không khỏe, khó ở"
+ベトナム語,197,22,寝不足,Thiếu ngủ
+ベトナム語,198,23,安全ネット,Lưới an toàn
+ベトナム語,199,24,安全点検,Kiểm tra an toàn
+ベトナム語,201,1,KY活動（危険予知活動）,Hoạt động KY (Hoạt động dự báo nguy hiểm)
+ベトナム語,202,2,危険,Nguy hiểm
+ベトナム語,203,3,ぶつかる,"Va, đụng phải"
+ベトナム語,204,4,当たる,"Đụng, trúng"
+ベトナム語,205,5,下敷きになる,Bị đè/cán lên
+ベトナム語,206,6,打つ,"Đập, nện"
+ベトナム語,207,7,バランスを崩す,Mất thăng bằng
+ベトナム語,208,8,倒れる,"Đổ, sập, ngã nằm xuống"
+ベトナム語,209,9,転落,"(danh từ) Sự rơi, ngã xuống"
+ベトナム語,211,10,指差呼称,Chỉ tay gọi tên
+ベトナム語,212,11,ヒヤリハット,Sự cố (tiềm ẩn nguy cơ nhưng chưa gây ra thiệt hại).
+ベトナム語,213,12,原因,Nguyên nhân
+ベトナム語,214,13,対策,"Giải pháp, biện pháp"
+ベトナム語,215,14,落下,(danh từ) Sự rơi xuống
+ベトナム語,218,15,墜落,(danh từ) Sự rơi (từ trên cao) xuống
+ベトナム語,220,16,確認,"(danh từ) Sự kiểm tra, xác nhận"
+ベトナム語,225,1,作業着,Trang phục lao động
+ベトナム語,228,2,作業服,Trang phục lao động
+ベトナム語,229,3,作業靴,Giày lao động
+ベトナム語,230,4,手袋,Găng tay
+ベトナム語,233,5,帽子,Mũ
+ベトナム語,234,6,保護帽（ヘルメット）,Mũ bảo hộ
+ベトナム語,236,7,保護具,Dụng cụ bảo hộ
+ベトナム語,238,8,あごひも,Quai mũ
+ベトナム語,239,9,ボタン,"Nút, khuy"
+ベトナム語,241,10,ポケット,Túi
+ベトナム語,243,11,保護メガネ,Kính bảo hộ
+ベトナム語,245,12,マスク,Khẩu trang
+ベトナム語,246,13,耳栓,Nút tai
+ベトナム語,247,14,安全靴,Giày bảo hộ
+ベトナム語,248,15,墜落制止用器具（安全帯）,Dây đai an toàn
+ベトナム語,252,16,業務,Nghiệp vụ
+ベトナム語,253,17,時間厳守,Tuân thủ giờ giấc
+ベトナム語,254,18,予定,Dự định
+ベトナム語,255,19,日付,Ngày tháng
+ベトナム語,256,20,準備,(danh từ) Sự chuẩn bị
+ベトナム語,258,21,会議,Cuộc họp
+ベトナム語,259,22,朝礼,Họp đầu giờ sáng
+ベトナム語,260,23,報告書,Bản báo cáo
+ベトナム語,261,24,マニュアル,Tài liệu hướng dẫn
+ベトナム語,262,25,作業手順書,Bản trình tự thao tác
+ベトナム語,263,26,調子,"Tình trạng, tình hình"
+ベトナム語,265,1,立入禁止,Cấm vào
+ベトナム語,266,2,禁煙,Cấm hút thuốc
+ベトナム語,267,3,火気厳禁,Cấm lửa
+ベトナム語,268,4,駐車禁止,Cấm đỗ xe
+ベトナム語,269,5,足もと注意,Chú ý dưới chân
+ベトナム語,270,6,開口部注意,Chú ý lỗ mở
+ベトナム語,271,7,感電注意,Chú ý điện giật
+ベトナム語,272,8,堕落注意,Chú ý rơi ngã
+ベトナム語,273,9,頭上注意,Chú ý trên đầu
+ベトナム語,274,10,警報設備,Thiết bị báo động
+ベトナム語,276,11,消火器,Bình chữa cháy
+ベトナム語,277,12,AED設置場所,Nơi đặt máy AED
+ベトナム語,278,13,保護帽着用,Đội mũ bảo hộ
+ベトナム語,279,14,安全帯使用,Sử dụng dây đai an toàn
+ベトナム語,280,15,昇降階段,Cầu thang bộ
+ベトナム語,281,16,休憩所,Khu vực nghỉ ngơi
+ベトナム語,282,17,最大積載荷重,Tải trọng tối đa
+ベトナム語,283,18,喫煙所,Khu vực hút thuốc
+ベトナム語,284,19,整理整頓,Sắp xếp chỉnh đốn
+ベトナム語,285,20,安全通路,Lối đi an toàn
+ベトナム語,287,1,,
+ベトナム語,288,2,,
+ベトナム語,289,3,,
+ベトナム語,290,4,,
+ベトナム語,291,5,,
+ベトナム語,292,6,,
+ベトナム語,293,7,,
+ベトナム語,294,8,,
+ベトナム語,295,9,,
+ベトナム語,296,10,,
+ベトナム語,298,11,,
+ベトナム語,299,12,,
+ベトナム語,300,13,,
+ベトナム語,301,14,,
+ベトナム語,302,15,,
+ベトナム語,303,16,,
+ベトナム語,304,17,,
+ベトナム語,305,18,,
+ベトナム語,306,19,,
+ベトナム語,307,20,,
+ベトナム語,308,21,,
+ベトナム語,310,22,,
+ベトナム語,311,23,,
+ベトナム語,312,24,,
+ベトナム語,313,25,,
+ベトナム語,315,1,親綱,Dây neo
+ベトナム語,316,2,建枠（ビティ）,Giàn giáo khung (Beatty)
+ベトナム語,317,3,メッシュシート,Lưới bao che
+ベトナム語,318,4,防音パネル,Tấm cách âm
+ベトナム語,319,5,朝顔材,"Vách nghiêng dựng tạm để ngừa đồ vật rơi, bắn ra đ ường"
+ベトナム語,320,6,架空線,Đường dây điện trên cao
+ベトナム語,321,7,幅木（仮設足場）,Tấm chắn chống rơi ngã (Giàn giáo tạm thời)
+ベトナム語,322,8,単管,Ống thép
+ベトナム語,323,9,脚立,Thang gấp
+ベトナム語,324,10,作業半径,Bán kính hoạt động
+ベトナム語,326,11,仮ボルト,Bu lông tạm thời
+ベトナム語,327,12,手直し,Chỉnh sửa
+ベトナム語,328,13,面一,Bề mặt của hai vật liệu phẳng đều nhau
+ベトナム語,329,14,点検事項,Hạng mục kiểm tra
+ベトナム語,330,15,積載荷重,Hoạt tải
+ベトナム語,331,16,すき間,Khe hở
+ベトナム語,332,17,通りを見る,Kiểm tra có thẳng hay khô ng
+ベトナム語,333,18,組立,"Lắp ráp, lắp ghép"
+ベトナム語,334,19,地組,Lắp ráp ở mặt đất
+ベトナム語,335,20,天端,Mặt trên
+ベトナム語,337,21,玉掛け,Treo tải
+ベトナム語,338,22,合図,"Dấu hiệu, tín hiệu"
+ベトナム語,339,23,定格荷重,Tải trọng quy định
+ベトナム語,340,24,たち,Độ thẳng đứng
+ベトナム語,341,25,職長,Tổ trưởng
+ベトナム語,343,1,安全カバー,Vỏ bọc an toàn
+ベトナム語,344,2,安全帯,Dây đai an toàn
+ベトナム語,345,3,インサート,Chốt chèn
+ベトナム語,346,4,スペーサ,Con kê
+ベトナム語,347,5,鉄筋,Thanh cốt thép
+ベトナム語,348,6,電工ドラム（ドラム）,Rulô cuốn dây điện
+ベトナム語,349,7,電動丸のこ（電のこ）,Máy cưa đĩa (Dennoko)
+ベトナム語,350,8,パッキン,"Gioăng, đệm, khớp nối"
+ベトナム語,351,9,小バール,"Xà beng, đòn bẩy nhỏ"
+ベトナム語,352,10,大バール,"Xà beng, đòn bẩy to"
+ベトナム語,354,11,化粧合板,Ván trang trí
+ベトナム語,355,12,普通合板,Ván thường
+ベトナム語,356,13,スタイロフォーム,Tấm cách nhiệt
+ベトナム語,357,14,面木,Dải vát cạnh
+ベトナム語,358,15,バイブレーター,Đầm dùi bê tông
+ベトナム語,359,16,剥離剤,"Chất chống dính ván khuô n, chất tách khuôn, chất th áo khuôn"
+ベトナム語,360,17,けこみ板,Ván đứng (giữa 2 bậc thang)
+ベトナム語,361,18,目地棒,"Thanh tạo rãnh, thanh nối, thanh liên kết"
+ベトナム語,362,19,コンクリート,Bê tông
+ベトナム語,363,20,コンベックス,Thước dây
+ベトナム語,365,21,作業用手袋,Găng tay bảo hộ lao động
+ベトナム語,366,22,差金,"Thước vuông, ê ke (của thợ mộc)"
+ベトナム語,367,23,水平器,"Thước thủy, thước nivo, ống bọt nước"
+ベトナム語,368,24,墨さし,Cọ châm mực làm dấu
+ベトナム語,369,25,墨つぼ,Lọ mực (của thợ môc)
+ベトナム語,371,1,丸セパレーター（丸セパ）,Thiết bị phân ly
+ベトナム語,372,2,天端釘,Đinh đóng mặt trên
+ベトナム語,373,3,けれん,"Làm sạch, phẳng, nhẵn bề mặt, Chà nhám"
+ベトナム語,374,4,型枠支保工,Hệ chống đỡ ván khuôn
+ベトナム語,375,5,基礎型枠（メタルフォ                   ーム）,Ván khuôn móng (Ván khu ôn kim loại)
+ベトナム語,376,6,釘仕舞い,Nhổ đinh khỏi gỗ phế liệu
+ベトナム語,377,7,スラブ天端,Mặt trên bê tông
+ベトナム語,378,8,高さ（タッパ）,Độ cao (còn gọi là Tappa)
+ベトナム語,379,9,建込み,Lắp đặt theo chiều dọc
+ベトナム語,380,10,通り,"Thẳng, Ngay ngắn"
+ベトナム語,382,11,蹴上げ,Chiều cao một bậc thang
+ベトナム語,383,12,蹴込み,Phần lõm vào theo chiều ngang của bậc thang trên v à bậc thang dưới
+ベトナム語,384,13,工具の手入れ,Bảo dưỡng dụng cụ
+ベトナム語,385,14,下げ振り,"Quả dọi, dây dọi"
+ベトナム語,386,15,地墨,Đánh đấu
+ベトナム語,387,16,捨てコンクリート,Bê tông lớp tạo phẳng
+ベトナム語,388,17,はね出し,Nhô ra
+ベトナム語,389,18,はらみ,Phình
+ベトナム語,390,19,前面,Mặt trước
+ベトナム語,391,20,養生,Dưỡng hộ
+ベトナム語,393,21,レベル,Độ cân bằng
+ベトナム語,394,22,割付,"Sự phân bổ, bố trí đều"
+ベトナム語,395,23,埋め込み金物,Kim loại đặt trong bê tông
+ベトナム語,396,24,解体する（バラス）,(danh từ) Sự tháo dỡ
+ベトナム語,398,25,かぶり寸法,Độ dày lớp bê tông bảo vệ cốt thép
+ベトナム語,400,1,異形棒鋼,Cốt thép có gờ (cốt thép gai)
+ベトナム語,401,2,結束線,Dây thép buộc
+ベトナム語,402,3,結束工具,Móc buộc thép
+ベトナム語,403,4,鉄筋切断機,Máy cắt thép
+ベトナム語,404,5,鉄筋曲げ加工機,Máy uốn thép
+ベトナム語,405,6,フック,Móc
+ベトナム語,406,7,保護帽（ヘルメット）,Mũ bảo hộ
+ベトナム語,407,8,アンカー,Neo
+ベトナム語,408,9,加工場,Khu vực gia công
+ベトナム語,409,10,スペーサ―,Con kê
+ベトナム語,411,11,ドーナツ,Con kê hình bánh xe
+ベトナム語,412,12,加工配筋図,Bản vẽ bố trí cốt thép gia c ông
+ベトナム語,413,13,配筋詳細図,Bản vẽ chi tiết bố trí cốt th ép
+ベトナム語,414,14,開口補強筋,Cốt thép gia cường lỗ mở
+ベトナム語,415,15,幅止め筋,Cốt thép đai ngắn nối hai thanh đối diện bụng dầm đ ể giữ khoảng cách chính x ác giữa 2 thanh
+ベトナム語,416,16,差筋,Cốt thép chờ
+ベトナム語,417,17,柱主筋,Cột chủ cốt thép
+ベトナム語,418,18,柱配筋,Cột cốt thép
+ベトナム語,419,19,スラブ筋,Cốt thép bản mặt
+ベトナム語,420,20,ベース筋,"Cốt thép nền, móng"
+ベトナム語,422,21,帯筋（フープ）,Cốt thép đai (dạng vòng tr òn)
+ベトナム語,423,22,下端筋,Cốt thép bên dưới
+ベトナム語,424,23,上端筋,Cốt thép bên trên
+ベトナム語,425,24,主筋,Cốt thép chủ
+ベトナム語,426,25,あばら筋,Cốt thép đai (dạng thanh)
+ベトナム語,428,1,はかま筋,Cốt thép đặt xung quanh c ác cốt thép khác ở móng đ ể gia cố
+ベトナム語,429,2,縦筋,Cốt thép dọc
+ベトナム語,430,3,下筋,Cốt thép dưới
+ベトナム語,431,4,横筋,Cốt thép ngang
+ベトナム語,432,5,腹筋,Cốt thép cấu tạo bụng dầm
+ベトナム語,433,6,配力筋,Cốt thép phân bố
+ベトナム語,434,7,上筋,Cốt thép trên
+ベトナム語,435,8,スパイラル筋,Cốt thép xoắn ốc
+ベトナム語,436,9,鉄筋径,Đường kính cốt thép
+ベトナム語,437,10,かぶり厚さ,Độ dày lớp bê tông bảo vệ cốt thép
+ベトナム語,439,11,角度,Độ góc
+ベトナム語,440,12,シングル,"Đơn, một"
+ベトナム語,441,13,ダブル,"Đôi, hai"
+ベトナム語,442,14,千鳥結束,Kết nối xen kẽ
+ベトナム語,443,15,切断寸法,Kích thước cắt ngang
+ベトナム語,444,16,加工寸法,Kích thước gia công
+ベトナム語,445,17,重ね継手,"Liên kết chồng, mối nối chồng"
+ベトナム語,446,18,圧接継手,"Liên kết hàn áp lực, mối nối hàn áp lực"
+ベトナム語,447,19,開口部,"Lỗ mở, lỗ trống"
+ベトナム語,448,20,溶接金網,Lưới cốt thép sợi hàn
+ベトナム語,450,21,搬出,Vận chuyển ra
+ベトナム語,451,22,搬入,Vận chuyển vào
+ベトナム語,452,23,基礎,Móng
+ベトナム語,453,24,機械式継手,"Liên kết cơ khí, mối nối cơ khí"
+ベトナム語,454,25,配筋検査,Kiểm tra bố trí cốt thép
+ベトナム語,456,1,トラクタ,Máy kéo
+ベトナム語,457,2,ブルドーザ,Xe ủi
+ベトナム語,458,3,トラクタショベル,Máy xúc
+ベトナム語,459,4,ホイルローダ,Máy xúc lật bánh lốp
+ベトナム語,460,5,ダンプトラック,Xe tải tự đổ
+ベトナム語,461,6,油圧ショベル,Máy đào thủy lực
+ベトナム語,462,7,バックホウ,Máy đào
+ベトナム語,463,8,ローディングショベル,Máy đào gầu thuận
+ベトナム語,464,9,ローラ,Xe lu
+ベトナム語,465,10,バケット,Gầu
+ベトナム語,467,11,ブーム,Cần chống
+ベトナム語,468,12,アーム,Cần ngang
+ベトナム語,469,13,ブレード（排土板）,Lưỡi ủi (còn gọi là Tấm gạt đất)
+ベトナム語,470,14,タイヤ,Lốp xe
+ベトナム語,471,15,クローラ,Bánh xích
+ベトナム語,472,16,キー（鍵）,Chìa khóa
+ベトナム語,473,17,"作業装置
+（アタッチメント）",Phụ tùng
+ベトナム語,474,18,エンジン,Động cơ
+ベトナム語,475,19,ディーゼルエンジン,Động cơ Diesel
+ベトナム語,476,20,エンジンオイル,Dầu động cơ
+ベトナム語,478,21,"オルタネータ
+（充電発電機）",Máy phát điện xoay chiều (Máy sạc và phát điện)
+ベトナム語,479,22,バッテリ,Ắc quy
+ベトナム語,480,23,燃料,Nhiên liệu
+ベトナム語,481,24,軽油,Dầu nhẹ
+ベトナム語,482,25,ブレーキ,Phanh
+ベトナム語,484,1,油圧シリンダ,Xylanh thủy lực
+ベトナム語,485,2,油圧モータ,Mô tơ thủy lực
+ベトナム語,486,3,油圧ポンプ,Bơm thủy lực
+ベトナム語,487,4,水漏れ,Rò rỉ nước
+ベトナム語,488,5,油漏れ,Rò rỉ dầu
+ベトナム語,489,6,冷却水,Nước làm mát
+ベトナム語,490,7,ブレーキ液,Chất lỏng phanh
+ベトナム語,491,8,燃料タンク,Thùng nhiên liệu
+ベトナム語,492,9,ファンベルト,Dây đai quạt
+ベトナム語,493,10,空気圧,Áp suất khí
+ベトナム語,494,11,クラッチ,Khớp li hợp
+ベトナム語,495,12,急発進,Tiến đột ngột
+ベトナム語,496,13,急ブレーキ,Phanh đột ngột
+ベトナム語,498,14,アイドリング,"Chạy không tải, chạy cầm chừng"
+ベトナム語,499,15,走行,Chạy
+ベトナム語,500,16,旋回,Đi vòng tròn
+ベトナム語,501,17,安全ロック,Khóa an toàn
+ベトナム語,502,18,安全支柱,Cột chống an toàn
+ベトナム語,503,19,補給（する）,(danh từ) Sự bổ sung
+ベトナム語,505,20,駐車（する）,(danh từ) Sự đỗ xe
+ベトナム語,507,21,歩行者,Người đi bộ
+ベトナム語,508,22,車両,Xe
+ベトナム語,509,23,死角,Góc chết
+ベトナム語,510,24,斜面,Dốc
+ベトナム語,511,25,転圧（する）,(danh từ) Sự đầm nén
+ベトナム語,514,1,接触（する）,"(danh từ) Sự va chạm, tiếp xúc"
+ベトナム語,516,2,作動（する）,(danh từ) Sự kích hoạt
+ベトナム語,518,3,整備（する）,(danh từ) Sự bảo dưỡng
+ベトナム語,520,4,点検（する）,(danh từ) Kiểm tra
+ベトナム語,522,5,動かす,Vận hành
+ベトナム語,523,6,運転（する）,"(danh từ) Vận hành, lái"
+ベトナム語,525,7,測る,Đo
+ベトナム語,526,8,操作（する）,(danh từ) Sự điều khiển
+ベトナム語,529,9,停止（する）,"(danh từ) Sự dừng, ngừng"
+ベトナム語,531,10,切る,"Tắt, cắt"
+ベトナム語,532,11,回す,"Quay, xoay"
+ベトナム語,533,12,押す,"Ấn, bấm"
+ベトナム語,534,13,集める,"Tập trung, gom"
+ベトナム語,535,14,触る,"Chạm, sờ"
+ベトナム語,536,15,縛る,"Bó, buộc"
+ベトナム語,537,16,揃える,Xếp đều
+ベトナム語,538,17,結ぶ,"Nối, buộc"
+ベトナム語,539,18,しゃがむ,Ngồi xổm
+ベトナム語,540,19,調整（する）,(danh từ) Sự điều chỉnh
+ベトナム語,542,20,閉じる,Đóng
+ベトナム語,544,1,取り出す,Lấy ra
+ベトナム語,545,2,戻す,Để lại chỗ cũ
+ベトナム語,546,3,仕上げる,Hoàn thiện
+ベトナム語,547,4,折れる,Gẫy
+ベトナム語,548,5,欠ける,"Mẻ, khuyết, thiếu"
+ベトナム語,549,6,近づく,Đến gần
+ベトナム語,550,7,電源を入れる,Bật nguồn điện
+ベトナム語,551,8,電源を落とす,Tắt nguồn điện
+ベトナム語,552,9,スイッチを切る,Tắt công tắc
+ベトナム語,553,10,固定（する）,(danh từ) Sự cố định
+ベトナム語,555,11,ゆるめる,Nới lỏng
+ベトナム語,556,12,伸ばす,"Cán, kéo dài"
+ベトナム語,557,13,外す,"Tháo, gỡ ra"
+ベトナム語,558,14,曲げる,Uốn
+ベトナム語,559,15,出す,Lấy ra
+ベトナム語,560,16,乾かす,"Làm khô, sấy khô"
+ベトナム語,561,17,数える,"Chỉ bảo, dạy"
+ベトナム語,562,18,運ぶ,Vận chuyển
+ベトナム語,563,19,積む,"Xếp, chất"
+ベトナム語,564,20,下ろす,"Dỡ xuống, hạ xuống"
+ベトナム語,565,21,離れる,"Rời xa, tránh"
+ベトナム語,567,1,位置,
+ベトナム語,568,2,寸法,
+ベトナム語,569,3,測定（する）,
+ベトナム語,571,4,計測（する）,
+ベトナム語,573,5,計測器,
+ベトナム語,574,6,温度,
+ベトナム語,575,7,高さ,
+ベトナム語,576,8,長さ,
+ベトナム語,577,9,重さ,
+ベトナム語,578,10,厚さ,
+ベトナム語,579,11,硬さ,
+ベトナム語,580,12,深さ,
+ベトナム語,581,13,表面,
+ベトナム語,582,14,すきま,
+ベトナム語,583,15,中心,
+ベトナム語,585,16,値,
+ベトナム語,586,17,安定（する）,
+ベトナム語,588,18,大きさ,
+ベトナム語,589,19,数,
+ベトナム語,590,20,誤差,
+ベトナム語,591,21,中,
+ベトナム語,592,22,反対,
+ベトナム語,593,23,周り,
+ベトナム語,594,24,尺,
+ベトナム語,595,25,青,
+ベトナム語,596,26,赤,
+ベトナム語,597,27,白,
+ベトナム語,598,28,黄色,
+ベトナム語,601,1,片づける,
+ベトナム語,602,2,捨てる,
+ベトナム語,603,3,掃く,
+ベトナム語,604,4,持ち上げる,
+ベトナム語,605,5,束ねる,
+ベトナム語,606,6,足をくじく,
+ベトナム語,609,1,一輪車,
+ベトナム語,610,2,支柱,
+ベトナム語,611,3,ショベル,
+ベトナム語,612,4,かけや,

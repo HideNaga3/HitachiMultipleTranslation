@@ -1,0 +1,87 @@
+================================================================================
+タガログ語 PDF版 vs XML版 比較
+================================================================================
+
+【基本情報】
+PDF版: 487行、12列
+XML版: 680行、8列
+差分: 193行
+
+【PDF版の列名】
+  0: 'Annotasyon'
+  1: 'Column_4'
+  2: 'Column_6'
+  3: 'Halimbawa'
+  4: 'Larawan'
+  5: 'No.'
+  6: 'PDFページ番号'
+  7: 'PDF表番号'
+  8: 'Paano Magbasa'
+  9: 'Pagsasalin'
+  10: 'Palatandaan'
+  11: 'Talasalitaan'
+
+【XML版の列名】
+  0: 'No.'
+  1: 'Talasalitaan'
+  2: 'Paano Magbasa'
+  3: 'Pagsasalin'
+  4: 'Annotasyon'
+  5: 'Halimbawa'
+  6: 'Unnamed: 6'
+  7: 'Unnamed: 7'
+
+【翻訳列（Pagsasalin）のデータ状況】
+PDF版:
+  データあり: 487行 (100.0%)
+  データなし: 0行 (0.0%)
+
+XML版:
+  データあり: 560行 (82.4%)
+  データなし: 120行 (17.6%)
+
+【番号範囲の比較】
+PDF版: No. 1 ～ 28
+XML版: No. 1 ～ 28
+
+【サンプルデータ比較】
+
+PDF版（最初の5行）:
+ No. Talasalitaan                Pagsasalin Paano Magbasa
+   1         技能実習 Technical Intern Training      ぎのうじっしゅう
+   2        技能実習生  Technical Intern Trainee    ぎのうじっしゅうせい
+   3           工場                   Pabrika         こうじょう
+   4           製造               Produksiyon          せいぞう
+   5           機械                    Makina           きかい
+
+XML版（最初の5行）:
+No. Talasalitaan                Pagsasalin Paano Magbasa
+  1         技能実習 Technical Intern Training      ぎのうじっしゅう
+  2        技能実習生  Technical Intern Trainee    ぎのうじっしゅうせい
+  3           工場                   Pabrika         こうじょう
+  4           製造               Produksiyon          せいぞう
+  5           機械                    Makina           きかい
+
+【最後の5行の比較】
+
+PDF版（最後の5行）:
+ No. Talasalitaan               Pagsasalin Paano Magbasa
+  24            尺 shaku (unit ng pagsukat)           しゃく
+  25            青                     asul            あお
+  26            赤                     pula            あか
+  27            白                     puti            しろ
+  28           黄色                    dilaw           きいろ
+
+XML版（最後の5行）:
+                                                                                    No.                                                Talasalitaan Pagsasalin Paano Magbasa
+                                                                              これでいいですか。                                          Tama na po ba ito?        NaN           NaN
+                                                 いちど              ねが\nすみません。もう一度お願いします。                     Paumanhin. Puwede po ba ninyong ulitin?        NaN           NaN
+つか                                             いちど       おし\nこれはどうやって使いますか。もう一度教えてください。 Paano po ito gamitin? Maaari po ba ninyo akong turuan ulit?        NaN           NaN
+                                                                まる\nすみません。「丸のこ」ってどれですか。                         Paumanhin. Alin po ang “maru noko”?        NaN           NaN
+                                                                いみ\n「ケレンがけ」ってどういう意味ですか。                    Ano po ang ibig sabihin ng “keren gake”?        NaN           NaN
+
+================================================================================
+【推奨】
+XML版の方が193行多く、より完全なデータセットです。
+翻訳データの質は同等なので、XML版の使用を推奨します。
+================================================================================
