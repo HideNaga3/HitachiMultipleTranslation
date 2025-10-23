@@ -5,7 +5,10 @@
       "Bash(powershell -Command \".venv\\Scripts\\python.exe -m pip list\")",
       "Bash(powershell -Command:*)",
       "Bash(.venvScriptspython.exe -m pip show marker-pdf)",
-      "Bash(.venvScriptspython.exe scriptverify_final_csv.py)"
+      "Bash(.venvScriptspython.exe scriptverify_final_csv.py)",
+      "Bash(.venvScriptspython.exe scriptsverify_pdf_extraction.py)",
+      "Bash(Out-File -FilePath for_claudepdf_page4_check.txt -Encoding utf8)",
+      "Bash(Get-Content for_claudepdf_page4_check.txt)"
     ],
     "deny": [],
     "ask": []

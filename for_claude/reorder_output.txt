@@ -1,0 +1,66 @@
+﻿================================================================================
+タイ語データの日本語列順序を基準に並び替え
+================================================================================
+実行日時: 2025-10-23 12:46:54
+
+統合CSV総行数: 4123行
+タイ語データ: 512行
+日本語順序リスト: 500個
+
+日本語順序リスト（先頭10件）:
+    1. 技能実習
+    2. 技能実習生
+    3. 工場
+    4. 製造
+    5. 機械
+    6. 安全
+    7. 危険（な）
+    8. 危ない
+    9. 清掃
+   10. 非常口
+
+================================================================================
+全データの並び替え
+================================================================================
+
+================================================================================
+個別言語CSVの出力
+================================================================================
+
+[インドネシア語]  512行 → C:\python_script\test_space\MitsubishiMultipleTranslation\output\インドネシア語_タイ語順序.csv
+[カンボジア語]  512行 → C:\python_script\test_space\MitsubishiMultipleTranslation\output\カンボジア語_タイ語順序.csv
+[タイ語]  512行 → C:\python_script\test_space\MitsubishiMultipleTranslation\output\タイ語_タイ語順序.csv
+[タガログ語]  512行 → C:\python_script\test_space\MitsubishiMultipleTranslation\output\タガログ語_タイ語順序.csv
+[ベトナム語]  539行 → C:\python_script\test_space\MitsubishiMultipleTranslation\output\ベトナム語_タイ語順序.csv
+[ミャンマー語]  512行 → C:\python_script\test_space\MitsubishiMultipleTranslation\output\ミャンマー語_タイ語順序.csv
+[中国語]  512行 → C:\python_script\test_space\MitsubishiMultipleTranslation\output\中国語_タイ語順序.csv
+[英語]  512行 → C:\python_script\test_space\MitsubishiMultipleTranslation\output\英語_タイ語順序.csv
+
+================================================================================
+統合CSV作成
+================================================================================
+
+並び替え後: 4123行
+保存: C:\python_script\test_space\MitsubishiMultipleTranslation\output\全言語統合_タイ語順序.csv
+
+言語別行数:
+  インドネシア語        :  512行
+  カンボジア語         :  512行
+  タイ語            :  512行
+  タガログ語          :  512行
+  ベトナム語          :  539行
+  ミャンマー語         :  512行
+  中国語            :  512行
+  英語             :  512行
+
+.venv\Scripts\python.exe : Traceback (most recent call last):
+発生場所 行:1 文字:1
++ .venv\Scripts\python.exe scripts\reorder_by_thai_order.py 2>&1 | Out- ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\python_script\test_space\MitsubishiMultipleTranslation\scripts\reorder_by_thai_order.py", line 116, in <modu
+le>
+    print(f"\u26a0 タイ語順序に存在しない日本語: {len(missing_in_thai)}個")
+UnicodeEncodeError: 'cp932' codec can't encode character '\u26a0' in position 0: illegal multibyte sequence
