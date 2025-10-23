@@ -1,0 +1,43 @@
+﻿================================================================================
+CSV構造の確認
+================================================================================
+
+列名:
+  1. ja
+  2. en
+  3. fil-PH
+  4. zh
+  5. th
+  6. vi
+  7. my
+  8. id
+  9. km
+
+最初の5行（日本語列のみ）:
+      ja
+0   技能実習
+1  技能実習生
+2     工場
+3     製造
+4     機械
+
+カテゴリーに関連する列は見つかりませんでした
+
+================================================================================
+翻訳が必要な37語の確認
+================================================================================
+
+翻訳が必要な単語数: 37 語
+
+各単語の存在確認:
+--------------------------------------------------------------------------------
+.venv\Scripts\python.exe : Traceback (most recent call last):
+発生場所 行:1 文字:1
++ .venv\Scripts\python.exe scripts\check_words_in_categories.py 2>&1 |  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\MyPython\_QtDesigner\__CURRENT\_日立様多言語翻訳\scripts\check_words_in_categories.py", line 74, in <module>
+    print(f"{i:2d}. {word:<30} [CSV行{csv_row:>4}] \u2713")
+UnicodeEncodeError: 'cp932' codec can't encode character '\u2713' in position 46: illegal multibyte sequence

@@ -9,7 +9,9 @@
       "Bash(.venvScriptspython.exe scriptsverify_pdf_extraction.py)",
       "Bash(Out-File -FilePath for_claudepdf_page4_check.txt -Encoding utf8)",
       "Bash(Get-Content for_claudepdf_page4_check.txt)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(git push:*)",
+      "Bash(git stash pop:*)"
     ],
     "deny": [],
     "ask": []
