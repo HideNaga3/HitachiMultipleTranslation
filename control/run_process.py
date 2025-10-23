@@ -66,6 +66,12 @@ PROCESSES = {
         'args': [],
         'description': 'セッション終了時のログを保存'
     },
+    '10': {
+        'name': '成果物検証',
+        'script': 'verify_deliverables.py',
+        'args': [],
+        'description': 'CSV/Excelファイルの整合性を自動検証'
+    },
 }
 
 
