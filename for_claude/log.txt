@@ -210,10 +210,207 @@ API:
 プロジェクトステータス
 ================================================================================
 
-現在の状態: ✓ 完了
+現在の状態: ✓ 完了 + 追加作業実施中
 
 全フェーズが正常に完了しました。
 成果物は 成果物_20251023/ フォルダにまとめられています。
 品質確認後、システムへのインポートが可能です。
 
 ================================================================================
+
+[セッション追加] 2025-10-23（午後）
+
+【実施内容】
+
+1. GitHubリポジトリのクリーンアップ
+   - HitachiMultipleTranslation_V2としてリポジトリをクローン
+   - 全てのコミット履歴から.envファイルを削除
+   - git filter-branchを使用して履歴を書き換え
+   - リモートリポジトリに強制プッシュ
+   - 結果: .envファイルが完全に削除され、セキュリティリスクを解消
+
+2. Google Translation API接続確認
+   - 仮想環境（.venv）が存在しないことを確認
+   - ユーザーが仮想環境を再作成予定
+
+3. 翻訳データの詳細解析
+   - 全524語の日本語単語を分析
+   - 各言語の翻訳状況を集計
+   - 翻訳が必要な単語を国（言語）ごとに抽出
+
+4. 国ごとの翻訳必要単語リスト作成
+   - スクリプト作成: scripts/extract_words_by_language.py
+   - 各言語で翻訳が空欄の日本語単語をCSVとTXTで出力
+   - 出力先: for_claude/words_to_translate/
+   - 結果:
+     * 英語: 24語
+     * タガログ語: 24語
+     * 中国語: 24語
+     * タイ語: 25語
+     * ベトナム語: 12語
+     * ミャンマー語: 24語
+     * インドネシア語: 24語
+     * カンボジア語: 25語
+
+5. ユニークな翻訳必要単語リストの作成
+   - スクリプト作成: scripts/create_unique_words_list.py
+   - 全言語の空欄単語を統合してユニークリストを作成
+   - 総数: 37語（重複を除く）
+   - 全ての単語がインポート用CSV内に存在することを確認
+   - 出力: for_claude/unique_words_to_translate.csv, .txt
+
+6. エラーログシステムの構築
+   - for_claude/error_log.md を新規作成
+   - 今セッションで発生した3つのエラーを記録:
+     * UnicodeEncodeError: PowerShellでの多言語文字表示エラー
+     * TypeError: JSON serialization error (int64)
+     * PowerShellパス解釈エラー: 仮想環境Python実行
+   - CLAUDE_GLOBAL.mdにエラーログポリシーを追加
+   - よくあるエラーパターンをドキュメント化
+
+7. 日本語単語の並び順分析
+   - スクリプト作成: scripts/analyze_japanese_order.py
+   - 元のCSV（524語）は五十音順ではないことを確認
+   - 翻訳必要な37語は五十音順でソートされていることを確認
+   - 並び替えの選択肢を提示:
+     1. CSV行番号順（元の順序）
+     2. 五十音順（検索しやすい）
+     3. 空欄言語数順（翻訳優先度）
+     4. カテゴリー別（意味的グループ）
+   - カテゴリー分類の提案:
+     * 安全関連: 21語（感電、防止、予防、転倒、転落、落下、墜落）
+     * 状態: 3語（不安定）
+     * 動作: 6語（確認、嘔吐、準備）
+     * 保険: 1語（健康保険）
+     * 専門用語: 6語（丸セパレーター、けれん、基礎型枠）
+
+【作成ファイル】
+- scripts/extract_words_by_language.py
+- scripts/count_words_by_language.py
+- scripts/count_japanese_words_by_language.py
+- scripts/create_unique_words_list.py
+- scripts/check_words_in_categories.py
+- scripts/analyze_japanese_order.py
+- for_claude/error_log.md
+- for_claude/translation_summary.md
+- for_claude/unique_words_to_translate.csv, .txt
+- for_claude/japanese_words_count_by_language.csv
+- for_claude/language_word_count.csv
+- for_claude/japanese_order_analysis.txt
+- for_claude/words_to_translate/*.csv, *.txt (各言語)
+
+【技術的な発見】
+- インポート用CSVには「カテゴリー」列が存在しない
+- 元のCSVの並び順は五十音順ではなく、PDFの元の分類順と推測
+- PowerShellでの多言語文字出力はCP932エンコーディングの制約がある
+- Pandasのint64型はJSON出力時にエラーになる
+
+【次回への申し送り】
+- 仮想環境の再作成が完了したらGoogle Translation API接続確認
+- 翻訳必要な37語をどの順序で処理するか決定
+- 必要に応じてカテゴリー列を追加してPandasカテゴリー型で並び替え
+- Google Translation APIで空欄の翻訳を補完
+
+【エラー対処記録】
+- 詳細はfor_claude/error_log.mdに記載
+- 主なエラー3件を記録し、対処法をドキュメント化
+- 今後のエラー発生時も同ファイルに追記する運用を確立
+
+================================================================================
+
+【セッション追加】 2025-10-23（夕方）- PDF順序データの調査と取得
+================================================================================
+
+【作業内容】
+1. CSVファイル構造の確認
+2. PDF抽出CSVにPage列と番号列の存在確認
+3. 統合処理で番号列が削除されたか調査
+4. ベトナム語のPage・番号データを取得してマッピングCSV作成
+
+【調査結果】
+
+■ ファイル構造の確認
+- `output/`フォルダには最終的な統合CSVのみ存在
+- `output/intermediate/`フォルダに元のPDF抽出CSVを発見
+
+■ PDF抽出CSVの構造（ベトナム語）
+ファイル: output/intermediate/ベトナム語_pdfplumber_抽出_最終版.csv
+- 総行数: 539行
+- 列構成: 言語、Page、番号、単語、翻訳
+- ✅ **Page列** あり（1～50ページ）
+- ✅ **番号列** あり（1.0～28.0、ページ内での番号）
+
+■ 統合処理の調査
+ファイル1: output/intermediate/全言語統合_pdfplumber_最終版.csv
+- 総行数: 4,146行（全8言語）
+- ✅ **Page列** あり
+- ✅ **番号列** あり
+
+ファイル2: output/intermediate/全言語統合_テンプレート形式_ベトナム語順序.csv
+- 総行数: 524行
+- ❌ **Page列** なし
+- ❌ **番号列** なし
+
+ファイル3: output/全言語統合_テンプレート_インポート用.csv（最終版）
+- 総行数: 524行
+- ❌ **Page列** なし
+- ❌ **番号列** なし
+
+**結論**: 統合処理の途中（pdfplumber版→テンプレート形式への変換時）にPage列と番号列が削除された
+
+■ ベトナム語のPage・番号データ抽出
+スクリプト: scripts/extract_vietnamese_order.py
+出力ファイル: output/intermediate/日本語_ベトナム語Page番号マッピング.csv
+
+マッチング結果:
+- マッチング成功率: **97.7%** (512/524)
+- マッチしない単語: 12語（ベトナム語PDFに存在しない単語）
+  1. 感電（する）
+  2. 防止（する）
+  3. 予防（する）
+  4. 転倒（する）
+  5. 不安定（な）
+  6. 嘔吐（する）
+  7. 転落（する）
+  8. 落下（する）
+  9. 墜落（する）
+  10. 丸セパレーター （丸セパ）
+  11. 基礎型枠 （メタルフォーム）
+  12. ケレン
+
+マッピングCSVの構造:
+- 列: CSV行、日本語、Page、番号、マッチ
+- Page範囲: 1～50
+- 番号範囲: 1.0～28.0
+
+【作成したファイル】
+- scripts/list_vietnamese_files.py
+- scripts/check_vietnamese_pdf_structure.py
+- scripts/check_unified_csv_structure.py
+- scripts/extract_vietnamese_order.py
+- output/intermediate/日本語_ベトナム語Page番号マッピング.csv
+- for_claude/vietnamese_files_list.txt
+- for_claude/vietnamese_pdf_structure.txt
+- for_claude/unified_csv_structure.txt
+- for_claude/vietnamese_order_extraction.txt
+
+【技術的な発見】
+- 元のPDF抽出データにはPage列と番号列が保持されている
+- 統合処理スクリプト（merge_all_languages_v2.py）では、COLUMN_MAPPINGSで定義された列のみが処理される
+- Page列と番号列はマッピングに含まれていないため、統合後のテンプレート形式CSVには含まれない
+- ベトナム語に存在しない12語は他の7言語には全て翻訳が存在する
+
+【次回への申し送り】
+- ベトナム語のPage・番号データを基準に単語を並び替え
+- ベトナム語に存在しない12語の並び順をどうするか決定
+  - オプション1: 他の言語（タイ語など）のPage・番号を参照
+  - オプション2: 類似単語の近くに配置
+  - オプション3: 最後にまとめて配置
+- 並び替え後のCSVをインポート用として出力
+
+================================================================================
+
+【2025-10-23 夕方セッション】ログ更新完了
+- PDF順序データの調査結果を記録
+- ベトナム語Page・番号マッピングCSVの作成完了を記録
+- 次回への申し送り事項を明記
