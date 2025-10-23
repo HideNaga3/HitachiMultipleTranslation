@@ -1,0 +1,5 @@
+先頭3件:
+      ja                         en                     fil-PH     zh                     th                     vi               my                      id                             km
+0   技能実習  Technical intern training  Technical Intern Training   技能实习   การฝึกงานดา้ นเทคนคิ       Thực tập kỹ năng  အလပု ်သငတ် န်း်  Pelatihan Kerja Teknis             ការហ្វឹកហ្វឺនជំនាញ
+1  技能実習生   Technical intern trainee   Technical Intern Trainee  技能实习生  ผฝู้ ึกงานดา้ นเทคนคิ  Thực tập sinh kỹ năng        အလပု ်သင်   Pemagang Kerja Teknis  កម្មសិកាការហ្ី វឹកហ្វឺន ជំនាញ
+2     工場             Factory; plant                    Pabrika     工厂                 โรงงาน                Nhà máy           စကရ် ု                  Pabrik                        រោងចក្ក

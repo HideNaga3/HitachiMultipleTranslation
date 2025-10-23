@@ -1,0 +1,525 @@
+﻿ja,en,fil-PH,pt,es,pt-BR,zh,ko,fr,hi,th,vi,my,ne,bn,id,ta,si,mn,ar,fa,tr,ru,ur,km,lo,ms,de,hu,cs,pl,nl,da,fi,sv,lb,af,fr-CA,翻訳言語数
+技能実習,Technical intern training,Technical Intern Training,,,,技能实习,,,,การฝึกงานดา้ นเทคนคิ,Thực tập kỹ năng,အလပု ်သငတ် န်း်,,,Pelatihan Kerja Teknis,,,,,,,,,ការហ្វឹកហ្វឺនជំនាញ,,,,,,,,,,,,,,8
+技能実習生,Technical intern trainee,Technical Intern Trainee,,,,技能实习生,,,,ผฝู้ ึกงานดา้ นเทคนคิ,Thực tập sinh kỹ năng,အလပု ်သင်,,,Pemagang Kerja Teknis,,,,,,,,,កម្មសិកាការហ្ី វឹកហ្វឺន ជំនាញ,,,,,,,,,,,,,,8
+工場,Factory; plant,Pabrika,,,,工厂,,,,โรงงาน,Nhà máy,စကရ် ု,,,Pabrik,,,,,,,,,រោងចក្ក,,,,,,,,,,,,,,8
+製造,Manufacturing,Produksiyon,,,,制造,,,,ผลติ,Chế tạo,ထတု လ် ပု ်မှု,,,Manufaktur,,,,,,,,,ការផលិត,,,,,,,,,,,,,,8
+機械,Machine; machinery,Makina,,,,机械,,,,เครอื่ งจักร,Máy móc,စက်,,,Mesin,,,,,,,,,ម៉ា ស ៊ីន,,,,,,,,,,,,,,8
+安全,Safety,Kaligtasan,,,,安全,,,,ปลอดภัย,An toàn,လခ ု ြုံ မှု,,,Keselamatan,,,,,,,,,ស វតថិភាព,,,,,,,,,,,,,,8
+危険（な）,Danger (dangerous),Delikado (Mapanganib),,,,危险（的）,,,,อนั ตราย (ทอี่ นั ตราย),Nguy hiểm (tính từ),အန္ရတ ာယ်(ရှိ သသာ),,,Berbahaya (Bahaya),,,,,,,,,(ដែល)រក្រោះថ្នា ក់,,,,,,,,,,,,,,8
+危ない,Dangerous,Delikado,,,,危险,,,,อนั ตราย,Nguy hiểm,အန္ရတ ာယရ် ှိ သည်,,,Bahaya,,,,,,,,,រក្រោះថ្នា ក់,,,,,,,,,,,,,,8
+清掃,Seisou (Shine),Simutin / Paglilinis,,,,清扫,,,,สะอาด,Làm vệ sinh,သနရ် ဲ့ င်း် သရ်းလပု ်ခ င်း် (Sei-sou),,,Pembersihan,,,,,,,,,សមា ត,,,,,,,,,,,,,,8
+非常口,Emergency exit,Emerhensyang labasan/Emergency exit,,,,安全出口,,,,ทางออกฉุกเฉนิ,Cửa thoát hiểm,အသရ်းသပေါ်ထကွ သ် ပါက်,,,Pintu keluar darurat,,,,,,,,,ផល វូ ោសនា,,,,,,,,,,,,,,8
+注意,Attention,Babala/Paunawa,,,,注意,,,,ระวัง,Chú ý,သတှိ,,,Peringatan,,,,,,,,,ការក្រងុ ក្រយ័តា,,,,,,,,,,,,,,8
+火事,Fire,Sunog,,,,火灾,,,,ไฟไหม้,Hỏa hoạn,မ ်းသလာငမ် ှု,,,Kebakaran,,,,,,,,,អគ្ាិភ័យ,,,,,,,,,,,,,,8
+事故,Accident,Akisidente,,,,事故,,,,อบุ ัตเิ หตุ,Sự cố,မသတာ်တဆမှု,,,Kecelakaan,,,,,,,,,ឧរតិរហ្ត,,,,,,,,,,,,,,8
+服装,Clothes,Kasuotan,,,,服装,,,,เครอื่ งแตง่ กาย,Trang phục,အဝတအ် စာ်း,,,Pakaian,,,,,,,,,សរម្លៀករំពាក់,,,,,,,,,,,,,,8
+安全装置,Safety equipment,Safety equipment/Kagamitan pangkaligtasan,,,,安全装置,,,,อปุ กรณ์ความปลอดภัย,Thiết bị an toàn,အန္ရတ ာယက် င်း် ရ င်း် သရ်းကရှိ ှိ ယာ,,,Peralatan keselamatan,,,,,,,,,ឧរករណ៍ស វតថិភាព,,,,,,,,,,,,,,8
+安全カバー,Safety cover; protection cover,Safety cover/Takip pang- kaligtasan,,,,安全罩,,,,ฝาครอบป้องกนั,Nắp đậy an toàn,လခ ု ြုံ သရ်းကာဗာအဖ ု်း,,,Tutup pengaman,,,,,,,,,គម្របសុវត្ថិភាព,,,,,,,,,,,,,,8
+けが,Injury,Pinsala,,,,创伤,,,,บาดเจ็บ,Vết thương,ဒဏရ် ာ,,,Luka,,,,,,,,,របួស,,,,,,,,,,,,,,8
+けがをする,To get injured,Mapinsala,,,,受伤,,,,ไดร้ ับบาดเจ็บ,Bị thương,ဒဏရ် ာရသည်,,,Terluka,,,,,,,,,មានរបួស,,,,,,,,,,,,,,8
+電源,Power supply,Supply ng kuryente,,,,电源,,,,แหลง่ จา่ ยไฟฟ้า,Nguồn điện,လျှပ်စစ်ပါဝါ,,,Sumber listrik,,,,,,,,,ចរនតអគគិសនី,,,,,,,,,,,,,,8
+電源を切る,To turn off power,Putulin ang supply ng kuryente,,,,关闭电源,,,,ตัดไฟ,Tắt nguồn điện,လျှပ်စစ်ပါဝါပှိတသ် ည်,,,Mematikan listrik,,,,,,,,,បិទចរនតអគគិសនី,,,,,,,,,,,,,,8
+非常停止ボタン,Emergency stop button,Emergency stop button,,,,紧急停止按钮,,,,ป่มุ หยดุ ฉุกเฉนิ,Nút dừng khẩn cấp,အသရ်းသပေါ်စကရ် ပ်တန ် ဲ့ လတု ်,,,Tombol stop darurat,,,,,,,,,ប៊ូ ត្ុងបញ្ឈប់ពពល អាសនន,,,,,,,,,,,,,,8
+非常停止ボタンを押す,To push an emergency stop button,Pindutin ang emergency stop button,,,,按下紧急停止按钮,,,,กดป่มุ หยดุ ฉุกเฉนิ,Nhấn nút dừng khẩn cấp,အသရ်းသပေါ်စကရ် ပ်တန ် ဲ့ လတု က် ှို န္ပှိ ်သည်,,,Menekan tombol stop darurat,,,,,,,,,ចុចប៊ូ ត្ុងបញ្ឈប់ពពល អាសនន,,,,,,,,,,,,,,8
+ルール,Rule,Patakaran,,,,规则,,,,กฎระเบยี บ,Quy tắc,စည်း် ကမ််း,,,Peraturan,,,,,,,,,ចាប់,,,,,,,,,,,,,,8
+ルールを守る,To comply with rules,Sumunod sa mga patakaran,,,,遵守规则,,,,เคารพกฎระเบยี บ,Tuân thủ quy tắc,စည်း် ကမ််းလကှို န် ာသည်,,,Mematuhi peraturan,,,,,,,,,ពោរពចាប់,,,,,,,,,,,,,,8
+止める,To stop,I-off,,,,停止,,,,หยดุ,Cho dừng,ရပ်သည်,,,Menghentikan,,,,,,,,,បញ្ឈប់,,,,,,,,,,,,,,8
+機械を止める,To stop a machine,I-off ang makina,,,,关掉机器,,,,หยดุ เครอื่ งจักร,Cho dừng máy,စကက် ှို ရပ်သည်,,,Menghentikan mesin,,,,,,,,,បញ្ឈប់មា៉ា សុីន,,,,,,,,,,,,,,8
+やって,Do (something).,Gawin mo,,,,做,,,,ท าสิ,Hãy làm,လပု ်ပါ,,,Lakukan,,,,,,,,,ស៊ូរព្វើ,,,,,,,,,,,,,,8
+止めて,Stop (something).,I-off mo,,,,停止,,,,หยดุ สิ,Hãy dừng lại,ရပ်ပါ,,,Hentikan,,,,,,,,,ស៊ូរបញ្ឈប់,,,,,,,,,,,,,,8
+取って,Take; pick up; pass (something).,Kunin mo,,,,拿,,,,หยบิ สิ,Hãy lấy,ယပူ ါ,,,Ambil,,,,,,,,,ស៊ូរយក,,,,,,,,,,,,,,8
+だめ（な）,No. ; No good (bad; wrong),Bawal (Ipinagbabawal ),,,,不可以（的）,,,,ไมไ่ ด ้(ทไี่ มไ่ ด)้,"(tính từ) Không được, kh ông tốt",မလပု ်သင်(ဲ့ သသာ),,,Tidak boleh (Jangan),,,,,,,,,(ដែល)រិនបាន,,,,,,,,,,,,,,8
+監理団体,Supervising organization,Namamahalang organisasyon,,,,监理团体,,,,องคก์ รทกี่ ำกบั ดแู ล,Đoàn thể giám sát (nghiệp đoàn),စ မ ကပွ ်ကသ ရ်းအဖ ွွဲ့,,,Lembaga pengawas,,,,,,,,,អង្គភាពគ្រប់គ្រង្,,,,,,,,,,,,,,8
+技術移転,Technology transfer,Paglilipat ng kakayahan,,,,技术转移,,,,กำรถำ่ ยทอดเทคนคิ,Chuyển giao kỹ thuật,နည်း် ပညာလသ ခပာင်း် ခ င်း်,,,Transfer teknologi,,,,,,,,,ការណទេរបណចេកវទ្យិ ា,,,,,,,,,,,,,,8
+技能実習期間,Technical intern training period,Panahon ng pagsasanay,,,,技能实习期间,,,,ระยะเวลำกำรฝึกงำนดำ้ น เทคนคิ,Thời gian thực tập kỹ năng,အလပု ်သငတ် န်း် ကာလ,,,Periode pelatihan kerja,,,,,,,,,រយៈណពលហ្វឹកហ្វឺនជំនញ,,,,,,,,,,,,,,8
+職種,Job type,Uri ng trabaho,,,,工种,,,,ประเภทอำชพี,Ngành nghề,အလပု ်အကငှို အ် မ ှိြုံ်းအစာ်း,,,Pekerjaan,,,,,,,,,គ្បណេទ្យមុខរបរ,,,,,,,,,,,,,,8
+在留資格,Status of residence,Status ng paninirahan,,,,在留资格,,,,สถำนภำพกำรพ ำนัก,Tư cách lưu trú,ဗ ဇာအမ ှိြုံ်းအစာ်း,,,Status tinggal,,,,,,,,,អាជ្ញា ប័េណ ស្នា ក់ណៅ,,,,,,,,,,,,,,8
+パスポート,Passport,Pasaporte,,,,护照,,,,หนังสอื เดนิ ทำง,Hộ chiếu,န္ငှို င် က ်းူ လကမ် တ်,,,Paspor,,,,,,,,,លិខិតឆ្លង្ដែន,,,,,,,,,,,,,,8
+在留カード,Residence card,Residence card,,,,在留卡,,,,บัตรสถำนภำพกำรพ ำนัก,Thẻ lưu trú,န္ငှို င် ခ ာ်းသာ်းမ တပ် ုတငက် တ်,,,Kartu izin tinggal,,,,,,,,,ប័េណ ស្នា ក់ណៅ,,,,,,,,,,,,,,8
+入管,Immigration,Immigration Bureau,,,,入管,,,,ตม.,Cục quản lý nhập cảnh,လဝက,,,Imigrasi,,,,,,,,,អណនា គ្បណវសន៍,,,,,,,,,,,,,,8
+在留期間,Period of stay,Panahon ng paninirahan,,,,在留期间,,,,ระยะเวลำกำรพ ำนัก,Thời hạn lưu trú,ဗ ဇာသကတ် မ််း,,,Periode tinggal,,,,,,,,,រយៈណពលស្នា ក់ណៅ,,,,,,,,,,,,,,8
+雇用契約,Employment contract,Kontrata sa trabaho,,,,劳动合同,,,,สญั ญำจำ้ งงำน,Hợp đồng tuyển dụng,အလပု ် နထ် ဲ့ ာ်းသရ်းသသေ းာတစူ ာ ြုံပ်,,,Kontrak kerja,,,,,,,,,កិចេសនាការងារ,,,,,,,,,,,,,,8
+給与明細,Pay slip,Detalyadong paglalahad ng suweldo/Payment slip,,,,工资明细,,,,สลปิ เงนิ เดอื น,Bảng chi tiết lương,လစာရ င်း် တမ််းစာရွက်,,,Slip gaji,,,,,,,,,បងាា នន់ ែណបើកគ្ាក់ ណបៀវតស,,,,,,,,,,,,,,8
+給料,Salary,Suweldo,,,,工资,,,,เงนิ เดอื น,Lương,လစာသငွ,,,Gaji,,,,,,,,,គ្ាក់ណបៀវតស,,,,,,,,,,,,,,8
+残業手当,Overtime allowance,Overtime work pay,,,,加班费,,,,คำ่ ลว่ งเวลำ,Trợ cấp làm tăng ca,အ ှိနပ် ှိုသကက်း,,,Tunjangan lembur,,,,,,,,,គ្ាក់ឈ្ន លួ ដែមណ ៉ោ ង្,,,,,,,,,,,,,,8
+労働時間,Working hours,Oras ng trabaho,,,,劳动时间,,,,เวลำท ำงำน,Thời gian làm việc,အလပု ် ှိန်,,,Jam kerja,,,,,,,,,ណ ៉ោ ង្ណ្វើការ,,,,,,,,,,,,,,8
+控除（する）,Deduction (to deduct),Bawas / Exemption (Babawasan),,,,扣除,,,,การลดหยอ่ น (ลดหยอ่ น),(động từ) Khấu trừ,န္တှု ယ် ူ(သည်),,,Pengurangan (Mengurangi),,,,,,,,,(ធ្វើការ)ការកាត់ថ្លៃ,,,,,,,,,,,,,,8
+ボーナス,Bonus,Bonus,,,,奖金,,,,โบนัส,Tiền thưởng,အပှိုဆသု ကက်း,,,Bonus,,,,,,,,,ប្រាក់រំណាច់,,,,,,,,,,,,,,8
+有休,Paid holiday,Bakasyon na may bayad,,,,带薪休假,,,,ไดร้ ับคา่ จา้ ง,Nghỉ phép có lương,လပု ်သက ် ငွ ်ဲ့,,,Cuti tahunan,,,,,,,,,ការសប្រមាកមានប្រាក់ ធរៀវតស,,,,,,,,,,,,,,8
+代休,Compensatory day off,Compensatory leave,,,,补休,,,,หยดุ ชดเชย,Nghỉ bù,အစာ်းထ်းှို နာ်းရက်,,,Libur pengganti,,,,,,,,,ថ្លៃឈរ់សប្រមាកធលើកថ្លៃ,,,,,,,,,,,,,,8
+労働基準法,Labor Standards Act,The Labour Standards Act,,,,劳动基准法,,,,กฎหมายมาตรฐาน แรงงาน,Luật lao động cơ bản,အလပု ်သမာ်းစ န္နှု ်း် ဥပသဒ,,,Peraturan standar ketenagakerjaan,,,,,,,,,ចារ់រទដាា នការងារ,,,,,,,,,,,,,,8
+労働条件,Working conditions,Kondisyon sa trabaho,,,,劳动条件,,,,เงอื่ นไขแรงงาน,Điều kiện lao động,အလပု ်သမာ်း စ ာ်း ငွ ်ဲ့,,,Kondisi kerja,,,,,,,,,ល័កខែ័ណឌការងារ,,,,,,,,,,,,,,8
+税金,Tax,Buwis,,,,税金,,,,ภาษี,Tiền thuế,အ နွ ်,,,Pajak,,,,,,,,,ពនធ,,,,,,,,,,,,,,8
+所得税,Income tax,Buwis sa kita,,,,所得税,,,,ภาษีเงนิ ได้,Thuế thu nhập,ဝငသ် င ွ နွ ်,,,Pajak penghasilan,,,,,,,,,ពនធធលើប្រាក់ចំណូ ល,,,,,,,,,,,,,,8
+住民税,Resident tax,Buwis sa paninirahan,,,,住民税,,,,ภาษีบ ารงุ ทอ้ งที่,Thuế cư dân,စညပ် င ် နွ ်,,,Pajak penduduk,,,,,,,,,ពនធនិវាសនជន,,,,,,,,,,,,,,8
+厚生年金,Welfare pension,Employees’ pension insurance,,,,厚生年金,,,,กองทนุ สา รองเลยี้ งชพี,Lương hưu,အလပု ်ပငစ် ငအ် ာမ,,,Uang pensiun,,,,,,,,,ប្រាក់ធសា្ននិវតាន៍ ររស់និធោជិក,,,,,,,,,,,,,,8
+雇用保険,Employment insurance,Employment insurance,,,,失业保险,,,,ประกนั การจา้ งงาน,Bảo hiểm thất nghiệp,အလပု ်အာမ,,,Asuransi ketenagakerjaan,,,,,,,,,ធានារា៉ារ់រងការងារ,,,,,,,,,,,,,,8
+健康保険,Health insurance,Health insurance,,,,健康保险,,,,,Bảo hiểm y tế,က န်း် မာသရ်းအာမ,,,Asuransi kesehatan,,,,,,,,,,,,,,,,,,,,,,,6
+社会保険,Social insurance,Labour insurance,,,,社会保险,,,,ประกนั สงั คม,Bảo hiểm xã hội,လမူ ှုဖူလသ ု ရ်းအာမ,,,Asuransi sosial,,,,,,,,,ធានារា៉ារ់រងសងគម,,,,,,,,,,,,,,8
+労災,Industrial accident,Worker’s accident,,,,工伤,,,,อบุ ัตเิ หตแุ ละความ เสยี หายทเี่ กดิ ขนึ้ ระหวา่ งการท างาน,Tai nạn lao động,လပု ်ငန်း် ငွ ် ထ ှိ ကှို ဒ် ဏရ် ာရမှု,,,Kecelakaan kerja,,,,,,,,,ធប្រគ្មុះថ្នន ក់ការងារ,,,,,,,,,,,,,,8
+労災保険,Industrial accident compensation insurance,Worker’s accident compensation insurance,,,,工伤保险,,,,ประกนั อบุ ัตเิ หตแุ ละ ความเสยี หายทเี่ กดิ ขนึ้ ระหวา่ งการท างาน,Bảo hiểm tai nạn lao đ ộng,အလပု ်သမာ်းနစ်နာသကက်း အာမ,,,Asuransi kecelakaan kerja,,,,,,,,,ធានារា៉ារ់រងធលើធប្រគ្មុះ ថ្នន ក់ការងារ,,,,,,,,,,,,,,8
+遅刻（する）,Late arrival (be late),Huli (Mahuhuli),,,,迟到,,,,การมาสาย (มาสาย),(động từ) Đi muộn,အလပု ်သနာကက် (သည်),,,Keterlambatan (Terlambat),,,,,,,,,(ធ្វើការ) មកយឺត,,,,,,,,,,,,,,8
+早退（する）,Leaving early (to leave early),Umalis ng maaga (Aalis ng maaga),,,,早退,,,,การกลับกอ่ นเวลา (กลับ กอ่ นเวลา),(động từ) Về sớm,အလပု ်သစာခပန်(သည်),,,Kepulangan cepat (Pulang cepat),,,,,,,,,(ធ្វើការ) ធេញមុនធេល,,,,,,,,,,,,,,8
+休憩（する）,Break (to take a break),Pahinga (Magpapahinga),,,,休息,,,,การพัก (พัก),(động từ) Nghỉ giải lao,အနာ်းယူ(သည်),,,Istirahat (Beristirahat),,,,,,,,,(ធ្វើការ) សម្រាក,,,,,,,,,,,,,,8
+残業（する）,Overtime work (to work overtime),Overtime (Magtrabaho na lampas sa takdang oras / Magtrabaho ng overtime),,,,加班,,,,การท างานลว่ งเวลา (ท างานลว่ งเวลา),(động từ) Làm thêm giờ,အ ှိနပ် ှိုအလပု ်(ဆင်း် သည်),,,Pekerjaan lembur (Lembur),,,,,,,,,(ធ្វើការ) ការងារថែមធា៉ោ ង,,,,,,,,,,,,,,8
+定時,Regular hours,Regular na oras / Takdang oras,,,,准时,,,,ตามเวลาทกี่ าหนด,Giờ quy định,ပ ုမ နအ် ှိန်,,,Tepat waktu,,,,,,,,,ធេលធ ៀងទាត់,,,,,,,,,,,,,,8
+規則,Regulation; rule,Patakaran,,,,规则,,,,กฎขอ้ บังคับ,Quy tắc,စည်း် မ ဉ််းစည်း် ကမ််း,,,Aturan,,,,,,,,,ប បញ្ជា,,,,,,,,,,,,,,8
+休日,Non-working day,Day-off,,,,休息日,,,,วันหยดุ,Ngày nghỉ,အလပု ်နာ်းရက်,,,Hari libur,,,,,,,,,ថ្ែៃឈប់សម្រាក,,,,,,,,,,,,,,8
+始業時間,Starting time of work,Oras ng simula,,,,上班时间,,,,เวลาเรมิ่ งาน,Giờ bắt đầu làm việc,အလပု ်စ ှိန်,,,Jam mulai kerja,,,,,,,,,ធា៉ោ ងចាប់ធ្តើមការងារ,,,,,,,,,,,,,,8
+終業時間,Ending time of work,Oras ng katapusan,,,,下班时间,,,,เวลาเลกิ งาน,Giờ kết thúc làm việc,အလပု ်ပပ ်း ှိန်,,,Jam usai kerja,,,,,,,,,ធា៉ោ ងបញ្ចប់ការងារ,,,,,,,,,,,,,,8
+指導員,Instructor,Tagapagturo,,,,指导员,,,,ผชู้ แี้ นะ,Người hướng dẫn,သငတ် န်း် မ ်း,,,Instruktur,,,,,,,,,អ្នកបងាា តប់ ធម្រងៀន,,,,,,,,,,,,,,8
+生活指導員,Life advisor,Tagapagturo ng pamumuhay,,,,生活指导员,,,,ผชู้ แี้ นะในการด ารงชพี,Người hướng dẫn đời sống,သနထငှို မ် ှုပ ုစ သလကဲ့ ငသ်ဲ့ ပ်းသူ,,,Pembimbing kehidupan sehari-hari,,,,,,,,,អ្នកបងាា តប់ ធម្រងៀនេីការ រស់ធៅ,,,,,,,,,,,,,,8
+担当者,Person in charge,Person in charge / Taong namamahala,,,,负责人,,,,ผรู้ ับผดิ ชอบ,Người phụ trách,တာဝန ်,,,Penanggungjawab,,,,,,,,,អ្នក ួលខុសម្រតេូ,,,,,,,,,,,,,,8
+スイッチ入れるな,Do not switch on.,Huwag i-on ang switch,,,,不许打开开关,,,,อยา่ เปิดสวติ ช์,Không được bật công tắc,လတု မ် ဖွငန်ဲ့ ဲ့,,,Jangan dinyalakan,,,,,,,,,កុំធបើកេរនតអ្គ្គិសនី,,,,,,,,,,,,,,8
+スイッチ切るな,Do not switch off.,Huwag i-off ang switch,,,,不许关闭开关,,,,อยา่ ปิดสวติ ช์,Không được tắt công tắc,လတု မ် ပှိတန် ဲ့,,,Jangan dimatikan,,,,,,,,,កុំបិ េរនតអ្គ្គិនសី,,,,,,,,,,,,,,8
+使用禁止,Do not use.,Bawal gamitin,,,,禁止使用,,,,หา้ มใช้,Cấm sử dụng,အသ်း ု မခပြုံရ,,,Dilarang menggunakan,,,,,,,,,ហាមធម្របើម្រាស់,,,,,,,,,,,,,,8
+5S,5S,5S,,,,5S,,,,5 ส,5S,5S,,,"5S (Di Indonesia 5R :Ringkas, Rapi, Resik, Rawat, Rajin)",,,,,,,,,ស ៥,,,,,,,,,,,,,,8
+整理,Seiri (Sorting),Suriin,,,,整理,,,,สะสาง,Seiri (sàng lọc),စနစ်တက ထာ်းရှိ ခ င်း် (Seiri),,,Ringkas,,,,,,,,,មាៃរបបៀប,,,,,,,,,,,,,,8
+整頓,Seiton (Set in order),Sinupin,,,,整顿,,,,สะดวก,Seiton (sắp xếp),စ သတမ် တထ် ာ်းရှိ ခ င်း် (Sei-ton),,,Rapi,,,,,,,,,បរៀបរយ,,,,,,,,,,,,,,8
+清潔,Seiketsu (standardize),Siguruhin ang kalinisan,,,,清洁,,,,สขุ ลักษณะ,Seiketsu (săn sóc),သနရ် ဲ့ င်း် သပ်ရပ်မှု (Sei-ketsu),,,Rawat,,,,,,,,,ស្ថា ត,,,,,,,,,,,,,,8
+しつけ,Shitsuke (Sustain),Sariling Kusa,,,,素养,,,,สรา้ งนสิ ยั,Shitsuke (sẵn sàng),အစဉ်အလာဓသလထဲ့ ်း ု စ (Shi-tsuke),,,Rajin,,,,,,,,,វៃិ ័យ,,,,,,,,,,,,,,8
+掃除（する）,Cleaning (to clean),Linis (Maglilinis),,,,扫除,,,,การท าความสะอาด (ท า ความสะอาด),(động từ) Làm vệ sinh,သနရ် ဲ့ င်း် သရ်း(လပု ်သည်),,,Pembersihan (Membersihkan),,,,,,,,,(ប្វីការ)សមាា ត,,,,,,,,,,,,,,8
+片づける,To tidy up,Iaayos,,,,收拾,,,,จัดเกบ็ ใหเ้ขา้ ทเี่ ขา้ ทาง,Dọn dẹp,သမှိ ််းဆည်း် သည်,,,Membereskan,,,,,,,,,បរៀបចាំ,,,,,,,,,,,,,,8
+捨てる,To throw away,Itatapon,,,,扔掉,,,,ทงิ้,Vứt bỏ,စွနပ် ဲ့ စ်သည်,,,Membuang,,,,,,,,,បចល,,,,,,,,,,,,,,8
+汚い,Dirty,Marumi / Madumi,,,,脏,,,,สกปรก,Bẩn,ညစ်ပတသ် သာ,,,Kotor,,,,,,,,,ក្ខ្វក្់,,,,,,,,,,,,,,8
+汚れる,To get dirty,Marumihan,,,,弄脏,,,,เปรอะ,Bị bẩn,ညစ်သပသည်,,,Kotor,,,,,,,,,្បលាក្់,,,,,,,,,,,,,,8
+分別（する）,To sort waste,Klasipikasyon (Magbubukod),,,,分类,,,,การแบง่ แยกประเภท (แบง่ แยกประเภท),(động từ) Phân loại,အမ ှိြုံ်းအစာ်း ခွ ာ်း(သည်),,,Pemisahan (Memisahkan),,,,,,,,,(ប្វីការ)ដបងដចក្,,,,,,,,,,,,,,8
+燃えないごみ,Nonburnable waste,Basurang hindi sinusunog,,,,不可燃垃圾,,,,ขยะเผาไมไ่ ด้,Rác không cháy được,မ ်းရှုှိွဲ့လမှို ဲ့ ရတအ ဲ့ မှိှုက်,,,Sampah tak mudah terbakar,,,,,,,,,ស្មាមមិៃប ះ,,,,,,,,,,,,,,8
+燃えるごみ,Burnable waste,Basurang sinusunog,,,,可燃垃圾,,,,ขยะเผาได้,Rác cháy được,မ ်းရှုှိွဲ့လရှို ဲ့ တအ ဲ့ မှိှုက်,,,Sampah mudah terbakar,,,,,,,,,ស្មាមប ះ,,,,,,,,,,,,,,8
+挟まれる,To get sandwiched in between,Maiipit,,,,被夹住,,,,ถกู หนีบ,Bị kẹp vào,ညပ်သည်,,,Terjepit,,,,,,,,,គ្នប,,,,,,,,,,,,,,8
+巻き込まれる,To get caught in,Makawit,,,,被卷进,,,,โดนเกยี่ ว,Bị cuốn vào,ညပ်ပါသည်,,,Terlilit,,,,,,,,,្តវូ ាៃពាក្់ព័ៃធ,,,,,,,,,,,,,,8
+やけど（する）,Burn (to get burned),Paso (Mapaso),,,,灼伤,,,,แผลไฟลวก (โดนไฟลวก),(động từ) Bị bỏng,အပူသလာင်(သည်),,,Luka bakar (Terbakar),,,,,,,,,(មាៃ)រលាក្,,,,,,,,,,,,,,8
+落ちる,To fall,Mahulog,,,,摔下来,,,,ตก,Bị rơi,က ဆင်း် သည်,,,Jatuh,,,,,,,,,្្ះរ,,,,,,,,,,,,,,8
+すべる,To slip,Madulas,,,,滑,,,,ลนื่,Trơn,သ ာ်လသ ည်,,,Terpeleset/Licin,,,,,,,,,រអិល,,,,,,,,,,,,,,8
+転ぶ,To fall; stumble,Madapa,,,,跌倒,,,,หกลม้,Bị ngã,လက သည်,,,Terjatuh,,,,,,,,,ែួល,,,,,,,,,,,,,,8
+濡れる,To get wet,Mabasa,,,,弄湿,,,,เปียก,Bị ướt,သရစှိုသည်,,,Basah,,,,,,,,,បសើម,,,,,,,,,,,,,,8
+衛生,Sanitation,Kaligtasan / Pangangalaga sa kalusugan,,,,卫生,,,,อนามัย,Vệ sinh,သနရ် ဲ့ င်း် သပ်ရပ်မှု,,,Kebersihan,,,,,,,,,អនាម័យ,,,,,,,,,,,,,,8
+避難（する）,Evacuation (to evacuate),Paglisan (Lumikas),,,,逃生、避难疏散,,,,การอพยพหนีภัย (อพยพ หนีภัย),"(động từ) Sơ tán, lánh nạn",သေ်းသရ ာင်(သည်),,,Evakuasi (Mengevakuasi),,,,,,,,,(ប្វីការ)្បមែៀស,,,,,,,,,,,,,,8
+救急車,Ambulance,Ambulansya,,,,救护车,,,,รถพยาบาล,Xe cứu thương,လနူ ာတငယ် ာဉ်,,,Ambulans,,,,,,,,,ឡាៃសប្ងាគ ះបនាា ៃ់,,,,,,,,,,,,,,8
+災害,Disaster,Sakuna,,,,灾害,,,,ภัยพบิ ัติ,Thảm họa,သေ်းအန္ရတ ာယ်,,,Bencana,,,,,,,,,ប្គ្នះមហៃតោយ,,,,,,,,,,,,,,8
+地震,Earthquake,Lindol,,,,地震,,,,แผน่ ดนิ ไหว,Động đất,ငလ င်,,,Gempa bumi,,,,,,,,,ការរញ្ជ យួ ែី,,,,,,,,,,,,,,8
+もぐる,To hide; dive,Sisisid / Punta sa ilalim,,,,钻到,,,,มดุ,Chui xuống,သအာကသ် ဝှို ဲ့ ငသ် ည်,,,Menyelinap,,,,,,,,,មុ្,,,,,,,,,,,,,,8
+火気厳禁,No fire,Mahigpit na ipinagbabawal ang,,,,严禁烟火,,,,หา้ มใชไ้ ฟ,Cấm lửa,မ ်းသတခှိပြုံ,,,Dilarang menggunakan api,,,,,,,,,ហាមដាច់ខាតប្រើប្លើង,,,,,,,,,,,,,,8
+開放厳禁,Keep closed.,Mahigpit na ipinagbabawal ang,,,,严禁开放,,,,หา้ มเปิดทงิ้ ไว้,Cấm mở,ဖွငမ်ဲ့ ထာ်းရ,,,Dilarang membuka,,,,,,,,,ហាមដាច់ខាតបរើកចំហ,,,,,,,,,,,,,,8
+標識,Sign,Babala / Tagapagpahiwatig,,,,标识,,,,เครอื่ งหมาย,Bảng hiệu,အမ တအ် သာ်း,,,Tanda,,,,,,,,,សញ្ញា,,,,,,,,,,,,,,8
+気をつける,To pay attention,Mag-iingat,,,,注意、当心,,,,ระมัดระวัง,"Chú ý, cẩn thận",ဂရုစှိုကသ် ည်,,,Berhati-hati,,,,,,,,,ខ្ ញំនឹង្រងុ ្រយ័តន,,,,,,,,,,,,,,8
+持ち込む,To bring in,Dadalhin sa loob,,,,带进,,,,น าเขา้ ไป,Mang vào,ယလူ ာသည်,,,Membawa masuk,,,,,,,,,យកចូល,,,,,,,,,,,,,,8
+防ぐ,To prevent,Iwasan,,,,防止,,,,ป้องกนั,Phòng ngừa,ကာကယွ သ် ည။်,,,Mencegah,,,,,,,,,រង្កា រ,,,,,,,,,,,,,,8
+火,Fire,Apoy,,,,火,,,,ไฟ,Lửa,မ ်း,,,Api,,,,,,,,,ប្លើង,,,,,,,,,,,,,,8
+煙,Smoke,Usok,,,,烟,,,,ควัน,Khói,မ ်း ်းှို,,,Asap,,,,,,,,,ផ្សែង,,,,,,,,,,,,,,8
+消火,Fire extinguishing,Patayin ang apoy,,,,灭火,,,,ดับเพลงิ,Chữa cháy,မ ်းပငမ ််းသတခ် င်း်,,,Pemadam kebakaran,,,,,,,,,ព្នលត់អគ្គិ្័យ,,,,,,,,,,,,,,8
+消火器,Fire extinguisher,Fire extinguisher,,,,灭火器,,,,ถังดับเพลงิ,Bình chữa cháy,မ ်းသတေ် ်းူ,,,Alat pemadam kebakaran,,,,,,,,,ឧរករណ៍ព្នលត់អគ្គិ្័យ,,,,,,,,,,,,,,8
+非常ベル,Emergency alarm,Emergency bell,,,,消防警铃,,,,กระดงิ่ เตอื นภัย,Chuông khẩn cấp,အသရ်းသပေါ်သတသှိ ပ်းစက်,,,Bel darurat,,,,,,,,,កណតឹងអាសនន,,,,,,,,,,,,,,8
+火災報知機,Fire alarm,Fire alarm,,,,火灾报警器,,,,เครอื่ งเตอื นอคั คภี ัย,Thiết bị báo cháy,မ ်းအ ကသ် ပ်းစက်,,,Alarm kebakaran,,,,,,,,,កណតឹង្រកាសអគ្គិ្័យ,,,,,,,,,,,,,,8
+逃げる,To escape,Tumakbo palayo,,,,逃离,,,,หลบหนี,Trốn chạy,ထကွ သ် ခပ်းသည်,,,Melarikan diri,,,,,,,,,រត់បគ្ច,,,,,,,,,,,,,,8
+現場,Site; shop floor,Lugar ng trabaho,,,,现场,,,,หนา้ งาน,Hiện trường,လပု ်ငန်း် ငွ ်,,,Tempat kerja/Pabrik,,,,,,,,,កផ្នលងការង្ករ,,,,,,,,,,,,,,8
+作業,Work,Trabaho,,,,作业,,,,งาน,Thao tác,အလပု ်,,,Pekerjaan,,,,,,,,,ការង្ករ,,,,,,,,,,,,,,8
+ミーティング,Meeting,Miting,,,,会议,,,,มตี ตงิ้,Cuộc họp,အစည်း် အသဝ်း,,,Rapat/Meeting,,,,,,,,,ការ្រជុំ,,,,,,,,,,,,,,8
+研修（する）,Training (to train/be trained),Pagsasanay (Magsasanay),,,,培训,,,,การฝึกงาน (ฝึกงาน),(động từ) Đào tạo,သငတ် န်း် (ခပြုံလပု ်သည်),,,Pelatihan/Training (Berlatih),,,,,,,,,(ប្វើការ)កមមសិកា,,,,,,,,,,,,,,8
+実習（する）,Practical training (to give/receive practical training),Training (Pagtratrain),,,,实习,,,,การฝึกภาคปฏบิ ัต ิ(ฝึก ภาคปฏบิ ัต)ิ,(động từ) Thực tập,လကသ် တွဲ့သွ ငတ် န်း် (ခပြုံလပု ် သည်),,,Pelatihan (Berlatih),,,,,,,,,(ប្វើការ)សិកា,,,,,,,,,,,,,,8
+あいさつ,Greeting,Pagbati,,,,打招呼,,,,ทักทาย,Chào hỏi,န္တှု ဆ် ကခ် င်း်,,,Salam,,,,,,,,,ររវកិចច,,,,,,,,,,,,,,8
+確認（する）,Check (to check),Check / Kumpirmasyon (I-checheck / Susuriin),,,,确认,,,,การตรวจสอบ (ตรวจสอบ),"(động từ) Kiểm tra, xác nhận",သသ ာစစ်(သည်),,,Konfirmasi (Mengkonfirmasikan),,,,,,,,,(ប្វើការ)រញ្ញា ក់,,,,,,,,,,,,,,8
+報告（する）,Report (to report),Report / Ulat(Mag-report / Ipagbigay-alam),,,,报告,,,,การรายงาน (รายงาน),(động từ) Báo cáo,အသကကာင်း် ကကာ်း(သည်),,,Laporan (Melaporkan),,,,,,,,,(ប្វើការ)ការោយការណ៍,,,,,,,,,,,,,,8
+連絡（する）,Communication (to communicate),Kontak (Makipag-ugnayan),,,,联络,,,,การตดิ ตอ่ (ตดิ ตอ่ ),(động từ) Liên lạc,အသကကာင်း် ကကာ်း(သည်),,,Kontak (Menghubungi),,,,,,,,,(ប្វើការ)ទាក់ទង,,,,,,,,,,,,,,8
+相談（する）,Consultation (to consult),Konsulta (Magkonsulta),,,,商量,,,,การปรกึ ษา (ปรกึ ษา),(động từ) Thảo luận,သဆ်းွ သန္်းွ (သည်),,,Konsultasi (Berkonsultasi),,,,,,,,,(ប្វើការ)ព្ិភាកា,,,,,,,,,,,,,,8
+渡す,To hand over,Iaabot,,,,交给,,,,ยนื่ ให้,Đưa,သပ်းသည်,,,Menyerahkan,,,,,,,,,ឆ្លងកាត់,,,,,,,,,,,,,,8
+申請書,Application,Pormat ng aplikasyon,,,,申请书,,,,ใบค ารอ้ ง,Đơn xin,သလျှာကလ် ာ,,,Surat permohonan,,,,,,,,,ពាកែបសនើសុំ,,,,,,,,,,,,,,8
+寝坊（する）,Oversleeping (to oversleep),Nagising ng tanghali (Magigising ng tanghali),,,,睡懒觉,,,,่ ่ การตนื สาย (ตนื สาย),(động từ) Ngủ quên,အပှိ ်ရာထသနာကက် (သည်),,,Kesiangan (Bangun kesiangan),,,,,,,,,(ប្វើការ)បគ្ង្ជលុ,,,,,,,,,,,,,,8
+技能,Skills,pagsasanay,,,,技能,,,,ทกั ษะทางเทคนิค,Kỹ năng,နည်း် ပညာ,,,Keahlian,,,,,,,,,ជំនាញ,,,,,,,,,,,,,,8
+技能検定試験,Skill proficiency test,Trade Skills Test,,,,技能鉴定考试,,,,การสอบวดั ระดับทกั ษะ ทางเทคนคิ,Kỳ thi kiểm tra kỹ năng,နည်း် ပညာအဆင ်ဲ့ သတမ် တစ် ာသမ်းပ ွ,,,Ujian keahlian teknis,,,,,,,,,ប្រឡងសមត្ថិភាពជំនាញ,,,,,,,,,,,,,,8
+受検（する）,Exam (Take an Exam),Pagkuha ng pagsusulit,,,,应考、参加考试,,,,การเขา้ สอบ (เขา้ สอบ),"(danh từ) Sự dự thi, thi",စာသမ်းပ ွသခဖ(သည)်,,,Ujian,,,,,,,,,(ធ្វើ)ការប្រឡង,,,,,,,,,,,,,,8
+資格,Qualifications,kwalipikasyon,,,,资格,,,,คณุ สมบัติ,Tư cách,အရညအ် င်း်,,,Kualifikasi,,,,,,,,,សមត្ថភាព(ជំនាញ),,,,,,,,,,,,,,8
+手当,Allowance,allowance,,,,津贴、补贴,,,,"เบยี้ เลยี้ ง, เงนิ ชว่ ยเหลอื",Trợ cấp,စ ာ်း ငွ ်ဲ့,,,Tunjangan,,,,,,,,,ប្ាក់ឧរត្ថមភ,,,,,,,,,,,,,,8
+社員,Employee,empleyado,,,,员工,,,,พนักงานบรษิ ัท,Nhân viên công ty,ကမု ပဏဝ နထ် မ််း,,,Pegawai,,,,,,,,,រុគ្គលកិ ប្កមុ ហ ុន,,,,,,,,,,,,,,8
+部長,Department manager,hepe ng departamento,,,,部长,,,,หัวหนา้ ฝ่าย,Trưởng ban,ဌာနမ ်း,,,Kepala bidang,,,,,,,,,ប្រធានផ្នែក,,,,,,,,,,,,,,8
+課長,Section manager,hepe ng seksyon,,,,课长,,,,หัวหนา้ แผนก,Trưởng phòng,ဌာန မွ ်း,,,Kepala Seksi,,,,,,,,,ប្រធានការយាិ លយ័,,,,,,,,,,,,,,8
+更衣室,Dressing room,silid bihisan,,,,更衣室,,,,หอ้ งเปลยี่ นเสอื้ ผา้,Phòng thay đồ,အဝတလ် န်း်,,,Ruang ganti,,,,,,,,,រនទរផ្ល់ ា ស់សធមាៀករំពាក់,,,,,,,,,,,,,,8
+台車,Cart,kariton,,,,台车、推车,,,,รถเข็น,Xe đẩy,လကတ် နွ ်း် လည ်း်,,,Troli,,,,,,,,,រទះរុញឥវ៉ាន់,,,,,,,,,,,,,,8
+床,Floor,sahig,,,,地板,,,,พนื้,Sàn,ကကမ််းခပင်,,,Lantai,,,,,,,,,កប្ាល,,,,,,,,,,,,,,8
+出口,Exit,labasan,,,,出口,,,,ทางออก,Cửa ra,ထကွ သ် ပါက်,,,Pintu keluar,,,,,,,,,ប្រកធរញ,,,,,,,,,,,,,,8
+電気,Electricity,kuryente,,,,电气、电,,,,ไฟฟ้า,Điện,လျှပ်စစ်/မ ်း,,,Listrik,,,,,,,,,អគ្គីសនី,,,,,,,,,,,,,,8
+警報音,Alarm sound,babalang ingay,,,,警报声,,,,เสยี งสัญญานเตอื นภัย,Âm thanh báo động,သတသှိ ပ်း သ ါင်း် သလာင်း် သ,,,Bunyi peringatan,,,,,,,,,សធមាងប្រកាសអាសនែ,,,,,,,,,,,,,,8
+コンセント,Electric outlet,saksakan ng kuryente,,,,插座,,,,"ปล๊กั ไฟ(ตัวเมยี ), เตา้ เสยี บ",Ổ cắm,ပလတသ် ါင်း် ပလတသ် ပါက်,,,Stop kontak,,,,,,,,,ប្ពីធ្ាើង,,,,,,,,,,,,,,8
+作業場,Workshop,lugar ng trabaho,,,,作业场所,,,,สถานทปี่ ฏบิ ัตงิ าน,Nơi làm việc,အလပု ်ရု,,,Tempat kerja,,,,,,,,,កផ្នាងធ្វើការ,,,,,,,,,,,,,,8
+作業台,Workbench,lamesa ng trabaho,,,,作业台,,,,โตะ๊ ท างานชา่ ง,Bàn thao tác,အလပု ်စာ်းပ ွ,,,Meja kerja,,,,,,,,,ត្ុធ្វើការ,,,,,,,,,,,,,,8
+工事現場,Construction site,lugar ng konstruksyon,,,,建筑工地,,,,สถานทกี่ อ่ สรา้ ง,Công trường,သဆာကလ် ပု ်သရ်း လပု ်ငန်း် ငွ ်,,,Lokasi kerja,,,,,,,,,ការដ្ឋា នសំណង់,,,,,,,,,,,,,,8
+職長,Foreman,foreman,,,,工长,,,,หัวหนา้ งาน,Tổ trưởng,လပု ်ငန်း် ငွ လ် မ််းည နက်က်း ကကပ်သူ,,,Pengawas kerja,,,,,,,,,អែកដឹកនាំប្កមុ,,,,,,,,,,,,,,8
+作業責任者,Work supervisor,tagapangasiwa ng trabaho,,,,作业负责人,,,,ผรู้ ับผดิ ชอบงาน,Người phụ trách công việc,လပု ်ငန်း် တာဝန ်,,,Petugas kerja,,,,,,,,,អែកទទួលខុសប្ត្វូ ការងារ,,,,,,,,,,,,,,8
+禁止,Prohibition,bawal,,,,禁止,,,,หา้ ม,Cấm,တာ်းခမစ်ခ င်း်,,,Pelarangan,,,,,,,,,ហាម,,,,,,,,,,,,,,8
+表示板,Display board,karatula,,,,指示牌、显示板,,,,ป้ายประกาศ,Biển báo,သငပ် ုန်း် ၊ဆငှို ်း် ေတု ်,,,Papan pengumuman,,,,,,,,,ផ្ទ ងាំ បង្ហា ញព័ត៍មាន,,,,,,,,,,,,,,8
+禁止事項,Prohibited items,bagay na bawal gawin,,,,禁止事项,,,,ขอ้ หา้ ม,Những điều bị cấm,တာ်းခမစ် က်,,,Larangan penggunaan,,,,,,,,,ប្បការហាមឃាត់,,,,,,,,,,,,,,8
+避難訓練,Evacuation drill,evacuation drill,,,,逃生训练、避难疏散训练,,,,การฝึกหลบภัยหรอื หนีภัย,Huấn luyện lánh nạn /sơ tán,သေ်းအန္ရတ ာယမ် သရ ာငတ် မှိ ််းသရ်း သလကဲ့ ငမ်ဲ့ ှု,,,Latihan evakuasi,,,,,,,,,ហ្វកឹ ហាត់ជមមលៀសមេញ,,,,,,,,,,,,,,8
+感電,,,,,,,,,,,(danh từ) Sự bị điện giật,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+感電する,,,,,,,,,,,(động từ) Bị điện giật,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+防止,,,,,,,,,,,(danh từ) Sự ngăn chặn,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+防止する,,,,,,,,,,,(động từ) Ngăn chặn,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+予防,,,,,,,,,,,(danh từ) Sự phòng ngừa,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+予防する,,,,,,,,,,,(động từ) Phòng ngừa,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+転倒,,,,,,,,,,,"(danh từ) Sự ngã, đổ",,,,,,,,,,,,,,,,,,,,,,,,,,,1
+転倒する,,,,,,,,,,,"(động từ) Ngã, đổ",,,,,,,,,,,,,,,,,,,,,,,,,,,1
+挟まる,Get caught,maipit,,,,被夹住,,,,"คั่น, หนีบ, ตดิ อยู่","Kẹp, kẹp vào",ညပ်သည်,,,Terjepit,,,,,,,,,គាប,,,,,,,,,,,,,,8
+足元,Footsteps,paanan,,,,脚下,,,,ทเี่ ทา้,Dưới chân,သခ သထာကအ် န်း တဝှိုက်,,,Langkah kaki,,,,,,,,,មជើងមប្កាម,,,,,,,,,,,,,,8
+不安定,,,,,,,,,,,"(danh từ) Sự không ổn đ ịnh, không vững",,,,,,,,,,,,,,,,,,,,,,,,,,,1
+不安定な,,,,,,,,,,,"(tính từ) Không ổn định, không vững",,,,,,,,,,,,,,,,,,,,,,,,,,,1
+後片付け,Cleanup,pagliligpit pagkatapos,,,,收拾,,,,ท าความสะอาดและเกบ็ เขา้ ที่,Dọn dẹp,အလပု ်ပပ ်းသနာက ် သနစ် ဲ့ ငသ် မှိ ််းဆည်း် ခ င်း်,,,Pembenahan,,,,,,,,,ការមរៀបេាំមពលមប្កាយ,,,,,,,,,,,,,,8
+救急箱,First aid kit,first-aid kit,,,,急救箱,,,,กลอ่ งปฐมพยาบาล,Hộp sơ cứu,အသရ်းသပေါ်သဆ်းသသတတ ာ,,,Kotak P3K,,,,,,,,,ប្បអប់សមប្ង្ហគ ោះបន្ទទ ន់,,,,,,,,,,,,,,8
+絆創膏,Adhesive plaster,panakip sa sugat,,,,创可贴,,,,"พลาสเตอรย์ า, เทป สา หรับปิดแผล",Băng dán vết thương,ပလာစတာ,,,Plester,,,,,,,,,បនទោះបិទមលើស្នា មរបួស,,,,,,,,,,,,,,8
+体調,Physical condition,pisikal na kondisyon,,,,身体状况,,,,สภาพรา่ งกาย,Thể trạng,က န်း် မာသရ်းအသခ အသန,,,Kondisi badan,,,,,,,,,ស្នេ នភាពសុខភាពខល នួ,,,,,,,,,,,,,,8
+血,Blood,dugo,,,,血,,,,เลอื ด,Máu,သသ်းွ,,,Darah,,,,,,,,,ឈាម,,,,,,,,,,,,,,8
+熱中症,Heatstroke,heatstroke,,,,中暑,,,,โรคลมแดด,"Sốc nhiệt, say nắng",အပူလျှပ်ခ င်း်,,,Dehidrasi,,,,,,,,,ការដួលសនលបម់ ោយស្នរ កមតៅ,,,,,,,,,,,,,,8
+吐き気,Nausea,alibadbad,,,,恶心,,,,คลนื่ ไส้,"Buồn nôn, buồn ói",ပ ှိြုံွဲ့စှိတ၊်အန ် ငစ် ှိတ်,,,Mual,,,,,,,,,េង់កអ តួ,,,,,,,,,,,,,,8
+嘔吐,,,,,,,,,,,"(danh từ) Sự nôn, ói",,,,,,,,,,,,,,,,,,,,,,,,,,,1
+嘔吐する,,,,,,,,,,,"(động từ) Nôn, ói",,,,,,,,,,,,,,,,,,,,,,,,,,,1
+足がつる,Have a leg cramp,namumulikat ang paa,,,,腿抽筋,,,,มอี าการตะครวิ ทขี่ า,Chân bị chuột rút,သခ သထာက ် ကကကတ် ကသ် ည်,,,Kram,,,,,,,,,សាំយ ុងមជើង,,,,,,,,,,,,,,8
+気分が悪い,Feel sick,hindi maganda ang pakiramdam,,,,不舒服,,,,รสู้ กึ ไมส่ บาย,"Không khỏe, khó ở",သနလမှို ဲ့ သကာင်း် ေ်းူ,,,Tidak enak badan,,,,,,,,,មិនប្សួលខល នួ,,,,,,,,,,,,,,8
+寝不足,Lack of sleep,kulang sa tulog,,,,睡眠不足,,,,นอนไมพ่ อ,Thiếu ngủ,အပှိ ်သရ်းမဝခ င်း်,,,Kurang tidur,,,,,,,,,មគ្ងមិនប្គ្ប់,,,,,,,,,,,,,,8
+安全ネット,Safety net,safety net,,,,安全网,,,,เครอื ขา่ ยความปลอดภัย,Lưới an toàn,လခ ု ြုံ သရ်းပှိုကက် နွ ်,,,Jaring pengaman,,,,,,,,,សាំណាញ់សុវតេិភាព,,,,,,,,,,,,,,8
+安全点検,Safety inspection,inspeksyon para sa kaligtasan,,,,安全检查,,,,การตรวจเช็คความ ปลอดภัย,Kiểm tra an toàn,လခ ု ြုံ စှိတ ် မှုစစ်သဆ်းခ င်း်,,,Pemeriksaan keselamatan,,,,,,,,,ប្តួតពិនិតយសុវតេិភាព,,,,,,,,,,,,,,8
+KY活動（危険予知活動）,KY Activities (Hazard prediction activities),Aktibidad ng KY (Aktibidad para Kilalanin ang Panganib),,,,KY活动（危险预测活动）,,,,กจิ กรรมKY (กจิ กรรมฝึก การคาดการณ์อนั ตราย ลว่ งหนา้ ),Hoạt động KY (Hoạt động dự báo nguy hiểm),KY လပှု ်ရ ာ်းမှု (အန္ရတ ာယက်ကြုံှိတင ် နမ် ဲ့ န်း် သရှိ ှိ သရ်းလပှု ်ရ ာ်းမှု),,,Kegiatan latihan prediksi bahaya,,,,,,,,,សកម្មភាពKY (សកម្មភាពពាករណ៏ហា នីភយ)័,,,,,,,,,,,,,,8
+危険,Hazard,panganib,,,,危险,,,,อนั ตราย,Nguy hiểm,အန္ရတ ာယ်,,,Bahaya,,,,,,,,,គ្រោះថ្នា ក់,,,,,,,,,,,,,,8
+ぶつかる,Bump into,mabangga,,,,碰撞,,,,ชน,"Va, đụng phải",တကှို မ် ှိသည်,,,Tertabrak,,,,,,,,,ប ោះទង្គិច,,,,,,,,,,,,,,8
+当たる,Hit,tumama,,,,碰、砸,,,,"โดน, กระทบ","Đụng, trúng",ထမှိ ှိသည်,,,Kena,,,,,,,,,្រវូ នឹង្,,,,,,,,,,,,,,8
+下敷きになる,Become trapped under,madaganan,,,,被压在下面,,,,โดนทับ,Bị đè/cán lên,သအာကတ် ငွ ပ် ှိမှိသည်,,,Terlindas,,,,,,,,,កិនសង្ារ់,,,,,,,,,,,,,,8
+打つ,Strike,tamaan,,,,打,,,,"ต,ี ตอก, เคาะ","Đập, nện",ထသု ည၊်ရုှိကသ် ည်,,,Memukul,,,,,,,,,ដំ,,,,,,,,,,,,,,8
+バランスを崩す,Lost one's balance,mawala ang balanse,,,,失去平衡,,,,เสยี การทรงตัว,Mất thăng bằng,ဟန ် ကပ် ကသ် ည်,,,Hilang keseimbangan,,,,,,,,,បារ់បង្់រ លយភាព,,,,,,,,,,,,,,8
+倒れる,Collapse,bumagsak,,,,倒下、晕倒,,,,"ลม้ , ลม้ ป่วย","Đổ, sập, ngã nằm xuống",လက သည်,,,Jatuh,,,,,,,,,ដួលរលំ,,,,,,,,,,,,,,8
+転落,,,,,,,,,,,"(danh từ) Sự rơi, ngã xuống",,,,,,,,,,,,,,,,,,,,,,,,,,,1
+転落する,,,,,,,,,,,"(động từ) Rơi, ngã xuống",,,,,,,,,,,,,,,,,,,,,,,,,,,1
+指差呼称,Pointing and calling,pagturo at pagtawag,,,,手指呼号,,,,การท ามอื ชแี้ ละปากย ้า เพอื่ ความปลอดภัย,Chỉ tay gọi tên,ြှ လကည် ြုံှိ်းထ်းှို ၍နာမညသ် ေါ် စစ်သဆ်းမှု,,,Aba-aba tunjuk pencegahan bahaya,,,,,,,,,ចង្អ ុលគៅគ្ម ោះ,,,,,,,,,,,,,,8
+ヒヤリハット,"""Hiyari-Hatto"" (Near-miss incident)",muntikang aksidente (Hiyari-hatto),,,,险兆,,,,เหตกุ ารณ์เกอื บเกดิ อบุ ัตเิ หตุ,Sự cố (tiềm ẩn nguy cơ nhưng chưa gây ra thiệt hại).,သသ သ လ်းနလ ဲ့ တွ သ် ာွ ်းသသာလပု ်ငန်း် ငွ မ် သတာ်တ ဆခဖစ်မှု,,,Kondisi bahaya/Gerakan bahaya,,,,,,,,,គសទើបរនឹង្មនគ្រោះថ្នា ក់,,,,,,,,,,,,,,8
+原因,Cause,sanhi,,,,原因,,,,สาเหตุ,Nguyên nhân,အသကကာင်း် ရင်း်,,,Faktor/Penyebab,,,,,,,,,ម្ូលគេរ,,,,,,,,,,,,,,8
+対策,Countermeasure,hakbang upang labanan,,,,对策,,,,การรับมอื กบั ปัญหา,"Giải pháp, biện pháp",သဆာငရ် ွကမ် ှု၊စ မ က်,,,Penanganan,,,,,,,,,វធ្លិ នការ,,,,,,,,,,,,,,8
+落下,,,,,,,,,,,(danh từ) Sự rơi xuống,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+落下する,,,,,,,,,,,(động từ) Rơi xuống,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+墜落,,,,,,,,,,,(danh từ) Sự rơi (từ trên cao) xuống,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+墜落する,,,,,,,,,,,(động từ) Rơi (từ trên cao) xuống,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+確認,,,,,,,,,,,"(danh từ) Sự kiểm tra, xác nhận",,,,,,,,,,,,,,,,,,,,,,,,,,,1
+確認する,,,,,,,,,,,"(động từ) Kiểm tra, xác nhận",,,,,,,,,,,,,,,,,,,,,,,,,,,1
+作業着,Work clothes,uniporme sa trabaho,,,,工装,,,,ชดุ ทำ งำน,Trang phục lao động,အလပု ်သမာ်းဝတစ် ု,,,Pakaian kerja,,,,,,,,,សម្លៀកបំពាក់ម្វើការ,,,,,,,,,,,,,,8
+作業服,Work uniform,damit na pantrabaho,,,,工作服,,,,ชดุ ใสป่ ฏบิ ตั งิ ำน,Trang phục lao động,အလပု ်သမာ်းဝတစ် ု,,,Baju kerja,,,,,,,,,សម្លៀកបំពាក់ការងារ,,,,,,,,,,,,,,8
+作業靴,Work shoes,sapatos na pantrabaho,,,,工作鞋,,,,รองเทา้ ปฏบิ ัตงิ าน,Giày lao động,လပု ်ငန်း် ငွ ဖ် ှိနပ်,,,Sepatu kerja,,,,,,,,,ស្សែកម ើងការងារ,,,,,,,,,,,,,,8
+手袋,Gloves,guwantes,,,,手套,,,,ถุงมอื,Găng tay,လကအ် တှိ ်,,,Sarung tangan,,,,,,,,,មរោ្ដៃ,,,,,,,,,,,,,,8
+帽子,Cap,cap,,,,帽子,,,,หมวก,Mũ,ဥ ်းထပု ်,,,Topi,,,,,,,,,្ួក,,,,,,,,,,,,,,8
+保護帽（ヘルメット）,Safety helmet (Helmet),proteksiyong pang-ulo (helmet),,,,安全帽,,,,้ หมวกนิรภยั (หมวกเซฟต)ี,Mũ bảo hộ,ကာကယွ သ် ရ်းဥ ်းထပု ် (Helmet),,,Topi pelindung(Helem),,,,,,,,,្ួកការពារ(្ួកបងាា រ មររោះថ្នា ក់),,,,,,,,,,,,,,8
+保護具,Protective equipment,kagamitang pamproteksyon,,,,防护用具,,,,อปุ กรณ์ป้องกัน,Dụng cụ bảo hộ,လခ ု ြုံ သရ်းပစစည်း်,,,Alat pelindung,,,,,,,,,ឧបករណ៏បងាា រមររោះថ្នា ក់,,,,,,,,,,,,,,8
+あごひも,Chin strap,chin strap,,,,帽带,,,,สายรัดคาง,Quai mũ,သမ်းသငှို ်း် ကကြုံှိ်း,,,Tali dagu,,,,,,,,,ស្សែរកវ៉ាត់ចងាា រ,,,,,,,,,,,,,,8
+ボタン,Button,butones,,,,纽扣,,,,กระดมุ,"Nút, khuy",ကကယသ် ်း (Button),,,Kancing/tombol,,,,,,,,,មេវ,,,,,,,,,,,,,,8
+ポケット,Pocket,bulsa,,,,口袋,,,,กระเป๋า,Túi,အတှိ က် ပ်,,,Kantong,,,,,,,,,មោម ៉ៅ,,,,,,,,,,,,,,8
+保護メガネ,Safety glasses,proteksyong salamin sa mata,,,,防护眼镜,,,,แวน่ ตำป้องกนั,Kính bảo hộ,ကာကယွ သ် ရ်းမ ကမ် န်,,,Kacamata pelindung,,,,,,,,,ស្វនតាការពារ,,,,,,,,,,,,,,8
+マスク,Mask,mask,,,,口罩,,,,"หนา้ กาก, หนา้ กากอนามัย",Khẩu trang,မ ကန္် ာ ဖ ု်း (Mask),,,Masker,,,,,,,,,ម៉ៅ ស់,,,,,,,,,,,,,,8
+耳栓,Earplugs,earplug,,,,耳栓,,,,ทอี่ ดุ หู,Nút tai,နာ်းသပါကအ် ဆှို ဲ့,,,Penyumbat telinga,,,,,,,,,ឆ្ន ុករតមចៀក,,,,,,,,,,,,,,8
+安全靴,Safety shoes,sapatos na pangkaligtasan,,,,安全鞋,,,,รองเทำ้ นิรภยั,Giày bảo hộ,သခ သထာကက် ှို ကာကယွ သ် ညဖ်ဲ့ ှိနပ်,,,Sepatu pengaman,,,,,,,,,ស្សែកម ើងសុវតថភាិ ព,,,,,,,,,,,,,,8
+墜落制止用器具（安全 帯）,Fall protection equipment (Safety belt),sinturong pangkaligtasan,,,,坠落防护装备（安全带）,,,,่ อปุ กรณป์ ้องกนั กำรตกจำกที สงู (สำยรดั ตวั กนั ตก),Dây đai an toàn,ခပြုံတက် မှုမ ကာကယွ သ် ရ်း ပစစည်း် (လခ ု ြုံ ‌သရ်း ါ်းပတက်ကြုံှိ်း),,,Sistem perlindungan bahaya jatuh (Sabuk pengaman),,,,,,,,,ឧបករណ៏សំរាប់បញ្ឈប់ ការធ្លល ក់ចុោះ(ស្សែរកវ៉ាត់ សុវតថភាិ ព),,,,,,,,,,,,,,8
+業務,Work,trabaho,,,,业务、工作,,,,"งาน, ภาระหนา้ ที่",Nghiệp vụ,လပု ်ငန်း်,,,Kerja,,,,,,,,,កិចចការ,,,,,,,,,,,,,,8
+時間厳守,Punctuality,laging nasa oras,,,,严守时间,,,,การตรงตอ่ เวลา,Tuân thủ giờ giấc,အ ှိနက် ှို တတှိ ကှိ က လကှို န် ာခ င်း်,,,Disiplin waktu,,,,,,,,,របកាន់មពលមវលាខាា ប់សជ នួ,,,,,,,,,,,,,,8
+予定,Schedule,iskedyul,,,,计划,,,,ก าหนดการ,Dự định,ကကြုံှိတငစ် စဥ် က်,,,Jadwal,,,,,,,,,គមរមង,,,,,,,,,,,,,,8
+日付,Date,petsa,,,,日期,,,,วันที่,Ngày tháng,ရကစ် ွ,,,"Tanggal, bulan dan tahun",,,,,,,,,កាលបរមិចេទ,,,,,,,,,,,,,,8
+準備,,,,,,,,,,,(danh từ) Sự chuẩn bị,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+準備（する）,Preparation (Prepare),paghahanda / maghanda,,,,准备,,,,(การ)เตรยี ม,(động từ) Chuẩn bị,အသငခ်ဲ့ပင(် သည်),,,Persiapan,,,,,,,,,(ការ)មរតៀ្,,,,,,,,,,,,,,8
+会議,Meeting,pagpupulong,,,,会议,,,,การประชมุ,Cuộc họp,အစည်း် အသဝ်း,,,"Rapat, pertemuan",,,,,,,,,ការរប ុំ,,,,,,,,,,,,,,8
+朝礼,Morning meeting,pagbati sa umaga,,,,晨会、早礼,,,,การประชมุ เชา้ กอ่ นเรมิ่ งาน,Họp đầu giờ sáng,နန က ် င်း် လစူ ုအမ ာစကာ်း‌ သခပာခ င်း်,,,Apel pagi,,,,,,,,,ការរប ុំមពលរពឹក,,,,,,,,,,,,,,8
+報告書,Report,ulat,,,,报告书,,,,หนังสอื รายงาน,Bản báo cáo,အစ ရင ် စ ာ,,,Surat laporan,,,,,,,,,មសចកតរាី យការណ៏,,,,,,,,,,,,,,8
+マニュアル,Manual,manuwal,,,,手册,,,,คมู่ อื,Tài liệu hướng dẫn,လကစ် ွစာသစာင ် (Manual),,,Buku pedoman,,,,,,,,,មសៀវមៅស្ណនំ,,,,,,,,,,,,,,8
+作業手順書,Operating procedures,proseso ng paggawa,,,,作业步骤手册,,,,คมู่ อื ขนั้ ตอนการปฏบิ ัตงิ าน,Bản trình tự thao tác,လပု ်ငန်း် လပု ်သဆာငပ် ု အဆငဆ်ဲ့ ငစ်ဲ့ ာအုပ်,,,Lembaran prosedur kerja.,,,,,,,,,ឯកោរនីតិវ្ិ ីការងារ,,,,,,,,,,,,,,8
+調子,Condition,kalagayan,,,,情况、样子,,,,สภาพการท างานของ รา่ งกายหรอื เครอื่ งจักร,"Tình trạng, tình hình",(က န်း် မာသရ်း)အသခ အသန,,,Kondisi,,,,,,,,,ចលនកន ុងសល នួ,,,,,,,,,,,,,,8
+立入禁止,DO NOT ENTER,Bawal Pumasok,,,,禁止入内,,,,หา้ มเขา้,Cấm vào,မဝငရ်,,,Dilarang masuk,,,,,,,,,ហាមចូល,,,,,,,,,,,,,,8
+禁煙,NO SMOKING,Bawal Manigarilyo,,,,禁止吸烟,,,,หา้ มสบู บหุ รี่,Cấm hút thuốc,သဆ်းလပှိ ်မသသာကရ်,,,Dilarang merokok,,,,,,,,,ហាមជក់បារី,,,,,,,,,,,,,,8
+駐車禁止,NO PARKING,Bawal Pumarada,,,,禁止停车,,,,หา้ มจอดรถ,Cấm đỗ xe,ကာ်းမရပ်ရ,,,Dilarang parkir,,,,,,,,,ហាមចត,,,,,,,,,,,,,,8
+足もと注意,WATCH YOUR STEP,Ingatan ang Hakbang!,,,,注意脚下,,,,ระวงั สะดดุ,Chú ý dưới chân,သခ သထာကအ် န်း တဝှိုက် သတခှိပြုံ,,,Awas langkah kaki,,,,,,,,,ប្បយ័តនប ៉ះភជើង,,,,,,,,,,,,,,8
+開口部注意,DANGER OPEN HOLE,Mapanganib: May Butas sa Sahig,,,,当心开口处,,,,ระวงั ชอ่ งเปิด,Chú ý lỗ mở,အသပါကရ် ှိ သညသ် တခှိပြုံ,,,Awas ada lubang,,,,,,,,,ប្បយ័តនផ្ននកភបើកចំហ,,,,,,,,,,,,,,8
+感電注意,DANGER ELECTRIC SHOCK RISK,Mapanganib: May Kuryente,,,,当心触电,,,,ระวงั อันตรายจากไฟฟ้า ช็อต,Chú ý điện giật,ဓာတလ် ကှို တ် တသ် ည် သတခှိပြုံ,,,Awas bahaya sengatan listrik,,,,,,,,,ប្បយ័តនឆក់,,,,,,,,,,,,,,8
+堕落注意,DANGER FALL HAZARD(cid:9),Mapanganib: May Maaaring Bumagsak,,,,当心坠落,,,,ระวงั ตกจากทสี่ งู,Chú ý rơi ngã,ခပြုံတက် တတသ် ည် သတခှိပြုံ,,,Awas jatuh terpeleset,,,,,,,,,ប្បយ័តនធ្លល ក់,,,,,,,,,,,,,,8
+頭上注意,WATCH YOUR HEAD,Ingatan ang Ulo!,,,,当心头顶,,,,ระวงั ศรี ษะ,Chú ý trên đầu,သ ါင်း် အသပေါ်သတထှိ ာ်းပါ,,,Awas bagian atas kepala,,,,,,,,,ប្បយ័តនភលើកាល,,,,,,,,,,,,,,8
+警報設備,ALARM SYSTEM,Sistemang Pang-alarma,,,,警报设备,,,,อปุ กรณ์สญั ญาณเตอื นภัย ป่มุ ขอความชว่ ยเหลอื,Thiết bị báo động,သတသှိ ပ်းသ ါင်း် သလာင်း် သနရာ,,,Peralatan Tanda Bahaya （Alarm）,,,,,,,,,កផ្លលងចុចប្បកាសអាសលន,,,,,,,,,,,,,,8
+AED設置場所,AED INSIDE,May Nakahandang AED,,,,AED（自动体外除颤器） 设置点,,,,จดุ ตดิ ตัง้ เครอิ่ งกระตกุ หวั ใจอัตโนมัติ,Nơi đặt máy AED,န္လ ်း ု န္်းှိှု စကထ် ာ်းသညသ်ဲ့ နရာ,,,Tempat Instalasi peralatan AED,,,,,,,,,ទីតងំ បំពាកA់ ED,,,,,,,,,,,,,,8
+保護帽着用,WEAR SAFETY HELMET,Magsuot ng Helmet,,,,必须带安全帽,,,,สวมหมวกนริ ภัย,Đội mũ bảo hộ,ကာကယွ သ် ရ်းဥ ်းထပု ် သဆာင်း် ပါ,,,Gunakan topi pelindung,,,,,,,,,ពាក់មួកការពារ(មួក បង្កា រភប្រ៉ះថ្នន ក់),,,,,,,,,,,,,,8
+安全帯使用,WEAR SAFETY HARNESS,Magsuot ng Sinturong Pangkaligtasan,,,,必须系安全带,,,,สวมสายรัดตัวนริ ภัยกันตก,Sử dụng dây đai an toàn,လခ ု ြုံ ‌သရ်း ါ်းပတက်ကြုံှိ်းသ်း ု ပါ,,,Gunakan Sabuk Pengaman,,,,,,,,,ភប្បើផ្សែប្កវ៉ាត់សុវតថិភាព,,,,,,,,,,,,,,8
+昇降階段,STAIRWAY,Hagdanan na Pang- Scaffolding,,,,上下楼梯,,,,บันไดขนึ้ ลง,Cầu thang bộ,ခငမ််းအတငွ ်း် ရှိ သလက ာ်း,,,Tangga naik turun,,,,,,,,,ជភ្តើរភ ើងចុ៉ះ,,,,,,,,,,,,,,8
+休憩所,BREAK AREA,Pahingahan,,,,休息区,,,,หอ้ งนั่งพัก,Khu vực nghỉ ngơi,နာ်းသနရနသ် နရာ,,,Tempat istirahat,,,,,,,,,កផ្លលងសប្ាក,,,,,,,,,,,,,,8
+最大積載荷重,MAXIMUM LOAD CAPACITY,Maximum na kapasidad sa pag-load,,,,最大载荷,,,,รับน ้าหนักไดส้ งู สดุ,Tải trọng tối đa,အမ ာ်းဆ်း ု တငန္် ငှို သ် ည ်ဲ့ ကနု အ် သလ်း ှိန်,,,Kapasitas berat beban maksimum,,,,,,,,,សមតថភាពនទកុ អតិបរា,,,,,,,,,,,,,,8
+喫煙所,SMOKING AREA,Lugar para sa Paninigarilyo,,,,吸烟处,,,,ทพี่ ักสบู บหุ รี่,Khu vực hút thuốc,သဆ်းလပှိ ်သသာကရ် နသ် နရာ,,,Dilarang merokok,,,,,,,,,កផ្លលងជក់បារី,,,,,,,,,,,,,,8
+整理整頓,KEEP IN ORDER,Panatilihing Maayos,,,,整理整顿,,,,"สะสาง สะดวก, ซอ้ นใหถ้ กู ตอ้ งสะดวกใช้ ปลอดภัย",Sắp xếp chỉnh đốn,သနရ် ဲ့ င်း် သပ်ရပ်သနသအာင် အစ အစဥ်တက လပု ်ပါ,,,Rapikan dengan teratur,,,,,,,,,ភរៀបចំ សណ្តត ប់ធ្លន ប់,,,,,,,,,,,,,,8
+安全通路,SAFETY PASSAGE,Ligtas na Daanan / Safety Passage,,,,安全通道,,,,ทางเดนิ ปลอดภัย,Lối đi an toàn,အန္ရတ ာယက် င်း် သည်ဲ့ သလျှာကလ် မ််းသကကာင်း်,,,Jalur aman,,,,,,,,,នល វូ សុវតថិភាព,,,,,,,,,,,,,,8
+三連クランプ,Triple clamp,triple clamp,,,,三连夹板、三连杆夹钳,,,,"ชุดข้อสือ 3 ห่วงติดกัน, ชุดแคลมป์ข้อเสือ 3 ห่วงติดกัน",Kẹp ba,ြှ ၃ ဆု ကည် ပ်,,,Klam tripel.,,,,,,,,,ដង(cid:544)៣(cid:814)(cid:671)(cid:572)ំ ប់(cid:545)(cid:645),,,,,,,,,,,,,,8
+ベルトコンベア （ベルコン）,Conveyor belt,belt conveyor,,,,传送带,,,,สายพานลําเลียง,Băng tải (gọi tắt là Berukon),သရွွဲ့လ ာ်းစက ် ါ်းပတ် (Belt conveyor),,,Konveyor sabuk (Ban berjalan),,,,,,,,,ែខ(cid:717)បន(cid:635)ះយន(cid:625),,,,,,,,,,,,,,8
+かけや,Wooden mallet,maso,,,,大木锤,,,,"ค้อนไม้ขนาดใหญ, ่ ตะลุมพุก",Búa,သစ်သာ်းတအူ ကက်း စာ်း,,,Palu kayu berat,,,,,,,,,ញញ(cid:819)រេឈ(cid:822),,,,,,,,,,,,,,8
+ランマ,Rammer,pambayo,,,,夯土机、夯锤,,,,"เครื(cid:1143)องกระทุ้ง,ด ิน เครื(cid:1143)องตบดิน",Máy đầm rung,သခမဖှိစက ် (Rammer),,,Stamper kuda,,,,,,,,,(cid:676)៉សុីនប(cid:559)(cid:726)ប់ដី,,,,,,,,,,,,,,8
+自在クランプ,Swivel clamp,movable clamp,,,,自由夹具,,,,ข้อเสือเป็น (ข้อเสือที(cid:1143) สามารถหมุนไปมาได)้,"Kẹp xoay, khóa xoay",ြှ လည ၍်ဲ့ ရသသာ ညပ် (Adjustable/Movable clamp),,,Klam universal,,,,,,,,,ដង(cid:544)(cid:814)ំេសរ(cid:801),,,,,,,,,,,,,,8
+キャッチクランプ,Catch clamp,catch clamp,,,,夹具,,,,"ชุดบีมแคลมป์กับข้อ เสือ, ชุดข้อเสือกับยูแค ลมป์ (ชุดแคลมป์ที(cid:1143)มี แคลมป์ยึดบีมและข้อ เสืออยู่คู่กัน)","Kẹp, khóa",ြှ ဖမ််းညပ်ကရှိ ှိယာ (Catch clamp),,,Jepitan pancingan,,,,,,,,,ដង(cid:544)(cid:814)ំ(cid:564)ប់,,,,,,,,,,,,,,8
+吊り上げ用クランプ,Lifting clamp,clamp para sa pagbuhat,,,,夹钳吊具,,,,"แคลมป์ยกเหล็ก, แค ลมป์ยก, แคลมป์จับยก เหล็ก",Kẹp nâng Renfroe,ြှ မ ရာတငွ သ် ်း ု သသာ ညပ်,,,Lifting klam,,,,,,,,,ដង(cid:544)(cid:814)ំស(cid:688)(cid:676)ប់ស(cid:636) (cid:817)ចេ,,,,,,,,,,,,,,8
+直交クランプ,Fixed clamp,right angle clamp,,,,直角交结用夹钳,,,,ข้อเสือตั(cid:1144)งฉาก,"Kẹp cố định, khóa cố đ ịnh",ရုှိကသ် ထာငမ်ဲ့ နက် သသာ ြှ ညပ် (Orthogonal clamp),,,Jepitan,,,,,,,,,ដង(cid:544)(cid:814)ំ(cid:598)ក់(cid:688)តង់,,,,,,,,,,,,,,8
+フック,Hook,kawit / hook,,,,钩、钩子,,,,"ตะขอยก, ตะขอ",Móc,ှိတသ် ကာက်,,,Kait,,,,,,,,,ទំពក់,,,,,,,,,,,,,,8
+ストレートシャックル,Straight shackle,straight shackle,,,,直形钩环,,,,สเก็นตัวย ู(อุปกรณ์ ห่วงโลหะที(cid:1143)ใช้สําหรับ คล้องยึดเข้ากับ อุปกรณ์ต่างๆ),Móc thẳng (hình chữ U),အသခဖာင ်ဲ့ တက် ငွ ်း် (Straight shackle),,,Mata-rantai lurus,,,,,,,,,តួ(cid:676)៉សុីន(cid:719)(cid:698)ន(cid:690)ង(cid:688)តង់,,,,,,,,,,,,,,8
+滑車,Pulley,kalo / pulley,,,,滑车、滑轮,,,,รอก,"Ròng rọc, Puli",စကသ် ်း,,,Katrol/Puli,,,,,,,,,ឧបករណ៏រ(cid:843)ក,,,,,,,,,,,,,,8
+クレーン,Crane,crane,,,,吊车,,,,"ปั(cid:1144)นจ, ั(cid:1143)เคนรน","Cần cẩu, cần trục",ဝန ် စက ် (ကရှိန်း် ),,,Kren,,,,,,,,,(cid:676)៉សុីនស(cid:636) (cid:817)ច,,,,,,,,,,,,,,8
+移動式クレーン,Mobile crane,mobile crane,,,,移动式吊车,,,,ปั(cid:1144)นจั(cid:1143)นชนิดเคลือนท,Xe cẩu tự hành,သရွွဲ့လ ာ်းန္ငှို သ် ညက်ဲ့ ရှိန်း်,,,Kren jalan,,,,,,,,,(cid:676)៉សុីនស(cid:636) (cid:817)ចចល័ត,,,,,,,,,,,,,,8
+介しゃくロープ,Guide rope,guy rope,,,,补助绳,,,,เชือกพยุงกันส่าย (เชือกที(cid:1143)ห้อยอยู่กับ ของที(cid:1143)ยกด้วยปั(cid:1144))นจั,"Cáp đuôi, cáp kéo lùi",ကရှိန်း် ခဖငပ်ဲ့ စစည်း် ခပန ် ှိန် တငွ ဆ် ယွ ရူ နက်ကြုံှိ်း,,,Tali teraju,,,,,,,,,ែខ(cid:717)ពួរជំនួយ,,,,,,,,,,,,,,8
+筋かい止めピン,Cross bracing pin,strut end pin,,,,交叉杆固定销,,,,"เดือยล็อคกากบาท, สลักล็อคกากบาท, เดือยล็อคท่อคํ(cid:1144)ายัน นั(cid:1143)งร้าน",Chốt khóa thanh giằng chéo,တသစာင်း် အာ်းခဖညထ်ဲ့ ည်ဲ့ သငွ ်း် ထာ်းသသာသစ်သာ်း တန်း် အာ်း ကတု ထ် ာ်းသည ်ဲ့ တယွ ဆ် က ် ပငင် တု ်,,,Tap ikatan diagonal,,,,,,,,,(cid:540)(cid:635)ស់(cid:671)(cid:572) ប់ឧបករណ៏ (cid:598)ក់ចេ(cid:647)(cid:693) ះសសរ,,,,,,,,,,,,,,8
+脚柱ジョイント,Leg column joint,stud joint,,,,脚柱接头,,,,ข้อต่อเสานั(cid:1143)งร้าน,Chốt liên kết,သအာကသ် ခ အမ တအ် ဆ က် (Leg column joint),,,Sambungan tiang kaki,,,,,,,,,តំណេជ(cid:822)ង,,,,,,,,,,,,,,8
+連結ピン,Coupling pin,connecting pin,,,,连接销钉,,,,ข้อต่อ,Chốt nối,တယွ ဆ် ကပ် ငင် တု ် (Connecting pin),,,Pena hubung,,,,,,,,,(cid:540)(cid:645)ស់ត(cid:671)(cid:572) ប់,,,,,,,,,,,,,,8
+ジョイント金具,Joint fitting,joint metal fitting,,,,连接器、连接零件,,,,อุปกรณ์ข้อต่อ,Khớp kim loại để kết nối ống thép,တယွ ဆ် ကသ် တတ ြုံခပာ်း (Joint metal fittings),,,Alat logam penyambung,,,,,,,,,ែដកតំណ,,,,,,,,,,,,,,8
+レバーブロック,Lever block,lever block,,,,杠杆式滑车倒链,,,,รอกโยก,"Kích xích căng dây, tă ng đơ xích",လဗ ာ ေသလာက်(စကသ် ်း ) (Lever block),,,Blok tuas,,,,,,,,,ប(cid:694)(cid:814)ក(cid:676)នដង,,,,,,,,,,,,,,8
+電動のこ（丸のこ）,Electric saw (Circular saw),electric circular saw (circular saw),,,,电动锯（圆锯）,,,,เลื(cid:1143)อยไฟฟ (้เาลื(cid:1143)อยวง เดือน),Máy cưa đĩa,လျှပ်စစ်လ (မာရုန္ကှို ဲ့ ှို),,,Gergaji listrik,,,,,,,,,(cid:676)៉សុីនរ(cid:622)រ,,,,,,,,,,,,,,8
+モンキースパナ,Adjustable wrench,monkey spanner,,,,活扳手,,,,ประแจเลื(cid:1143)อน,Mỏ lết có điều chỉnh,ရွ င ် (Monkey spanner),,,Kunci Inggris,,,,,,,,,ឧបករណ៏េ(cid:598)ះប៊ូឡ(cid:813) ង,,,,,,,,,,,,,,8
+親綱支柱,Main rope post,poste ng pangunahing lubid,,,,主绳支柱,,,,เสายึดเชือกป้องกัน การตก (เชือกสําหรับ เกี(cid:1143)ยวตะขอสายรัดตัว กันตก),Cột giăng dây neo,လခ ု ြုံ ‌သရ်း ါ်းပတက်ကြုံှိ်းက ှို ှိ တဆ် သွ ညက်ဲ့ကြုံှိ်းက ှို သထာက ် သ ညတ်ဲ့ ငှို ်,,,Tiang pendukung tali induk,,,,,,,,,(cid:688)បព័ន(cid:640)ែខ(cid:717)សុវត(cid:630)ិ(cid:671)ព,,,,,,,,,,,,,,8
+ブラケット,Bracket,bracket,,,,护在钢桩上的牛脚、隅 撑,,,,นั(cid:1143)งร้านท้าวแขน,"Dầm hẫng, công son, thanh giằng chống giữ tường",အထနှိ ်း် အသထာက်,,,Braket/penopang,,,,,,,,,ែកង(cid:688)ទ,,,,,,,,,,,,,,8
+梯子,Ladder,hagdan,,,,梯子,,,,"บันไดพาด, บันไดพับ",Thang,လပု ်ငန်း် ငွ သ် ်း ု သလက ာ်း,,,Tangga,,,,,,,,,ជេណ(cid:625)(cid:822)រ(cid:598)ក់,,,,,,,,,,,,,,8
+親綱,Main rope,safety line,,,,主绳,,,,เชอื กป้องกันการตก (เชอื กสา หรับเกยี่ วตะขอ สายรัดตัวกันตก),Dây neo,လခ ု ြုံ သရ်း ါ်းပတက်ကြုံှိ်းကှို ှိတဆ် ယွ သူ ညက်ဲ့ကြုံှိ်း,,,Tali induk,,,,,,,,,ខ្សែពួរមេ,,,,,,,,,,,,,,8
+建枠（ビティ）,Standard scaffold frame (Beatty frame),standard scaffold (Beatty),,,,框架,,,,ขาตัง้ นั่งรา้ น,Giàn giáo khung (Beatty),အသငသ်ဲ့ ်း ု ခငမ််းသောင်,,,Rangka sekeliling bangunan,,,,,,,,,គំរបឈ្នន ន់(ប ៊ី្ី),,,,,,,,,,,,,,8
+メッシュシート,Mesh sheet(cid:9),mesh sheet,,,,纱布、苫布,,,,ตาขา่ ยกันฝ่นุ,Lưới bao che,ဆန ် ါကကွ ်(ပှိုကက် ကွ ်) အ င်း် ခပာ်း,,,Jaring pelindung,,,,,,,,,ក្កណាត់សំណាញ់,,,,,,,,,,,,,,8
+防音パネル,Soundproof panel,soundproof panel,,,,隔音板,,,,แผงกันเสยี ง,Tấm cách âm,အသက ာသောငခ်ပာ်း,,,Panel kedap suara,,,,,,,,,ផ្ា ងំ ប់សមេលង,,,,,,,,,,,,,,8
+朝顔材,Protective shelf,protective shelf material,,,,炉腹材料、防护棚,,,,ตาขา่ ยนริ ภัย,"Vách nghiêng dựng tạm để ngừa đồ vật rơi, bắn ra đ ường",ခပြုံတက် လာသညပ်ဲ့ စစည်း် ကှို ဖမ််း သ ပ်းသညအ်ဲ့,,,Jaring pengaman,,,,,,,,,ផ្ា ងំ មក្ៅសក្ម្ខប់ការពារ,,,,,,,,,,,,,,8
+架空線,Overhead power line,overhead wire,,,,架空电线,,,,สายไฟบนเสาไฟฟ้า,Đường dây điện trên cao,ဓာတအ် ာ်းလငှို ်း် ကကြုံှိ်း,,,Kabel udara,,,,,,,,,ខ្សែមលើ,,,,,,,,,,,,,,8
+幅木（仮設足場）,Baseboard (Temporary scaffolding),baseboard (pansamantalang scaffolding),,,,挡板（脚手架）,,,,ขอบกันตกนั่งรา้ น (นั่งรา้ น ชั่วคราว),Tấm chắn chống rơi ngã (Giàn giáo tạm thời),ကကမ််းခပငအ် စွန်း် မ သထာငထ် ာ်းသသာအခပာ်း (ယာယခ ငမ််း),,,Papan kaki,,,,,,,,,កាត របងំ មជើង(កខ្នលង ដ្ឋក់មជើងបមណាត ះោសនន),,,,,,,,,,,,,,8
+単管,Single pipe(cid:9),single pipe,,,,单管,,,,ทอ่ เหล็ก,Ống thép,ပှိုကလ် ်း ု,,,Pipa tabung,,,,,,,,,បំពង់ឯក,,,,,,,,,,,,,,8
+脚立,Stepladder,natitiklop na hagdan,,,,双面梯,,,,"บันไดพาด, บันไดพับ",Thang gấp,သ ါကသ် လက ာ်း,,,Tangga lipat,,,,,,,,,ជមណតើរមកាង,,,,,,,,,,,,,,8
+作業半径,Operating radius,operating radius,,,,工作半径,,,,รัศมกี ารท างาน,Bán kính hoạt động,လပု ်ငန်း် လပှု ်ရ ာ်းသနသည ်ဲ့ အ င်း် ဝက်,,,Radius kerja,,,,,,,,,កាក្ំ បតិបតតិការងារ,,,,,,,,,,,,,,8
+仮ボルト,Temporary bolt,pansamantalang kandado,,,,临时螺栓,,,,น็อตไวช้ ั่วคราว,Bu lông tạm thời,သရ ွဲ့သခပ်းယာယတ ပ်ဆငသ် ညမ်ဲ့ ူလ,,,Baut sementara,,,,,,,,,បូ ុ ងបមណាត ះោសនន,,,,,,,,,,,,,,8
+手直し,Rework(cid:9),pasasaayos,,,,修改,,,,แกไ้ ข,Chỉnh sửa,ြှ ခပနလ် ည ် ှိနည် ခှိ င်း် /ခပငဆ် ငခ် င်း်,,,Perbaikan,,,,,,,,,ខ្កម ើងវញិ,,,,,,,,,,,,,,8
+面一,Flushness,flush,,,,拉平,,,,ท าใหว้ สั ดสุ องชนดิ เรยี บ เสมอกัน,Bề mặt của hai vật liệu phẳng đều nhau,မ ကန္် ာ ခပငန္် စ ် အု ကကာ်းအ လပ်မရှိ ထကှိ ပ်သနခ င်း်,,,Samarata (Flush),,,,,,,,,មោយនផាទងំ ពីរមសមើរន,,,,,,,,,,,,,,8
+点検事項,Inspection list(cid:9),mga bagay na dapat inspeksyunin,,,,检查项目,,,,รายการตรวจเช็ค,Hạng mục kiểm tra,စစ်သဆ်းရမညအ်ဲ့ ကမ် ာ်း,,,Hal-hal yang harus dicek,,,,,,,,,ក្បការក្តួតពិនិតយ,,,,,,,,,,,,,,8
+積載荷重,Loading capacity,loading capacity,,,,装载负荷,,,,น ้าหนักบรรทกุ,Hoạt tải,တငသ် ဆာငန္် ငှို သ် ညက်ဲ့ နု အ် သလ်း ှိန်,,,Beban muat,,,,,,,,,េងន់ចំណុ ះដ្ឋក់,,,,,,,,,,,,,,8
+すき間,Clearance,siwang,,,,间隙、缝隙,,,,ชอ่ งวา่ ง,Khe hở,ကကာ်းလပ်သနသညသ်ဲ့ နရာ,,,Celah,,,,,,,,,ចមន្ទល ះ,,,,,,,,,,,,,,8
+通りを見る,Check correctness,tingnan ang pagkatuwid,,,,看中心点排齐、 对齐通端,,,,"ตรวจยนื ยัน, ตรวจยนื ยันวา่ เป็นแนวตรง",Kiểm tra có thẳng hay khô ng,သခဖာငမ်ဲ့ သခဖာငက်ဲ့ကညသ်ဲ့ ည်,,,Melihat cara,,,,,,,,,ពិនិតយផល វូ ថ្នល់,,,,,,,,,,,,,,8
+組立,Assembly,pagbubuo,,,,组装、搭建,,,,ประกอบ,"Lắp ráp, lắp ghép",သပါင်း် စပ်တညသ် ဆာကခ် င်း် / ဆငခ် င်း်,,,Perakitan,,,,,,,,,តមេលើង,,,,,,,,,,,,,,8
+地組,Basic assembly on the ground,pagbubuo sa lugar ng konstruksyon,,,,预先装配,,,,ประกอบทพี่ นื้,Lắp ráp ở mặt đất,ရှုပ်သထ်းွ သသာအစှိတအ် ပှိုင်း် မ ာ်းကသှို ခမသပေါ်တငွ ယ် ာယ တပ်ဆငခ် င်း်,,,perakitan di permukaan tanah.,,,,,,,,,ការផ្ គំេូលដ្ឋា ន,,,,,,,,,,,,,,8
+天端,Top surface,levee crown,,,,顶端,,,,ระดับบนสดุ,Mặt trên,ကနွ က် ရစ်မ ကန္် ာ ခပငတ် ငွ ် စှိုကထ် ာ်းသသာ သသ ာင်း်,,,Permukaan atas.,,,,,,,,,ខ្ផនកខ្ទងមលើននសំណង់,,,,,,,,,,,,,,8
+玉掛け,Slinging,slinging,,,,挂吊钩,,,,การเกยี่ วเชอื กเขา้ กับและ ถอดเชอื กออกจากตะขอ ปั้นจนั่,Treo tải,ပစစည်း် မ ာ်း သယမ် ှိနတ် ငွ ် ခပြုံတမ် က သစရနက်ကြုံှိ်းခဖင ်ဲ့ ညခ် င်း်,,,Penggantungan,,,,,,,,,ចំណងTamagake,,,,,,,,,,,,,,8
+合図,Signal,hudyat,,,,打信号,,,,การใหส้ ญั ญาน,"Dấu hiệu, tín hiệu",အ ကခ်ပခ င်း်,,,Aba-aba,,,,,,,,,សញ្ញា,,,,,,,,,,,,,,8
+定格荷重,Rated load,rated capacity,,,,额定负载,,,,พกิ ัดน ้าหนัก,Tải trọng quy định,ပ ုသသသတမ် တအ် သလ်း ှိန်,,,Berat beban.,,,,,,,,,េងន់តេខ្ទន ត,,,,,,,,,,,,,,8
+たち,Verticality,vertical,,,,垂直度,,,,แนวตัง้ ของเสา,Độ thẳng đứng,(သခမမ ကန္် ာ ခပငန္် င ်ဲ့) သထာငမ်ဲ့ နက် ခ င်း်,,,Ketegaklurusan,,,,,,,,,បញ្ឈរ,,,,,,,,,,,,,,8
+安全帯,Safety belt,safety belt,,,,安全带,,,,"สายรัดตัวนริ ภัย, ชดุ เซฟตี้ กันตก",Dây đai an toàn,လခ ု ြုံ သရ်း ါ်းပတက်ကြုံှိ်း,,,Sabuk pengaman,,,,,,,,,ផ្ខ្ែម្កវា៉ាត្់សុវត្ថិភាព,,,,,,,,,,,,,,8
+インサート,Threaded insert,insert,,,,插入、插件,,,,"พกุ ฝังคอนกรตี , ปล๊ักฝัง คอนกรตี",Chốt chèn,ကနွ က် ရစ်ထတ ငွ ခ်မြုံပ်ထည်ဲ့ ထာ်းသသာ သထ ည ် အစှိတအ် ပှိုင်း်,,,Penyisipan,,,,,,,,,បញ្ច លូ,,,,,,,,,,,,,,8
+スペーサ,Spacer(cid:9),spacer,,,,隔板,,,,ลกู ปนู,Con kê,ကကာ်း ခ ပာ်း,,,Batang jarak,,,,,,,,,ឧបករណ៏រកាចស្ែ ោះ,,,,,,,,,,,,,,8
+鉄筋,Rebar(cid:9),reinforcing bar,,,,钢筋,,,,"เหล็กเสรมิ , เหล็กเสรมิ แรง",Thanh cốt thép,သတ ငှို ၊်သသ ာင်း်,,,Tulang baja,,,,,,,,,សរសសផ្ ក,,,,,,,,,,,,,,8
+電工ドラム（ドラム）,Retractable extension cord reel (Drum),retractable extension cord (drum),,,,电钻,,,,ลอ้ เก็บสายไฟ (โรล สายไฟ),Rulô cuốn dây điện,ပလတသ် ပါကမ် ာ်းပါသသာ ဓာတက်ကြုံှိ်းရစ်လ်း ု (ဒရမ်),,,Teromol listrik,,,,,,,,,ផ្ខ្ែស្ែើងរំផ្វង( ូ រ៉ារ រ ុ ),,,,,,,,,,,,,,8
+電動丸のこ（電のこ）,Electric circular saw (Electric saw)(cid:9),electric circular saw (circular saw),,,,电动圆锯机、电动圆盘 锯,,,,เลอื่ ยวงเดอื นไฟฟ้า (เลอื่ ยไฟฟ้า),Máy cưa đĩa (Dennoko),လျှပ်စစ်လအ ဝှိုင်း်,,,Gergaji listrik,,,,,,,,,រណាម៉ា សុ៊ីន(ស ង ណូ កូ ),,,,,,,,,,,,,,8
+パッキン,Packing(cid:9),gasket,,,,垫圈,,,,วสั ดกุ ันซมึ รอยตอ่,"Gioăng, đệm, khớp nối",အလပ ု ှိတရ် နသ် ်း ု သသာ သရာ်ောကငွ ်း်,,,Packing,,,,,,,,,ថ្នា បំ ិទ ិត្,,,,,,,,,,,,,,8
+小バール,Small crowbar,maliit na crowbar,,,,小铁挺,,,,ชะแลงขนาดเล็ก,"Xà beng, đòn bẩy nhỏ",သေ ာ်းသ ာင်း် အသသ်း,,,Linggis kecil,,,,,,,,,ផ្ ករស់ត្ូច,,,,,,,,,,,,,,8
+大バール,Large crowbar,malaking crowbar,,,,大铁挺,,,,ชะแลงขนาดใหญ่,"Xà beng, đòn bẩy to",သေ ာ်းသ ာင်း် အကက်း,,,Linggis besar,,,,,,,,,ផ្ ករស់ធំ,,,,,,,,,,,,,,8
+化粧合板,Decorative plywood(cid:9),decorative plywood,,,,装饰合板,,,,ไมอ้ ัดเคลอื บ,Ván trang trí,အလဆ င ် အထပ်သာ်းခပာ်း,,,Kayu lapis dekoratif,,,,,,,,,កាា បនទោះត្ុបផ្ត្ង,,,,,,,,,,,,,,8
+普通合板,Regular plywood,normal plywood,,,,普通合板,,,,ไมอ้ ัดธรรมดา,Ván thường,ရုှိ်းရုှိ်းအထပ်သာ်းခပာ်း,,,Kayu lapis,,,,,,,,,កាា បនាោះធរមតា,,,,,,,,,,,,,,8
+スタイロフォーム,Styrofoam,styrofoam,,,,泡沫塑料隔热板,,,,โฟม,Tấm cách nhiệt,သဖာခဲ့ပာ်း (Styrofoam),,,Styrofoam,,,,,,,,,បនទោះសនា,,,,,,,,,,,,,,8
+面木,Chamfer,chamfer strip,,,,三角木条,,,,"สามเหลยี่ มลบมมุ , บัวไม้ สามเหลยี่ ม",Dải vát cạnh,ပ ုစ ကွ သ် ောင၏် သထာငတ်ဲ့ ငွ ထ် ညသ်ဲ့ သာ ြှ သ်း ု သခမာငပ် ုအစှိတအ် ပှိုင်း်,,,Paku atas,,,,,,,,,ស ើបសងាើត្សលទរុខ្សៅម្ ងុ,,,,,,,,,,,,,,8
+バイブレーター,Vibrator(cid:9),vibrator,,,,振动器,,,,เครอื่ งสนั่ คอนกรตี,Đầm dùi bê tông,လျှပ်စစ်တနု ် ါ စကက် ရှိ ှိယာ,,,Vibrator,,,,,,,,,ម៉ា សុ៊ីនរំញ៉ារ័,,,,,,,,,,,,,,8
+剥離剤,Remover,pangtanggal ng pintura,,,,剥离剂,,,,น ้ายาถอดแบบ,"Chất chống dính ván khuô n, chất tách khuôn, chất th áo khuôn",ာွ သဆ်း,,,Bahan pelepasan,,,,,,,,,ថ្នា សំ ំណក,,,,,,,,,,,,,,8
+けこみ板,Riser,riser plate,,,,踏步踢面板,,,,ไมบ้ ันไดลกู ตัง้,Ván đứng (giữa 2 bậc thang),သလက ာ်း စသညတ် ၏ှို ဲ့ သဒါငလ် ကှို အ် ခပာ်း,,,Undakan,,,,,,,,,កាា បញ្ឈរ,,,,,,,,,,,,,,8
+目地棒,Joint bar,joint strip,,,,接缝棒,,,,วสั ดกุ ัน้ ใหเ้กดิ แนวร่อง รอยตอ่,"Thanh tạo rãnh, thanh nối, thanh liên kết",ကနွ က် ရစ်တငွ ် သခမာင်း် သဖာ်ရန ် ထညသ်ဲ့ သာ အသ ာင်း်,,,Sambungan pasang batu,,,,,,,,,ំបូងោក់កាច់ម្ ងុ,,,,,,,,,,,,,,8
+コンクリート,Concrete,kongkreto,,,,混凝土,,,,คอนกรตี,Bê tông,ကနွ က် ရစ်,,,Beton,,,,,,,,,សបត្ុង,,,,,,,,,,,,,,8
+コンベックス,Metal tape measure,medida,,,,钢卷尺,,,,ตลับเมตร,Thước dây,အလ ာ်းတငှို ်း် သည ်ဲ့ သသ ပတအ လပှိ ်,,,Meteran (Convex),,,,,,,,,ឧបករណ៏វាស់ ផ្វង,,,,,,,,,,,,,,8
+作業用手袋,Work gloves,guwantes na pantrabaho,,,,工作手套,,,,ถงุ มอื สา หรับใชป้ ฏบิ ัตงิ าน,Găng tay bảo hộ lao động,လပု ်ငန်း် ငွ သ် ်း ု လကအ် ပှိ ်,,,Sarung tangan kerja,,,,,,,,,សម្នរស ការង្ករ,,,,,,,,,,,,,,8
+差金,L-square ruler,carpenter’s square,,,,角尺,,,,ฉากเหล็ก,"Thước vuông, ê ke (của thợ mộc)",သသ ပတသ ထာငမ်ဲ့ န ် အသကာက်,,,Mistar logam,,,,,,,,,ផ្ កបញ្ច លូ,,,,,,,,,,,,,,8
+水平器,Leveler(cid:9),level gauge,,,,水平仪,,,,"ระดับน ้า, เครอื่ งวดั ระดับ","Thước thủy, thước nivo, ống bọt nước",သရခပငည် တ ငှို ်း် သည ်ဲ့ ကရှိ ှိယာ,,,Alat sipat datar,,,,,,,,,ផ្រ៉ាម្ត្សទង់,,,,,,,,,,,,,,8
+墨さし,Bamboo marking pen,brush na pangmarka na yari sa kawayan,,,,墨壶,,,,ปากกาสา หรับใชต้ เี สน้,Cọ châm mực làm dấu,သစ်သာ်းတငွ ် အမ တအ် သာ်း သရ်းခ စ်ရန် သ်း ု သသာ ဝါ်း ျွနခ်ပာ်း,,,Alat pengukur tempat tinta,,,,,,,,,បិចសធវើព៊ីឬសែ៊ី,,,,,,,,,,,,,,8
+墨つぼ,Inkpot,kagamitang pangmarka ng mahaba at tuwid na guhit,,,,墨斗,,,,บักเตา้ ตเี สน้,Lọ mực (của thợ môc),မငအ် နက ် ထညသ်ဲ့ သာ သစ်သာ်းအု်းှိ,,,Tempat tinta,,,,,,,,,ប្ទ ត្់ ផ្ខ្ែ,,,,,,,,,,,,,,8
+丸セパレーター（丸セパ）,,,,,,,,,,,Thiết bị phân ly,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+天端釘,Leveling pin,levee crown nail,,,,顶端钉子,,,,หมดุ ชว่ ยในการปรับระดับ สนั คอนกรตี ฐานราก,Đinh đóng mặt trên,ကနွ က် ရစ်မ ကန္် ာ ခပငတ် ငွ ် စှိုကထ် ာ်းသသာ သသ ာင်း်,,,Bilah yang dipasang pada sudut acuan,,,,,,,,,បែកសោលបនែកខាងសលើនៃ េំណង់,,,,,,,,,,,,,,8
+けれん,,,,,,,,,,,"Làm sạch, phẳng, nhẵn bề mặt, Chà nhám",,,,,,,,,,,,,,,,,,,,,,,,,,,1
+型枠支保工,Form timbering,form timbering,,,,模板支架,,,,ค ้ายัน,Hệ chống đỡ ván khuôn,ကနွ က် ရစ်သလာင်း် ှိနတ် ငွ ် ပ ုစ ကွ သ် ောငက် ှို သထာကက် နသ် ည ်ဲ့ လပု ်ငန်း်,,,Penahan acuan,,,,,,,,,េ ៉ុមេរមប់ចាក់សបត៉ុង,,,,,,,,,,,,,,8
+基礎型枠（メタルフォー ム）,,,,,,,,,,,Ván khuôn móng (Ván khu ôn kim loại),,,,,,,,,,,,,,,,,,,,,,,,,,,1
+釘仕舞い,Clearing away,pag-alis sa pako mula sa form / nail remover,,,,收拾钉子,,,,ถอนตะปอู อกและจัดเก็บ หลังจบงาน,Nhổ đinh khỏi gỗ phế liệu,ရုှိကထ် ာ်းသသာ သသ ာင်း် မ ာ်းက ှို ခပနန္် တှု သ် မှိ ််းဆည်း် ခ င်း်,,,Marking/Penandaan,,,,,,,,,េំរលួ បែកសោល,,,,,,,,,,,,,,8
+スラブ天端,Slab upper surface,dulong itaas na bahagi ng losa (slab),,,,板顶端、板顶,,,,ระดับบนสดุ ของพนื้,Mặt trên bê tông,ကကမ််းခပငခ်ပာ်း,,,Puncak plat (Lantai),,,,,,,,,រកឡាបនែកខាងសលើនៃេំណង់,,,,,,,,,,,,,,8
+高さ（タッパ）,Height (Tappa),taas,,,,高度,,,,ความสงู (สว่ นสงู ),Độ cao (còn gọi là Tappa),အခမင်ဲ့,,,Tinggi (Tinggi dalam istilah pembangunan),,,,,,,,,កំពេ់,,,,,,,,,,,,,,8
+建込み,Installation,pagposisyon nang patayo / vertical position,,,,搭建,,,,ประกอบวสั ดกุ อ่ สรา้ งใน แนวตัง้ ทตี่ าแหน่งตามที่ ก าหนดในแบบ,Lắp đặt theo chiều dọc,သဒါငလ် ကှို ် တပ်ဆငခ် င်း်,,,Membangun kerangka,,,,,,,,,សលើកយួរសហ្ើយោក់,,,,,,,,,,,,,,8
+通り,Correcting / improving,pagkatuwid,,,,通端,,,,เป็นแนวเสน้ ตรง,"Thẳng, Ngay ngắn",ခပနခ်ပငခ် င်း်,,,Cara,,,,,,,,,នល វូ លំ,,,,,,,,,,,,,,8
+蹴上げ,Riser,riser,,,,踏级高度,,,,ความสงู ของขัน้ บันได,Chiều cao một bậc thang,သလက ာ်းတစ်ဆင၏်ဲ့ အခမင်ဲ့,,,Tinggi busur,,,,,,,,,កំពេ់ជំហាៃកាជំ សណាើរ,,,,,,,,,,,,,,8
+蹴込み,Nosing,footboard,,,,踏级垂直挡板,,,,สว่ นทขี่ ัน้ บันไดเหลอื่ มกัน,Phần lõm vào theo chiều ngang của bậc thang trên v à bậc thang dưới,သလက ာ်း၏ သခ နင်း် အက ယ်,,,Undakan,,,,,,,,,បនែកខាងកន គងសៅកាំជសណាើរ,,,,,,,,,,,,,,8
+工具の手入れ,Tool maintenance,paglilinis at pangangalaga sa mga kagamitan / tool care & maintenance,,,,维护工具,,,,ดแู ลรักษาเครอื่ งมอื,Bảo dưỡng dụng cụ,ကရှိ ှိယာမ ာ်းက ှို ခပြုံခပငထ် နှိ ်း် သမှိ ််းခ င်း်,,,Perawatan alat perkakas,,,,,,,,,សរៀបេំោតឧបករណ៏,,,,,,,,,,,,,,8
+下げ振り,Plumb bob,plumb,,,,垂标坠,,,,สายดงิ่,"Quả dọi, dây dọi",ှိနသ် ်း,,,Pemberat,,,,,,,,,ឧបករណ៏វាេ់បញ្ឈររតង់,,,,,,,,,,,,,,8
+地墨,Marking,marka para sa partisyon,,,,墨,,,,ท าเครอื่ งหมายเพอื่ ก าหนดต าแหน่งกอ่ สรา้ ง บนพนื้ ฐานราก,Đánh đấu,ကကမ််းခပင ် စသညတ် တှို ဲ့ ငွ ် ခ စ်မ တထ် ာ်းသသာ မင်,,,Tinta,,,,,,,,,សាែ មេញ្ជា កំណត់រីតាងំ,,,,,,,,,,,,,,8
+捨てコンクリート,Leveling concrete,leveling concrete,,,,混凝土制模板,,,,"การเทลนี , การเทคอนกรตี เพอื่ ปรับผวิ หนา้ ดนิ",Bê tông lớp tạo phẳng,သခမသာ်းသပေါ်တငွ သ် ရ ်းဥ ်းစွာ သလာင်း် သသာ ကနွ က် ရစ်အလာ,,,Bagian lantai beton,,,,,,,,,ចាក់សបត៉ុងសេាើង(សបត៉ុង សចាល),,,,,,,,,,,,,,8
+はね出し,Overhanging,nakakausli,,,,踏板等成悬臂部位,,,,สว่ นทยี่ นื่ ออกมา,Nhô ra,ကျွ ထကွ သ် နခ င်း်,,,Trap,,,,,,,,,ការសចញកាា ពបី សគោ ល,,,,,,,,,,,,,,8
+はらみ,Swell,umbok,,,,包藏、凸起、弯曲,,,,เบง่ บวม,Phình,သဖာင်း် ကကခ င်း်,,,Tonjolan,,,,,,,,,ភ្ជពសប៉ា ងច៉ុោះ,,,,,,,,,,,,,,8
+前面,Front,front face,,,,前面、正面,,,,ดา้ นหนา้,Mặt trước,သရ ွဲ့မ ကန္် ာ ခပင်,,,Muka depan,,,,,,,,,ននៃខាងម៉ុខ,,,,,,,,,,,,,,8
+養生,Curing,curing,,,,保养、固化,,,,บม่,Dưỡng hộ,ပပ ်းသာွ ်းသသာအပှိုင်း် မ ာ်းကှို ထ ှိ ကှို မ် ှုမရှိ သစရန ် ထနှိ ်း် သမှိ ််းခ င်း်,,,Pemantangan beton,,,,,,,,,រ៉ុុំព័រធ,,,,,,,,,,,,,,8
+レベル,Level,level,,,,水平,,,,"ระดับ, เครอื่ งวดั ระนาบ",Độ cân bằng,အနမှိ ်ဲ့အခမင၊်ဲ့ သရခပငည်,,,Permukaan,,,,,,,,,កំពេ់,,,,,,,,,,,,,,8
+割付,Allocation,layout,,,,分配、分割,,,,การแบง่ พนื้ ทบี่ นแบบ แปลนเพอื่ ก าหนดจดุ ตดิ ตัง้ อยา่ งถกู ตอ้ ง,"Sự phân bổ, bố trí đều",သွ ဝသတမ် တခ် င်း်,,,Penempatan,,,,,,,,,បបងបចក,,,,,,,,,,,,,,8
+埋め込み金物,Metal insert,nakabaong metal,,,,预埋五金,,,,อปุ กรณ์โลหะแบบฝังอยู่ ในคอนกรตี เพอื่ เป็น รากฐานของตัวยดึ สา หรับ ตดิ ตัง้ อปุ กรณ์ตา่ งๆ,Kim loại đặt trong bê tông,ြှ ခမြုံပ်ထာ်းသသာ သထ ညပ် စစည်း်,,,Logam benaman,,,,,,,,,ឧបករណ៏ បែកបងោប់,,,,,,,,,,,,,,8
+解体する（バラス）,Demolish (Barasu),pagkalas (disassemble) / ikalas,,,,解体,,,,รอื้ ถอน (ถอดเป็นชนิ้ ๆ),(danh từ) Sự tháo dỡ,ပဖှိြုံဖ ကသ် ည်,,,Membongkar (Mencabut),,,,,,,,,ការបំ បបក,,,,,,,,,,,,,,8
+かぶり寸法,Concrete cover thickness,covering dimension,,,,涂面白变尺寸、保护层 尺寸,,,,"ระยะคอนกรตี หมุ้ ผวิ เหล็ก, ระยะหมุ้ ของคอนกรตี",Độ dày lớp bê tông bảo vệ cốt thép,သသ ာင်း် ကအှို ုပ်သည ်ဲ့ ကနွ က် ရစ်၏ အထူ,,,Ukuran ketebalan pelapisan,,,,,,,,,ករមេ់រ្ប,,,,,,,,,,,,,,8
+異形棒鋼,Deformed steel bar,deformed steel bar,,,,异形条钢,,,,เหล็กขอ้ ออ้ ย,Cốt thép có gờ (cốt thép gai),ပ ုသဏ္ဍာနမ် တညူ သ ည ်ဲ့ သသ ာင်း် မ ာ်း,,,Besi beton berulir,,,,,,,,,ឧបករណ៏ពង្រឹរបបតុរ របូ រារពិបេេ,,,,,,,,,,,,,,8
+結束線,Binding wire,tie wire / alambreng pang dikitin o pagsamahin,,,,多股胶合线、绑扎丝、 捆结线,,,,ลวดผกู เหล็ก,Dây thép buộc,တ ွ ညသ် ညက်ဲ့ကြုံှိ်း,,,Kawat pengikat,,,,,,,,,ដសែរតឹ ចំណរ,,,,,,,,,,,,,,8
+結束工具,Tying tool,deformed steel bar,,,,捆扎工具,,,,เครอื่ งมอื ทใี่ ชก้ ารผกู เหล็ก,Móc buộc thép,ညသ် န္ာ ငသ် ညက်ဲ့ ရှိ ှိယာ,,,Perkakas pengikat,,,,,,,,,ឧបករណ៏រតឹ ចរ,,,,,,,,,,,,,,8
+鉄筋切断機,Rebar cutter,iron bar cutting machine,,,,钢筋切割机,,,,เครอื่ งตัดเหล็กเสรมิ,Máy cắt thép,သသ ာင်း် ခဖတစ် က်,,,Mesin pemotong tulangan baja,,,,,,,,,ម េុ៊ីនកាត់េរសេដែក,,,,,,,,,,,,,,8
+鉄筋曲げ加工機,Rebar bending machine(cid:9),binding tool,,,,钢筋弯曲加工机,,,,เครอื่ งดัดเหล็กเสรมิ,Máy uốn thép,သသ ာင်း် သက်းွ စက်,,,Mesin pembengkok tulangan baja,,,,,,,,,ម េុ៊ីនពត់េរសេដែក,,,,,,,,,,,,,,8
+アンカー,Anchor,kawit / anchor,,,,锚固,,,,สมอ,Neo,ကနွ က် ရစ်မ အစွန်း် ထကွ သ် သ ာင်း်,,,Angkur,,,,,,,,,ដែកយុថាា,,,,,,,,,,,,,,8
+加工場,Workshop,proteksiyong pang-ulo (helmet),,,,加工场地,,,,โรงแปรรูป,Khu vực gia công,အလပု ်ရု,,,Tempat pemrosesan,,,,,,,,,កដនលរដកសនែ,,,,,,,,,,,,,,8
+スペーサ―,Spacer,angkla,,,,横梁肋支架、 调距模板,,,,ลกู ปนู,Con kê,ကနွ က် ရစ်သလာင်း် ှိန ် သသ ာင်း် မလပှု ်ရနန္် င ်ဲ့ သသ ာင်း် ၏ ကနွ က် ရစ် အတငွ ်း် ရှိ အနကက် ှို ထနှိ ်း် ရန ် သ်း ု သညပ်ဲ့ စစည်း်,,,Spacer,,,,,,,,,ឧបករណ៏រកាចប្ល ះ,,,,,,,,,,,,,,8
+ドーナツ,Donut spacer,processing plant,,,,间隔圈,,,,ลกู ปนู กลม,Con kê hình bánh xe,သသ ာင်း် ၏ ကနွ က် ရစ် အတငွ ်း် ရှိ အနကက် ှို ထနှိ ်း် ရန ် သသ ာင်း် တငွ ် တပ်သည ်ဲ့ ပလပ်စတစ်ခပာ်း,,,Donut,,,,,,,,,ឧបករណ៏រកាចប្ល ះរារ ជាររវរ់(ែូណាត់),,,,,,,,,,,,,,8
+加工配筋図,Bar bending and arrangement schedule,spacer,,,,加工配筋图,,,,แบบการวางและดัดเหล็ก เสรมิ,Bản vẽ bố trí cốt thép gia c ông,သက ကူ နွ က် ရစ် တညသ် ဆာကရ် နပ် ု,,,Gambaran susunan tulangan,,,,,,,,,បលរ់ោក់េសេដែកដកសនែ,,,,,,,,,,,,,,8
+配筋詳細図,Detailed bar arrangement schedule,rebar spacer (donut),,,,配筋详细图,,,,แบบละเอยี ดของการวาง เหล็กเสรมิ,Bản vẽ chi tiết bố trí cốt th ép,သက ကူ နွ က် ရစ် တညသ် ဆာကခ် င်း် အသသ်းစှိတပ် ု,,,Gambar detil susunan tulangan,,,,,,,,,បលរ់លំអិតោក់េរសេដែក,,,,,,,,,,,,,,8
+開口補強筋,Opening reinforcement bar,opening reinforcement,,,,开口加固筋,,,,การเสรมิ เหล็กชอ่ งเปิด,Cốt thép gia cường lỗ mở,အသပါက ် အာ်းကသူ သ ာင်း်,,,Opening reinforcement (penguatan kerangka beton bagian berlubang),,,,,,,,,េរសេដែកពង្រឹរដនែក បបើកចំ រ,,,,,,,,,,,,,,8
+幅止め筋,Spreader bar,spreader bar,,,,宽固定筋,,,,เหล็กเสรมิ ทใี่ สเ่ พมิ่ เมอื่ มี การผกู เหล็กเสรมิ สองชัน้ เพอื่ ยดึ ใหร้ ะยะหา่ งระหวา่ ง เหล็กคงที่,Cốt thép đai ngắn nối hai thanh đối diện bụng dầm đ ể giữ khoảng cách chính x ác giữa 2 thanh,သသ ောင၏် အက ယ ် ပငမှိ ်သစရန ် ကနလ် ဲ့ န ် ဲ့ ထ ာ်းသည ်ဲ့ သသ ာင်း်,,,Tulangan penahan lebar,,,,,,,,,េរសេដែកពង្រឹរ,,,,,,,,,,,,,,8
+差筋,Expansion joint,joint bar,,,,插筋,,,,เหล็กเดอื ย,Cốt thép chờ,(ကနွ က် ရစ်တငွ ်) အစွန်း် ထကွ သ် သ ာင်း် က ှို စှိုကသ် ငွ ်း် ခ င်း်,,,Batang sambungan,,,,,,,,,េរសេដែកចប្ល ះេំណរ់,,,,,,,,,,,,,,8
+柱主筋,Longitudinal bar,column bar,,,,柱主筋,,,,"เหล็กเสรมิ หลักในเสา, เหล็กยนื",Cột chủ cốt thép,သကာ်လတ ငှို ် အဓှိကသတ ငှို ်,,,Tulangan utama kolom,,,,,,,,,េរសេដែកេេរបម្,,,,,,,,,,,,,,8
+柱配筋,Reinforced column,column bar arrangement,,,,柱配筋,,,,การวางเหล็กเสรมิ ในเสา,Cột cốt thép,သကာ်လတ ငှို အ် ာ်း သထာကက် နသ် ပ်းသည ်ဲ့ သသ ာင်း်,,,Susunan tulangan kolom,,,,,,,,,ោក់េរសេដែកកន គរេេរ,,,,,,,,,,,,,,8
+スラブ筋,Reinforced slab,slab reinforcement,,,,板筋,,,,เหล็กเสรมิ ในพนื้,Cốt thép bản mặt,ကကမ််း င်း် အတငွ ်း် ရှိ သသ ာင်း်,,,Penulangan pelat,,,,,,,,,េរសេង្កឡា,,,,,,,,,,,,,,8
+ベース筋,Footing bottom rebar,base reinforcement,,,,基础筋,,,,เหล็กเสรมิ ในฐานราก,"Cốt thép nền, móng",သအာက ် သ သ ာင်း်,,,Tulangan bagian dasar,,,,,,,,,េរសេង្គឹះ,,,,,,,,,,,,,,8
+帯筋（フープ）,Hoop,hoop,,,,柱箍筋,,,,เหล็กปลอกเสา (เหล็ก ปลอกรัดรอบ),Cốt thép đai (dạng vòng tr òn),သကာ်လတ ငှို သ် သ ာင်း် အာ်း ပတထ် ာ်းသညသ်ဲ့ သ ွ,,,Simpul tali,,,,,,,,,េរសេដែកេប់េល់ការ ដបកបបតុរេេរ( វឺប ព)ុ,,,,,,,,,,,,,,8
+下端筋,Lower rebar,bottom reinforcement,,,,下端筋,,,,เหล็กเสรมิ ลา่ ง,Cốt thép bên dưới,ရကမ် ရှိ သသ ၏ွ သအာကေ် ကရ် ှိ သသ ာင်း်,,,Tulangan ujung bawah,,,,,,,,,េរសេខារបង្កាម្ខារចុរ,,,,,,,,,,,,,,8
+上端筋,Upper rebar,top reinforcement,,,,上端筋,,,,เหล็กเสรมิ บน,Cốt thép bên trên,ရကမ် ရှိ သသ ၏ွ အသပေါ်ေကရ် ှိ သသ ာင်း်,,,Penulangan bagian atas,,,,,,,,,េរសេខារចុរខារបលើ,,,,,,,,,,,,,,8
+主筋,Main rebar,main reinforcement,,,,主筋,,,,เหล็กเสรมิ หลัก,Cốt thép chủ,အဓှိကသသ ာင်း်,,,Tulangan utama,,,,,,,,,េរសេបម្,,,,,,,,,,,,,,8
+あばら筋,Stirrup,stirrup reinforcement,,,,梁箍筋,,,,เหล็กปลอกคาน,Cốt thép đai (dạng thanh),ရကမ် စသည ်ဲ့ အလ ာ်းလကှို ် သနရာမ ာ်းတငွ ် သ်း ု သည ်ဲ့ သသ ာင်း် ငယ်,,,Sengkang,,,,,,,,,េរសេដែកលកាណ:នអឹរជំនឺ,,,,,,,,,,,,,,8
+はかま筋,Footing top bar,hakama reinforcement,,,,裤裙筋,,,,เหล็กเสรมิ ครอบเหล็ก เสรมิ ในฐานราก,Cốt thép đặt xung quanh c ác cốt thép khác ở móng đ ể gia cố,သဆ ငရ် ာတငွ ် အသပေါ်ေကခ် မ််းရှိ သသ ာင်း်,,,Tulangan penguat pondasi,,,,,,,,,សរសសដែកលកខណ:កន្រ្តក,,,,,,,,,,,,,,8
+縦筋,Vertical reinforcement(cid:9),vertical reinforcement,,,,竖筋,,,,เหล็กเสรมิ แนวตัง้,Cốt thép dọc,သဒါငလ် ကှို သ် သ ာင်း်,,,Tulangan vertikal,,,,,,,,,សរសសដែកបញ្ឈរ,,,,,,,,,,,,,,8
+下筋,Bottom reinforcement,lower reinforcement,,,,下筋,,,,เหล็กเสรมิ ลา่ ง,Cốt thép dưới,ရကမ် ၏ သအာကပ် ှိုင်း် ရှိ သသ ာင်း်,,,Tulangan bawah,,,,,,,,,សរសសដែកខាងឡន្កាម,,,,,,,,,,,,,,8
+横筋,Horizontal reinforcement,side reinforcement,,,,横筋,,,,เหล็กเสรมิ แนวนอน,Cốt thép ngang,အလ ာ်းလကှို သ် သ ာင်း်,,,Tulangan horizontal,,,,,,,,,សរសសដែកឡផតក,,,,,,,,,,,,,,8
+腹筋,Web bar,midsection reinforcement,,,,腹筋,,,,เหล็กเสรมิ ทเี่ รยี งขนานกับ เหล็กเสรมิ หลัก,Cốt thép cấu tạo bụng dầm,အဓှိကသတ ငှို န္် င အ်ဲ့ ပပှိြုံင ် ထညသ်ဲ့ ငွ ်း် ထာ်းသည ်ဲ့ သသ ာင်း်,,,Tulangan penguat sengkang,,,,,,,,,សរសសដែកដាក់ទទឹង,,,,,,,,,,,,,,8
+配力筋,Distribution bar,distributing bar,,,,受力筋,,,,เหล็กเสรมิ ทตี่ ัง้ ฉากกับ เหล็กเสรมิ หลักทรี่ ับแรง,Cốt thép phân bố,အဓှိကသတ ငှို န္် င ်ဲ့ သထာငမ်ဲ့ နအ် သနအထာ်း တယွ ဆ် ကသ် ည ်ဲ့ သသ ာင်း်,,,Tulangan pembagi,,,,,,,,,សរសសដែកដាក់ឈរន្តង់,,,,,,,,,,,,,,8
+上筋,Top reinforcement,upper reinforcement,,,,上筋,,,,เหล็กเสรมิ บน,Cốt thép trên,ရကမ် ၏ အသပေါ် ပှိုင်း် ရှိ သသ ာင်း်,,,Tulangan atas,,,,,,,,,សរសសដែកខាងឡលើ,,,,,,,,,,,,,,8
+スパイラル筋,Spiral reinforcement,spiral reinforcement,,,,螺纹钢筋,,,,เหล็กปลอกเกลยี ว,Cốt thép xoắn ốc,စပရငက် သ ဲ့ ှို ရဲ့ စ်သ သွ ည ်ဲ့ ပ ုစ ရှိ သသ ာင်း်,,,Tulangan spiral,,,,,,,,,សរសសដែកលកខណ:រងវង់,,,,,,,,,,,,,,8
+鉄筋径,Rebar diameter,reinforcing bar diameter,,,,钢筋直径,,,,เสน้ ผา่ นศนู ยก์ ลางของ เหล็กเสรมิ,Đường kính cốt thép,သသ ောင၏် အ င်း်,,,Diameter tulangan baja,,,,,,,,,វជិ ាមាន្តសរសសដែក,,,,,,,,,,,,,,8
+かぶり厚さ,Cover concrete thickness,covering depth,,,,保护层厚度,,,,"ความหนาของระยะ คอนกรตี หมุ้ ผวิ เหล็ก, ความหนาของระยะหมุ้ ของคอนกรตี",Độ dày lớp bê tông bảo vệ cốt thép,သသ ာင်း် က ှို ဖ ု်းအုပ်ထာ်းသသာ ကနွ က် ရစ်၏ အထူ,,,Ketebalan pelapisan,,,,,,,,,កមាល ស់ន្គប,,,,,,,,,,,,,,8
+角度,Angle,anggulo,,,,角度,,,,มมุ,Độ góc,သထာင်ဲ့,,,Sudut,,,,,,,,,មុុំ,,,,,,,,,,,,,,8
+シングル,Single reinforcement,single,,,,单,,,,เหล็กเสรมิ ชัน้ เดยี ว,"Đơn, một",(သတ ငှို )် တစ်တန်း်,,,Tunggal,,,,,,,,,ឯក,,,,,,,,,,,,,,8
+ダブル,Double reinforcement,doble,,,,双,,,,เหล็กเสรมิ สองชัน้,"Đôi, hai",(သတ ငှို )် န္စ ်တန်း်,,,Ganda,,,,,,,,,ឡទវ,,,,,,,,,,,,,,8
+千鳥結束,Staggered binding,zigzag na tali,,,,交错连结,,,,เหล็กเสรมิ สองชัน้ ผกู สลับ,Kết nối xen kẽ,ကကကသ် ခ တ ် ညသ် န္ာ ငခ် င်း်,,,Pengikatan selang- seling,,,,,,,,,ចុំណងចឡ្ល ោះគ្នា,,,,,,,,,,,,,,8
+切断寸法,Cutting dimensions,sukat ng putol,,,,切割尺寸,,,,ขนาดความยาวของการตัด,Kích thước cắt ngang,ခဖတသ် တာကမ် ည ်ဲ့ အရ ည်,,,Ukuran potongan,,,,,,,,,ទុំហុំ ដផាកកាត់,,,,,,,,,,,,,,8
+加工寸法,Machining dimensions,sukat ng paggawa,,,,加工尺寸,,,,ขนาดการแปรรูป,Kích thước gia công,ခပြုံခပငလ် ပု ်သဆာငမ် ည ်ဲ့ အတငှို ်း် အတာ,,,Ukuran pembuatan,,,,,,,,,ទុំហុំ ដកសនា,,,,,,,,,,,,,,8
+重ね継手,Lap splicing,lap joint,,,,搭接焊接头,,,,การตอ่ ทาบเหล็ก,"Liên kết chồng, mối nối chồng",သသ ာင်း် ၂ သ ာင်း် ၏ အဖ ာ်းက ှို ထပ်၍ ဆကခ် င်း်,,,Sambungan tumpang,,,,,,,,,តុំណជា្់គ្នា,,,,,,,,,,,,,,8
+圧接継手,Stud joint,stud joint,,,,加压焊接接头,,,,การตอ่ เหล็กดว้ ยการเชอื่ ม แกส๊ และแรงดัน,"Liên kết hàn áp lực, mối nối hàn áp lực",ဖှိအာ်းခဖင ်ဲ့ တယွ ဆ် ကခ် င်း်,,,Sambungan las tekan,,,,,,,,,តុំណគ្នប,,,,,,,,,,,,,,8
+開口部,Opening,butas,,,,开口部,,,,ชอ่ งเปิด,"Lỗ mở, lỗ trống",သသ ောငဆ် ငရ် ာတငွ ် အလယ၌် နထ် ာ်း သ ဲ့ ည်ဲ့ အသပါက်,,,Lubang,,,,,,,,,ដផាកឡបើកចុំហរ,,,,,,,,,,,,,,8
+溶接金網,Welded wire mesh,nakawelding na alambreng lambat,,,,焊接钢丝网,,,,ตะแกรงเหล็กเชอื่ ม,Lưới cốt thép sợi hàn,ဂသဟဆကထ် ာ်းသသာ သသ ာင်း် ဆန ် ါကကွ ်,,,Jaring kawat las,,,,,,,,,សុំណាញ់ ដែកផា,,,,,,,,,,,,,,8
+搬出,Carrying out(cid:9),paglabas,,,,搬出,,,,ล าเลยี งออก,Vận chuyển ra,(ပစစည်း် ) ထတု ခ် င်း်,,,Mengeluarkan,,,,,,,,,ការែឹកឡចញ,,,,,,,,,,,,,,8
+搬入,Carrying into,pagdala sa loob,,,,搬入,,,,ล าเลยี งเขา้,Vận chuyển vào,(ပစစည်း် ) သငွ ်း် ခ င်း်,,,Mengangkat ke dalam,,,,,,,,,ការែឹកចូល,,,,,,,,,,,,,,8
+基礎,Foundation,pundasyon,,,,基础,,,,ฐานราก,Móng,သအာကသ် ခ သဖာငသ် ဒ်းရ င်း်,,,Pondasi,,,,,,,,,ន្គឹោះ,,,,,,,,,,,,,,8
+機械式継手,Mechanical coupler,mechanical joint,,,,机械式接头,,,,ขอ้ ตอ่ เหล็กเชงิ กล,"Liên kết cơ khí, mối nối cơ khí",သသ ာင်း် ၂ သ ာင်း် က ှို စကက် သှို ်း ု ၍ ဆကခ် င်း်,,,Penyambungan,,,,,,,,,តុំណឡដាយមា៉ា សុី្,,,,,,,,,,,,,,8
+配筋検査,Bar arrangement inspection,inspeksyon ng bar arrangement,,,,配筋检查,,,,การตรวจสอบการจัดวาง เหล็กเสรมิ,Kiểm tra bố trí cốt thép,သသ ောငဆ် ငပ်ပ ်းသနာက ် စစ်သဆ်းမှု,,,Pemeriksaan susunan tulangan,,,,,,,,,ការន្តួតពិ្ិតយការដាក់ សរសសដែក,,,,,,,,,,,,,,8
+トラクタ,Tractor,tractor,,,,拖拉机、牵引车,,,,รถแทรกเตอร์,Máy kéo,ထနွ စ် က ် (Tractor),,,Traktor,,,,,,,,,ត្រាក់ទរ័,,,,,,,,,,,,,,8
+ブルドーザ,Bulldozer,bulldozer,,,,推土机,,,,รถดันดนิ,Xe ủi,သခမထ်းှို စက ် (ေဒူ ဇှို ာ),,,Bulldozer,,,,,,,,,គត្រេឿងចត្រករុញែី,,,,,,,,,,,,,,8
+トラクタショベル,Tractor shovel,tractor shovel,,,,挖掘机,,,,รถตัก,Máy xúc,ထရကတ် ာသရ ာ်ဗယ ် (Tractor shovel),,,Traktor shovel,,,,,,,,,ត្រាក់ទ័រឈូសែី,,,,,,,,,,,,,,8
+ホイルローダ,Wheel loader,wheel loader,,,,轮式装载机,,,,รถตักลอ้ ยำง,Máy xúc lật bánh lốp,ကာ်းေ်း ခဖငသ်ဲ့ ာွ ်းသသာ ထရကတ် ာသရ ာ်ဗယက် ာ်း,,,Wheel Loader,,,,,,,,,រ ឡូ ូ កិនែី,,,,,,,,,,,,,,8
+ダンプトラック,Dump truck,dump truck,,,,自动装卸卡车,,,,รถบรรทกุ เททำ้ ย,Xe tải tự đổ,သခမသက ာကသ် ယက် ာ်း (Dump truck),,,Truk jungkit,,,,,,,,,ត្រាក់ទ័រែឹកែី,,,,,,,,,,,,,,8
+油圧ショベル,Hydraulic excavator,power shovel,,,,液压挖掘机,,,,รถขดุ ระบบไฮดรอลกิ,Máy đào thủy lực,ဟကှို ဒ် သရာလစ်သရ ာ်ဗယ ် (Hydraulic shovel),,,Eskavator hidrolik,,,,,,,,,គត្រេឿងចត្រកកាយែីអុីត្រែូ លិក,,,,,,,,,,,,,,8
+バックホウ,Backhoe,backhoe,,,,反向铲,,,,รถแบคโฮ,Máy đào,ေကဟ် ်းှို,,,Serok belakang,,,,,,,,,ត្រាក់ទរកា័ យែី(គអសស្កា ),,,,,,,,,,,,,,8
+ローディングショベル,Loading Excavator,loading shovel,,,,装载机铲斗,,,,รถขดุ ขนำดใหญ่,Máy đào gầu thuận,သခမသက ာကတ် ငဖ် ှိုရဲ့ ာတငွ သ် ်း ု သသာ ဟကှို ဒ် သရာလစ် သရ ာ်ဗယ ် (Loading shovel),,,Loading eksakavator,,,,,,,,,គត្រេឿងចត្រកចូកែី,,,,,,,,,,,,,,8
+ローラ,Roller,roller,,,,压路机,,,,รถบดดนิ,Xe lu,တလမှိ ်ဲ့တ်း ု (ရုှိလာ),,,mesin giling,,,,,,,,,រ ឡូ ូ កិន,,,,,,,,,,,,,,8
+バケット,Bucket,bucket,,,,铲斗,,,,บงุ้ ก๋ี,Gầu,သခမသက ာကသ် ယ ် ကွ ် (Bucket),,,bucket/serok,,,,,,,,,ដប៉ាលចូក,,,,,,,,,,,,,,8
+ブーム,Boom,boom,,,,吊杆,,,,บมู,Cần chống,ကရှိန်း် ၊သရ ာ်ဗယက် ာ်း စသညတ် ၏ှို ဲ့ လကတ် အရင်း် ပှိုင်း် (Boom),,,boom/penopang,,,,,,,,,ែងសនទ ចូ,,,,,,,,,,,,,,8
+アーム,Arm,arm,,,,起重臂,,,,อำรม์,Cần ngang,ကရှိန်း် ၊သရ ာ်ဗယက် ာ်း စသညတ် ၏ှို ဲ့ လကတ် အဖ ာ်းပှိုင်း် (Arm),,,lengan,,,,,,,,,ដែគលើក,,,,,,,,,,,,,,8
+ブレード（排土板）,Blade (Soil removal plate),blade,,,,推土机刮板,,,,ใบมดี (ใบดันดนิ ),Lưỡi ủi (còn gọi là Tấm gạt đất),သခမတနွ ်း် သရ ွဲ့သည ်ဲ့ ေလတှိ ခ်ပာ်း,,,blade/sudu,,,,,,,,,ដប៉ាលរុញ(ដប៉ាលរុញែ)ី,,,,,,,,,,,,,,8
+タイヤ,Tire,gulong,,,,轮胎,,,,ยำงรถ,Lốp xe,ေ်း ၊ တာယာ,,,mesin,,,,,,,,,សំបកកង់,,,,,,,,,,,,,,8
+クローラ,Crawler,crawler,,,,履带,,,,ตนี ตะขำบ,Bánh xích,ယာဥ်၏ေ်း မ ာ်းကပှို တ၍် လမှိ ်ဲ့သသာ (သရာ်ော) ှိန်း် ါ်းပတခ်ပာ်း,,,mesin diesel,,,,,,,,,ត្រចវាក់,,,,,,,,,,,,,,8
+キー（鍵）,Key,key (susi),,,,钥匙,,,,คยี ์ (กญุ แจ),Chìa khóa,သသာဲ့,,,minyak enjin,,,,,,,,,គស្ក,,,,,,,,,,,,,,8
+作業装置 （アタッチメント）,Work equipment (Attachment),aparato sa paggawa (attachment),,,,作业装置（附属装置）,,,,สว่ นทที่ ำงำน(อปุ กรณ์),Phụ tùng,လပု ်ငန်း် သ်း ု တပ်ဆငစ် ရာ ကရှိ ှိယာ (Attachment),,,alternator(generator pengisi daya),,,,,,,,,ឧបករណ៏ការងារ (attachment),,,,,,,,,,,,,,8
+エンジン,Engine,engine,,,,发动机,,,,เครอื่ งยนต์,Động cơ,အငဂ် ငစ် က်,,,baterai,,,,,,,,,ម៉ា សុីន,,,,,,,,,,,,,,8
+ディーゼルエンジン,Diesel engine,diesel engine,,,,柴油发动机,,,,เครอื่ งยนตด์ เี ซล,Động cơ Diesel,ဒဇ ယအ် ငဂ် ငစ် က်,,,bahan bakar,,,,,,,,,ម៉ា សុីនគត្របើម៉ា សូ រ,,,,,,,,,,,,,,8
+エンジンオイル,Engine oil,engine oil,,,,机油,,,,น ้ำมันเครอื่ ง,Dầu động cơ,အငဂ် ငဝ် ှိုင၊်အငဂ် ငဆ်,,,minyak diesel,,,,,,,,,គត្របងម៉ា សុីន,,,,,,,,,,,,,,8
+オルタネータ （充電発電機）,Alternator (Rechargeable generator),alternator (charging generator),,,,交流发电机,,,,"อัลเทอรเ์ นเตอร,์ ไดชำรจ์ (เครอื่ งปั่นไฟและสำมำรถ ชำรจ์ ไฟเขำ้ แบตเตอร)ี่",Máy phát điện xoay chiều (Máy sạc và phát điện),ခပနလ် န လ် ျှပ်ထတု စ် က ် (သအာ်လတ် ာသနတာ),,,rem,,,,,,,,,ម៉ា សុីនស្កកថ្ម,,,,,,,,,,,,,,8
+バッテリ,Battery,battery,,,,蓄电池,,,,แบตเตอรี่,Ắc quy,ေကထ် ရ အု်းှိ ၊ဓာတ ်,,,pompa oli hidrolik,,,,,,,,,អាេុយ,,,,,,,,,,,,,,8
+燃料,Fuel,fuel,,,,燃料,,,,เชอื้ เพลงิ,Nhiên liệu,သလာငစ် ာဆ,,,silinder hidrolik,,,,,,,,,គត្របងឥណឌន:,,,,,,,,,,,,,,8
+軽油,Light oil,gas oil,,,,汽油、轻油,,,,น ้ำมันดเี ซล,Dầu nhẹ,ဒဇ ယဆ်,,,motor hidrolik,,,,,,,,,គត្របងត្រស្កល(ម៉ា សូ រ),,,,,,,,,,,,,,8
+ブレーキ,Brake,preno,,,,刹车,,,,เบรค,Phanh,ေရှိတ်,,,peralatan kerja,,,,,,,,,ត្រ្វ ំង,,,,,,,,,,,,,,8
+油圧シリンダ,Hydraulic cylinder,hydraulic cylinder,,,,液压缸,,,,กระบอกสบู ไฮดรอลกิ,Xylanh thủy lực,ဟကှို ဒ် သရာလစ် ဆလငဒ် ါ,,,Silinder hidrolik,,,,,,,,,ស ៊ីឡាំងអ ៊ីដ្រលូ ិក,,,,,,,,,,,,,,8
+油圧モータ,Hydraulic motor,hydraulic motor,,,,液压马达,,,,มอเตอรไ์ ฮดรอลกิ,Mô tơ thủy lực,ဟကှို ဒ် သရာလစ် သမာ်တာ,,,Motor hidrolik,,,,,,,,,ម៉ូ ទ័រអ ៊ីដ្រលូ ិក,,,,,,,,,,,,,,8
+油圧ポンプ,Hydraulic pump,hydraulic pump,,,,液压泵,,,,ป๊ัมไฮดรอลกิ,Bơm thủy lực,ဟကှို ဒ် သရာလစ် ပန် ဲ့,,,Pompa oli hidrolik,,,,,,,,,សនប់ប៉ូមអ ៊ីដ្រលូ ិក,,,,,,,,,,,,,,8
+水漏れ,Water leakage,tagas ng tubig,,,,漏水,,,,น ้ำรั่ว,Rò rỉ nước,သရယစှို ှိမ်ဲ့ခ င်း်,,,Kebocoran air,,,,,,,,,លលចធ្លា យទឹក,,,,,,,,,,,,,,8
+油漏れ,Oil leak,tagas ng langis,,,,漏油,,,,น ้ำมันรั่ว,Rò rỉ dầu,ဆယ စှို ှိမ်ဲ့ခ င်း်,,,Kebocoran minyak,,,,,,,,,លលចធ្លា យលដ្បង,,,,,,,,,,,,,,8
+冷却水,Cooling water,coolant,,,,冷却水,,,,น ้ำหลอ่ เย็น,Nước làm mát,အသအ်း သ ပ်းသညသ်ဲ့ ရ,,,Air pendingin,,,,,,,,,ទឹកដាក់ឱ្យដ្រជាក់ (ម ស ៊ីន),,,,,,,,,,,,,,8
+ブレーキ液,Brake fluid(cid:9),brake fluid,,,,制动液、刹车油,,,,น ้ำมันเบรค,Chất lỏng phanh,ေရှိတအ် ရည်/ေရှိတဆ်,,,Minyak rem,,,,,,,,,លដ្បងដ្្រ ាំង,,,,,,,,,,,,,,8
+燃料タンク,Fuel tank,fuel tank,,,,燃料罐,,,,ถังน ้ำมัน,Thùng nhiên liệu,သလာငစ် ာဆပ ု်း၊ သလာငစ် ာဆက န်,,,Tangki bahan bakar,,,,,,,,,ធ ងឥនធនៈ,,,,,,,,,,,,,,8
+ファンベルト,Fan belt,fan belt,,,,风扇皮带,,,,สำยพำนพัดลมหมอ้ น ้ำ,Dây đai quạt,ပနက် ာကကြုံှိ်း,,,Tali kipas,,,,,,,,,ខ្សែពានកង្ហា រ,,,,,,,,,,,,,,8
+空気圧,Air pressure,presyon ng hangin ng gulong,,,,气压,,,,แรงดันลมยำง,Áp suất khí,(ေ်း ၊ တာယာထရ ှိ ) သလဖှိအာ်း,,,Tekanan udara,,,,,,,,,សមា ធសយល់,,,,,,,,,,,,,,8
+クラッチ,Clutch,clutch,,,,离合器,,,,คลัตช์,Khớp li hợp,(ကာ်း) ကလပ်,,,Alat pembuka kopling,,,,,,,,,អាំដ្ាយ,,,,,,,,,,,,,,8
+急発進,Sudden start,biglaang pag-arangkada,,,,猛启动,,,,เหยยี บคันเรง่ ออกตัวทันที,Tiến đột ngột,ရုတတ် ရကအ် ခမန ် စထကွ ခ် င်း်,,,Gas mendadak,,,,,,,,,ចាប់ល្តើមលលឿន,,,,,,,,,,,,,,8
+急ブレーキ,Sudden braking,biglaang pagpreno,,,,急刹车,,,,กดเบรคใหค้ วำมเร็วลดลง ทันที,Phanh đột ngột,ရုတတ် ရကအ် ခမန ် ေရှိတအ် ုပ်ခ င်း်,,,Rem mendadak,,,,,,,,,ចាប់ដ្្រ ាំងបន្ទា ន់,,,,,,,,,,,,,,8
+アイドリング,Idling,idling,,,,怠速运转,,,,สภำวะของเครอื่ งยนตท์ ี่ หมนุ ดว้ ยอตั รำรอบต ำ่ สดุ เปลำ่ ๆ,"Chạy không tải, chạy cầm chừng",(အငဂ် င်) န္်းှိှု ၍ အလတွ ် လညသ် စခ င်း်,,,Keadaan saat mesin bekerja tetapi kendaraan (mobil) tidak bergerak.,,,,,,,,,បល្ឆេះលចាល,,,,,,,,,,,,,,8
+走行,Running,pagtakbo,,,,行驶,,,,รถแลน่,Chạy,(ကာ်း) သခပ်းခ င်း် /သာွ ်းခ င်း်,,,Berjalan/Melaju,,,,,,,,,លបើកបរ,,,,,,,,,,,,,,8
+旋回,Turning,rebolusyon,,,,旋转、回转,,,,หมนุ,Đi vòng tròn,ဆလ ု ညလ် ည ခ်ဲ့ င်း်,,,Putaran,,,,,,,,,បរ់,,,,,,,,,,,,,,8
+安全ロック,Safety lock,safety lock,,,,安全锁止,,,,เซฟตลี้ ็อค,Khóa an toàn,အန္ရတ ာယက် င်း် သစရန၊် စကအ် စှိတအ် ပှိုင်း် မ ာ်း မသရွွဲ့ရ ာ်းန္ငှို သ် အာင ် ထမှိ ််း ြုံပ်သည ်ဲ့ ကရှိ ှိယာ,,,Alat pelindung bahaya,,,,,,,,,លោស វរថិភាេ,,,,,,,,,,,,,,8
+安全支柱,Safety post,safety post,,,,安全支柱,,,,เสำค ้ำเพอื่ ควำมปลอดภัย,Cột chống an toàn,ခပြုံတက် မညအ်ဲ့ န္ရတ ာယက် ာ ကယွ သ် ရ်း သထာကတ် ငှို ်,,,Safety pillar (Tiang pengaman),,,,,,,,,សសរស វរថិភាេ,,,,,,,,,,,,,,8
+補給（する）,Refueling (Refuel),pagpapa-gasolina / magpa-gasolina,,,,补充、补给,,,,(กำร)เตมิ,(danh từ) Sự bổ sung,ခဖညခ်ဲ့ င်း်,,,Suplai (Mensuplai),,,,,,,,,(ោរ)បខ្នថម,,,,,,,,,,,,,,8
+駐車（する）,Parking (Park),pagparada / iparada,,,,停车,,,,(กำร)จอดรถ,(danh từ) Sự đỗ xe,(ပါကငမ် ာ) ကာ်းရပ်ခ င်း် ၊ ကာ်းထ်းှို ခ င်း်,,,Parkir (Memarkirkan),,,,,,,,,(ោរ)ចររថយនត,,,,,,,,,,,,,,8
+歩行者,Pedestrian,pedestrian,,,,行人,,,,คนเดนิ เทำ้,Người đi bộ,လမ််းသာွ ်းလမ််းလာ,,,Pejalan kaki,,,,,,,,,អនកលថមើរល ើង,,,,,,,,,,,,,,8
+車両,Vehicle,sasakyan,,,,车辆,,,,ยำนพำหนะมลี อ้ ทวี่ งิ่ บนบก,Xe,ေ်း တပ်ယာဥ်,,,Kendaraan,,,,,,,,,រថយនត,,,,,,,,,,,,,,8
+死角,Vehicle blind spot,blind spot,,,,死角,,,,จดุ บอด,Góc chết,(ယာဥ်သမာင်း် ) မ ကက် ယွ ်,,,Titik buta (Posisi tidak terlihat),,,,,,,,,ដ្ ងុ លមើលមិនល ើញ,,,,,,,,,,,,,,8
+斜面,Slope,dalisdis / slope,,,,坡,,,,"ทำงลำด, พนื้ ทลี่ ำดเอยี ง",Dốc,ကနု ်း် သစာင်း် ၊ ဆငသ် ခ သလျှာ,,,Lereng,,,,,,,,,ដ្មល,,,,,,,,,,,,,,8
+転圧（する）,Roller compaction (compact with a roller),surface compaction / isagawa ang surface compaction,,,,碾压,,,,(กำร)บดอดั,(danh từ) Sự đầm nén,သအာကသ် ခ သခမသာ်းမ ာ်းကှို တလမှိ ်ဲ့တ်း ု စသညတ် ခှိုဖဲ့ င ်ဲ့ ဖှိ၍ သပှိ ်သည်း် သစခ င်း်,,,Giling (Menggiling),,,,,,,,,(ោរ)រលមៀល,,,,,,,,,,,,,,8
+接触（する）,Contact (Contact),sagi / masagi,,,,碰撞,,,,การชน (ชน),"(danh từ) Sự va chạm, tiếp xúc",ထ(ှိ သည်),,,Tabrak (Menabrak),,,,,,,,,(ការ)ប ៉ះទង្គិច,,,,,,,,,,,,,,8
+作動（する）,Activation (Activate),pag-andar /umandar,,,,启动、运作,,,,การท างาน (ท างาน),(danh từ) Sự kích hoạt,လပှု ်ရ ာ်းလညပ် တ်(သည်),,,Hidup (Menghidupkan),,,,,,,,,(ការ)ដំដ ើរការ,,,,,,,,,,,,,,8
+整備（する）,Maintenance (Maintain),pag-maintain (maintenance) / i-maintain,,,,维护,,,,การซอ่ มบ ารงุ (ซอ่ มบ ารงุ ),(danh từ) Sự bảo dưỡng,ြှ အဆငခ်ဲ့မငတ်ဲ့ င်(သည်),,,Perbaikan (Memperbaiki),,,,,,,,,(ការ)ដរៀបចំ ថែសំរលួ,,,,,,,,,,,,,,8
+点検（する）,Inspection (Inspect),inspeksyon / inspeksyunin,,,,检查,,,,การตรวจเช็ค (ตรวจเช็ค),(danh từ) Kiểm tra,စစ်သဆ်း(သည်),,,Periksa (Memeriksa),,,,,,,,,(ការ)ត្រួរពិនិរយ,,,,,,,,,,,,,,8
+動かす,Operate,ipaandar,,,,运作、操作,,,,เดนิ เครอื่ ง,Vận hành,သရ ွဲ့သည၊်လပှု ်ရ ာ်းသစသည်,,,Menggerakkan,,,,,,,,,បត រូកថនែង្,,,,,,,,,,,,,,8
+運転（する）,Operation (Operate),pagmamaneho / magmaneho,,,,驾驶、操作,,,,การขับ (ขับ),"(danh từ) Vận hành, lái",သမာင်း် န္င ်(သည်),,,Kemudi (Mengemudi),,,,,,,,,(ការ)ដបើកបរ,,,,,,,,,,,,,,8
+測る,Measure,sukatin,,,,测量,,,,วัด,Đo,တငှို ်း် သည်,,,Mengukur,,,,,,,,,វាស់,,,,,,,,,,,,,,8
+操作（する）,Operation (Operate),operasyon / mag-operate,,,,操作,,,,การควบคมุ การท างาน (ควบคมุ การท างาน),(danh từ) Sự điều khiển,သမာင်း် (သည်),,,Operasi (Mengoperasikan),,,,,,,,,(ការ)ត្បរិបរតិការ,,,,,,,,,,,,,,8
+停止（する）,Suspension (Suspend),pag-tigil / itigil,,,,停止,,,,"การหยดุ (หยดุ ) , การจอด (จอด)","(danh từ) Sự dừng, ngừng",ရပ်(သည်),,,Henti (Menghentikan),,,,,,,,,(ការ)ឈប់,,,,,,,,,,,,,,8
+切る,Turn off / Cut(cid:9),"patayin, putulin",,,,关闭、切割,,,,ตัด,"Tắt, cắt",ခဖတသ် ည၊်ရပ်သစသည်,,,Memotong,,,,,,,,,ការ់ ឬ ​ ពនែរ់,,,,,,,,,,,,,,8
+回す,Turn,paikutin,,,,转,,,,หมนุ,"Quay, xoay",လည ပ်ဲ့ တသ် ည၊်ခဖနသ် ဲ့ ဝသည်,,,Memutar,,,,,,,,,បង្វិល,,,,,,,,,,,,,,8
+押す,Press,pindutin,,,,按,,,,"ผลัก, ดัน","Ấn, bấm",တနွ ်း် သည၊် ( လတု ်)န္ပှိ ်သည်,,,Mendorong,,,,,,,,,រ ញ,,,,,,,,,,,,,,8
+集める,Gather,kolektahin,,,,收集,,,,รวบรวม,"Tập trung, gom",စုစည်း် သည်,,,Mengumpulkan,,,,,,,,,ត្បមូល,,,,,,,,,,,,,,8
+触る,Touch,hawakan,,,,触碰,,,,"แตะตอ้ ง, สมั ผัส","Chạm, sờ",(လကန္် င ်ဲ့)ထသှိ ည၊်ကငှို သ် ည်,,,Menyentuh,,,,,,,,,ស្ទា ប,,,,,,,,,,,,,,8
+縛る,Tie,bigkisin,,,,束缚、捆绑,,,,"มัด, รัด","Bó, buộc",ညသ် န္ာ ငသ် ည်,,,Mengikat,,,,,,,,,ចង្ជាប់,,,,,,,,,,,,,,8
+揃える,Make uniform,tipunin,,,,对齐、使……整齐,,,,"ท ำใหเ้ทำ่ กนั , จัดใหเ้สมอ",Xếp đều,ြှ ညသှိ ည်,,,Menyamaratakan,,,,,,,,,រត្មមឹ,,,,,,,,,,,,,,8
+結ぶ,Tie,itali,,,,捆绑、连接、系,,,,"ผกู , มัด","Nối, buộc",ထ်း ု သည၊် ညသ် ည်,,,Mengikat,,,,,,,,,ចង្,,,,,,,,,,,,,,8
+しゃがむ,Squat,yumukyok / squat,,,,蹲,,,,นั่งยองๆ,Ngồi xổm,သဆာငသ်ဲ့ ကကာငထ်ဲ့ ငှို သ် ည်,,,Berjongkok,,,,,,,,,អង្គ ុយ(ដចាង្ដោង្),,,,,,,,,,,,,,8
+調整（する）,Adjustment (Adjust),pag-adjust / i-adjust,,,,调整,,,,การปรับ (ปรับ),(danh từ) Sự điều chỉnh,ြှ ကကှို ည် ှိ(သည်),,,Penyesuaian (Menyesuaikan),,,,,,,,,(ការ)ថកសំរលួ,,,,,,,,,,,,,,8
+閉じる,Close,pagsara / isara,,,,关、关闭,,,,ปิด,Đóng,ပှိတသ် ည်,,,Menutup,,,,,,,,,បិទ,,,,,,,,,,,,,,8
+取り出す,Take out,ilabas / take out,,,,取出,,,,เอาออก,Lấy ra,ထတု ယ် သူ ည်,,,Mengeluarkan,,,,,,,,,យកចេញ,,,,,,,,,,,,,,8
+戻す,Put back,ibalik,,,,放回,,,,กลับคนื,Để lại chỗ cũ,ခပနထ် ာ်းသည်,,,Mengembalikan,,,,,,,,,ដាក់ចៅវញិ,,,,,,,,,,,,,,8
+仕上げる,Finish,tapusin,,,,做完,,,,ท าใหเ้สร็จ,Hoàn thiện,သနာကဆ် ်း ု ပှိတအ် သ ာသပ်သည်,,,Menyelesaikan,,,,,,,,,ច្វើចោយច ើយ,,,,,,,,,,,,,,8
+折れる,Break,mabali,,,,折断,,,,หัก,Gẫy,က ှိြုံ်းသည်,,,Patah,,,,,,,,,បាក់,,,,,,,,,,,,,,8
+欠ける,Chip,magkulang,,,,欠缺、有缺口,,,,บนิ่,"Mẻ, khuyết, thiếu",ပ ဲ့သည်,,,Sumbing (Patah),,,,,,,,,ដែប,,,,,,,,,,,,,,8
+近づく,Get close,lumapit,,,,靠近,,,,เขา้ ใกล้,Đến gần,အနာ်းကပ်လာသည်,,,Mendekat,,,,,,,,,ចៅជិត,,,,,,,,,,,,,,8
+電源を入れる,Turn on the power,i-on,,,,打开电源,,,,เปิดเครอื่ ง,Bật nguồn điện,လျှပ်စစ် လတု က် ဖှို ွငသ်ဲ့ ည်,,,Menghidupkan listrik,,,,,,,,,ចបើកថាមពលច្ែើង,,,,,,,,,,,,,,8
+電源を落とす,Turn off the power,i-off,,,,关闭电源,,,,ตัดไฟ,Tắt nguồn điện,လျှပ်စစ် လတု က် ပှို ှိတသ် ည်,,,Mematikan listrik,,,,,,,,,បិទថាមពលច្ែើង,,,,,,,,,,,,,,8
+スイッチを切る,Switch off,i-off ang switch,,,,关闭开关,,,,ปิดสวติ ช์,Tắt công tắc,လတု ပ် ှိတသ် ည်,,,Mematikan saklar,,,,,,,,,បិទកុងតាក់,,,,,,,,,,,,,,8
+固定（する）,Fixing (Fix),pirmi / ipirmi,,,,固定,,,,การยดึ ใหค้ งท ี่ (ยดึ ใหค้ งท)ี่,(danh từ) Sự cố định,( ငှို မ် ာသအာင်)တပ်ဆင(် သည်),,,Fiksasi (Menguatkan),,,,,,,,,(ការ)េងភ្ជា ប់,,,,,,,,,,,,,,8
+ゆるめる,Loosen,luwagin,,,,拧松,,,,คลาย,Nới lỏng,(သ ာငလ် ညသ် အာင်) သလျှာသဲ့ ည်,,,Mengendurkan,,,,,,,,,បនធ រូ,,,,,,,,,,,,,,8
+伸ばす,Stretch,pahabain / extend,,,,延展,,,,ยดื,"Cán, kéo dài",ဆဆွ နသ် ဲ့ ည်,,,Memanjangkan,,,,,,,,,ពនល តូ,,,,,,,,,,,,,,8
+外す,Remove,tanggalin,,,,取下,,,,ถอดออก,"Tháo, gỡ ra",ဖယရ် ာ်းသည်,,,Melepas,,,,,,,,,ចដាោះ,,,,,,,,,,,,,,8
+曲げる,Bend,baluktutin,,,,弯曲,,,,งอ,Uốn,သက်းွ သည်,,,Membengkokkan,,,,,,,,,ពត់,,,,,,,,,,,,,,8
+出す,Put out,ilabas,,,,取出、拿出,,,,"ยนื่ , สง่",Lấy ra,(အခပင်)ထတု သ် ည်,,,Mengeluarkan,,,,,,,,,បចចេញ,,,,,,,,,,,,,,8
+乾かす,Dry,patuyuin,,,,干燥,,,,ท าใหแ้ หง้,"Làm khô, sấy khô",အသခ ာက ် သ ည်,,,Mengeringkan,,,,,,,,,សមងតួ,,,,,,,,,,,,,,8
+数える,Count,bilangin,,,,数,,,,นับ,"Chỉ bảo, dạy",သရတကွ သ် ည်,,,Menghitung,,,,,,,,,រាប់,,,,,,,,,,,,,,8
+運ぶ,Carry,dalhin,,,,搬、搬运,,,,ขน,Vận chuyển,သယသ် ဆာငသ် ည်,,,Membawa,,,,,,,,,ចលើក,,,,,,,,,,,,,,8
+積む,Load,itambak,,,,装货,,,,วางซอ้ น,"Xếp, chất",ပ ုသည်,,,Menumpuk,,,,,,,,,លទកុ,,,,,,,,,,,,,,8
+下ろす,Unload,ibaba,,,,卸货,,,,เอาลง,"Dỡ xuống, hạ xuống",သအာက ် သည်,,,Menurunkan,,,,,,,,,ដាក់េុោះ,,,,,,,,,,,,,,8
+離れる,Go away,lumayo,,,,离开,,,,ออกหา่ ง,"Rời xa, tránh",စွန ် ဲ့ ာွ သည၊်သရ ာငတ် မှိ ််းသည်,,,Menjauhi,,,,,,,,,ឃ្លែ តចេញ,,,,,,,,,,,,,,8
+位置,Position,posisyon,,,,位置,,,,ต ำแหน่ง,Vị trí,သနရာ,,,Posisi,,,,,,,,,ទីតាំង,,,,,,,,,,,,,,8
+寸法,Dimensions,dimensyon,,,,尺寸,,,,ขนำด,Kích thước,အတငှို ်း် အထာွ,,,Ukuran,,,,,,,,,ខ្នា ត,,,,,,,,,,,,,,8
+測定（する）,Measurement (Measure),pagsukat / magsukat,,,,测量,,,,การวดั (วดั ),(danh từ) Sự đo đạc,တငှို ်း် တာ(သည)်,,,Pengukuran (Mengukur),,,,,,,,,(ការ)វាស់ វែង,,,,,,,,,,,,,,8
+計測（する）,Measurement (Measure),pagsukat / magsukat,,,,计测,,,,การวดั (วดั ),(danh từ) Sự đo lường,ခ ငတ် ယွ တ် ငှို ်း် တာ(သည)်,,,Takar (Menakar),,,,,,,,,(ការ)វាស់,,,,,,,,,,,,,,8
+計測器,Measuring instrument,instrumentong pangsukat,,,,计测器,,,,"อปุ กรณ์วดั , เกจวดั",Máy đo lường,ခ ငတ် ယွ တ် ငှို ်း် တာသည ်ဲ့ ကရှိ ှိယာ,,,Alat ukur,,,,,,,,,នាឡិកាវាស់សទង់,,,,,,,,,,,,,,8
+温度,Temperature(cid:9),temperatura,,,,温度,,,,อณุ หภมู ิ,Nhiệt độ,အပူ ှိန်,,,Suhu,,,,,,,,,សីតុណ្ហភាព,,,,,,,,,,,,,,8
+高さ,Height,taas,,,,高度,,,,ควำมสงู,Chiều cao,အခမင်ဲ့,,,Ketinggian,,,,,,,,,កាំពស់,,,,,,,,,,,,,,8
+長さ,Length,haba,,,,长度,,,,ควำมยำว,Chiều dài,အရ ည၊်အလ ာ်း,,,Panjang,,,,,,,,,ប្រវែង,,,,,,,,,,,,,,8
+重さ,Weight(cid:9),bigat,,,,重量,,,,น ้ำหนัก,Cân nặng,အသလ်း ှိန်,,,Berat,,,,,,,,,ទម្ងន់,,,,,,,,,,,,,,8
+厚さ,Thickness,kapal,,,,厚度,,,,ควำมหนำ,Chiều dày,အထူ,,,Ketebalan,,,,,,,,,កប្ាស,,,,,,,,,,,,,,8
+硬さ,Hardness,tigas,,,,硬度,,,,ควำมแข็ง,Độ cứng,အမာ,,,Kekerasan,,,,,,,,,ភាពរងឹ,,,,,,,,,,,,,,8
+深さ,Depth,lalim,,,,深度,,,,ควำมลกึ,Độ sâu,အနက်,,,Kedalaman,,,,,,,,,ជម្ប្ៅ,,,,,,,,,,,,,,8
+表面,Surface,ibabaw (surface),,,,表面,,,,พนื้ ผวิ,Bề mặt,မ ကန္် ာ ခပင်,,,Permukaan,,,,,,,,,ផ្ទទខ្នងម្ុខ,,,,,,,,,,,,,,8
+すきま,Clearance,siwang,,,,间隙,,,,ชอ่ งวำ่ งแคบๆ,Khe hở,ကကာ်းလပ်သနသညသ်ဲ့ နရာ,,,Celah,,,,,,,,,ចម្នាល ោះ,,,,,,,,,,,,,,8
+中心,Center,sentro,,,,中心,,,,ศนู ยก์ ลำง,"Trung tâm, chính giữa",ဗဟ ှို က်,,,Pusat/Tengah,,,,,,,,,កណ្តា ល,,,,,,,,,,,,,,8
+値,Value,halaga (numero),,,,值,,,,คำ่,Giá trị,တနဖ် ှို်း,,,Nilai,,,,,,,,,តផ្ម្ល,,,,,,,,,,,,,,8
+安定（する）,Stable (Stabilize),katatagan / itatag,,,,稳定,,,,"ความเสถยี ร (เสถยี ร), ความ มนั่ คง (มนั่ คง)",(danh từ) Sự ổn định,တညပ်ငမှိ ်(သည)်,,,Stabil (Menstabilkan),,,,,,,,,(ការាន)ម្សេរភាព,,,,,,,,,,,,,,8
+大きさ,Size,laki (size),,,,大小,,,,ขนำด,Độ lớn,အရွယအ် စာ်း,,,Besarnya,,,,,,,,,ទាំហាំ,,,,,,,,,,,,,,8
+数,Number(cid:9),bilang,,,,数量,,,,จ ำนวน,Số lượng,အသရအတကွ ်,,,Banyak/Jumlah,,,,,,,,,ចាំនួន,,,,,,,,,,,,,,8
+誤差,Error,pagkakamali (error),,,,误差,,,,ควำมคลำดเคลอื่ น,Sai số,အလ၊ွ အမ ာ်း,,,Selisih,,,,,,,,,ភាពខុសគ្នា,,,,,,,,,,,,,,8
+中,Inside,gitna,,,,里面,,,,ขำ้ งใน,"Trung bình, vừa",အတငွ ်း် ၊အထ,,,Dalam,,,,,,,,,កន ុង,,,,,,,,,,,,,,8
+反対,Opposite,kasalungat,,,,反面,,,,ตรงขำ้ ม,Ngược lại,ဆနက် ဲ့ ငေ် က၊် အခ ာ်းတစ်ဖက၊် မ ကန္် ာ င်း် ဆငှို ်,,,Terbalik/Berlawanan,,,,,,,,,ទទយុ,,,,,,,,,,,,,,8
+周り,Circumference,paligid,,,,周围,,,,รอบ,Xung quanh,အန်း ပတဝ် န်း် က င်,,,Sekitar,,,,,,,,,ជុាំែញិ,,,,,,,,,,,,,,8
+尺,Shaku (unit of length),shaku (unit ng pagsukat),,,,尺,,,,หน่วยควำมยำวของญปี่ ่นุ,Thước,ရ ု (အရ ည၊်အလျှာ်း),,,"30,3 sentimeter",,,,,,,,,ខ្នា ត សាគុ,,,,,,,,,,,,,,8
+青,Blue,asul,,,,蓝,,,,น ้ำเงนิ,Xanh,အခပာသရာင်,,,Biru,,,,,,,,,ម្ខៀែ,,,,,,,,,,,,,,8
+赤,Red,pula,,,,红,,,,แดง,Đỏ,အနသ ရာင်,,,Merah,,,,,,,,,ប្កហម្,,,,,,,,,,,,,,8
+白,White,puti,,,,白,,,,ขำว,Trắng,အခဖြူသရာင်,,,Putih,,,,,,,,,ស,,,,,,,,,,,,,,8
+黄色,Yellow,dilaw,,,,黄色,,,,เหลอื ง,Vàng,အဝါသရာင်,,,Warna kuning,,,,,,,,,ម្លឿង,,,,,,,,,,,,,,8
+掃く,Sweep,magwalis,,,,扫,,,,กวาด,Quét,(တခ မကစ် ည်း် )လည ်း် က င်း် သည်,,,Menyapu,,,,,,,,,រោស,,,,,,,,,,,,,,8
+持ち上げる,Lift up,buhatin,,,,举起来,,,,ยกขนึ้,Nhấc lên,မသည်,,,Mengangkat.,,,,,,,,,រលើករ ើង,,,,,,,,,,,,,,8
+束ねる,Bundle,bigkisan,,,,捆在一起,,,,มัดรวม,"Buộc, bó",စည်း် သည်,,,Bundel,,,,,,,,,ចងោច់,,,,,,,,,,,,,,8
+足をくじく,Sprain a leg,mapilay ang paa,,,,脚扭伤,,,,ขาแพลง,Bong gân chân,သခ ဆစ်သ ါကသ် ည်,,,Keseleo,,,,,,,,,គ្រិចរ ើង,,,,,,,,,,,,,,8
+一輪車,Unicycle,wheelbarrow,,,,单轮车,,,,รถเข็นลอ้ เดยี่ ว,Xe cút kít,ေ်း တစ်ေ်း သာပါသည ်ဲ့ ပစစည်း် သယလ် ည ်း်,,,Kendaraan satu roda,,,,,,,,,រេះកង់មួយ,,,,,,,,,,,,,,8
+支柱,Post,poste,,,,支柱,,,,ไมค้ ้ายัน,Thanh giằng,သထာကတ် ငှို ်,,,tiang pancang/penyanggah,,,,,,,,,សស េប់,,,,,,,,,,,,,,8
+ショベル,Shovel,pala,,,,铲斗、铲子,,,,"เสยี บ, พลั่ว",Cái xẻng,သဂေါ် ခပာ်း၊ငန်း် ခပာ်း,,,"Alat keruk, ekskavator",,,,,,,,,តប ល,,,,,,,,,,,,,,8
+感電（する）,Electric shock (Get an electric shock),pagkakuryente / makuryente,,,,触电,,,,"ไฟฟ้าดดู (ถกู ไฟฟ้าดดู ), ไฟฟ้าช็อต (ถกู ไฟฟ้าช็อต)",,ဓာတလ် ကှို ်(သည်),,,Tersengat listrik,,,,,,,,,(ការ)ឆក់អគ្គីសនី,,,,,,,,,,,,,,7
+防止（する）,Prevention (Prevent),pagpigil / pigilan,,,,防止,,,,การป้องกนั ไมใ่ หเ้กดิ (ป้องกนั ไมใ่ หเ้กดิ ),,တာ်းဆ်း (သည်),,,Mencegah,,,,,,,,,(ការ)ការពារ,,,,,,,,,,,,,,7
+予防（する）,Precaution (Take precautions),pag-iwas / iwasan,,,,预防,,,,การป้องกนั ลว่ งหนา้ (ป้องกนั ลว่ งหนา้ ),,ကကြုံှိတငက် ာကယွ ်(သည်),,,Mencegah,,,,,,,,,(ការ)បង្ហា រ,,,,,,,,,,,,,,7
+転倒（する）,Falling (Fall),pagbagsak / bumagsak,,,,跌倒,,,,"ลม้ (ลม้ ), การหกลม้ (หก ลม้ )",,လက (သည်),,,Jatuh,,,,,,,,,(ការ)ដួល,,,,,,,,,,,,,,7
+不安定（な）,Instability (Unstable),hindi matatag,,,,不稳定,,,,ไมม่ ั่นคง,,မတညပ်ငမှိ ်(သသာ),,,Tidak stabil,,,,,,,,,(ដដល)អមសេរភាព,,,,,,,,,,,,,,7
+嘔吐（する）,Vomiting (Vomit),pagsusuka / magsusuka,,,,呕吐,,,,อาเจยี น (อาเจยี น),,အန(် သည်),,,Muntah,,,,,,,,,(ការ)កអ តួ,,,,,,,,,,,,,,7
+転落（する）,Falling off ( Fall off),pagkahulog / mahulog,,,,跌倒、摔,,,,การพลัดตกลงมา (พลัด ตกลงมา),,လမှိ ်ဲ့က သည်,,,Jatuh dari atas,,,,,,,,,(ការ)រេិលធ្លា ក់,,,,,,,,,,,,,,7
+落下（する）,Falling (Fall),pagkahulog / mahulog,,,,掉落,,,,"การหลน่ (หลน่ ), การตก ลงมา (การตกลงมา)",,ခပြုံတက် သည်,,,Jatuh,,,,,,,,,(ការ)ធ្លា ក់,,,,,,,,,,,,,,7
+墜落（する）,Falling down (Fall down),pagbagsak / bumagsak,,,,坠落,,,,"การตกลงมาจากทสี่ งู (ตก ลงมาจากทสี่ งู ), การตกดงิ่ (ตกดงิ่ )",,အခမငမ်ဲ့ က သည်,,,Terperosok,,,,,,,,,(ការ)ធ្លា កច់ ោះ,,,,,,,,,,,,,,7
+丸セパレーター （丸セパ）,Round separator (Marusepa),bilog na panghiwalay / round separator,,,,分离器、圆隔板,,,,อปุ กรณ์ยดึ แบบระบบ ฟอรม์ ไท (ฟอรม์ ไท),,ပ ုစ ကွ သ် ောငတ် ပ်ဆငရ် ာ တငွ ် သတမ် တထ် ာ်းသသာ အက ယက် ှို မ နက် နစ် ွာ ထနှိ ်း် ရန ် သ်း ု သသာ သတတ ြုံသ ာင်း်,,,Separator bulat,,,,,,,,,ឧបករណ៏បំ បបករបូ រាងមូល (ម៉ា រ ៉ុសេប៉ា ),,,,,,,,,,,,,,7
+ケレン,Surface preparation,surface treatment,,,,表面处理、去掉多余的 混凝土,,,,ท าความสะอาด,,သနရ် ဲ့ င်း် သရ်း,,,Pengerjaan muka,,,,,,,,,ការេំសលៀង,,,,,,,,,,,,,,7
+基礎型枠 （メタルフォーム）,Foundation formwork (Metal form)(cid:9),foundation form (metal form),,,,基础模板,,,,แบบหลอ่ คอนกรตี ฐานราก (แบบเหล็ก),,သအာက ် က နွ က် ရစ်တငွ ် သဒါငလ် ကှို စ် ှိုကထ် ာ်းသသာ သတ ငှို ပ် တလ် ည၌် ဆငသ် သာသောင်,,,Acuan fondasi,,,,,,,,,េ ៉ុមរ្រោះ(សមតាលហ្វម),,,,,,,,,,,,,,7

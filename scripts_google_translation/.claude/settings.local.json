@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \".venv\\Scripts\\python.exe -m pip list\")",
+      "Bash(powershell -Command \"Get-ChildItem -Directory\")",
+      "Bash(powershell:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -1,0 +1,50 @@
+================================================================================
+雇用保険のth, km列の詳細確認
+================================================================================
+
+【タイ語 (th) 列の詳細】
+
+  型: <class 'str'>
+  pd.isna(): False
+  repr(): 'ประกนั การจา้ งงาน'
+  長さ: 18
+  strip後: 'ประกนั การจา้ งงาน'
+  strip後長さ: 18
+  lower(): 'ประกนั การจา้ งงาน'
+  バイト: b'\xe0\xb8\x9b\xe0\xb8\xa3\xe0\xb8\xb0\xe0\xb8\x81\xe0\xb8\x99\xe0\xb8\xb1 \xe0\xb8\x81\xe0\xb8\xb2\xe0\xb8\xa3\xe0\xb8\x88\xe0\xb8\xb2\xe0\xb9\x89 \xe0\xb8\x87\xe0\xb8\x87\xe0\xb8\xb2\xe0\xb8\x99'
+  is_empty_value(): False
+
+【カンボジア語 (km) 列の詳細】
+
+  型: <class 'str'>
+  pd.isna(): False
+  repr(): 'ធានារា៉ារ់រងការងារ'
+  長さ: 18
+  strip後: 'ធានារា៉ារ់រងការងារ'
+  strip後長さ: 18
+  lower(): 'ធានារា៉ារ់រងការងារ'
+  バイト: b'\xe1\x9e\x92\xe1\x9e\xb6\xe1\x9e\x93\xe1\x9e\xb6\xe1\x9e\x9a\xe1\x9e\xb6\xe1\x9f\x89\xe1\x9e\xb6\xe1\x9e\x9a\xe1\x9f\x8b\xe1\x9e\x9a\xe1\x9e\x84\xe1\x9e\x80\xe1\x9e\xb6\xe1\x9e\x9a\xe1\x9e\x84\xe1\x9e\xb6\xe1\x9e\x9a'
+  is_empty_value(): False
+
+【翻訳言語数列の値】
+
+  値: 8
+  型: <class 'numpy.int64'>
+
+【全8言語の is_empty_value() 結果】
+
+  [有] en        : is_empty=False
+  [有] fil-PH    : is_empty=False
+  [有] zh        : is_empty=False
+  [有] th        : is_empty=False
+  [有] vi        : is_empty=False
+  [有] my        : is_empty=False
+  [有] id        : is_empty=False
+  [有] km        : is_empty=False
+
+空欄判定された言語数: 0
+翻訳ありと判定された言語数: 8
+
+================================================================================
+確認完了
+================================================================================
