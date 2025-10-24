@@ -379,6 +379,10 @@ powershell -Command ".venv\Scripts\python.exe scripts/your_script.py"
 
 ### 作業ログ / Work Log
 
+**ログファイルは主に2つあります:**
+1. **`for_claude\log.txt`** - 作業履歴とセッション引継ぎ情報
+2. **`for_claude\error_log.md`** - エラーログと対処法（後述）
+
 **前回のセッションからの引継ぎ情報は `for_claude\log.txt` を必ず確認すること**
 
 - セッション開始時は最初に `for_claude\log.txt` を読み込むこと
@@ -389,7 +393,23 @@ powershell -Command ".venv\Scripts\python.exe scripts/your_script.py"
   - セッション中断に備えて、こまめに記録を残す
 - 作業完了時は必ず `for_claude\log.txt` に作業内容を追記すること
 
-**IMPORTANT: Always check `for_claude\log.txt` for session continuity**
+**ログファイルの使い分け:**
+- **`for_claude\log.txt`**: 通常の作業履歴、実装した機能、次回への申し送り
+- **`for_claude\error_log.md`**: エラー発生時の詳細記録（エラー内容、原因、対処法）
+
+**ログ更新時の通知ルール:**
+- `for_claude\log.txt` を更新したら、**必ずファイルの最後の行に更新完了の通知を記載すること**
+- 通知には以下を含めること：
+  - 更新日時（セッション識別用）
+  - 記録した内容の概要
+  - 例: `【2025-10-23 夕方セッション】ログ更新完了 - PDF順序データの調査結果を記録`
+- この通知により、ユーザーがログが更新されたことを即座に確認できる
+
+**IMPORTANT: There are two main log files:**
+1. **`for_claude\log.txt`** - Work history and session handover information
+2. **`for_claude\error_log.md`** - Error log and solutions (described below)
+
+**Always check `for_claude\log.txt` for session continuity**
 
 - Read `for_claude\log.txt` at the beginning of each session
 - This file contains previous work, implemented features, and handover notes
@@ -398,3 +418,63 @@ powershell -Command ".venv\Scripts\python.exe scripts/your_script.py"
   - Write at good breakpoints even in the middle of large tasks
   - Record frequently to prepare for session interruptions
 - Append work progress to `for_claude\log.txt` when finishing tasks
+
+**Log File Usage:**
+- **`for_claude\log.txt`**: Regular work history, implemented features, handover notes
+- **`for_claude\error_log.md`**: Detailed error records (error content, cause, solution)
+
+**Log Update Notification Rule:**
+- When updating `for_claude\log.txt`, **always add an update completion notice at the end of the file**
+- The notice should include:
+  - Update date and time (for session identification)
+  - Summary of recorded content
+  - Example: `【2025-10-23 Evening Session】Log update completed - Recorded PDF order data investigation results`
+- This notice allows users to immediately confirm that the log has been updated
+
+### エラーログ管理 / Error Log Management
+
+**エラーが発生したら `for_claude\error_log.md` に必ず記録すること**
+
+- Python、PowerShell、その他のコマンド実行でエラーが発生した場合は、必ず記録する
+- エラーログには以下を含めること：
+  - **発生日時**: [YYYY-MM-DD]
+  - **エラー名**: エラーの種類（例: UnicodeEncodeError）
+  - **発生状況**: スクリプト名、実行コマンド
+  - **エラー内容**: エラーメッセージ全文
+  - **原因**: エラーが発生した理由
+  - **対処法**: 解決方法（複数ある場合は全て記載）
+  - **ステータス**: [解決済み/未解決/回避済み]
+
+**エラーログの目的**:
+- 同じエラーの再発防止
+- よくあるエラーパターンの蓄積
+- セッション間での知識の継承
+- トラブルシューティングの効率化
+
+**記録のタイミング**:
+- エラー解決直後に記録（記憶が新鮮なうちに）
+- 回避策で進めた場合も記録（後で根本解決のため）
+- 未解決の場合も記録（次回セッションでの参照のため）
+
+**IMPORTANT: Always log errors to `for_claude\error_log.md`**
+
+- Log all errors from Python, PowerShell, or other command executions
+- Error log must include:
+  - **Date**: [YYYY-MM-DD]
+  - **Error Name**: Type of error (e.g., UnicodeEncodeError)
+  - **Situation**: Script name, command executed
+  - **Error Content**: Full error message
+  - **Cause**: Reason for the error
+  - **Solution**: Resolution method(s)
+  - **Status**: [Resolved/Unresolved/Workaround]
+
+**Purpose of Error Log**:
+- Prevent recurrence of same errors
+- Accumulate common error patterns
+- Inherit knowledge across sessions
+- Improve troubleshooting efficiency
+
+**When to Record**:
+- Immediately after resolving an error
+- Even when using workarounds (for future root cause resolution)
+- Even when unresolved (for reference in next session)
