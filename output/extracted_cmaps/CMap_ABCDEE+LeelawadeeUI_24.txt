@@ -1,0 +1,117 @@
+/CIDInit /ProcSet findresource begin
+30 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (Adobe)
+/Ordering (UCS)
+/Supplement 0
+>> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+2 beginbfchar
+<0214> <1780>
+<0217> <178017B6>
+endbfchar
+1 beginbfrange
+<021E> <021F> [<178217D2> <17B6>]
+endbfrange
+11 beginbfchar
+<0221> <179A>
+<022C> <1784>
+<022F> <178417B6>
+<0231> <1785>
+<023B> <1787>
+<023E> <178717B6>
+<0249> <1789>
+<0253> <17C2>
+<0256> <17C4>
+<026B> <178E>
+<026E> <178E17B6>
+endbfchar
+1 beginbfrange
+<0270> <0271> [<178F> <17C2>]
+endbfrange
+4 beginbfchar
+<0273> <178F17B6>
+<0276> <1790>
+<0278> <179017D21793>
+<027A> <1791>
+endbfchar
+2 beginbfrange
+<027E> <027F> [<17C5> <17D2>]
+<0284> <0289> [<1793> <17B6> <1793> <179317B6> <17C5> <179A>]
+endbfrange
+6 beginbfchar
+<028C> <17B6>
+<0292> <1795>
+<0297> <1796>
+<029A> <179617B6>
+<029C> <1797>
+<029F> <179717B6>
+endbfchar
+1 beginbfrange
+<02A1> <02A2> [<179817D2> <1798>]
+endbfrange
+2 beginbfchar
+<02A4> <1798>
+<02A6> <1799>
+endbfchar
+1 beginbfrange
+<02AF> <02B0> [<179A> <178017D2>]
+endbfrange
+1 beginbfchar
+<02B2> <17C4>
+endbfchar
+4 beginbfrange
+<02B4> <02B6> [<179B> <179B> <179B>]
+<02B9> <02BA> [<179C> <179C>]
+<02CC> <02CD> [<179F> <179F>]
+<02CF> <02D0> [<179F17D21790> <17B6>]
+endbfrange
+1 beginbfchar
+<02D5> <17A017D2>
+endbfchar
+1 beginbfrange
+<02DF> <02E0> [<17A2> <17B6>]
+endbfrange
+3 beginbfchar
+<02E2> <17C4>
+<02F0> <17A7>
+<031A> <17B7>
+endbfchar
+2 beginbfrange
+<0320> <0321> [<17CA17B8> <17B8>]
+<0324> <0325> [<17B9> <17B9>]
+endbfrange
+1 beginbfchar
+<0329> <17BA>
+endbfchar
+3 beginbfrange
+<032C> <032D> [<0020> <17BB>]
+<032E> <032F> <17BB>
+<0330> <0331> [<17BC> <17BC>]
+endbfrange
+1 beginbfchar
+<0336> <17BE>
+endbfchar
+1 beginbfrange
+<033C> <033E> [<17C0> <179A> <178A>]
+endbfrange
+9 beginbfchar
+<0344> <17C6>
+<0348> <17C417C7>
+<034A> <17C917B6>
+<0350> <17CB>
+<0356> <17CD>
+<0362> <17CF>
+<0368> <17D0>
+<0370> <17D2>
+<0372> <17D4>
+endbfchar
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end

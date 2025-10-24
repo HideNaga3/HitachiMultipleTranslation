@@ -1,0 +1,1309 @@
+﻿アドレス,言語,単語,再翻訳,翻訳,一致,類似度_difflib,分類,類似度_ai
+B2,en,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+B3,en,技能実習,技能実習,Technical Intern Training,True,100.0%,完全一致,100%
+B4,en,技能実習生,技能実習生,Technical Intern Trainee,True,100.0%,完全一致,100%
+B5,en,工場,工場,Factory,True,100.0%,完全一致,100%
+B6,en,製造,製造業,Manufacturing,False,80.0%,不一致,90%
+B7,en,機械,機械,Machine,True,100.0%,完全一致,100%
+B8,en,安全,安全性,Safety,False,80.0%,不一致,95%
+B9,en,危険（な）,危険物,Hazardous / Dangerous,False,50.0%,不一致,30%
+B10,en,危ない,危険な,Dangerous,False,66.7%,不一致,100%
+B11,en,清掃,クリーニング,Cleaning,False,0.0%,不一致,100%
+B12,en,非常口,非常口,Emergency Exit,True,100.0%,完全一致,100%
+B13,en,注意,注意,Caution,True,100.0%,完全一致,100%
+B14,en,火事,火,Fire,False,66.7%,不一致,45%
+B15,en,事故,事故,Accident,True,100.0%,完全一致,100%
+B16,en,服装,服装,Attire / Clothing,True,100.0%,完全一致,100%
+B17,en,安全装置,安全装置,Safety Device,True,100.0%,完全一致,100%
+B18,en,安全カバー,安全カバー/ガード,Safety Cover / Guard,False,71.4%,不一致,50%
+B19,en,けが,けが,Injury,True,100.0%,完全一致,100%
+B20,en,けがをする,怪我をする,Get injured,False,60.0%,不一致,100%
+B21,en,電源,電源,Power supply,True,100.0%,完全一致,100%
+B22,en,電源を切る,電源を切る,Turn off the power,True,100.0%,完全一致,100%
+B23,en,非常停止ボタン,緊急停止ボタン,Emergency Stop Button,False,71.4%,不一致,76%
+B24,en,非常停止ボタンを押す,緊急停止ボタンを押してください,Press the emergency stop button,False,56.0%,不一致,38%
+B25,en,ルール,ルール,Rule(s),True,100.0%,完全一致,100%
+B26,en,ルールを守る,ルールに従う,Follow the rules,False,50.0%,不一致,25%
+B27,en,止める,停止,Stop,False,40.0%,不一致,25%
+B28,en,機械を止める,機械を停止する,Stop the machine,False,76.9%,不一致,78%
+B29,en,やって,やってみよう,Do it / Go ahead,False,66.7%,不一致,45%
+B30,en,止めて,やめて,Stop it,False,66.7%,不一致,50%
+B31,en,取って,取ってこい / 持ってくる / 取る,Fetch / Bring / Take,False,28.6%,不一致,15%
+B32,en,だめ（な）,許可されていません,Not allowed / No good,False,0.0%,不一致,0%
+B33,en,監理団体,監督組織,Supervising Organization,False,25.0%,不一致,14%
+B34,en,技術移転,技術移転,Technology Transfer,True,100.0%,完全一致,100%
+B35,en,技能実習期間,技能実習期間,Technical Intern Training Period,True,100.0%,完全一致,100%
+B36,en,職種,職種/職業,Job Category / Occupation,False,57.1%,不一致,36%
+B37,en,在留資格,在留資格,Status of Residence,True,100.0%,完全一致,100%
+B38,en,パスポート,パスポート,Passport,True,100.0%,完全一致,100%
+B39,en,在留カード,在留カード,Residence Card,True,100.0%,完全一致,100%
+B40,en,入管,移民（サービス）,Immigration (Services),False,0.0%,不一致,0%
+B41,en,在留期間,滞在期間,Period of Stay,False,75.0%,不一致,78%
+B42,en,雇用契約,雇用契約,Employment Contract,True,100.0%,完全一致,100%
+B43,en,給与明細,給与明細書,Pay Slip / Payroll Statement,False,88.9%,不一致,72%
+B44,en,給料,給与,Salary / Wages,False,50.0%,不一致,33%
+B45,en,残業手当,残業手当,Overtime Allowance / Overtime Pay,True,100.0%,完全一致,100%
+B46,en,労働時間,勤務時間,Working Hours,False,50.0%,不一致,33%
+B47,en,控除（する）,控除/控除,Deduction / Deduct,False,36.4%,不一致,28%
+B48,en,ボーナス,ボーナス,Bonus,True,100.0%,完全一致,100%
+B49,en,有休,有給休暇,Paid Leave,False,66.7%,不一致,50%
+B50,en,代休,振替休日・代休,Substitute Holiday / Compensatory Day Off,False,44.4%,不一致,25%
+B51,en,労働基準法,労働基準法,Labor Standards Act,True,100.0%,完全一致,100%
+B52,en,労働条件,労働条件,Working Conditions,True,100.0%,完全一致,100%
+B53,en,税金,税金,Tax(es),True,100.0%,完全一致,100%
+B54,en,所得税,所得税,Income Tax,True,100.0%,完全一致,100%
+B55,en,住民税,住民税,Resident Tax,True,100.0%,完全一致,100%
+B56,en,厚生年金,厚生年金保険,Employees’ Pension Insurance,False,80.0%,不一致,60%
+B57,en,雇用保険,雇用保険,Employment Insurance,True,100.0%,完全一致,100%
+B58,en,健康保険,健康保険,Health Insurance,True,100.0%,完全一致,100%
+B59,en,社会保険,社会保険,Social Insurance,True,100.0%,完全一致,100%
+B60,en,労災,労働災害,Industrial Accident,False,66.7%,不一致,50%
+B61,en,労災保険,労災保険,Workers’ Accident Compensation Insurance,True,100.0%,完全一致,100%
+B62,en,遅刻（する）,遅刻する,Late arrival / Be late,False,80.0%,不一致,80%
+B63,en,早退（する）,早めに出発する,Leave early,False,46.2%,不一致,30%
+B64,en,休憩（する）,休憩する,Break / Take a break,False,80.0%,不一致,80%
+B65,en,残業（する）,残業,Overtime / Work overtime,False,50.0%,不一致,30%
+B66,en,定時,固定労働時間 / 定時,Fixed working hours / Regular time,False,30.8%,不一致,16%
+B67,en,規則,規則/ルール,Regulations / Rules,False,50.0%,不一致,30%
+B68,en,休日,休日,Day off / Holiday,True,100.0%,完全一致,100%
+B69,en,始業時間,開始時間,Starting Time,False,75.0%,不一致,78%
+B70,en,終業時間,終了時間,Finishing Time,False,75.0%,不一致,78%
+B71,en,指導員,インストラクター/スーパーバイザー,Instructor / Supervisor,False,0.0%,不一致,0%
+B72,en,生活指導員,生活指導スタッフ,Life Guidance Staff,False,61.5%,不一致,44%
+B73,en,担当者,担当者,Person in Charge,True,100.0%,完全一致,100%
+B74,en,スイッチ入れるな,スイッチを入れないでください,Do NOT turn on the switch,False,63.6%,不一致,50%
+B75,en,スイッチ切るな,スイッチをオフにしないでください,Do NOT turn off the switch,False,43.5%,不一致,29%
+B76,en,使用禁止,使用禁止/使用禁止,Do Not Use / Use Prohibited,False,61.5%,不一致,40%
+B77,en,5S,5S（整理・整頓・清掃・清潔・しつけ）,5S (Sort–Set in order–Shine–Standardize–Sustain),False,19.0%,不一致,9%
+B78,en,整理,選別,Sort,False,0.0%,不一致,0%
+B79,en,整頓,整頓する,Set in Order,False,66.7%,不一致,45%
+B80,en,清掃,輝き/清潔,Shine / Clean,False,28.6%,不一致,16%
+B81,en,清潔,清潔さ,Cleanliness,False,80.0%,不一致,60%
+B82,en,しつけ,維持/規律,Sustain / Discipline,False,0.0%,不一致,0%
+B83,en,掃除（する）,掃除/清掃,Clean / Cleaning,False,36.4%,不一致,25%
+B84,en,片づける,片付ける,Tidy up / Put away,False,75.0%,不一致,78%
+B85,en,捨てる,捨てる,Discard / Throw away,True,100.0%,完全一致,100%
+B86,en,汚い,汚い,Dirty,True,100.0%,完全一致,100%
+B87,en,汚れる,汚れる,Get dirty,True,100.0%,完全一致,100%
+B88,en,分別（する）,分別（廃棄物）,Sort (waste),False,61.5%,不一致,44%
+B89,en,燃えないごみ,燃えないゴミ,Non-burnable Waste,False,66.7%,不一致,50%
+B90,en,燃えるごみ,可燃ごみ,Burnable Waste,False,66.7%,不一致,50%
+B91,en,挟まれる,挟まれる,Get caught (in/between),True,100.0%,完全一致,100%
+B92,en,巻き込まれる,絡まる/巻き込まれる,Get entangled / Caught in,False,75.0%,不一致,54%
+B93,en,やけど（する）,火傷（怪我）,Burn (injury) / Get burned,False,30.8%,不一致,18%
+B94,en,落ちる,秋,Fall,False,0.0%,不一致,0%
+B95,en,すべる,スリップ,Slip,False,0.0%,不一致,0%
+B96,en,転ぶ,倒れる,Fall down,False,0.0%,不一致,0%
+B97,en,濡れる,濡れる,Get wet,True,100.0%,完全一致,100%
+B98,en,衛生,衛生,Hygiene,True,100.0%,完全一致,100%
+B99,en,避難（する）,避難,Evacuate / Evacuation,False,50.0%,不一致,30%
+B100,en,救   車,救急車,Ambulance,False,50.0%,不一致,50%
+B101,en,災害,災害,Disaster,True,100.0%,完全一致,100%
+B102,en,地震,地震,Earthquake,True,100.0%,完全一致,100%
+B103,en,もぐる,潜る / 潜る,Duck under / Crawl under,False,20.0%,不一致,16%
+B104,en,火気厳禁,火気厳禁,No Open Flames,True,100.0%,完全一致,100%
+B105,en,開放厳禁,閉じたままにしてください / 開けないでください,Keep Closed / Do Not Open,False,7.1%,不一致,5%
+B106,en,標識,標識,Sign / Signage,True,100.0%,完全一致,100%
+B107,en,気をつける,気をつけて,Be careful / Take care,False,80.0%,不一致,80%
+B108,en,持ち込む,持ち込む,Bring in,True,100.0%,完全一致,100%
+B109,en,防ぐ,防ぐ,Prevent,True,100.0%,完全一致,100%
+B110,en,火,火（炎）,Fire (flame),False,40.0%,不一致,22%
+B111,en,煙,煙,Smoke,True,100.0%,完全一致,100%
+B112,en,消火,消火/消火活動,Extinguish fire / Firefighting,False,44.4%,不一致,25%
+B113,en,消火器,消火器,Fire Extinguisher,True,100.0%,完全一致,100%
+B114,en,非常ベル,警報ベル,Alarm Bell,False,50.0%,不一致,33%
+B115,en,火災報知機,火災警報,Fire Alarm,False,66.7%,不一致,50%
+B116,en,逃げる,逃げる,Escape / Run away,True,100.0%,完全一致,100%
+B117,en,現場,作業現場,Worksite / Site,False,66.7%,不一致,45%
+B118,en,作業,仕事/タスク,Work / Task,False,0.0%,不一致,0%
+B119,en,ミーティング,ミーティング,Meeting,True,100.0%,完全一致,100%
+B120,en,研修（する）,トレーニング/トレーニング,Training / Train,False,0.0%,不一致,0%
+B121,en,実習（する）,実習・実習,Practical training / Practice,False,36.4%,不一致,28%
+B122,en,あいさつ,挨拶,Greeting,False,0.0%,不一致,0%
+B123,en,確認（する）,確認,Check / Confirm,False,50.0%,不一致,30%
+B124,en,報告（する）,報告,Report,False,50.0%,不一致,30%
+B125,en,連絡（する）,連絡/通知,Contact / Notify,False,36.4%,不一致,22%
+B126,en,相談（する）,相談する,Consult,False,80.0%,不一致,80%
+B127,en,渡す,渡す,Hand over / Give,True,100.0%,完全一致,100%
+B128,en,申請書,申込書,Application Form,False,66.7%,不一致,50%
+B129,en,寝坊（する）,睡眠不足,Over sleep,False,0.0%,不一致,0%
+B130,en,技能,スキル,Skill(s),False,0.0%,不一致,0%
+B131,en,技能検定試験,技能試験/貿易試験,Skills Test / Trade Test,False,53.3%,不一致,44%
+B132,en,受検（する）,試験を受ける,Take an exam/test,False,33.3%,不一致,20%
+B133,en,資格,資格・証明書,Qualification / Certificate,False,50.0%,不一致,30%
+B134,en,手当,手当,Allowance,True,100.0%,完全一致,100%
+B135,en,社員,従業員,Employee,False,40.0%,不一致,25%
+B136,en,部長,ゼネラルマネージャー / 部門マネージャー,General Manager / Department Manager,False,8.7%,不一致,7%
+B137,en,課長,課長,Section Manager,True,100.0%,完全一致,100%
+B138,en,更衣室,更衣室・ロッカールーム,Changing Room / Locker Room,False,42.9%,不一致,24%
+B139,en,台車,手押し車/台車,Hand Cart / Dolly,False,44.4%,不一致,25%
+B140,en,床,床,Floor,True,100.0%,完全一致,100%
+B141,en,出口,出口,Exit,True,100.0%,完全一致,100%
+B142,en,電気,電気/電力,Electricity / Power,False,57.1%,不一致,36%
+B143,en,警報音,アラーム音,Alarm Sound,False,25.0%,不一致,14%
+B144,en,コンセント,電源コンセント/ソケット,Power Outlet / Socket,False,58.8%,不一致,37%
+B145,en,作業場,作業エリア,Work Area,False,50.0%,不一致,33%
+B146,en,作業台,作業台,Workbench / Work Table,True,100.0%,完全一致,100%
+B147,en,工事現場,建設現場,Construction Site,False,50.0%,不一致,33%
+B148,en,職長,フォアマン,Foreman,False,0.0%,不一致,0%
+B149,en,作業責任者,作業監督者・責任者,Work Supervisor / Responsible Person,False,71.4%,不一致,78%
+B150,en,禁止,禁止,Prohibited,True,100.0%,完全一致,100%
+B151,en,表示板,看板・表示板,Signboard / Display Board,False,66.7%,不一致,45%
+B152,en,禁止事項,禁止事項,Prohibited Matters,True,100.0%,完全一致,100%
+B153,en,避難訓練,避難訓練,Evacuation Drill,True,100.0%,完全一致,100%
+B154,en,感電（する）,感電 / 感電する,Electric Shock / Get an electric shock,False,53.3%,不一致,50%
+B155,en,防止（する）,予防/防止,Prevention / Prevent,False,36.4%,不一致,25%
+B156,en,予防（する）,予防/防止,Prevention / Prevent,False,36.4%,不一致,25%
+B157,en,転倒（する）,秋 / 旅行,Fall / Trip,False,0.0%,不一致,0%
+B158,en,挟まる,詰まる/捕まる,Get jammed / Be caught,False,40.0%,不一致,33%
+B159,en,足元,足元,Footing / Underfoot,True,100.0%,完全一致,100%
+B160,en,不安定（な）,不安定,Unstable,False,66.7%,不一致,45%
+B161,en,後片付け,後片付け/仕事後の掃除,Cleanup / Clean after work,False,53.3%,不一致,32%
+B162,en,救   箱,救急キット,First-aid Kit,False,20.0%,不一致,14%
+B163,en,絆創膏,包帯/絆創膏,Bandage / Adhesive bandage,False,66.7%,不一致,45%
+B164,en,体調,体調,Physical Condition,True,100.0%,完全一致,100%
+B165,en,血,血,Blood,True,100.0%,完全一致,100%
+B166,en,熱中症,熱中症,Heatstroke,True,100.0%,完全一致,100%
+B167,en,吐き気,吐き気,Nausea,True,100.0%,完全一致,100%
+B168,en,嘔吐（する）,嘔吐,Vomit / Vomiting,False,50.0%,不一致,30%
+B169,en,足がつる,脚のけいれん,Leg cramp,False,0.0%,不一致,0%
+B170,en,気分が悪い,気分が悪い,Feel sick,True,100.0%,完全一致,100%
+B171,en,寝不足,睡眠不足,Lack of sleep,False,57.1%,不一致,40%
+B172,en,安全ネット,セーフティネット,Safety Net,False,46.2%,不一致,30%
+B173,en,安全点検,安全検査,Safety Inspection,False,75.0%,不一致,78%
+B174,en,KY活動（危険予知活動）,KY活動（危険予測）,KY Activity (Hazard Prediction),False,81.8%,不一致,96%
+B175,en,危険,危険,Danger / Hazard,True,100.0%,完全一致,100%
+B176,en,ぶつかる,ぶつかる/衝突する,Bump / Collide,False,61.5%,不一致,40%
+B177,en,当たる,ヒット/ストライク,Hit / Strike,False,0.0%,不一致,0%
+B178,en,下敷きになる,押さえつけられる,Be pinned under,False,14.3%,不一致,7%
+B179,en,打つ,ヒット/ストライク,Hit / Strike,False,0.0%,不一致,0%
+B180,en,バランスを崩す,バランスを失う,Lose balance,False,71.4%,不一致,76%
+B181,en,倒れる,倒れる/崩壊する,Topple / Collapse,False,54.5%,不一致,33%
+B182,en,転落（する）,高所からの落下,Fall from height,False,15.4%,不一致,8%
+B183,en,指差呼称,指差しと呼びかけ,Pointing and Calling,False,50.0%,不一致,33%
+B184,en,ヒヤリハット,ニアミス,Near-miss,False,0.0%,不一致,0%
+B185,en,原因,原因,Cause,True,100.0%,完全一致,100%
+B186,en,対策,対策,Countermeasure,True,100.0%,完全一致,100%
+B187,en,落下（する）,落下,Drop / Fall,False,50.0%,不一致,30%
+B188,en,墜落（する）,落下（高所から）/ 急降下,Fall (from height) / Plunge,False,31.6%,不一致,20%
+B189,en,確認（する）,確認/チェック,Confirm / Check,False,30.8%,不一致,18%
+B190,en,作業着,作業服,Workwear,False,66.7%,不一致,50%
+B191,en,作業服,作業服,Work clothes,True,100.0%,完全一致,100%
+B192,en,作業靴,安全靴・作業靴,Safety shoes / Work shoes,False,60.0%,不一致,38%
+B193,en,手袋,手袋,Gloves,True,100.0%,完全一致,100%
+B194,en,帽子,キャップ/帽子,Cap / Hat,False,44.4%,不一致,25%
+B195,en,保護帽（ヘルメット）,安全ヘルメット,Safety Helmet,False,58.8%,不一致,41%
+B196,en,保護具,PPE（個人用保護具）,PPE (Personal Protective Equipment),False,42.9%,不一致,24%
+B197,en,あごひも,あごストラップ,Chin strap,False,36.4%,不一致,22%
+B198,en,ボタン,ボタン,Button,True,100.0%,完全一致,100%
+B199,en,ポケット,ポケット,Pocket,True,100.0%,完全一致,100%
+B200,en,保護メガネ,安全メガネ,Safety Glasses,False,60.0%,不一致,42%
+B201,en,マスク,マスク/呼吸器（文脈）,Mask / Respirator (context),False,42.9%,不一致,24%
+B202,en,栓,プラグ/ストッパー,Plug / Stopper,False,0.0%,不一致,0%
+B203,en,安全靴,安全靴,Safety Shoes,True,100.0%,完全一致,100%
+B204,en,墜落制止用器具（安全帯）,墜落制止用器具（安全ベルト・ハーネス）,Fall-Arrest Equipment (Safety Belt/Harness),False,71.0%,不一致,76%
+B205,en,業務,業務 / 義務 / タスク,Business / Duty / Task,False,26.7%,不一致,13%
+B206,en,時間厳守,時間厳守,Punctuality / Be on time,True,100.0%,完全一致,100%
+B207,en,予定,スケジュール/計画,Schedule / Plan,False,0.0%,不一致,0%
+B208,en,日付,日付,Date,True,100.0%,完全一致,100%
+B209,en,準備（する）,準備,Preparation / Prepare,False,50.0%,不一致,30%
+B210,en,会議,会議/カンファレンス,Meeting / Conference,False,33.3%,不一致,18%
+B211,en,朝礼,朝礼／ツールボックスミーティング,Morning assembly / Toolbox meeting,False,22.2%,不一致,11%
+B212,en,報告書,報告,Report,False,80.0%,不一致,60%
+B213,en,マニュアル,マニュアル,Manual,True,100.0%,完全一致,100%
+B214,en,作業手順書,作業手順書,Work Procedure Manual,True,100.0%,完全一致,100%
+B215,en,調子,状態/ステータス,Condition / Status,False,0.0%,不一致,0%
+B216,en,立入禁止,立入り禁止,No Entry,False,88.9%,不一致,96%
+B217,en,禁煙,禁煙,No Smoking,True,100.0%,完全一致,100%
+B218,en,火気厳禁,火気厳禁,No Open Flames,True,100.0%,完全一致,100%
+B219,en,駐車禁止,駐車禁止,No Parking,True,100.0%,完全一致,100%
+B220,en,足もと注意,足もと注意,Watch your step,True,100.0%,完全一致,100%
+B221,en,開口部注意,開口部 - 注意,Openings—Caution,False,76.9%,不一致,94%
+B222,en,感電注意,電気の危険 - 注意,Electrical Hazard—Caution,False,42.9%,不一致,30%
+B223,en,堕落注意,落下の危険 - 注意,Fall Hazard—Caution,False,42.9%,不一致,30%
+B224,en,頭上注意,頭上危険 - 注意,Overhead Hazard—Caution,False,61.5%,不一致,50%
+B225,en,警報設備,警報システム,Alarm System,False,40.0%,不一致,25%
+B226,en,消火器,消火器,Fire Extinguisher,True,100.0%,完全一致,100%
+B227,en,AED設置場所,AEDの場所,AED Location,False,76.9%,不一致,78%
+B228,en,保護帽着用,安全ヘルメットを着用してください,Wear Safety Helmet,False,19.0%,不一致,10%
+B229,en,安全帯使用,安全ハーネスを使用する,Use Safety Harness,False,50.0%,不一致,33%
+B230,en,昇降階段,アクセス階段,Access Stairs,False,40.0%,不一致,25%
+B231,en,休憩所,休憩所,Rest Area,True,100.0%,完全一致,100%
+B232,en,最大積載荷重,最大積載量,Maximum Load Capacity,False,72.7%,不一致,77%
+B233,en,喫煙所,喫煙エリア,Smoking Area,False,50.0%,不一致,33%
+B234,en,整理整頓,並べ替えと整頓,Sort & Set in Order,False,36.4%,不一致,25%
+B235,en,安全通路,安全な通路,Safe Passage / Aisle,False,88.9%,不一致,96%
+B236,en,三連クランプ,トリプルクランプ,Triple Clamp,False,57.1%,不一致,44%
+B237,en,"ベルトコンベア
+（ベルコン）",ベルトコンベア,Belt Conveyor,False,66.7%,不一致,45%
+B238,en,かけや,木槌（かけや）,Wooden Mallet (Kakeya),False,60.0%,不一致,38%
+B239,en,ランマ,ハンドタンピングランマー,Hand Tamping Rammer,False,40.0%,不一致,22%
+B240,en,自在クランプ,スイベルクランプ,Swivel Clamp,False,57.1%,不一致,40%
+B241,en,キャッチクランプ,キャッチクランプ,Catch Clamp,True,100.0%,完全一致,100%
+B242,en,吊り上げ用クランプ,リフティングクランプ,Lifting Clamp,False,42.1%,不一致,28%
+B243,en,直交クランプ,直角クランプ,Right-angle Clamp,False,83.3%,不一致,94%
+B244,en,フック,フック,Hook,True,100.0%,完全一致,100%
+B245,en,ストレートシャックル,ストレートシャックル,Straight Shackle,True,100.0%,完全一致,100%
+B246,en,滑車,ブロック/プーリー,Block / Pulley,False,0.0%,不一致,0%
+B247,en,クレーン,クレーン,Crane,True,100.0%,完全一致,100%
+B248,en,移動式クレーン,移動式クレーン,Mobile Crane,True,100.0%,完全一致,100%
+B249,en,介しゃくロープ,タグラインロープ,Tag line rope,False,40.0%,不一致,25%
+B250,en,昇降階段,アクセス階段,Access Stairs,False,40.0%,不一致,25%
+B251,en,筋かい止めピン,ブレースピン,Brace Pin,False,30.8%,不一致,18%
+B252,en,脚柱ジョイント,ポストジョイント,Post Joint,False,66.7%,不一致,76%
+B253,en,連結ピン,接続ピン,Connection Pin,False,50.0%,不一致,33%
+B254,en,ジョイント金具,ジョイントフィッティング,Joint Fitting,False,52.6%,不一致,41%
+B255,en,レバーブロック,レバーホイスト（レバーブロック）,Lever Hoist (Lever Block),False,60.9%,不一致,39%
+B256,en,電動のこ（丸のこ）,丸鋸（電動）,Circular Saw (Power),False,40.0%,不一致,78%
+B257,en,モンキースパナ,モンキーレンチ,Adjustable Wrench,False,57.1%,不一致,44%
+B258,en,親綱支柱,ライフラインポスト,Lifeline Post,False,0.0%,不一致,0%
+B259,en,ブラケット,ブラケット,Bracket,True,100.0%,完全一致,100%
+B260,en,梯子,ラダー,Ladder,False,0.0%,不一致,0%
+B261,en,親綱,ライフライン,Lifeline,False,0.0%,不一致,0%
+B262,en,建枠（ビティ）,フレーム足場（けんわく）,Frame Scaffold (Kenwaku),False,21.1%,不一致,11%
+B263,en,メッシュシート,メッシュシート（ネット）,Mesh Sheet (Net),False,73.7%,不一致,52%
+B264,en,防音パネル,防音パネル,Soundproof Panel,True,100.0%,完全一致,100%
+B265,en,朝顔材,キャノピーブラケット（デブリネットサポート）,Canopy Bracket (Debris Net Support),False,0.0%,不一致,0%
+B266,en,架空線,架空線,Overhead Line,True,100.0%,完全一致,100%
+B267,en,幅木（仮設足場）,つま先板（足場）,Toe Board (Scaffold),False,50.0%,不一致,33%
+B268,en,単管,鋼管（単管）,Steel Pipe (Single Pipe),False,50.0%,不一致,30%
+B269,en,脚立,踏み台,Step Ladder,False,0.0%,不一致,0%
+B270,en,作業半径,作業半径,Working Radius,True,100.0%,完全一致,100%
+B271,en,仮ボルト,仮ボルト,Temporary Bolt,True,100.0%,完全一致,100%
+B272,en,手直し,修正/タッチアップ,Rework / Touch-up,False,0.0%,不一致,0%
+B273,en,面一,フラッシュ（表面レベル）,Flush (Surface level),False,14.3%,不一致,7%
+B274,en,点検事項,検査項目,Inspection Items,False,50.0%,不一致,33%
+B275,en,積載荷重,耐荷重,Load Capacity,False,57.1%,不一致,40%
+B276,en,すき間,ギャップ,Gap,False,0.0%,不一致,0%
+B277,en,通りを見る,アライメントを確認する,Check alignment,False,25.0%,不一致,14%
+B278,en,組立,組み立て/設置,Assembly / Erection,False,44.4%,不一致,28%
+B279,en,地組,地上集合,Ground Assembly,False,33.3%,不一致,20%
+B280,en,天端,最上層 / 上面,Top Level / Top Surface,False,0.0%,不一致,0%
+B281,en,玉掛け,スリング/リギング,Slinging / Rigging,False,0.0%,不一致,0%
+B282,en,合図,信号,Signal,False,0.0%,不一致,0%
+B283,en,定格荷重,定格荷重,Rated Load,True,100.0%,完全一致,100%
+B284,en,たち,垂直性,Plumb / Verticality,False,0.0%,不一致,0%
+B285,en,職長,フォアマン,Foreman,False,0.0%,不一致,0%
+B286,en,安全カバー,安全カバー/ガード,Safety Cover / Guard,False,71.4%,不一致,50%
+B287,en,安全帯,安全ベルト/ハーネス,Safety Belt / Harness,False,30.8%,不一致,18%
+B288,en,インサート,入れる,Insert,False,0.0%,不一致,0%
+B289,en,スペーサ,スペーサー,Spacer,False,88.9%,不一致,72%
+B290,en,鉄筋,鉄筋,Rebar / Reinforcing Bar,True,100.0%,完全一致,100%
+B291,en,電工ドラム（ドラム）,ケーブルリール/延長リール,Cable Reel / Extension Reel,False,0.0%,不一致,0%
+B292,en,電動丸のこ（電のこ）,丸鋸（電動）,Circular Saw (Power),False,37.5%,不一致,78%
+B293,en,パッキン,パッキン/ガスケット,Packing / Gasket,False,57.1%,不一致,36%
+B294,en,小バール,小型バール,Small Pry Bar,False,88.9%,不一致,96%
+B295,en,大バール,大型バール,Large Pry Bar,False,88.9%,不一致,96%
+B296,en,化粧合板,装飾合板,Decorative Plywood,False,50.0%,不一致,33%
+B297,en,普通合板,標準合板,Standard Plywood,False,50.0%,不一致,33%
+B298,en,スタイロフォーム,押出ポリスチレンフォーム,Extruded Polystyrene Foam,False,50.0%,不一致,33%
+B299,en,面木,面取りストリップ,Chamfer Strip,False,20.0%,不一致,11%
+B300,en,バイブレーター,コンクリートバイブレーター,Concrete Vibrator,False,70.0%,不一致,48%
+B301,en,剥離剤,離型剤,Release Agent,False,66.7%,不一致,50%
+B302,en,けこみ板,ライザーボード,Riser Board,False,0.0%,不一致,0%
+B303,en,目地棒,ジョイントロッド/ダボ,Joint Rod / Dowel,False,0.0%,不一致,0%
+B304,en,コンクリート,コンクリート,Concrete,True,100.0%,完全一致,100%
+B305,en,コンベックス,巻尺（凸型）,Tape Measure (Convex),False,0.0%,不一致,0%
+B306,en,作業用手袋,作業用手袋,Work Gloves,True,100.0%,完全一致,100%
+B307,en,差金,カーペンターズスクエア,Carpenter’s Square,False,0.0%,不一致,0%
+B308,en,水平器,レベル,Level,False,0.0%,不一致,0%
+B309,en,墨さし,インクマーカー/インクブラシ,Ink Marker / Ink Brush,False,0.0%,不一致,0%
+B310,en,墨つぼ,チョークライン / インク壺,Chalk Line / Inkpot,False,0.0%,不一致,0%
+B311,en,"丸セパレーター
+（丸セパ）",丸型セパレーター（スペーサー）,Round Separator (Spacer),False,64.3%,不一致,78%
+B312,en,天端釘,レベリングネイル/トップレベルネイル,Leveling Nail / Top-level Nail,False,0.0%,不一致,0%
+B313,en,ケレン,チッピング/スクレーピング（ケレン）,Chipping / Scraping (Keren),False,28.6%,不一致,15%
+B314,en,型枠支保工,型枠サポート,Formwork Support,False,36.4%,不一致,22%
+B315,en,"基礎型枠
+（メタルフォーム）",基礎型枠（金属型枠）,Foundation Form (Metal Form),False,50.0%,不一致,37%
+B316,en,釘仕舞い,ネイルフィニッシュ/ネイルセット,Nail Finishing / Nail Set,False,0.0%,不一致,0%
+B317,en,スラブ天端,スラブトップレベル,Slab Top Level,False,42.9%,不一致,27%
+B318,en,高さ（タッパ）,身長,Height,False,0.0%,不一致,0%
+B319,en,建込み,設定/インストール,Setting / Installation,False,0.0%,不一致,0%
+B320,en,通り,ライン/アライメント,Line / Alignment,False,0.0%,不一致,0%
+B321,en,蹴上げ,ライザー（階段）,Riser (Stair),False,0.0%,不一致,0%
+B322,en,蹴込み,トレッドノーズ/キックインボード,Tread Nose / Kick-in board,False,0.0%,不一致,0%
+B323,en,工具の手入れ,ツールのメンテナンス,Tool Maintenance,False,12.5%,不一致,7%
+B324,en,下げ振り,プランボブ,Plumb Bob,False,0.0%,不一致,0%
+B325,en,地墨,ベンチマークライン/グラウンドマーク,Benchmark Line / Ground Mark,False,0.0%,不一致,0%
+B326,en,捨てコンクリート,目くらましのコンクリート,Blinding Concrete,False,60.0%,不一致,42%
+B327,en,はね出し,オーバーハング/カンチレバー,Overhang / Cantilever,False,0.0%,不一致,0%
+B328,en,はらみ,膨らんだ,Bulging,False,28.6%,不一致,16%
+B329,en,前面,正面 / 対面,Front / Facing,False,22.2%,不一致,16%
+B330,en,養生,保護/硬化,Protection / Curing,False,0.0%,不一致,0%
+B331,en,レベル,レベル,Level,True,100.0%,完全一致,100%
+B332,en,割付,レイアウト/間隔,Layout / Spacing,False,0.0%,不一致,0%
+B333,en,埋め込み金物,埋め込み金具,Embedded Metal Fittings,False,83.3%,不一致,94%
+B334,en,解体する（バラス）,解体/撤去,Dismantle / Take down,False,28.6%,不一致,16%
+B335,en,かぶり寸法,コンクリートかぶり厚さ,Concrete Cover Thickness,False,37.5%,不一致,23%
+B336,en,異形棒鋼,異形鉄筋,Deformed Bar,False,50.0%,不一致,33%
+B337,en,結束線,結束ワイヤー,Tie Wire,False,44.4%,不一致,28%
+B338,en,結束工具,結束具 / ツイスター,Tying Tool / Twister,False,40.0%,不一致,27%
+B339,en,鉄筋切断機,鉄筋カッター,Rebar Cutter,False,36.4%,不一致,22%
+B340,en,鉄筋曲げ加工機,鉄筋曲げ機,Rebar Bender,False,83.3%,不一致,94%
+B341,en,フック,フック,Hook,True,100.0%,完全一致,100%
+B342,en,保護帽（ヘルメット）,安全ヘルメット,Safety Helmet,False,58.8%,不一致,41%
+B343,en,アンカー,アンカー,Anchor,True,100.0%,完全一致,100%
+B344,en,加工場,製造ヤード,Fabrication Yard,False,0.0%,不一致,0%
+B345,en,スペーサ―,スペーサー,Spacer,False,80.0%,不一致,96%
+B346,en,ドーナツ,ドーナツスペーサー,Donut Spacer,False,61.5%,不一致,40%
+B347,en,加工配筋図,鉄筋製作図,Rebar Fabrication Drawing,False,40.0%,不一致,25%
+B348,en,配筋詳細図,鉄筋詳細図,Rebar Detail Drawing,False,80.0%,不一致,80%
+B349,en,開口補強筋,オープニング強化,Opening Reinforcement,False,15.4%,不一致,8%
+B350,en,幅止め筋,スペーサーバー（幅キーパー）,Spacer Bar (Width Keeper),False,11.1%,不一致,7%
+B351,en,差筋,ダボバー,Dowel Bar,False,0.0%,不一致,0%
+B352,en,柱主筋,メインカラムバー,Main Column Bar,False,0.0%,不一致,0%
+B353,en,柱配筋,柱の補強,Column Reinforcement,False,28.6%,不一致,16%
+B354,en,スラブ筋,スラブ補強,Slab Reinforcement,False,66.7%,不一致,50%
+B355,en,ベース筋,基礎補強,Footing Reinforcement,False,0.0%,不一致,0%
+B356,en,帯筋（フープ）,フープ/タイ,Hoop / Tie,False,46.2%,不一致,30%
+B357,en,下端筋,下部バー,Bottom Bar,False,28.6%,不一致,16%
+B358,en,上端筋,トップバー,Top Bar,False,0.0%,不一致,0%
+B359,en,主筋,メインバー,Main Bar,False,0.0%,不一致,0%
+B360,en,あばら筋,あぶみ,Stirrup,False,28.6%,不一致,16%
+B361,en,はかま筋,ハウンチバー,Haunch Bar,False,0.0%,不一致,0%
+B362,en,縦筋,縦棒,Longitudinal Bar,False,50.0%,不一致,33%
+B363,en,下筋,下のバー,Lower Bar,False,33.3%,不一致,20%
+B364,en,横筋,横バー,Transverse Bar,False,40.0%,不一致,25%
+B365,en,腹筋,配信バー（Webバー）,Distribution Bar (Web bar),False,0.0%,不一致,0%
+B366,en,配力筋,流通強化,Distribution Reinforcement,False,0.0%,不一致,0%
+B367,en,上筋,上部バー,Upper Bar,False,33.3%,不一致,20%
+B368,en,スパイラル筋,スパイラル補強,Spiral Reinforcement,False,76.9%,不一致,78%
+B369,en,鉄筋径,鉄筋直径,Rebar Diameter,False,85.7%,不一致,95%
+B370,en,かぶり厚さ,カバー厚,Cover Thickness,False,22.2%,不一致,12%
+B371,en,ℝ度,R（半径）サイズ,R (Radius) size,False,0.0%,不一致,0%
+B372,en,シングル,シングル,Single,True,100.0%,完全一致,100%
+B373,en,ダブル,ダブル,Double,True,100.0%,完全一致,100%
+B374,en,千鳥結束,ずらし結び,Staggered Tying,False,22.2%,不一致,12%
+B375,en,切断寸法,カット長さ,Cut Length,False,0.0%,不一致,0%
+B376,en,加工寸法,製作長さ,Fabrication Length,False,0.0%,不一致,0%
+B377,en,重ね継手,ラップスプライス,Lap Splice,False,0.0%,不一致,0%
+B378,en,圧接継手,圧力溶接スプライス,Pressure Welded Splice,False,30.8%,不一致,20%
+B379,en,開口部,オープニング,Opening,False,0.0%,不一致,0%
+B380,en,溶接金網,溶接金網,Welded Wire Mesh,True,100.0%,完全一致,100%
+B381,en,搬出,持ち出す/発送する,Carry out / Ship out,False,18.2%,不一致,11%
+B382,en,搬入,持ち込み・配達,Bring in / Delivery,False,0.0%,不一致,0%
+B383,en,基礎,財団,Foundation,False,0.0%,不一致,0%
+B384,en,機械式継手,メカニカルスプライス,Mechanical Splice,False,0.0%,不一致,0%
+B385,en,配筋検査,鉄筋検査,Rebar Inspection,False,75.0%,不一致,78%
+B386,en,トラクタ,トラクター,Tractor,False,88.9%,不一致,72%
+B387,en,ブルドーザ,ブルドーザー,Bulldozer,False,90.9%,不一致,75%
+B388,en,トラクタショベル,トラックローダー,Track Loader,False,37.5%,不一致,25%
+B389,en,ホイルローダ,ホイールローダー,Wheel Loader,False,85.7%,不一致,100%
+B390,en,ダンプトラック,ダンプトラック,Dump Truck,True,100.0%,完全一致,100%
+B391,en,油圧ショベル,油圧ショベル,Hydraulic Excavator,True,100.0%,完全一致,100%
+B392,en,バックホウ,バックホー,Backhoe,False,80.0%,不一致,80%
+B393,en,ローディングショベル,ローディングショベル,Loading Shovel,True,100.0%,完全一致,100%
+B394,en,ローラ,ローラー,Roller,False,85.7%,不一致,67%
+B395,en,バケット,バケツ,Bucket,False,57.1%,不一致,40%
+B396,en,ブーム,ブーム,Boom,True,100.0%,完全一致,100%
+B397,en,アーム,アーム,Arm,True,100.0%,完全一致,100%
+B398,en,ブレード（排土板）,ブレード（ドーザーブレード）,Blade (Dozer blade),False,52.2%,不一致,78%
+B399,en,タイヤ,タイヤ,Tire,True,100.0%,完全一致,100%
+B400,en,クローラ,トラック/クローラー,Track / Crawler,False,57.1%,不一致,36%
+B401,en,キー（鍵）,鍵,Key,False,33.3%,不一致,18%
+B402,en,"作業装置
+（アタッチメント）",添付ファイル,Attachment,False,0.0%,不一致,0%
+B403,en,エンジン,エンジン,Engine,True,100.0%,完全一致,100%
+B404,en,ディーゼルエンジン,ディーゼルエンジン,Diesel Engine,True,100.0%,完全一致,100%
+B405,en,エンジンオイル,エンジンオイル,Engine Oil,True,100.0%,完全一致,100%
+B406,en,"オルタネータ
+（充電発電機）",オルタネーター,Alternator,False,57.1%,不一致,41%
+B407,en,バッテリ,バッテリー,Battery,False,88.9%,不一致,72%
+B408,en,燃料,燃料,Fuel,True,100.0%,完全一致,100%
+B409,en,軽油,ディーゼル燃料,Diesel Fuel,False,0.0%,不一致,0%
+B410,en,ブレーキ,ブレーキ,Brake,True,100.0%,完全一致,100%
+B411,en,油圧シリンダ,油圧シリンダー,Hydraulic Cylinder,False,92.3%,不一致,77%
+B412,en,油圧モータ,油圧モーター,Hydraulic Motor,False,90.9%,不一致,75%
+B413,en,油圧ポンプ,油圧ポンプ,Hydraulic Pump,True,100.0%,完全一致,100%
+B414,en,水漏れ,水漏れ,Water Leak,True,100.0%,完全一致,100%
+B415,en,油漏れ,オイル漏れ,Oil Leak,False,50.0%,不一致,33%
+B416,en,冷却水,冷却剤,Coolant,False,66.7%,不一致,50%
+B417,en,ブレーキ液,ブレーキフルード,Brake Fluid,False,61.5%,不一致,50%
+B418,en,燃料タンク,燃料タンク,Fuel Tank,True,100.0%,完全一致,100%
+B419,en,ファンベルト,ファンベルト,Fan Belt,True,100.0%,完全一致,100%
+B420,en,空気圧,空気圧,Air Pressure,True,100.0%,完全一致,100%
+B421,en,クラッチ,クラッチ,Clutch,True,100.0%,完全一致,100%
+B422,en,発進,スタート（出発）,Start (move off),False,20.0%,不一致,11%
+B423,en,ブレーキ,ブレーキ,Brake,True,100.0%,完全一致,100%
+B424,en,アイドリング,アイドリング,Idling,True,100.0%,完全一致,100%
+B425,en,走行,旅行 / 運転,Travel / Driving,False,22.2%,不一致,14%
+B426,en,旋回,スイング/回転,Swing / Turning,False,22.2%,不一致,12%
+B427,en,安全ロック,安全ロック,Safety Lock,True,100.0%,完全一致,100%
+B428,en,安全支柱,安全支柱/サポート,Safety Prop / Support,False,61.5%,不一致,40%
+B429,en,補給（する）,補充/補充,Refill / Replenish,False,18.2%,不一致,12%
+B430,en,駐車（する）,公園 / 駐車場,Park / Parking,False,28.6%,不一致,18%
+B431,en,歩行者,歩行者,Pedestrian,True,100.0%,完全一致,100%
+B432,en,車両,車両,Vehicle,True,100.0%,完全一致,100%
+B433,en,死ℝ,死角,Blind Spot,False,50.0%,不一致,33%
+B434,en,斜面,スロープ,Slope,False,0.0%,不一致,0%
+B435,en,転圧（する）,圧縮/コンパクト,Compaction / Compact,False,14.3%,不一致,7%
+B436,en,接触（する）,接触/タッチ,Contact / Touch,False,33.3%,不一致,20%
+B437,en,作動（する）,操作/運用,Operate / Operation,False,18.2%,不一致,10%
+B438,en,整備（する）,サービス/メンテナンス,Servicing / Maintenance,False,0.0%,不一致,0%
+B439,en,点検（する）,検査/検査,Inspect / Inspection,False,18.2%,不一致,12%
+B440,en,動かす,移動/操作,Move / Operate,False,25.0%,不一致,14%
+B441,en,運転（する）,操作/運転,Operate / Drive,False,36.4%,不一致,22%
+B442,en,測る,測定,Measure,False,50.0%,不一致,33%
+B443,en,操作（する）,操作/運用,Operate / Operation,False,36.4%,不一致,22%
+B444,en,停止（する）,停止/一時停止,Stop / Halt,False,30.8%,不一致,22%
+B445,en,切る,カット/オフ,Cut / Turn off,False,0.0%,不一致,0%
+B446,en,回す,回転,Turn / Rotate,False,50.0%,不一致,33%
+B447,en,押す,押す/押す,Push / Press,False,57.1%,不一致,36%
+B448,en,集める,集める/収集する,Gather / Collect,False,54.5%,不一致,33%
+B449,en,触る,触る,Touch,True,100.0%,完全一致,100%
+B450,en,縛る,結ぶ/縛る,Tie / Bind,False,57.1%,不一致,36%
+B451,en,揃える,整列/配置,Align / Arrange,False,0.0%,不一致,0%
+B452,en,結ぶ,ネクタイ/結び目,Tie / Knot,False,20.0%,不一致,11%
+B453,en,しゃがむ,しゃがむ,Squat,True,100.0%,完全一致,100%
+B454,en,調整（する）,調整/調整,Adjust / Adjustment,False,36.4%,不一致,28%
+B455,en,閉じる,閉じる,Close / Shut,True,100.0%,完全一致,100%
+B456,en,取り出す,テイクアウト,Take out,False,0.0%,不一致,0%
+B457,en,戻す,返品する,Return / Put back,False,33.3%,不一致,20%
+B458,en,仕上げる,仕上げる,Finish,True,100.0%,完全一致,100%
+B459,en,折れる,ブレーク/スナップ,Break / Snap,False,0.0%,不一致,0%
+B460,en,欠ける,チップ/チップされる,Chip / Be chipped,False,15.4%,不一致,11%
+B461,en,近づく,アプローチ,Approach,False,0.0%,不一致,0%
+B462,en,電源を入れる,電源を入れる,Turn on the power,True,100.0%,完全一致,100%
+B463,en,電源を落とす,電源を切る,Shut down the power,False,54.5%,不一致,37%
+B464,en,スイッチを切る,スイッチをオフにする,Turn off the switch,False,70.6%,不一致,76%
+B465,en,固定（する）,修正/保護,Fix / Secure,False,0.0%,不一致,0%
+B466,en,ゆるめる,緩める,Loosen,False,57.1%,不一致,50%
+B467,en,伸ばす,伸ばす/伸ばす,Extend / Stretch,False,60.0%,不一致,38%
+B468,en,外す,取り除く,Remove,False,0.0%,不一致,0%
+B469,en,曲げる,曲げる,Bend,True,100.0%,完全一致,100%
+B470,en,出す,出す/取り出す,Put out / Take out,False,44.4%,不一致,25%
+B471,en,乾かす,ドライ,Dry,False,0.0%,不一致,0%
+B472,en,数える,カウント,Count,False,0.0%,不一致,0%
+B473,en,運ぶ,持ち運び/輸送,Carry / Transport,False,22.2%,不一致,12%
+B474,en,積む,ロード/スタック,Load / Stack,False,0.0%,不一致,0%
+B475,en,下ろす,荷降ろし/降ろし,Unload / Lower,False,18.2%,不一致,14%
+B476,en,離れる,立ち去る,Move away / Leave,False,28.6%,不一致,16%
+B477,en,位置,位置,Position,True,100.0%,完全一致,100%
+B478,en,寸法,寸法,Dimension,True,100.0%,完全一致,100%
+B479,en,測定（する）,測定/測定,Measurement / Measure,False,36.4%,不一致,28%
+B480,en,計測（する）,測定/測定,Measurement / Measure,False,18.2%,不一致,12%
+B481,en,計測器,測定器,Measuring Instrument,False,66.7%,不一致,50%
+B482,en,温度,温度,Temperature,True,100.0%,完全一致,100%
+B483,en,高さ,身長,Height,False,0.0%,不一致,0%
+B484,en,長さ,長さ,Length,True,100.0%,完全一致,100%
+B485,en,重さ,重さ,Weight,True,100.0%,完全一致,100%
+B486,en,厚さ,厚さ,Thickness,True,100.0%,完全一致,100%
+B487,en,硬さ,硬度,Hardness,False,50.0%,不一致,33%
+B488,en,深さ,深さ,Depth,True,100.0%,完全一致,100%
+B489,en,表面,表面,Surface,True,100.0%,完全一致,100%
+B490,en,すきま,隙間/クリアランス,Gap / Clearance,False,0.0%,不一致,0%
+B491,en,中心,中心,Center,True,100.0%,完全一致,100%
+B492,en,値,価値,Value,False,66.7%,不一致,45%
+B493,en,安定（する）,安定性/安定化,Stability / Stabilize,False,30.8%,不一致,22%
+B494,en,大きさ,サイズ,Size,False,0.0%,不一致,0%
+B495,en,数,数量,Number / Quantity,False,66.7%,不一致,45%
+B496,en,誤差,エラー/許容範囲,Error / Tolerance,False,0.0%,不一致,0%
+B497,en,中,内側/真ん中,Inside / Middle,False,28.6%,不一致,15%
+B498,en,反対,反対,Opposite,True,100.0%,完全一致,100%
+B499,en,周り,周辺,Periphery / Around,False,50.0%,不一致,33%
+B500,en,尺,尺（伝統的な単位）/長さ,Shaku (traditional unit) / Length,False,15.4%,不一致,7%
+B501,en,青,青,Blue,True,100.0%,完全一致,100%
+B502,en,赤,赤,Red,True,100.0%,完全一致,100%
+B503,en,白,白,White,True,100.0%,完全一致,100%
+B504,en,黄色,黄色,Yellow,True,100.0%,完全一致,100%
+B505,en,片づける,片付ける,Tidy up,False,75.0%,不一致,78%
+B506,en,捨てる,処分する,Dispose / Throw away,False,28.6%,不一致,16%
+B507,en,掃く,スイープ,Sweep,False,0.0%,不一致,0%
+B508,en,持ち上げる,リフト,Lift,False,0.0%,不一致,0%
+B509,en,束ねる,バンドル,Bundle,False,0.0%,不一致,0%
+B510,en,足をくじく,足首を捻挫する,Sprain one’s ankle,False,33.3%,不一致,22%
+B511,en,一輪車,手押し車,Wheelbarrow,False,28.6%,不一致,16%
+B512,en,支柱,投稿 / サポート,Post / Support,False,0.0%,不一致,0%
+B513,en,ショベル,シャベル,Shovel,False,75.0%,不一致,78%
+B514,en,かけや,木槌（かけや）,Wooden Mallet (Kakeya),False,60.0%,不一致,38%
+C2,fil-PH,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+D2,pt,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+E2,es,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+F2,pt-BR,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+G2,zh,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+H2,ko,翻訳サイネージ,Multilingual translation system,Multilingual translation system,False,0.0%,不一致,0%
+I2,fr,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+J2,hi,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+K2,th,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+L2,vi,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+M2,my,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+N2,ne,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+O2,bn,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+P2,id,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+P3,id,技能実習,技能訓練,Pemagangan keterampilan,False,50.0%,不一致,33%
+P4,id,技能実習生,スキルインターンシップ,Pemagang keterampilan,False,0.0%,不一致,0%
+P5,id,工場,工場,Pabrik,True,100.0%,完全一致,100%
+P6,id,製造,製造業,Manufaktur,False,80.0%,不一致,90%
+P7,id,機械,機械,Mesin,True,100.0%,完全一致,100%
+P8,id,安全,安全性,Keselamatan,False,80.0%,不一致,95%
+P9,id,危険（な）,危険な,Berbahaya,False,75.0%,不一致,78%
+P10,id,危ない,危険な,Berbahaya,False,66.7%,不一致,100%
+P11,id,清掃,クリーニング,Pembersihan,False,0.0%,不一致,100%
+P12,id,非常口,非常口,Pintu darurat,True,100.0%,完全一致,100%
+P13,id,注意,注意,Perhatian,True,100.0%,完全一致,100%
+P14,id,火事,火,Kebakaran,False,66.7%,不一致,45%
+P15,id,事故,事故,Kecelakaan,True,100.0%,完全一致,100%
+P16,id,服装,服,Pakaian,False,66.7%,不一致,45%
+P17,id,安全装置,安全装置,Perangkat keselamatan,True,100.0%,完全一致,100%
+P18,id,安全カバー,安全カバー,Penutup pengaman,True,100.0%,完全一致,100%
+P19,id,けが,けが,Cedera,True,100.0%,完全一致,100%
+P20,id,けがをする,負傷,Terluka,False,0.0%,不一致,0%
+P21,id,電源,電源,Sumber daya listrik,True,100.0%,完全一致,100%
+P22,id,電源を切る,電源を切る,Matikan daya,True,100.0%,完全一致,100%
+P23,id,非常停止ボタン,緊急停止ボタン,Tombol berhenti darurat,False,71.4%,不一致,76%
+P24,id,非常停止ボタンを押す,緊急停止ボタンを押してください,Tekan tombol berhenti darurat,False,56.0%,不一致,38%
+P25,id,ルール,ルール,Aturan,True,100.0%,完全一致,100%
+P26,id,ルールを守る,ルールを守る,Patuhi aturan,True,100.0%,完全一致,100%
+P27,id,止める,停止,Menghentikan,False,40.0%,不一致,25%
+P28,id,機械を止める,エンジンを停止する,Menghentikan mesin,False,40.0%,不一致,27%
+P29,id,やって,する,Lakukan,False,0.0%,不一致,0%
+P30,id,止めて,やめて,Hentikan,False,66.7%,不一致,50%
+P31,id,取って,取る,Ambil,False,40.0%,不一致,25%
+P32,id,だめ（な）,すべきではない,Tidak boleh,False,16.7%,不一致,9%
+P33,id,監理団体,監督組織,Organisasi pengawas,False,25.0%,不一致,14%
+P34,id,技術移転,技術移転,Alih teknologi,True,100.0%,完全一致,100%
+P35,id,技能実習期間,スキルインターンシップ期間,Masa magang keterampilan,False,21.1%,不一致,12%
+P36,id,職種,仕事の種類,Jenis pekerjaan,False,28.6%,不一致,16%
+P37,id,在留資格,居住許可のステータス,Status izin tinggal,False,0.0%,不一致,0%
+P38,id,パスポート,パスポート,Paspor,True,100.0%,完全一致,100%
+P39,id,在留カード,居住許可カード,Kartu izin tinggal,False,50.0%,不一致,33%
+P40,id,入管,移民,Imigrasi,False,0.0%,不一致,0%
+P41,id,在留期間,滞在期間,Masa tinggal,False,75.0%,不一致,78%
+P42,id,雇用契約,雇用契約,Kontrak kerja,True,100.0%,完全一致,100%
+P43,id,給与明細,給与明細書,Slip gaji,False,88.9%,不一致,72%
+P44,id,給料,賃金,Gaji,False,0.0%,不一致,0%
+P45,id,残業手当,残業手当,Tunjangan lembur,True,100.0%,完全一致,100%
+P46,id,労働時間,勤務時間,Jam kerja,False,50.0%,不一致,33%
+P47,id,控除（する）,切断,Pemotongan,False,0.0%,不一致,0%
+P48,id,ボーナス,ボーナス,Bonus,True,100.0%,完全一致,100%
+P49,id,有休,有給休暇,Cuti berbayar,False,66.7%,不一致,50%
+P50,id,代休,代替休暇,Cuti pengganti,False,66.7%,不一致,50%
+P51,id,労働基準法,労働基準法,Undang-Undang Standar Ketenagakerjaan,True,100.0%,完全一致,100%
+P52,id,労働条件,労働条件,Kondisi kerja,True,100.0%,完全一致,100%
+P53,id,税金,税,Pajak,False,66.7%,不一致,45%
+P54,id,所得税,所得税,Pajak penghasilan,True,100.0%,完全一致,100%
+P55,id,住民税,人口税,Pajak penduduk,False,33.3%,不一致,20%
+P56,id,厚生年金,厚生年金（厚生年金）,Pensiun karyawan (Kosei Nenkin),False,57.1%,不一致,36%
+P57,id,雇用保険,雇用保険,Asuransi ketenagakerjaan,True,100.0%,完全一致,100%
+P58,id,健康保険,健康保険,Asuransi kesehatan,True,100.0%,完全一致,100%
+P59,id,社会保険,社会保険,Asuransi sosial,True,100.0%,完全一致,100%
+P60,id,労災,労働災害,Kecelakaan kerja,False,66.7%,不一致,50%
+P61,id,労災保険,労働災害保険,Asuransi kecelakaan kerja,False,80.0%,不一致,80%
+P62,id,遅刻（する）,遅い,Terlambat,False,25.0%,不一致,14%
+P63,id,早退（する）,早く帰ってきて,Pulang lebih awal,False,15.4%,不一致,9%
+P64,id,休憩（する）,休む,Istirahat,False,25.0%,不一致,14%
+P65,id,残業（する）,時間とともに,Lembur,False,0.0%,不一致,0%
+P66,id,定時,通常の勤務時間,Jam kerja reguler,False,22.2%,不一致,12%
+P67,id,規則,規制,Peraturan,False,50.0%,不一致,33%
+P68,id,休日,休日,Hari libur,True,100.0%,完全一致,100%
+P69,id,始業時間,仕事開始時間,Jam mulai kerja,False,60.0%,不一致,42%
+P70,id,終業時間,勤務時間終了,Jam selesai kerja,False,40.0%,不一致,42%
+P71,id,指導員,インストラクター,Instruktur,False,0.0%,不一致,0%
+P72,id,生活指導員,ライフコーチ,Pembina kehidupan,False,0.0%,不一致,0%
+P73,id,担当者,責任者,Penanggung jawab,False,33.3%,不一致,20%
+P74,id,スイッチ入れるな,スイッチを入れないでください,Jangan hidupkan sakelar,False,63.6%,不一致,50%
+P75,id,スイッチ切るな,スイッチを切らないでください,Jangan matikan sakelar,False,57.1%,不一致,42%
+P76,id,使用禁止,使用禁止,Dilarang digunakan,True,100.0%,完全一致,100%
+P77,id,5S,5S,5S,True,100.0%,完全一致,100%
+P78,id,整理,整理（せいり）,Sortir (Seiri),False,44.4%,不一致,25%
+P79,id,整頓,アレンジメント（整頓）,Penataan (Seiton),False,30.8%,不一致,16%
+P80,id,清掃,清掃（せいそう）,Pembersihan (Seiso),False,40.0%,不一致,22%
+P81,id,清潔,清潔（せいけつ）,Kebersihan (Seiketsu),False,40.0%,不一致,22%
+P82,id,しつけ,躾（しつけ）,Disiplin (Shitsuke),False,66.7%,不一致,45%
+P83,id,掃除（する）,クリーン,Membersihkan,False,0.0%,不一致,0%
+P84,id,片づける,片付ける,Merapikan,False,75.0%,不一致,78%
+P85,id,捨てる,捨てる,Membuang,True,100.0%,完全一致,100%
+P86,id,汚い,汚い,Kotor,True,100.0%,完全一致,100%
+P87,id,汚れる,汚れる,Menjadi kotor,True,100.0%,完全一致,100%
+P88,id,分別（する）,分別（ゴミ）,Memilah (sampah),False,66.7%,不一致,50%
+P89,id,燃えないごみ,ゴミは燃えない,Sampah tidak terbakar,False,61.5%,不一致,44%
+P90,id,燃えるごみ,可燃性廃棄物,Sampah mudah terbakar,False,18.2%,不一致,10%
+P91,id,挟まれる,立ち往生,Terjepit,False,0.0%,不一致,0%
+P92,id,巻き込まれる,興味がある / 絡み合う,Tertarik masuk / Terbelit,False,11.1%,不一致,6%
+P93,id,やけど（する）,バーンズ/バーンズ,Luka bakar / Terbakar,False,0.0%,不一致,0%
+P94,id,落ちる,秋,Jatuh,False,0.0%,不一致,0%
+P95,id,すべる,滑った,Tergelincir,False,0.0%,不一致,0%
+P96,id,転ぶ,落下,Terjatuh,False,0.0%,不一致,0%
+P97,id,濡れる,濡れた,Basah,False,66.7%,不一致,50%
+P98,id,衛生,衛生,Higiene,True,100.0%,完全一致,100%
+P99,id,避難（する）,避難,Evakuasi,False,50.0%,不一致,30%
+P100,id,救   車,救急車,Ambulans,False,50.0%,不一致,50%
+P101,id,災害,災害,Bencana,True,100.0%,完全一致,100%
+P102,id,地震,地震,Gempa bumi,True,100.0%,完全一致,100%
+P103,id,もぐる,下に隠れる,Berlindung di bawah,False,25.0%,不一致,14%
+P104,id,火気厳禁,火気厳禁,Dilarang menyalakan api,True,100.0%,完全一致,100%
+P105,id,開放厳禁,開封禁止,Dilarang dibuka,False,50.0%,不一致,33%
+P106,id,標識,標識・マーク,Rambu / Tanda,False,50.0%,不一致,30%
+P107,id,気をつける,気をつけて,Hati-hati,False,80.0%,不一致,80%
+P108,id,持ち込む,持ち込む,Membawa masuk,True,100.0%,完全一致,100%
+P109,id,防ぐ,防ぐ,Mencegah,True,100.0%,完全一致,100%
+P110,id,火,火,Api,True,100.0%,完全一致,100%
+P111,id,煙,煙,Asap,True,100.0%,完全一致,100%
+P112,id,消火,消火,Pemadaman api,True,100.0%,完全一致,100%
+P113,id,消火器,消火器（APAR）,Alat pemadam api (APAR),False,50.0%,不一致,30%
+P114,id,非常ベル,緊急ベル,Bel darurat,False,50.0%,不一致,33%
+P115,id,火災報知機,火災警報,Alarm kebakaran,False,66.7%,不一致,50%
+P116,id,逃げる,自分を救う,Menyelamatkan diri,False,0.0%,不一致,0%
+P117,id,現場,勤務地,Lokasi kerja,False,0.0%,不一致,0%
+P118,id,作業,仕事,Pekerjaan,False,0.0%,不一致,0%
+P119,id,ミーティング,ミーティング,Rapat,True,100.0%,完全一致,100%
+P120,id,研修（する）,トレーニング,Pelatihan,False,0.0%,不一致,0%
+P121,id,実習（する）,練習する,Praktik,False,60.0%,不一致,42%
+P122,id,あいさつ,よろしく,Salam,False,0.0%,不一致,0%
+P123,id,確認（する）,確認・確認,Konfirmasi / Memeriksa,False,36.4%,不一致,28%
+P124,id,報告（する）,報告,Melaporkan,False,50.0%,不一致,30%
+P125,id,連絡（する）,接触,Menghubungi,False,0.0%,不一致,0%
+P126,id,相談（する）,相談する,Berkonsultasi,False,80.0%,不一致,80%
+P127,id,渡す,届ける,Menyerahkan,False,0.0%,不一致,0%
+P128,id,申請書,申込書,Formulir permohonan,False,66.7%,不一致,50%
+P129,id,寝坊（する）,遅く起きる,Bangun kesiangan,False,18.2%,不一致,10%
+P130,id,技能,スキル,Keterampilan,False,0.0%,不一致,0%
+P131,id,技能検定試験,スキル認定試験,Ujian sertifikasi keterampilan,False,46.2%,不一致,30%
+P132,id,受検（する）,試験を受ける,Mengikuti ujian,False,33.3%,不一致,20%
+P133,id,資格,資格・証明書,Kualifikasi / Sertifikat,False,50.0%,不一致,30%
+P134,id,手当,手当,Tunjangan,True,100.0%,完全一致,100%
+P135,id,社員,従業員,Karyawan,False,40.0%,不一致,25%
+P136,id,部長,部門マネージャー,Manajer departemen,False,20.0%,不一致,12%
+P137,id,課長,課長,Kepala seksi (Section Manager),True,100.0%,完全一致,100%
+P138,id,更衣室,更衣室,Ruang ganti,True,100.0%,完全一致,100%
+P139,id,台車,カート,Troli,False,0.0%,不一致,0%
+P140,id,床,床,Lantai,True,100.0%,完全一致,100%
+P141,id,出口,出口,Pintu keluar,True,100.0%,完全一致,100%
+P142,id,電気,電気,Listrik,True,100.0%,完全一致,100%
+P143,id,警報音,アラーム音,Bunyi alarm,False,25.0%,不一致,14%
+P144,id,コンセント,電気ソケット,Stopkontak,False,18.2%,不一致,11%
+P145,id,作業場,作業エリア,Area kerja,False,50.0%,不一致,33%
+P146,id,作業台,ワークベンチ,Meja kerja,False,0.0%,不一致,0%
+P147,id,工事現場,建設現場,Lokasi konstruksi,False,50.0%,不一致,33%
+P148,id,職長,フォアマン,Mandor,False,0.0%,不一致,0%
+P149,id,作業責任者,作業担当者,Penanggung jawab pekerjaan,False,60.0%,不一致,42%
+P150,id,禁止,禁断,Dilarang,False,50.0%,不一致,33%
+P151,id,表示板,看板,Papan tanda,False,40.0%,不一致,25%
+P152,id,禁止事項,禁止されているもの,Hal-hal yang dilarang,False,30.8%,不一致,18%
+P153,id,避難訓練,避難訓練,Latihan evakuasi,True,100.0%,完全一致,100%
+P154,id,感電（する）,感電した,Tersengat listrik,False,40.0%,不一致,25%
+P155,id,防止（する）,防止,Pencegahan,False,50.0%,不一致,30%
+P156,id,予防（する）,防止,Pencegahan,False,25.0%,不一致,14%
+P157,id,転倒（する）,つまずく/転倒,Tersandung / Terjatuh,False,30.8%,不一致,18%
+P158,id,挟まる,立ち往生,Terjepit,False,0.0%,不一致,0%
+P159,id,足元,踏み場,Area pijakan,False,0.0%,不一致,0%
+P160,id,不安定（な）,不安定,Tidak stabil,False,66.7%,不一致,45%
+P161,id,後片付け,最終的な整理,Beres-beres akhir,False,0.0%,不一致,0%
+P162,id,救   箱,救急箱,Kotak P3K,False,50.0%,不一致,50%
+P163,id,絆創膏,石膏,Plester,False,40.0%,不一致,25%
+P164,id,体調,体調,Kondisi fisik,True,100.0%,完全一致,100%
+P165,id,血,血,Darah,True,100.0%,完全一致,100%
+P166,id,熱中症,熱中症,Heatstroke (serangan panas),True,100.0%,完全一致,100%
+P167,id,吐き気,吐き気,Mual,True,100.0%,完全一致,100%
+P168,id,嘔吐（する）,吐瀉物,Muntah,False,22.2%,不一致,12%
+P169,id,足がつる,脚のけいれん,Kram kaki,False,0.0%,不一致,0%
+P170,id,気分が悪い,気分が悪い,Merasa tidak enak badan,True,100.0%,完全一致,100%
+P171,id,寝不足,睡眠不足,Kurang tidur,False,57.1%,不一致,40%
+P172,id,安全ネット,セーフティネット,Jaring keselamatan,False,46.2%,不一致,30%
+P173,id,安全点検,安全確認,Pemeriksaan keselamatan,False,50.0%,不一致,33%
+P174,id,KY活動（危険予知活動）,KY（危険予知）活動,Kegiatan KY (Prediksi Bahaya),False,81.8%,不一致,100%
+P175,id,危険,危険,Bahaya,True,100.0%,完全一致,100%
+P176,id,ぶつかる,衝突/衝突,Menabrak / Membentur,False,0.0%,不一致,0%
+P177,id,当たる,影響を受ける/懸念される,Terkena / Mengenai,False,13.3%,不一致,7%
+P178,id,下敷きになる,ヒット,Tertimpa,False,0.0%,不一致,0%
+P179,id,打つ,打つ,Memukul,True,100.0%,完全一致,100%
+P180,id,バランスを崩す,バランスの喪失,Kehilangan keseimbangan,False,57.1%,不一致,40%
+P181,id,倒れる,折りたたまれた/折りたたまれた,Tumbang / Roboh,False,11.1%,不一致,12%
+P182,id,転落（する）,高所からの落下,Jatuh dari ketinggian,False,15.4%,不一致,8%
+P183,id,指差呼称,指差しと呼びかけ,Tunjuk-sebut (Pointing & Calling),False,50.0%,不一致,33%
+P184,id,ヒヤリハット,ニアミス,Kejadian nyaris celaka (near-miss),False,0.0%,不一致,0%
+P185,id,原因,理由,Penyebab,False,0.0%,不一致,0%
+P186,id,対策,対策,Tindakan penanggulangan,True,100.0%,完全一致,100%
+P187,id,落下（する）,秋,Jatuh,False,0.0%,不一致,0%
+P188,id,墜落（する）,落下（高所からの落下）,Jatuh (dari ketinggian),False,35.3%,不一致,25%
+P189,id,確認（する）,確認する,Memastikan / Konfirmasi,False,80.0%,不一致,80%
+P190,id,作業着,作業服,Seragam kerja,False,66.7%,不一致,50%
+P191,id,作業服,作業服,Pakaian kerja,True,100.0%,完全一致,100%
+P192,id,作業靴,作業靴,Sepatu kerja,True,100.0%,完全一致,100%
+P193,id,手袋,手袋,Sarung tangan,True,100.0%,完全一致,100%
+P194,id,帽子,帽子,Topi,True,100.0%,完全一致,100%
+P195,id,保護帽（ヘルメット）,安全ヘルメット,Helm keselamatan,False,58.8%,不一致,41%
+P196,id,保護具,PPE（個人用保護具）,APD (Alat Pelindung Diri),False,42.9%,不一致,24%
+P197,id,あごひも,あごストラップ,Tali dagu,False,36.4%,不一致,22%
+P198,id,ボタン,ボタン,Kancing,True,100.0%,完全一致,100%
+P199,id,ポケット,ポケット,Saku,True,100.0%,完全一致,100%
+P200,id,保護メガネ,保護メガネ,Kacamata pelindung,True,100.0%,完全一致,100%
+P201,id,マスク,フェイスマスク,Masker,False,60.0%,不一致,38%
+P202,id,栓,プラグ/カバー,Sumbat / Penutup,False,0.0%,不一致,0%
+P203,id,安全靴,安全靴,Sepatu keselamatan,True,100.0%,完全一致,100%
+P204,id,墜落制止用器具（安全帯）,墜落制止用器具（安全ハーネス）,Perangkat penahan jatuh (safety harness),False,81.5%,不一致,80%
+P205,id,業務,タスク/ジョブ,Tugas / Pekerjaan,False,0.0%,不一致,0%
+P206,id,時間厳守,時間通りに,Tepat waktu,False,44.4%,不一致,28%
+P207,id,予定,スケジュール/計画,Jadwal / Rencana,False,0.0%,不一致,0%
+P208,id,日付,日付,Tanggal,True,100.0%,完全一致,100%
+P209,id,準備（する）,準備 / 準備中,Persiapan / Mempersiapkan,False,28.6%,不一致,22%
+P210,id,会議,ミーティング,Rapat,False,0.0%,不一致,0%
+P211,id,朝礼,朝の点呼 / 朝のブリーフィング,Apel pagi / briefing pagi,False,11.1%,不一致,7%
+P212,id,報告書,報告,Laporan,False,80.0%,不一致,60%
+P213,id,マニュアル,マニュアル,Manual,True,100.0%,完全一致,100%
+P214,id,作業手順書,標準操作手順（SOP）,Prosedur kerja (SOP),False,37.5%,不一致,23%
+P215,id,調子,状態 / パフォーマンス,Kondisi / Performa,False,0.0%,不一致,0%
+P216,id,立入禁止,立入り禁止,Dilarang masuk,False,88.9%,不一致,96%
+P217,id,禁煙,禁煙,Dilarang merokok,True,100.0%,完全一致,100%
+P218,id,火気厳禁,火気厳禁,Dilarang menyalakan api,True,100.0%,完全一致,100%
+P219,id,駐車禁止,駐車禁止,Dilarang parkir,True,100.0%,完全一致,100%
+P220,id,足もと注意,足元に注意してください,Hati-hati melangkah,False,37.5%,不一致,23%
+P221,id,開口部注意,開口部/穴に注意,Awas bukaan / lubang,False,76.9%,不一致,78%
+P222,id,感電注意,感電に注意してください,Awas sengatan listrik,False,53.3%,不一致,36%
+P223,id,堕落注意,高所からの落下に注意してください,Awas jatuh dari ketinggian,False,30.0%,不一致,17%
+P224,id,頭上注意,落下物にご注意ください（上）,Awas benda jatuh (di atas),False,22.2%,不一致,20%
+P225,id,警報設備,警報装置,Peralatan alarm,False,50.0%,不一致,33%
+P226,id,消火器,消火器（APAR）,Alat pemadam api (APAR),False,50.0%,不一致,30%
+P227,id,AED設置場所,AEDの場所,Lokasi AED,False,76.9%,不一致,78%
+P228,id,保護帽着用,安全ヘルメットの着用は義務付けられています,Wajib memakai helm keselamatan,False,15.4%,不一致,8%
+P229,id,安全帯使用,安全ハーネスを使用する,Gunakan safety harness,False,50.0%,不一致,33%
+P230,id,昇降階段,階段の上り下り,Tangga naik-turun,False,36.4%,不一致,25%
+P231,id,休憩所,休憩所,Tempat istirahat,True,100.0%,完全一致,100%
+P232,id,最大積載荷重,最大積載量,Kapasitas muatan maksimum,False,72.7%,不一致,77%
+P233,id,喫煙所,喫煙エリア,Area merokok,False,50.0%,不一致,33%
+P234,id,整理整頓,整頓と整理,Kerapian dan penataan,False,44.4%,不一致,95%
+P235,id,安全通路,安全ライン,Jalur keselamatan,False,44.4%,不一致,28%
+P236,id,三連クランプ,トリプルクランプ,Klem tiga sambungan (triple clamp),False,57.1%,不一致,44%
+P237,id,"ベルトコンベア
+（ベルコン）",ベルトコンベア,Konveyor sabuk (belt conveyor),False,66.7%,不一致,45%
+P238,id,かけや,木槌（かけや）,Palu kayu (kakeya),False,60.0%,不一致,38%
+P239,id,ランマ,ハンドコンパクター（ランマー）,Pemadat tangan (rammer),False,33.3%,不一致,18%
+P240,id,自在クランプ,スイベルクランプ,Klem putar (swivel clamp),False,57.1%,不一致,40%
+P241,id,キャッチクランプ,フッククランプ,Klem pengait,False,66.7%,不一致,76%
+P242,id,吊り上げ用クランプ,リフティングクランプ,Klem pengangkat,False,42.1%,不一致,28%
+P243,id,直交クランプ,角度/垂直クランプ,Klem siku / tegak lurus,False,66.7%,不一致,50%
+P244,id,フック,フック,Kait,True,100.0%,完全一致,100%
+P245,id,ストレートシャックル,ストレートシャックル,Shackle lurus,True,100.0%,完全一致,100%
+P246,id,滑車,滑車,Katrol (pulley),True,100.0%,完全一致,100%
+P247,id,クレーン,クレーン,Kren (crane),True,100.0%,完全一致,100%
+P248,id,移動式クレーン,移動式クレーン,Mobile crane,True,100.0%,完全一致,100%
+P249,id,介しゃくロープ,キャッチフレーズ,Tali pemandu (tag line),False,13.3%,不一致,7%
+P250,id,昇降階段,階段の上り下り,Tangga naik-turun,False,36.4%,不一致,25%
+P251,id,筋かい止めピン,ブレースピン,Pin pengikat bracing,False,30.8%,不一致,18%
+P252,id,脚柱ジョイント,ポール接続,Sambungan tiang,False,0.0%,不一致,0%
+P253,id,連結ピン,接続ピン,Pin penghubung,False,50.0%,不一致,33%
+P254,id,ジョイント金具,接続継手,Fiting sambungan,False,0.0%,不一致,0%
+P255,id,レバーブロック,レバーブロック（レバーハンドル）,Lever block (takel tuas),False,60.9%,不一致,39%
+P256,id,電動のこ（丸のこ）,電動丸鋸,Gergaji bundar listrik,False,46.2%,不一致,37%
+P257,id,モンキースパナ,レンチ,Kunci inggris,False,20.0%,不一致,11%
+P258,id,親綱支柱,ライフラインポール,Tiang lifeline,False,0.0%,不一致,0%
+P259,id,ブラケット,ブラケット,Braket,True,100.0%,完全一致,100%
+P260,id,梯子,ラダー,Tangga,False,0.0%,不一致,0%
+P261,id,親綱,ライフライン,Tali pengaman (lifeline),False,0.0%,不一致,0%
+P262,id,建枠（ビティ）,足場フレーム,Rangka perancah (frame scaffold),False,0.0%,不一致,0%
+P263,id,メッシュシート,防護ネット（メッシュシート）,Jaring pelindung (mesh sheet),False,66.7%,不一致,45%
+P264,id,防音パネル,防音パネル,Panel peredam suara,True,100.0%,完全一致,100%
+P265,id,朝顔材,アサガオ（保護用の天蓋）,Kanopi pelindung (asagao),False,0.0%,不一致,0%
+P266,id,架空線,架空ケーブル,Kabel udara,False,44.4%,不一致,28%
+P267,id,幅木（仮設足場）,足場の縁板（つま先板）,Papan tepi perancah (toe board),False,31.6%,不一致,28%
+P268,id,単管,足場管（単管）,Pipa scaffolding (single pipe),False,44.4%,不一致,25%
+P269,id,脚立,折りたたみはしご,Tangga lipat,False,0.0%,不一致,0%
+P270,id,作業半径,作業半径,Jari-jari kerja,True,100.0%,完全一致,100%
+P271,id,仮ボルト,仮ボルト,Baut sementara,True,100.0%,完全一致,100%
+P272,id,手直し,手直し/軽微な修理,Rework / Perbaikan kecil,False,50.0%,不一致,30%
+P273,id,面一,フラッシュサーフェス,Rata permukaan (flush),False,0.0%,不一致,0%
+P274,id,点検事項,検査項目,Item pemeriksaan,False,50.0%,不一致,33%
+P275,id,積載荷重,負荷負荷,Beban muatan,False,25.0%,不一致,20%
+P276,id,すき間,ギャップ,Celah,False,0.0%,不一致,0%
+P277,id,通りを見る,真直度の確認,Memeriksa kelurusan,False,0.0%,不一致,0%
+P278,id,組立,組み立て/設置,Perakitan / Pemasangan,False,44.4%,不一致,28%
+P279,id,地組,地上組み立て,Perakitan di tanah,False,50.0%,不一致,33%
+P280,id,天端,トップレベル,Permukaan atas (top level),False,0.0%,不一致,0%
+P281,id,玉掛け,荷役,Pengikatan beban (slinging),False,0.0%,不一致,0%
+P282,id,合図,信号,Isyarat,False,0.0%,不一致,0%
+P283,id,定格荷重,公称容量,Kapasitas nominal,False,0.0%,不一致,0%
+P284,id,たち,垂直/真直度,Plumb / Ketegakan,False,0.0%,不一致,0%
+P285,id,職長,フォアマン,Mandor,False,0.0%,不一致,0%
+P286,id,安全カバー,安全カバー,Penutup pengaman,True,100.0%,完全一致,100%
+P287,id,安全帯,安全ベルト/ハーネス,Sabuk/ harness keselamatan,False,30.8%,不一致,18%
+P288,id,インサート,挿入/アンカー,Insert / angkur tanam,False,33.3%,不一致,20%
+P289,id,スペーサ,スペーサー,Spacer,False,88.9%,不一致,72%
+P290,id,鉄筋,鉄筋,Besi tulangan (rebar),True,100.0%,完全一致,100%
+P291,id,電工ドラム（ドラム）,電気ケーブルリール,Gulungan kabel listrik,False,10.5%,不一致,7%
+P292,id,電動丸のこ（電のこ）,電動丸鋸,Gergaji bundar listrik,False,42.9%,不一致,37%
+P293,id,パッキン,ガスケット,Paking / Gasket,False,22.2%,不一致,12%
+P294,id,小バール,ジェミー,Linggis kecil,False,25.0%,不一致,14%
+P295,id,大バール,大きなバール,Linggis besar,False,80.0%,不一致,80%
+P296,id,化粧合板,装飾合板,Plywood dekoratif,False,50.0%,不一致,33%
+P297,id,普通合板,標準合板,Plywood standar,False,50.0%,不一致,33%
+P298,id,スタイロフォーム,発泡スチロール（XPS/EPS）,Styrofoam (XPS/EPS),False,25.0%,不一致,15%
+P299,id,面木,面取り刃,Bilah chamfer,False,33.3%,不一致,20%
+P300,id,バイブレーター,コンクリートバイブレーター,Vibrator beton,False,70.0%,不一致,48%
+P301,id,剥離剤,離型剤,Agen pelepas (release agent),False,66.7%,不一致,50%
+P302,id,けこみ板,ライザーボード（階段）,Papan riser (tangga),False,0.0%,不一致,0%
+P303,id,目地棒,ジョイントロッド,Batang nat (joint rod),False,0.0%,不一致,0%
+P304,id,コンクリート,コンクリート,Beton,True,100.0%,完全一致,100%
+P305,id,コンベックス,ロールメーター,Meteran gulung,False,0.0%,不一致,0%
+P306,id,作業用手袋,作業用手袋,Sarung tangan kerja,True,100.0%,完全一致,100%
+P307,id,差金,大工の定規,Penggaris siku tukang,False,0.0%,不一致,0%
+P308,id,水平器,ウォーターパス,Waterpass,False,0.0%,不一致,0%
+P309,id,墨さし,インクマーカーツール,Alat penanda tinta,False,0.0%,不一致,0%
+P310,id,墨つぼ,チョークラインツール,Alat garis tinta (chalk line),False,0.0%,不一致,0%
+P311,id,"丸セパレーター
+（丸セパ）",丸型セパレーター,Separator bulat,False,66.7%,不一致,78%
+P312,id,天端釘,水平調整釘,Paku penentu level,False,25.0%,不一致,14%
+P313,id,ケレン,削り取り/清掃（クール）,Pengerokan/pembersihan (keren),False,0.0%,不一致,0%
+P314,id,型枠支保工,型枠サポート,Penyangga bekisting,False,36.4%,不一致,22%
+P315,id,"基礎型枠
+（メタルフォーム）",基礎型枠（金属型枠）,Bekisting pondasi (metal form),False,50.0%,不一致,37%
+P316,id,釘仕舞い,釘付けの暖炉,Perapian paku,False,20.0%,不一致,11%
+P317,id,スラブ天端,スラブの最上層,Level atas slab,False,50.0%,不一致,33%
+P318,id,高さ（タッパ）,身長,Ketinggian,False,0.0%,不一致,0%
+P319,id,建込み,インストール,Pemasangan,False,0.0%,不一致,0%
+P320,id,通り,線/直線性,Garis / Kelurusan,False,0.0%,不一致,0%
+P321,id,蹴上げ,ライザー（階段）,Riser (tangga),False,0.0%,不一致,0%
+P322,id,蹴込み,トレッド面積,Bidang injak (tread),False,0.0%,不一致,0%
+P323,id,工具の手入れ,ツールのメンテナンス,Perawatan alat,False,12.5%,不一致,7%
+P324,id,下げ振り,振り子（下げ振り）,Bandul unting-unting (plumb bob),False,61.5%,不一致,40%
+P325,id,地墨,土地基準線,Garis acuan tanah,False,28.6%,不一致,16%
+P326,id,捨てコンクリート,コンクリート作業床,Beton lantai kerja,False,70.6%,不一致,76%
+P327,id,はね出し,カンチレバー,Kantilever,False,0.0%,不一致,0%
+P328,id,はらみ,膨らんだ,Menggembung (bulging),False,28.6%,不一致,16%
+P329,id,前面,正面,Bagian depan,False,50.0%,不一致,33%
+P330,id,養生,保護/硬化,Proteksi / curing,False,0.0%,不一致,0%
+P331,id,レベル,レベル,Level,True,100.0%,完全一致,100%
+P332,id,割付,部門・レイアウト,Pembagian / Layout,False,0.0%,不一致,0%
+P333,id,埋め込み金物,アンカー/埋め込み鉄,Angkur/besi tanam,False,50.0%,不一致,33%
+P334,id,解体する（バラス）,開梱,Membongkar,False,0.0%,不一致,0%
+P335,id,かぶり寸法,コンクリートかぶり厚さ,Tebal selimut beton,False,37.5%,不一致,23%
+P336,id,異形棒鋼,異形鉄筋,Besi ulir (deformed bar),False,50.0%,不一致,33%
+P337,id,結束線,結束ワイヤー,Kawat ikat,False,44.4%,不一致,28%
+P338,id,結束工具,製本ツール,Alat pengikat,False,0.0%,不一致,0%
+P339,id,鉄筋切断機,鉄筋カッター,Pemotong tulangan,False,36.4%,不一致,22%
+P340,id,鉄筋曲げ加工機,鉄筋ベンダー,Pembengkok tulangan,False,30.8%,不一致,18%
+P341,id,フック,フック,Kait,True,100.0%,完全一致,100%
+P342,id,保護帽（ヘルメット）,安全ヘルメット,Helm keselamatan,False,58.8%,不一致,41%
+P343,id,アンカー,アンカー,Angkur (anchor),True,100.0%,完全一致,100%
+P344,id,加工場,製作ワークショップ,Bengkel fabrikasi,False,0.0%,不一致,0%
+P345,id,スペーサ―,スペーサー,Spacer,False,80.0%,不一致,96%
+P346,id,ドーナツ,ドーナツスペーサー,Spacer donat,False,61.5%,不一致,40%
+P347,id,加工配筋図,鉄筋製作図,Gambar fabrikasi tulangan,False,40.0%,不一致,25%
+P348,id,配筋詳細図,補強の詳細画像,Gambar detail penulangan,False,33.3%,不一致,20%
+P349,id,開口補強筋,開口部補強補強,Tulangan penguat bukaan,False,66.7%,不一致,80%
+P350,id,幅止め筋,幅広の区切り線,Batang pembatas lebar,False,18.2%,不一致,10%
+P351,id,差筋,ダボバー,Dowel bar,False,0.0%,不一致,0%
+P352,id,柱主筋,主柱補強,Tulangan utama kolom,False,28.6%,不一致,40%
+P353,id,柱配筋,柱の補強,Penulangan kolom,False,28.6%,不一致,16%
+P354,id,スラブ筋,プレート補強（スラブ）,Tulangan pelat (slab),False,40.0%,不一致,25%
+P355,id,ベース筋,基礎補強,Tulangan pondasi,False,0.0%,不一致,0%
+P356,id,帯筋（フープ）,フープ,Sengkang (hoop),False,60.0%,不一致,38%
+P357,id,下端筋,下部補強,Tulangan bawah,False,28.6%,不一致,16%
+P358,id,上端筋,上部補強,Tulangan atas,False,28.6%,不一致,16%
+P359,id,主筋,主な補強,Tulangan utama,False,33.3%,不一致,20%
+P360,id,あばら筋,あぶみ,Sengkang / Stirrup,False,28.6%,不一致,16%
+P361,id,はかま筋,臀部の補強,Tulangan haunch,False,0.0%,不一致,0%
+P362,id,縦筋,縦方向の補強,Tulangan memanjang,False,25.0%,不一致,14%
+P363,id,下筋,下部補強,Tulangan bawah,False,33.3%,不一致,20%
+P364,id,横筋,横方向の補強,Tulangan melintang,False,25.0%,不一致,14%
+P365,id,腹筋,体の骨（ウェブ）,Tulangan badan (web),False,0.0%,不一致,0%
+P366,id,配力筋,流通強化,Tulangan distribusi,False,0.0%,不一致,0%
+P367,id,上筋,上部補強,Tulangan atas,False,33.3%,不一致,20%
+P368,id,スパイラル筋,スパイラル補強,Tulangan spiral,False,76.9%,不一致,78%
+P369,id,鉄筋径,鉄筋直径,Diameter tulangan,False,85.7%,不一致,95%
+P370,id,かぶり厚さ,毛布の厚さ,Tebal selimut,False,40.0%,不一致,25%
+P371,id,ℝ度,Rサイズ（半径）,Ukuran R (radius),False,0.0%,不一致,0%
+P372,id,シングル,シングル,Tunggal,True,100.0%,完全一致,100%
+P373,id,ダブル,ダブル,Ganda,True,100.0%,完全一致,100%
+P374,id,千鳥結束,交互結び,Ikatan selang-seling,False,25.0%,不一致,14%
+P375,id,切断寸法,切断長さ,Panjang potong,False,50.0%,不一致,33%
+P376,id,加工寸法,製作サイズ,Ukuran fabrikasi,False,0.0%,不一致,0%
+P377,id,重ね継手,重ね継ぎ,Sambungan tumpang-tindih (lap splice),False,75.0%,不一致,78%
+P378,id,圧接継手,プレス溶接継手,Sambungan tekan/las tekan,False,54.5%,不一致,37%
+P379,id,開口部,絞り,Bukaan,False,0.0%,不一致,0%
+P380,id,溶接金網,金網（溶接金網）,Wire mesh (jaring kawat las),False,66.7%,不一致,45%
+P381,id,搬出,発行/発送,Mengeluarkan / Kirim keluar,False,0.0%,不一致,0%
+P382,id,搬入,入力/送信,Memasukkan / Kirim masuk,False,28.6%,不一致,16%
+P383,id,基礎,財団,Pondasi,False,0.0%,不一致,0%
+P384,id,機械式継手,機械的接続,Sambungan mekanis,False,40.0%,不一致,25%
+P385,id,配筋検査,補強検査,Pemeriksaan penulangan,False,50.0%,不一致,33%
+P386,id,トラクタ,トラクター,Traktor,False,88.9%,不一致,72%
+P387,id,ブルドーザ,ブルドーザー,Bulldozer,False,90.9%,不一致,75%
+P388,id,トラクタショベル,トラクターショベル,Traktor shovel,False,94.1%,不一致,97%
+P389,id,ホイルローダ,ホイールローダー,Wheel loader,False,85.7%,不一致,100%
+P390,id,ダンプトラック,ダンプトラック,Dump truk,True,100.0%,完全一致,100%
+P391,id,油圧ショベル,油圧ショベル,Excavator hidraulik,True,100.0%,完全一致,100%
+P392,id,バックホウ,バックホー,Backhoe,False,80.0%,不一致,80%
+P393,id,ローディングショベル,ローディングショベル,Loading shovel,True,100.0%,完全一致,100%
+P394,id,ローラ,ローラー,Roller,False,85.7%,不一致,67%
+P395,id,バケット,バケツ,Bucket,False,57.1%,不一致,40%
+P396,id,ブーム,ブーム,Boom,True,100.0%,完全一致,100%
+P397,id,アーム,アーム,Arm,True,100.0%,完全一致,100%
+P398,id,ブレード（排土板）,ブレード（ドーザー）,Blade (dozer),False,63.2%,不一致,78%
+P399,id,タイヤ,タイヤ,Ban,True,100.0%,完全一致,100%
+P400,id,クローラ,トラック/チェーン,Track / Rantai,False,30.8%,不一致,30%
+P401,id,キー（鍵）,鍵,Kunci,False,33.3%,不一致,18%
+P402,id,"作業装置
+（アタッチメント）",作業機（アタッチメント）,Peralatan kerja (attachment),False,84.6%,不一致,94%
+P403,id,エンジン,エンジン,Engine,True,100.0%,完全一致,100%
+P404,id,ディーゼルエンジン,ディーゼルエンジン,Mesin diesel,True,100.0%,完全一致,100%
+P405,id,エンジンオイル,エンジンオイル,Oli mesin,True,100.0%,完全一致,100%
+P406,id,"オルタネータ
+（充電発電機）",オルタネーター,Alternator,False,57.1%,不一致,41%
+P407,id,バッテリ,バッテリー,Baterai,False,88.9%,不一致,72%
+P408,id,燃料,燃料,Bahan bakar,True,100.0%,完全一致,100%
+P409,id,軽油,太陽光（ディーゼル）,Solar (diesel),False,0.0%,不一致,0%
+P410,id,ブレーキ,ブレーキ,Rem,True,100.0%,完全一致,100%
+P411,id,油圧シリンダ,油圧シリンダー,Silinder hidrolik,False,92.3%,不一致,77%
+P412,id,油圧モータ,油圧モーター,Motor hidrolik,False,90.9%,不一致,75%
+P413,id,油圧ポンプ,油圧ポンプ,Pompa hidrolik,True,100.0%,完全一致,100%
+P414,id,水漏れ,水漏れ,Bocor air,True,100.0%,完全一致,100%
+P415,id,油漏れ,オイル漏れ,Bocor oli,False,50.0%,不一致,33%
+P416,id,冷却水,冷却剤,Cairan pendingin,False,66.7%,不一致,50%
+P417,id,ブレーキ液,ブレーキフルード,Minyak rem,False,61.5%,不一致,50%
+P418,id,燃料タンク,燃料タンク,Tangki bahan bakar,True,100.0%,完全一致,100%
+P419,id,ファンベルト,ファンベルト,Tali kipas,True,100.0%,完全一致,100%
+P420,id,空気圧,空気圧,Tekanan udara,True,100.0%,完全一致,100%
+P421,id,クラッチ,クラッチ,Kopling,True,100.0%,完全一致,100%
+P422,id,発進,歩き始める,Mulai berjalan,False,0.0%,不一致,0%
+P423,id,ブレーキ,ブレーキ,Rem,True,100.0%,完全一致,100%
+P424,id,アイドリング,アイドル,Idle,False,60.0%,不一致,42%
+P425,id,走行,徒歩 / 運転,Berjalan / Mengemudi,False,0.0%,不一致,0%
+P426,id,旋回,ターン/ターン（スイング）,Berputar / Menoleh (swing),False,0.0%,不一致,0%
+P427,id,安全ロック,安全ロック,Kunci pengaman,True,100.0%,完全一致,100%
+P428,id,安全支柱,安全ブレース,Penopang pengaman,False,40.0%,不一致,25%
+P429,id,補給（する）,充填/追加,Mengisi / Menambah,False,0.0%,不一致,0%
+P430,id,駐車（する）,駐車場,Parkir,False,44.4%,不一致,28%
+P431,id,歩行者,歩行者,Pejalan kaki,True,100.0%,完全一致,100%
+P432,id,車両,車両,Kendaraan,True,100.0%,完全一致,100%
+P433,id,死ℝ,死角,Titik buta (blind spot),False,50.0%,不一致,33%
+P434,id,斜面,スロープ,Lereng,False,0.0%,不一致,0%
+P435,id,転圧（する）,圧縮,Pemadatan,False,25.0%,不一致,14%
+P436,id,接触（する）,タッチ/接触,Bersentuhan / Kontak,False,33.3%,不一致,20%
+P437,id,作動（する）,操作する,Beroperasi,False,60.0%,不一致,42%
+P438,id,整備（する）,メンテナンス/サービス,Perawatan / Servis,False,0.0%,不一致,0%
+P439,id,点検（する）,検査・診察,Inspeksi / Pemeriksaan,False,18.2%,不一致,10%
+P440,id,動かす,移動,Menggerakkan,False,40.0%,不一致,25%
+P441,id,運転（する）,操作/運転,Mengoperasikan / Mengemudi,False,36.4%,不一致,22%
+P442,id,測る,測定,Mengukur,False,50.0%,不一致,33%
+P443,id,操作（する）,オペレーティング,Mengoperasikan,False,0.0%,不一致,0%
+P444,id,停止（する）,停止/停止,Berhenti / Menghentikan,False,36.4%,不一致,28%
+P445,id,切る,カット/オフ,Memotong / Mematikan,False,0.0%,不一致,0%
+P446,id,回す,回転,Memutar,False,50.0%,不一致,33%
+P447,id,押す,押す,Menekan,True,100.0%,完全一致,100%
+P448,id,集める,集める,Mengumpulkan,True,100.0%,完全一致,100%
+P449,id,触る,触る,Menyentuh,True,100.0%,完全一致,100%
+P450,id,縛る,ネクタイ,Mengikat,False,0.0%,不一致,0%
+P451,id,揃える,水平調整/位置合わせ,Meratakan / Menyelaraskan,False,0.0%,不一致,0%
+P452,id,結ぶ,ネクタイ,Mengikat,False,0.0%,不一致,0%
+P453,id,しゃがむ,しゃがむ,Jongkok,True,100.0%,完全一致,100%
+P454,id,調整（する）,調整/カスタマイズ,Penyesuaian / Menyesuaikan,False,26.7%,不一致,15%
+P455,id,閉じる,近い,Menutup,False,0.0%,不一致,0%
+P456,id,取り出す,放出する,Mengeluarkan,False,50.0%,不一致,33%
+P457,id,戻す,戻る,Mengembalikan,False,50.0%,不一致,33%
+P458,id,仕上げる,仕上げ,Menyelesaikan (finishing),False,85.7%,不一致,67%
+P459,id,折れる,壊れた,Patah,False,33.3%,不一致,20%
+P460,id,欠ける,剥離/侵食,Terkelupas / Terkikis,False,0.0%,不一致,0%
+P461,id,近づく,近づいてくる,Mendekat,False,66.7%,不一致,50%
+P462,id,電源を入れる,電源を入れる,Menyalakan daya,True,100.0%,完全一致,100%
+P463,id,電源を落とす,電源を切る,Mematikan daya,False,54.5%,不一致,37%
+P464,id,スイッチを切る,スイッチをオフにする,Mematikan sakelar,False,70.6%,不一致,76%
+P465,id,固定（する）,固定/締め付け,Memfiksasi / Mengencangkan,False,30.8%,不一致,18%
+P466,id,ゆるめる,リラックス,Mengendurkan,False,0.0%,不一致,0%
+P467,id,伸ばす,長くする/伸ばす,Memanjangkan / Meregangkan,False,54.5%,不一致,33%
+P468,id,外す,手放す,Melepas,False,40.0%,不一致,25%
+P469,id,曲げる,曲げる,Membengkokkan,True,100.0%,完全一致,100%
+P470,id,出す,放出する,Mengeluarkan,False,66.7%,不一致,45%
+P471,id,乾かす,乾燥,Mengeringkan,False,40.0%,不一致,25%
+P472,id,数える,カウント,Menghitung,False,0.0%,不一致,0%
+P473,id,運ぶ,輸送,Mengangkut,False,0.0%,不一致,0%
+P474,id,積む,積載/積み重ね,Memuat / Menumpuk,False,22.2%,不一致,14%
+P475,id,下ろす,降ろし/荷降ろし,Menurunkan / Membongkar,False,18.2%,不一致,14%
+P476,id,離れる,立ち去る,Menjauh / Meninggalkan,False,28.6%,不一致,16%
+P477,id,位置,位置,Posisi,True,100.0%,完全一致,100%
+P478,id,寸法,寸法,Dimensi,True,100.0%,完全一致,100%
+P479,id,測定（する）,測定/計測,Pengukuran / Mengukur,False,36.4%,不一致,25%
+P480,id,計測（する）,測定,Pengukuran,False,25.0%,不一致,14%
+P481,id,計測器,測定器,Alat ukur,False,66.7%,不一致,50%
+P482,id,温度,温度,Suhu,True,100.0%,完全一致,100%
+P483,id,高さ,高い,Tinggi,False,50.0%,不一致,33%
+P484,id,長さ,長さ,Panjang,True,100.0%,完全一致,100%
+P485,id,重さ,重い,Berat,False,50.0%,不一致,33%
+P486,id,厚さ,厚さ,Ketebalan,True,100.0%,完全一致,100%
+P487,id,硬さ,暴力,Kekerasan,False,0.0%,不一致,0%
+P488,id,深さ,深さ,Kedalaman,True,100.0%,完全一致,100%
+P489,id,表面,表面,Permukaan,True,100.0%,完全一致,100%
+P490,id,すきま,隙間・ゆるみ,Celah / Kelonggaran,False,0.0%,不一致,0%
+P491,id,中心,中心,Pusat,True,100.0%,完全一致,100%
+P492,id,値,マーク,Nilai,False,0.0%,不一致,0%
+P493,id,安定（する）,安定している / 安定しつつある,Stabil / Menjadi stabil,False,27.3%,不一致,23%
+P494,id,大きさ,サイズ,Ukuran,False,0.0%,不一致,0%
+P495,id,数,額,Jumlah,False,0.0%,不一致,0%
+P496,id,誤差,エラー/許容範囲,Galat / Toleransi,False,0.0%,不一致,0%
+P497,id,中,内側/中間,Dalam / Tengah,False,33.3%,不一致,18%
+P498,id,反対,反対,Berlawanan,True,100.0%,完全一致,100%
+P499,id,周り,その周り,Sekitar,False,66.7%,不一致,45%
+P500,id,尺,尺（日本の単位）,Shaku (satuan Jepang),False,22.2%,不一致,11%
+P501,id,青,青,Biru,True,100.0%,完全一致,100%
+P502,id,赤,赤,Merah,True,100.0%,完全一致,100%
+P503,id,白,白,Putih,True,100.0%,完全一致,100%
+P504,id,黄色,黄色,Kuning,True,100.0%,完全一致,100%
+P505,id,片づける,片付ける,Bereskan / Rapikan,False,75.0%,不一致,78%
+P506,id,捨てる,捨てる,Buang,True,100.0%,完全一致,100%
+P507,id,掃く,掃除,Menyapu,False,50.0%,不一致,33%
+P508,id,持ち上げる,リフト,Mengangkat,False,0.0%,不一致,0%
+P509,id,束ねる,バンドル/1つにまとめる,Membundel / Mengikat jadi satu,False,13.3%,不一致,7%
+P510,id,足をくじく,足首の捻挫,Terkilir pergelangan kaki,False,20.0%,不一致,12%
+P511,id,一輪車,一輪車（手押し車）,Gerobak satu roda (wheelbarrow),False,50.0%,不一致,30%
+P512,id,支柱,ポーランド人,Tiang penyangga,False,0.0%,不一致,0%
+P513,id,ショベル,シャベル,Sekop,False,75.0%,不一致,78%
+P514,id,かけや,木槌（かけや）,Palu kayu (kakeya),False,60.0%,不一致,38%
+Q2,ta,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+R2,si,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+S2,mn,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+T2,ar,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+U2,fa,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+V2,tr,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+W2,ru,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+X2,ur,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+Y2,km,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+Z2,lo,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+AA2,ms,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+AB2,de,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+AC2,hu,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+AD2,cs,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+AE2,pl,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+AF2,nl,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+AG2,da,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+AH2,fi,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+AI2,sv,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+AJ2,lb,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+AK2,af,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%
+AK3,af,技能実習,スキルインターンシップ,Vaardigheidsinternskap,False,0.0%,不一致,0%
+AK4,af,技能実習生,スキルインターン,Vaardigheidsintern,False,0.0%,不一致,0%
+AK5,af,工場,工場,Fabriek,True,100.0%,完全一致,100%
+AK6,af,製造,製造業,Vervaardiging,False,80.0%,不一致,90%
+AK7,af,機械,機械,Masjien,True,100.0%,完全一致,100%
+AK8,af,安全,安全性,Veiligheid,False,80.0%,不一致,95%
+AK9,af,危険（な）,危険な,Gevaarlik,False,75.0%,不一致,78%
+AK10,af,危ない,危険/リスクあり,Gevaarlik / Riskant,False,18.2%,不一致,10%
+AK11,af,清掃,クリーン,Skoonmaak,False,0.0%,不一致,0%
+AK12,af,非常口,非常口,Nooduitgang,True,100.0%,完全一致,100%
+AK13,af,注意,注意 / 警告,Let op / Waarskuwing,False,44.4%,不一致,25%
+AK14,af,火事,やけど,Brand,False,0.0%,不一致,0%
+AK15,af,事故,事故,Ongeluk,True,100.0%,完全一致,100%
+AK16,af,服装,衣類,Kleredrag,False,0.0%,不一致,0%
+AK17,af,安全装置,安全装置,Veiligheidstoestel,True,100.0%,完全一致,100%
+AK18,af,安全カバー,安全カバー/保護フード,Veiligheidsbedekking / Beskermkap,False,62.5%,不一致,40%
+AK19,af,けが,けが,Besering,True,100.0%,完全一致,100%
+AK20,af,けがをする,怪我をする,Beseer raak,False,60.0%,不一致,100%
+AK21,af,電源,電源,Kragtoevoer,True,100.0%,完全一致,100%
+AK22,af,電源を切る,電源を切ってください。,Skakel die krag af,False,50.0%,不一致,33%
+AK23,af,非常停止ボタン,緊急停止ボタン,Noodstopknop,False,71.4%,不一致,76%
+AK24,af,非常停止ボタンを押す,緊急停止ボタンを押してください。,Druk die noodstopknop,False,53.8%,不一致,36%
+AK25,af,ルール,ルール,Reëls,True,100.0%,完全一致,100%
+AK26,af,ルールを守る,ルールに従う,Volg die reëls,False,50.0%,不一致,25%
+AK27,af,止める,停止,Stop,False,40.0%,不一致,25%
+AK28,af,機械を止める,機械を停止する,Stop die masjien,False,76.9%,不一致,78%
+AK29,af,やって,やれよ,Doen dit,False,33.3%,不一致,20%
+AK30,af,止めて,やめろ/やめろ,Hou op / Stop dit,False,20.0%,不一致,16%
+AK31,af,取って,持って行って／持ってきて,Neem dit / Bring dit,False,26.7%,不一致,28%
+AK32,af,だめ（な）,禁止/許可されていません,Verbode / Nie toelaatbaar nie,False,0.0%,不一致,0%
+AK33,af,監理団体,監督組織,Toesighoudende organisasie,False,25.0%,不一致,14%
+AK34,af,技術移転,技術移転,Tegnologie-oordrag,True,100.0%,完全一致,100%
+AK35,af,技能実習期間,インターンシップ期間,Internskaptydperk,False,25.0%,不一致,15%
+AK36,af,職種,職業/職種,Beroep / Poskategorie,False,57.1%,不一致,36%
+AK37,af,在留資格,居住ステータス,Verblyfstatus,False,0.0%,不一致,0%
+AK38,af,パスポート,パスポート,Paspoort,True,100.0%,完全一致,100%
+AK39,af,在留カード,宿泊カード,Verblyfkaart,False,60.0%,不一致,42%
+AK40,af,入管,移民,Immigrasie,False,0.0%,不一致,0%
+AK41,af,在留期間,滞在期間,Verblyftermyn,False,75.0%,不一致,78%
+AK42,af,雇用契約,雇用契約,Dienskontrak,True,100.0%,完全一致,100%
+AK43,af,給与明細,給与明細書,Betaalstrokie,False,88.9%,不一致,72%
+AK44,af,給料,給与,Salaris / Loon,False,50.0%,不一致,33%
+AK45,af,残業手当,残業手当,Oortydbetaling / Oortydtoelae,True,100.0%,完全一致,100%
+AK46,af,労働時間,勤務時間,Werksure,False,50.0%,不一致,33%
+AK47,af,控除（する）,減算,Aftrekking,False,0.0%,不一致,0%
+AK48,af,ボーナス,ボーナス,Bonus,True,100.0%,完全一致,100%
+AK49,af,有休,有給休暇,Betaalde verlof,False,66.7%,不一致,50%
+AK50,af,代休,代休・代替休,Vergoedingsverlof / Vervangingsverlof,False,50.0%,不一致,30%
+AK51,af,労働基準法,雇用基本条件法（SA）,Wet op Basiese Diensvoorwaardes（SA）,False,25.0%,不一致,14%
+AK52,af,労働条件,労働条件,Arbeidsvoorwaardes,True,100.0%,完全一致,100%
+AK53,af,税金,課税,Belasting,False,50.0%,不一致,33%
+AK54,af,所得税,所得税,Inkomstebelasting,True,100.0%,完全一致,100%
+AK55,af,住民税,市税,Munisipale belasting,False,40.0%,不一致,25%
+AK56,af,厚生年金,厚生年金保険,Werknemerspensioenversekering,False,80.0%,不一致,60%
+AK57,af,雇用保険,失業保険,Werkloosheidsversekering,False,50.0%,不一致,33%
+AK58,af,健康保険,健康保険,Gesondheidsversekering,True,100.0%,完全一致,100%
+AK59,af,社会保険,社会保険,Maatskaplike versekering,True,100.0%,完全一致,100%
+AK60,af,労災,労働災害,Bedryfsongeval,False,66.7%,不一致,50%
+AK61,af,労災保険,労働災害に対する補償,Vergoeding vir beroepsbeserings,False,28.6%,不一致,16%
+AK62,af,遅刻（する）,遅すぎる,Te laat kom,False,60.0%,不一致,42%
+AK63,af,早退（する）,早めの出発,Vroeg vertrek,False,18.2%,不一致,10%
+AK64,af,休憩（する）,休憩中,Pouse neem,False,44.4%,不一致,28%
+AK65,af,残業（する）,残業,Oortyd werk,False,50.0%,不一致,30%
+AK66,af,定時,固定労働時間,Vaste werksure,False,50.0%,不一致,33%
+AK67,af,規則,規則/ルール,Regulasies / Reëls,False,50.0%,不一致,30%
+AK68,af,休日,休日,Vrye dag / Rusdag,True,100.0%,完全一致,100%
+AK69,af,始業時間,開始時間,Aanvangstyd,False,75.0%,不一致,78%
+AK70,af,終業時間,終了時間,Eindtyd,False,75.0%,不一致,78%
+AK71,af,指導員,インストラクター,Instrukteur,False,0.0%,不一致,0%
+AK72,af,生活指導員,ライフコーチ,Lewensbegeleier,False,0.0%,不一致,0%
+AK73,af,担当者,責任者,Verantwoordelike persoon,False,33.3%,不一致,20%
+AK74,af,スイッチ入れるな,スイッチを入れないでください。,Moenie die skakelaar aansit nie,False,60.9%,不一致,46%
+AK75,af,スイッチ切るな,スイッチをオフにしないでください。,Moenie die skakelaar afsit nie,False,41.7%,不一致,27%
+AK76,af,使用禁止,使用禁止,Gebruik verbode,True,100.0%,完全一致,100%
+AK77,af,5S,5S,5S,True,100.0%,完全一致,100%
+AK78,af,整理,整理（せいり）,Sortering（Seiri）,False,44.4%,不一致,25%
+AK79,af,整頓,整頓（せいとん）,Ordening（Seiton）,False,40.0%,不一致,22%
+AK80,af,清掃,清掃（季節）,Skoonmaak（Seiso）,False,50.0%,不一致,30%
+AK81,af,清潔,清潔,Netheid / Higiëne（Seiketsu）,True,100.0%,完全一致,100%
+AK82,af,しつけ,躾（しつけ）,Dissipline（Shitsuke）,False,66.7%,不一致,45%
+AK83,af,掃除（する）,クリーン,Skoonmaak,False,0.0%,不一致,0%
+AK84,af,片づける,片付ける/掃除する,Opruim / Netjies maak,False,46.2%,不一致,33%
+AK85,af,捨てる,捨てる,Weggooi,True,100.0%,完全一致,100%
+AK86,af,汚い,汚い,Vuil,True,100.0%,完全一致,100%
+AK87,af,汚れる,汚れる,Vuil word,True,100.0%,完全一致,100%
+AK88,af,分別（する）,廃棄物を分別する,Afval sorteer,False,57.1%,不一致,40%
+AK89,af,燃えないごみ,不燃性廃棄物,Onbrandbare afval,False,16.7%,不一致,9%
+AK90,af,燃えるごみ,可燃性廃棄物,Brandbare afval,False,18.2%,不一致,10%
+AK91,af,挟まれる,行き詰まる,Vasgeklem raak,False,44.4%,不一致,28%
+AK92,af,巻き込まれる,絡まる/引き込まれる,Verstrengel / Ingetrek word,False,62.5%,不一致,76%
+AK93,af,やけど（する）,火傷を負う,Brandwond kry,False,0.0%,不一致,0%
+AK94,af,落ちる,秋,Val,False,0.0%,不一致,0%
+AK95,af,すべる,スライド,Gly,False,0.0%,不一致,0%
+AK96,af,転ぶ,つまずいて転ぶ,Struikel en val,False,44.4%,不一致,25%
+AK97,af,濡れる,濡れる,Nat word,True,100.0%,完全一致,100%
+AK98,af,衛生,衛生,Higiëne,True,100.0%,完全一致,100%
+AK99,af,避難（する）,退去,Ontruim,False,0.0%,不一致,0%
+AK100,af,救   車,救急車,Ambulans,False,50.0%,不一致,50%
+AK101,af,災害,災害,Ramp,True,100.0%,完全一致,100%
+AK102,af,地震,地震,Aardbewing,True,100.0%,完全一致,100%
+AK103,af,もぐる,隠れる/潜む,Skuil / Kruip onder,False,22.2%,不一致,12%
+AK104,af,火気厳禁,火気厳禁,Geen oop vlamme,True,100.0%,完全一致,100%
+AK105,af,開放厳禁,開けないでください。,Moenie oopmaak nie,False,14.3%,不一致,8%
+AK106,af,標識,星座 / 牡羊座管,Tekens / Rambuise,False,0.0%,不一致,0%
+AK107,af,気をつける,気をつけて。,Wees versigtig,False,72.7%,不一致,77%
+AK108,af,持ち込む,持ち込む,Inbring,True,100.0%,完全一致,100%
+AK109,af,防ぐ,防ぐ,Voorkom,True,100.0%,完全一致,100%
+AK110,af,火,火,Vuur,True,100.0%,完全一致,100%
+AK111,af,煙,煙,Rook,True,100.0%,完全一致,100%
+AK112,af,消火,消火,Brandblus,True,100.0%,完全一致,100%
+AK113,af,消火器,消火器,Brandblusser,True,100.0%,完全一致,100%
+AK114,af,非常ベル,目覚まし時計 / 非常ベル,Alarmklok / Noodbel,False,47.1%,不一致,27%
+AK115,af,火災報知機,火災警報,Brandalarm,False,66.7%,不一致,50%
+AK116,af,逃げる,逃走,Vlug / Ontsnap,False,40.0%,不一致,25%
+AK117,af,現場,職場/現場,Werkplek / Terrein,False,57.1%,不一致,36%
+AK118,af,作業,仕事/タスク,Werk / Taak,False,0.0%,不一致,0%
+AK119,af,ミーティング,ミーティング,Vergadering,True,100.0%,完全一致,100%
+AK120,af,研修（する）,トレーニング,Opleiding,False,0.0%,不一致,0%
+AK121,af,実習（する）,実習,Praktiese opleiding,False,50.0%,不一致,30%
+AK122,af,あいさつ,挨拶する,Groet,False,0.0%,不一致,0%
+AK123,af,確認（する）,確認/チェック,Bevestig / Nagaan,False,30.8%,不一致,18%
+AK124,af,報告（する）,報告,Rapporteer,False,50.0%,不一致,30%
+AK125,af,連絡（する）,接触,Kontak,False,0.0%,不一致,0%
+AK126,af,相談（する）,相談する,Raadpleeg,False,80.0%,不一致,80%
+AK127,af,渡す,引き渡す,Oorhandig,False,66.7%,不一致,45%
+AK128,af,申請書,申込書,Aansoekvorm,False,66.7%,不一致,50%
+AK129,af,寝坊（する）,お泊まり会,Verslaap,False,0.0%,不一致,0%
+AK130,af,技能,スキル,Vaardigheid,False,0.0%,不一致,0%
+AK131,af,技能検定試験,スキルテスト,Vaardigheidstoets,False,0.0%,不一致,0%
+AK132,af,受検（する）,試験を受ける,Eksamen aflê,False,33.3%,不一致,20%
+AK133,af,資格,資格・証明書,Kwalifikasie / Sertifikaat,False,50.0%,不一致,30%
+AK134,af,手当,付与,Toelae,False,0.0%,不一致,0%
+AK135,af,社員,従業員,Werknemer,False,40.0%,不一致,25%
+AK136,af,部長,部門マネージャー,Afdelingsbestuurder,False,20.0%,不一致,12%
+AK137,af,課長,部長／課長,Afdelingshoof / Seksiehoof,False,57.1%,不一致,36%
+AK138,af,更衣室,更衣室,Kleedkamer,True,100.0%,完全一致,100%
+AK139,af,台車,トロリー,Trollie,False,0.0%,不一致,0%
+AK140,af,床,床,Vloer,True,100.0%,完全一致,100%
+AK141,af,出口,出口,Uitgang,True,100.0%,完全一致,100%
+AK142,af,電気,電気,Elektrisiteit,True,100.0%,完全一致,100%
+AK143,af,警報音,警報信号,Alarmsignaal,False,57.1%,不一致,40%
+AK144,af,コンセント,壁コンセント/電源接続,Muursok / Kragaansluiting,False,62.5%,不一致,40%
+AK145,af,作業場,作業エリア,Werkarea,False,50.0%,不一致,33%
+AK146,af,作業台,ワークベンチ,Werkbank,False,0.0%,不一致,0%
+AK147,af,工事現場,建設現場,Bouperseel,False,50.0%,不一致,33%
+AK148,af,職長,フォアマン / フォアマン,Voorman / Mandor,False,0.0%,不一致,0%
+AK149,af,作業責任者,作業管理者/作業監督者,Werkverantwoordelike / Werksupervisor,False,37.5%,不一致,30%
+AK150,af,禁止,禁断,Verbode,False,50.0%,不一致,33%
+AK151,af,表示板,銘板/表示板,Kenbord / Aanwyserbord,False,66.7%,不一致,45%
+AK152,af,禁止事項,禁止事項,Verbodsbepalings,True,100.0%,完全一致,100%
+AK153,af,避難訓練,避難訓練,Ontruimingsoefening,True,100.0%,完全一致,100%
+AK154,af,感電（する）,感電する,Elektriese skok kry,False,80.0%,不一致,80%
+AK155,af,防止（する）,防止,Voorkoming,False,50.0%,不一致,30%
+AK156,af,予防（する）,防止,Voorkoming / Preventie,False,25.0%,不一致,14%
+AK157,af,転倒（する）,転倒する,Omval / Val,False,80.0%,不一致,80%
+AK158,af,挟まる,立ち往生,Vassteek,False,0.0%,不一致,0%
+AK159,af,足元,足元,Voetplek / Onder jou voete,True,100.0%,完全一致,100%
+AK160,af,不安定（な）,不安定,Onstabiel,False,66.7%,不一致,45%
+AK161,af,後片付け,仕事後の掃除,Opruim ná werk,False,20.0%,不一致,11%
+AK162,af,救   箱,救急箱,Eerstehulp-kis,False,50.0%,不一致,50%
+AK163,af,絆創膏,石膏,Pleister,False,40.0%,不一致,25%
+AK164,af,体調,体調,Liggaamstoestand,True,100.0%,完全一致,100%
+AK165,af,血,血,Bloed,True,100.0%,完全一致,100%
+AK166,af,熱中症,熱中症,Hittesteek,True,100.0%,完全一致,100%
+AK167,af,吐き気,吐き気,Naarheid,True,100.0%,完全一致,100%
+AK168,af,嘔吐（する）,吐瀉物,Braak,False,22.2%,不一致,12%
+AK169,af,足がつる,脚のけいれん,Beenkramp,False,0.0%,不一致,0%
+AK170,af,気分が悪い,気分が悪い,Sleg voel,True,100.0%,完全一致,100%
+AK171,af,寝不足,睡眠不足,Slaaptekort,False,57.1%,不一致,40%
+AK172,af,安全ネット,セーフティネット,Veiligheidsnet,False,46.2%,不一致,30%
+AK173,af,安全点検,安全検査,Veiligheidsinspeksie,False,75.0%,不一致,78%
+AK174,af,KY活動（危険予知活動）,KY活動（危険予報）,KY-aktiwiteit（Gevaarvoorspelling）,False,81.8%,不一致,96%
+AK175,af,危険,危険,Gevaar,True,100.0%,完全一致,100%
+AK176,af,ぶつかる,衝突,Bots,False,0.0%,不一致,0%
+AK177,af,当たる,タッチ/ヒット,Raak / Tref,False,0.0%,不一致,0%
+AK178,af,下敷きになる,何かの下に押し込まれる,Onder iets vasgepen word,False,35.3%,不一致,21%
+AK179,af,打つ,打つ,Slaan,True,100.0%,完全一致,100%
+AK180,af,バランスを崩す,バランスを失う,Balans verloor,False,71.4%,不一致,76%
+AK181,af,倒れる,倒れる / 崩壊する,Omval / Inmekaar stort,False,46.2%,不一致,27%
+AK182,af,転落（する）,高所からの落下,Val van hoogte,False,15.4%,不一致,8%
+AK183,af,指差呼称,指差し呼び出し,Wys-en-roep,False,54.5%,不一致,42%
+AK184,af,ヒヤリハット,ニアミス,Byna-ongeluk（Near miss）,False,0.0%,不一致,0%
+AK185,af,原因,原因,Oorsaak,True,100.0%,完全一致,100%
+AK186,af,対策,対策,Teenmaatreël,True,100.0%,完全一致,100%
+AK187,af,落下（する）,落下/落下,Val / Laat val,False,36.4%,不一致,28%
+AK188,af,墜落（する）,墜落/高所からの落下,Neerstort / Van hoogte af val,False,25.0%,不一致,15%
+AK189,af,確認（する）,確認/チェック,Bevestig / Kontroleer,False,30.8%,不一致,18%
+AK190,af,作業着,作業服,Werkdrag,False,66.7%,不一致,50%
+AK191,af,作業服,作業服,Werkklere,True,100.0%,完全一致,100%
+AK192,af,作業靴,作業靴・安全靴,Werkskoene / Veiligheidsskoene,False,60.0%,不一致,38%
+AK193,af,手袋,手袋,Handskoene,True,100.0%,完全一致,100%
+AK194,af,帽子,キャップ,Pet,False,0.0%,不一致,0%
+AK195,af,保護帽（ヘルメット）,安全ヘルメット,Veiligheidshelm,False,58.8%,不一致,41%
+AK196,af,保護具,個人用保護具,Persoonlike beskermende toerusting,False,66.7%,不一致,45%
+AK197,af,あごひも,あごストラップ,Kinband,False,36.4%,不一致,22%
+AK198,af,ボタン,ボタン/ボタン,Knop / Knoppie,False,60.0%,不一致,38%
+AK199,af,ポケット,バッグ,Sak,False,28.6%,不一致,16%
+AK200,af,保護メガネ,安全メガネ,Veiligheidsbril,False,60.0%,不一致,42%
+AK201,af,マスク,マスク,Masker,True,100.0%,完全一致,100%
+AK202,af,栓,プラグ/ストッパー,Prop / Stopper,False,0.0%,不一致,0%
+AK203,af,安全靴,安全靴,Veiligheidsskoene,True,100.0%,完全一致,100%
+AK204,af,墜落制止用器具（安全帯）,墜落制止用器具（安全ハーネス）,Valbeveiligingstuig（veiligheidsharnas）,False,81.5%,不一致,80%
+AK205,af,業務,仕事/サービス,Werk / Diens,False,0.0%,不一致,0%
+AK206,af,時間厳守,時間厳守,Stiptheid / Wees op tyd,True,100.0%,完全一致,100%
+AK207,af,予定,スケジュール/計画,Skedule / Plan,False,0.0%,不一致,0%
+AK208,af,日付,日付,Datum,True,100.0%,完全一致,100%
+AK209,af,準備（する）,準備,Voorbereiding / Voorberei,False,50.0%,不一致,30%
+AK210,af,会議,ミーティング,Vergadering,False,0.0%,不一致,0%
+AK211,af,朝礼,朝の会議 / 朝のブリーフィング,Oggendbyeenkoms / Oggendbríf,False,11.1%,不一致,7%
+AK212,af,報告書,報告,Verslag,False,80.0%,不一致,60%
+AK213,af,マニュアル,マニュアル,Handleiding,True,100.0%,完全一致,100%
+AK214,af,作業手順書,作業手順書,Werkprosedure-handleiding,True,100.0%,完全一致,100%
+AK215,af,調子,州,Toestand,False,0.0%,不一致,0%
+AK216,af,立入禁止,アクセス禁止,Verbode toegang,False,40.0%,不一致,25%
+AK217,af,禁煙,禁煙,Geen rook,True,100.0%,完全一致,100%
+AK218,af,火気厳禁,火気厳禁,Geen oop vlamme,True,100.0%,完全一致,100%
+AK219,af,駐車禁止,駐車禁止,Geen parkering,True,100.0%,完全一致,100%
+AK220,af,足もと注意,どこに足を踏み入れるか注意してください。,Pasop waar jy trap,False,24.0%,不一致,13%
+AK221,af,開口部注意,隙間に注意,Pasop vir openinge,False,40.0%,不一致,25%
+AK222,af,感電注意,感電に注意してください,Pasop vir elektriese skok,False,53.3%,不一致,36%
+AK223,af,堕落注意,落下の危険に注意してください,Pasop vir valgevaar,False,33.3%,不一致,20%
+AK224,af,頭上注意,上からの危険に注意してください,Pasop vir gevaar van bo,False,31.6%,不一致,18%
+AK225,af,警報設備,警報システム,Alarmsisteem,False,40.0%,不一致,25%
+AK226,af,消火器,消火器,Brandblusser,True,100.0%,完全一致,100%
+AK227,af,AED設置場所,AEDの場所,AED-ligging,False,76.9%,不一致,78%
+AK228,af,保護帽着用,安全ヘルメットを着用してください。,Dra ’n veiligheidshelm,False,18.2%,不一致,10%
+AK229,af,安全帯使用,安全ハーネスを使用する,Gebruik ’n veiligheidsharnas,False,50.0%,不一致,33%
+AK230,af,昇降階段,階段,Trappe,False,66.7%,不一致,45%
+AK231,af,休憩所,休憩所,Rusarea,True,100.0%,完全一致,100%
+AK232,af,最大積載荷重,最大積載量,Maksimum laaivermoë,False,72.7%,不一致,77%
+AK233,af,喫煙所,喫煙エリア,Rookarea,False,50.0%,不一致,33%
+AK234,af,整理整頓,清潔さと秩序,Netheid en ordening,False,0.0%,不一致,0%
+AK235,af,安全通路,安全な廊下,Veilige gang / Gangkorridor,False,44.4%,不一致,28%
+AK236,af,三連クランプ,トリプルクランプ,Drievoudige klamp,False,57.1%,不一致,44%
+AK237,af,"ベルトコンベア
+（ベルコン）",ベルトコンベア,Bandvervoerder（belt conveyor）,False,66.7%,不一致,45%
+AK238,af,かけや,木槌（かけや）,Houthamer（kakeya）,False,60.0%,不一致,38%
+AL2,fr-CA,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致,80%

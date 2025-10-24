@@ -54,9 +54,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 #### 使用ライブラリ
 
-- **pdfplumber** (0.11.4): PDFから表を抽出
-- **pandas** (2.2.3): データ処理とCSV出力
-- **openpyxl** (3.1.5): Excel処理（将来の拡張用）
+- **PyMuPDF (fitz)** (1.26.5): PDFから表を抽出（推奨 - CIDコード問題なし）
+- **pdfplumber** (0.11.7): PDFから表を抽出（CIDコード問題あり - 非推奨）
+- **pandas** (2.3.3): データ処理とCSV出力
+- **openpyxl** (3.1.5): Excel処理
 
 #### 重要な技術仕様
 
@@ -76,17 +77,36 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 #### 既知の問題と対処方法
 
-1. **表ヘッダーのNone値**
-   - 問題: PDFから抽出した表のヘッダーにNone値が含まれることがある
+**詳細なエラー対処法は `for_claude/エラー対処法.md` を参照してください。**
+
+1. **CIDコード問題（重要）**
+   - 問題: pdfplumberがクメール語・タイ語のダイアクリティカルマークをCIDコードとして出力
+   - 例: `(cid:688)បព័ន(cid:640)`
+   - 対処: **PyMuPDFを使用（推奨）** - CIDコード問題が発生しない
+   - 詳細: `for_claude/エラー対処法.md` の「5. CIDコード問題」参照
+
+2. **UnicodeEncodeError (頻発)**
+   - 問題: `'cp932' codec can't encode character` エラー
+   - 対処: スクリプト先頭に以下を追加
+     ```python
+     import sys, io
+     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+     ```
+   - 詳細: `for_claude/エラー対処法.md` の「1. UnicodeEncodeError」参照
+
+3. **表ヘッダーのNone値**
+   - 問題: PDFから抽出した表のヘッダーにNone値が含まれる
    - 対処: `Column_{i}` 形式に自動変換
 
-2. **列数の不一致**
-   - 問題: 同じPDF内でも表ごとに列数が異なる場合がある
-   - 対処: 全列名を収集し、不足列を空文字列で補完してから連結
+4. **列数の不一致**
+   - 問題: 同じPDF内でも表ごとに列数が異なる
+   - 対処: 最大列数に揃えて空文字列で補完
+   - 詳細: `for_claude/エラー対処法.md` の「3. ValueError」参照
 
-3. **文字エンコーディング**
-   - 問題: 多言語文字（タイ語、ミャンマー語、クメール語など）を扱う
-   - 対処: UTF-8 BOM エンコーディングを使用
+5. **PyMuPDF API変更**
+   - 問題: `TypeError: object of type 'TableFinder' has no len()`
+   - 対処: `table_finder = page.find_tables(); tables = table_finder.tables`
+   - 詳細: `for_claude/エラー対処法.md` の「2. TypeError」参照
 
 #### 進行状況
 

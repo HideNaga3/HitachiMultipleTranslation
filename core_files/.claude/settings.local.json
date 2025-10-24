@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/Scripts/python.exe:*)",
+      "WebFetch(domain:www.anthropic.com)",
+      "WebFetch(domain:claude.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

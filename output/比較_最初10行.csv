@@ -1,0 +1,11 @@
+﻿アドレス,言語,単語,再翻訳,翻訳,一致,類似度_difflib,分類
+B2,en,翻訳サイネージ,多言語翻訳システム,Multilingual translation system,False,25.0%,不一致
+B3,en,技能実習,技能実習,Technical Intern Training,True,100.0%,完全一致
+B4,en,技能実習生,技能実習生,Technical Intern Trainee,True,100.0%,完全一致
+B5,en,工場,工場,Factory,True,100.0%,完全一致
+B6,en,製造,製造業,Manufacturing,False,80.0%,不一致
+B7,en,機械,機械,Machine,True,100.0%,完全一致
+B8,en,安全,安全性,Safety,False,80.0%,不一致
+B9,en,危険（な）,危険物,Hazardous / Dangerous,False,50.0%,不一致
+B10,en,危ない,危険な,Dangerous,False,66.7%,不一致
+B11,en,清掃,クリーニング,Cleaning,False,0.0%,不一致
